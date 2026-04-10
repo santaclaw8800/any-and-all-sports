@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import { getSchedule, getTodayET, formatDateDisplay } from '@/lib/schedule';
 import DateNav from '@/components/DateNav';
-import ScheduleView from '@/components/ScheduleView';
+import PersonalizedSchedule from '@/components/PersonalizedSchedule';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
@@ -73,7 +73,7 @@ export default function HomePage() {
       </div>
 
       {/* Schedule */}
-      <ScheduleView schedule={schedule} />
+      <PersonalizedSchedule schedule={schedule} />
     </div>
   );
 }

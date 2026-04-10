@@ -25,6 +25,12 @@ export default function Header() {
               Schedule
             </Link>
             <Link
+              href="/preferences"
+              className="px-3 py-1.5 rounded-lg text-sm font-semibold text-emerald-400 hover:text-emerald-300 hover:bg-emerald-950/50 transition-all"
+            >
+              My Sports
+            </Link>
+            <Link
               href="/archive"
               className="px-3 py-1.5 rounded-lg text-sm font-semibold text-zinc-400 hover:text-white hover:bg-zinc-800 transition-all"
             >
