@@ -3,18 +3,23 @@
 import { useState, useEffect, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
+import { useSession } from 'next-auth/react';
 import { SportCategory } from '@/lib/types';
 import { SPORT_CONFIG, SPORT_ORDER } from '@/lib/sports-config';
 import { DEFAULT_SPORTS, TEAMS_BY_SPORT, getPreferences, savePreferences } from '@/lib/preferences';
 
 export default function PreferencesPage() {
   const router = useRouter();
+  const { data: session } = useSession();
   const [selectedSports, setSelectedSports] = useState<SportCategory[]>([]);
   const [selectedTeams, setSelectedTeams] = useState<string[]>([]);
   const [email, setEmail] = useState('');
   const [isLoading, setIsLoading] = useState(true);
   const [isSaving, setIsSaving] = useState(false);
   const [message, setMessage] = useState<{ type: 'success' | 'error'; text: string } | null>(null);
+
+  // Get user's first name from session
+  const userName = session?.user?.name?.split(' ')[0];
 
   // Load existing preferences
   useEffect(() => {
@@ -24,8 +29,12 @@ export default function PreferencesPage() {
       setSelectedTeams(prefs.teams);
       setEmail(prefs.email || '');
     }
+    // Pre-fill email from Google session if not already set
+    if (!prefs?.email && session?.user?.email) {
+      setEmail(session.user.email);
+    }
     setIsLoading(false);
-  }, []);
+  }, [session]);
 
   // Available teams based on selected sports
   const availableTeams = useMemo(() => {
@@ -89,6 +98,7 @@ export default function PreferencesPage() {
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
             email,
+            name: session?.user?.name || undefined,
             sports: selectedSports,
             teams: selectedTeams,
           }),
@@ -137,7 +147,9 @@ export default function PreferencesPage() {
         >
           <span>&larr;</span> Back to schedule
         </Link>
-        <h1 className="text-3xl font-black text-white mb-2">Personalize Your Feed</h1>
+        <h1 className="text-3xl font-black text-white mb-2">
+          {userName ? `Hey ${userName}, personalize your feed` : 'Personalize Your Feed'}
+        </h1>
         <p className="text-zinc-400">
           Select your favorite sports and teams to see a customized schedule on the homepage.
         </p>

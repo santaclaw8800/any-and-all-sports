@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import SessionProvider from '@/components/SessionProvider';
 
 export const metadata: Metadata = {
   title: {
@@ -47,9 +48,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="bg-[#0a0a0a] text-white min-h-screen flex flex-col">
-        <Header />
-        <main className="flex-1">{children}</main>
-        <Footer />
+        <SessionProvider>
+          <Header />
+          <main className="flex-1">{children}</main>
+          <Footer />
+        </SessionProvider>
       </body>
     </html>
   );

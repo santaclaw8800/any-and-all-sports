@@ -86,6 +86,13 @@ export const SPORT_CONFIG: Record<SportCategory, SportConfig> = {
     bgColor: 'rgba(255, 102, 0, 0.15)',
     textColor: '#ff9955',
   },
+  F1: {
+    emoji: '🏎️',
+    color: '#e10600',
+    accentColor: 'rgb(225, 6, 0)',
+    bgColor: 'rgba(225, 6, 0, 0.15)',
+    textColor: '#ff6b6b',
+  },
   Boxing: {
     emoji: '🥊',
     color: '#8b0000',
@@ -99,6 +106,13 @@ export const SPORT_CONFIG: Record<SportCategory, SportConfig> = {
     accentColor: 'rgb(255, 105, 0)',
     bgColor: 'rgba(255, 105, 0, 0.15)',
     textColor: '#ffb37a',
+  },
+  'International Basketball': {
+    emoji: '🏀',
+    color: '#00838F',
+    accentColor: 'rgb(0, 131, 143)',
+    bgColor: 'rgba(0, 131, 143, 0.15)',
+    textColor: '#4dd0e1',
   },
   Other: {
     emoji: '🏅',
@@ -121,7 +135,9 @@ export const SPORT_ORDER: SportCategory[] = [
   'Golf',
   'MMA/UFC',
   'NASCAR',
+  'F1',
   'Boxing',
   'WNBA',
+  'International Basketball',
   'Other',
 ];

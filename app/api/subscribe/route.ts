@@ -4,6 +4,7 @@ import path from 'path';
 
 interface Subscription {
   email: string;
+  name?: string;
   sports: string[];
   teams: string[];
   subscribedAt: string;
@@ -34,7 +35,7 @@ function saveSignups(signups: Subscription[]): void {
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const { email, sports, teams } = body;
+    const { email, name, sports, teams } = body;
 
     // Validate email
     if (!email || typeof email !== 'string') {
@@ -62,6 +63,7 @@ export async function POST(request: NextRequest) {
 
     const subscription: Subscription = {
       email: email.toLowerCase(),
+      name: name || undefined,
       sports,
       teams,
       subscribedAt: new Date().toISOString(),

@@ -10,8 +10,10 @@ export type SportCategory =
   | 'College Basketball'
   | 'College Football'
   | 'NASCAR'
+  | 'F1'
   | 'Boxing'
   | 'WNBA'
+  | 'International Basketball'
   | 'Other';
 
 export type GameStatus = 'upcoming' | 'live' | 'final' | 'delayed' | 'postponed';
@@ -20,11 +22,16 @@ export type StreamingPlatform =
   | 'ESPN'
   | 'ESPN2'
   | 'ESPN+'
+  | 'ESPNU'
+  | 'ESPNews'
   | 'ABC'
   | 'TNT'
   | 'TBS'
   | 'NBA TV'
+  | 'NHL Network'
+  | 'MLB Network'
   | 'NFL Network'
+  | 'NFL+'
   | 'Fox Sports 1'
   | 'Fox Sports 2'
   | 'CBS Sports'
@@ -37,6 +44,7 @@ export type StreamingPlatform =
   | 'fuboTV'
   | 'YouTube TV'
   | 'Bally Sports'
+  | 'FanDuel Sports Network'
   | 'MSG'
   | 'Regional Sports'
   | 'Golf Channel'
@@ -49,7 +57,11 @@ export type StreamingPlatform =
   | 'CBS'
   | 'NBC'
   | 'Fox'
-  | 'ABC/ESPN';
+  | 'ABC/ESPN'
+  | 'Sportsnet'
+  | 'TVA Sports'
+  | 'Netflix'
+  | 'NBA League Pass';
 
 export interface Team {
   name: string;

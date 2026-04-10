@@ -1,0 +1,355 @@
+{
+  "date": "2026-03-25",
+  "games": [
+    {
+      "id": "nba-401810906",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Detroit Pistons",
+        "abbreviation": "DET",
+        "record": "52-19"
+      },
+      "awayTeam": {
+        "name": "Atlanta Hawks",
+        "abbreviation": "ATL",
+        "record": "40-32"
+      },
+      "startTime": "2026-03-25T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN",
+        "FanDuel Sports Network"
+      ],
+      "status": "upcoming",
+      "venue": "Little Caesars Arena, Detroit, MI",
+      "isNational": true
+    },
+    {
+      "id": "nba-401810907",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Indiana Pacers",
+        "abbreviation": "IND",
+        "record": "16-56"
+      },
+      "awayTeam": {
+        "name": "Los Angeles Lakers",
+        "abbreviation": "LAL",
+        "record": "46-26"
+      },
+      "startTime": "2026-03-25T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "Spectrum Sports Net",
+        "Spectrum Sports Net +",
+        "NBA League Pass",
+        "FanDuel Sports Network"
+      ],
+      "status": "upcoming",
+      "venue": "Gainbridge Fieldhouse, Indianapolis, IN"
+    },
+    {
+      "id": "nba-401810908",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Philadelphia 76ers",
+        "abbreviation": "PHI",
+        "record": "39-33"
+      },
+      "awayTeam": {
+        "name": "Chicago Bulls",
+        "abbreviation": "CHI",
+        "record": "29-42"
+      },
+      "startTime": "2026-03-25T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "CHSN",
+        "NBA League Pass",
+        "NBC Sports"
+      ],
+      "status": "upcoming",
+      "venue": "Xfinity Mobile Arena, Philadelphia, PA"
+    },
+    {
+      "id": "nba-401810909",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Boston Celtics",
+        "abbreviation": "BOS",
+        "record": "47-24"
+      },
+      "awayTeam": {
+        "name": "Oklahoma City Thunder",
+        "abbreviation": "OKC",
+        "record": "57-15"
+      },
+      "startTime": "2026-03-25T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "NBC Sports",
+        "FanDuel Sports Network",
+        "NBA League Pass"
+      ],
+      "status": "upcoming",
+      "venue": "TD Garden, Boston, MA"
+    },
+    {
+      "id": "nba-401810910",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Cleveland Cavaliers",
+        "abbreviation": "CLE",
+        "record": "45-27"
+      },
+      "awayTeam": {
+        "name": "Miami Heat",
+        "abbreviation": "MIA",
+        "record": "38-34"
+      },
+      "startTime": "2026-03-25T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "FanDuel Sports Network",
+        "NBA League Pass"
+      ],
+      "status": "upcoming",
+      "venue": "Rocket Arena, Cleveland, OH"
+    },
+    {
+      "id": "nhl-401803486",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Buffalo Sabres",
+        "abbreviation": "BUF",
+        "record": "44-20-7"
+      },
+      "awayTeam": {
+        "name": "Boston Bruins",
+        "abbreviation": "BOS",
+        "record": "39-24-8"
+      },
+      "startTime": "2026-03-25T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "TNT",
+        "truTV",
+        "Max",
+        "NESN"
+      ],
+      "status": "upcoming",
+      "venue": "KeyBank Center, Buffalo, NY",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401803487",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Toronto Maple Leafs",
+        "abbreviation": "TOR",
+        "record": "30-29-13"
+      },
+      "awayTeam": {
+        "name": "New York Rangers",
+        "abbreviation": "NYR",
+        "record": "28-34-9"
+      },
+      "startTime": "2026-03-25T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "ESPN+",
+        "MSG"
+      ],
+      "status": "upcoming",
+      "venue": "Scotiabank Arena, Toronto, ON",
+      "isNational": true
+    },
+    {
+      "id": "nba-401810911",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Memphis Grizzlies",
+        "abbreviation": "MEM",
+        "record": "24-47"
+      },
+      "awayTeam": {
+        "name": "San Antonio Spurs",
+        "abbreviation": "SA",
+        "record": "54-18"
+      },
+      "startTime": "2026-03-26T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "FanDuel Sports Network",
+        "NBA League Pass"
+      ],
+      "status": "upcoming",
+      "venue": "FedExForum, Memphis, TN"
+    },
+    {
+      "id": "mlb-401814702",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "San Francisco Giants",
+        "abbreviation": "SF",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "New York Yankees",
+        "abbreviation": "NYY",
+        "record": "0-0"
+      },
+      "startTime": "2026-03-26T00:05Z",
+      "timeET": "8:05 PM ET",
+      "channels": [
+        "Netflix"
+      ],
+      "status": "upcoming",
+      "venue": "Oracle Park, San Francisco, California",
+      "isNational": true
+    },
+    {
+      "id": "nba-401810912",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Utah Jazz",
+        "abbreviation": "UTAH",
+        "record": "21-51"
+      },
+      "awayTeam": {
+        "name": "Washington Wizards",
+        "abbreviation": "WSH",
+        "record": "16-55"
+      },
+      "startTime": "2026-03-26T01:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "MNMT",
+        "NBA League Pass",
+        "KJZZ-TV",
+        "Jazz+"
+      ],
+      "status": "upcoming",
+      "venue": "Delta Center, Salt Lake City, UT"
+    },
+    {
+      "id": "nba-401810913",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Minnesota Timberwolves",
+        "abbreviation": "MIN",
+        "record": "44-28"
+      },
+      "awayTeam": {
+        "name": "Houston Rockets",
+        "abbreviation": "HOU",
+        "record": "43-28"
+      },
+      "startTime": "2026-03-26T01:30Z",
+      "timeET": "9:30 PM ET",
+      "channels": [
+        "ESPN",
+        "Space City Home Network",
+        "FanDuel Sports Network"
+      ],
+      "status": "upcoming",
+      "venue": "Target Center, Minneapolis, MN",
+      "isNational": true
+    },
+    {
+      "id": "nba-401810914",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Denver Nuggets",
+        "abbreviation": "DEN",
+        "record": "45-28"
+      },
+      "awayTeam": {
+        "name": "Dallas Mavericks",
+        "abbreviation": "DAL",
+        "record": "23-49"
+      },
+      "startTime": "2026-03-26T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "KFAA-TV",
+        "Mavs.com",
+        "NBA League Pass",
+        "Altitude Sports"
+      ],
+      "status": "upcoming",
+      "venue": "Ball Arena, Denver, CO"
+    },
+    {
+      "id": "nba-401810915",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Golden State Warriors",
+        "abbreviation": "GS",
+        "record": "34-38"
+      },
+      "awayTeam": {
+        "name": "Brooklyn Nets",
+        "abbreviation": "BKN",
+        "record": "17-55"
+      },
+      "startTime": "2026-03-26T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "NBC Sports",
+        "YES",
+        "NBA League Pass"
+      ],
+      "status": "upcoming",
+      "venue": "Chase Center, San Francisco, CA"
+    },
+    {
+      "id": "nba-401810916",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Portland Trail Blazers",
+        "abbreviation": "POR",
+        "record": "36-37"
+      },
+      "awayTeam": {
+        "name": "Milwaukee Bucks",
+        "abbreviation": "MIL",
+        "record": "29-42"
+      },
+      "startTime": "2026-03-26T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "KUNP 16",
+        "BlazerVision",
+        "FanDuel Sports Network",
+        "NBA League Pass"
+      ],
+      "status": "upcoming",
+      "venue": "Moda Center, Portland, OR"
+    },
+    {
+      "id": "nba-401810917",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "LA Clippers",
+        "abbreviation": "LAC",
+        "record": "36-36"
+      },
+      "awayTeam": {
+        "name": "Toronto Raptors",
+        "abbreviation": "TOR",
+        "record": "40-31"
+      },
+      "startTime": "2026-03-26T02:30Z",
+      "timeET": "10:30 PM ET",
+      "channels": [
+        "TSN",
+        "NBA League Pass",
+        "FanDuel Sports Network"
+      ],
+      "status": "upcoming",
+      "venue": "Intuit Dome, Inglewood, CA"
+    }
+  ],
+  "lastUpdated": "2026-03-25T11:15:29.403Z"
+}

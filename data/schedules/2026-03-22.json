@@ -1,0 +1,1886 @@
+{
+  "date": "2026-03-22",
+  "games": [
+    {
+      "id": "pga-401811938",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "Valspar Championship"
+      },
+      "awayTeam": {
+        "name": "PGA Tour"
+      },
+      "startTime": "2026-03-19T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "ESPN+",
+        "CBS",
+        "NBC",
+        "Golf Chnl",
+        "Peacock"
+      ],
+      "status": "final",
+      "isNational": true,
+      "tournament": "PGA Tour"
+    },
+    {
+      "id": "lpga-401835152",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "Fortinet Founders Cup"
+      },
+      "awayTeam": {
+        "name": "LPGA"
+      },
+      "startTime": "2026-03-19T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "Golf Chnl"
+      ],
+      "status": "final",
+      "isNational": true,
+      "tournament": "LPGA"
+    },
+    {
+      "id": "liv-401805587",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "LIV Golf South Africa"
+      },
+      "awayTeam": {
+        "name": "LIV Golf"
+      },
+      "startTime": "2026-03-19T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "Fox",
+        "FS1",
+        "FS2"
+      ],
+      "status": "final",
+      "isNational": true,
+      "tournament": "LIV Golf"
+    },
+    {
+      "id": "dpwt-401822687",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "Hainan Classic pres. by MAEXTRO"
+      },
+      "awayTeam": {
+        "name": "DP World Tour"
+      },
+      "startTime": "2026-03-19T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [],
+      "status": "final",
+      "tournament": "DP World Tour"
+    },
+    {
+      "id": "champs-401832010",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "Cologuard Classic"
+      },
+      "awayTeam": {
+        "name": "Champions Tour"
+      },
+      "startTime": "2026-03-20T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "Golf Chnl"
+      ],
+      "status": "final",
+      "isNational": true,
+      "tournament": "Champions Tour"
+    },
+    {
+      "id": "seriea-737080",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Como",
+        "abbreviation": "COMO",
+        "record": "16-9-5"
+      },
+      "awayTeam": {
+        "name": "Pisa",
+        "abbreviation": "PIS",
+        "record": "2-12-16"
+      },
+      "startTime": "2026-03-22T11:30Z",
+      "timeET": "7:30 AM ET",
+      "channels": [
+        "Paramount+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "venue": "Giuseppe Sinigaglia, Como",
+      "isNational": true
+    },
+    {
+      "id": "epl-740903",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Newcastle United",
+        "abbreviation": "NEW",
+        "record": "12-6-13"
+      },
+      "awayTeam": {
+        "name": "Sunderland",
+        "abbreviation": "SUN",
+        "record": "11-10-10"
+      },
+      "startTime": "2026-03-22T12:00Z",
+      "timeET": "8:00 AM ET",
+      "channels": [
+        "USA Net",
+        "Tele"
+      ],
+      "status": "final",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "venue": "St. James' Park, Newcastle-upon-Tyne",
+      "isNational": true
+    },
+    {
+      "id": "laliga-748432",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Barcelona",
+        "abbreviation": "BAR",
+        "record": "24-1-4"
+      },
+      "awayTeam": {
+        "name": "Rayo Vallecano",
+        "abbreviation": "RAY",
+        "record": "7-11-11"
+      },
+      "startTime": "2026-03-22T13:00Z",
+      "timeET": "9:00 AM ET",
+      "channels": [
+        "ESPN Deportes",
+        "ESPN+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "venue": "Spotify Camp Nou, Barcelona",
+      "isNational": true
+    },
+    {
+      "id": "seriea-737074",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Atalanta",
+        "abbreviation": "ATA",
+        "record": "13-11-6"
+      },
+      "awayTeam": {
+        "name": "Hellas Verona",
+        "abbreviation": "VER",
+        "record": "3-9-18"
+      },
+      "startTime": "2026-03-22T14:00Z",
+      "timeET": "10:00 AM ET",
+      "channels": [
+        "Paramount+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "venue": "New Balance Arena, Bergamo",
+      "isNational": true
+    },
+    {
+      "id": "seriea-737082",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Bologna",
+        "abbreviation": "BOL",
+        "record": "12-6-12"
+      },
+      "awayTeam": {
+        "name": "Lazio",
+        "abbreviation": "LAZ",
+        "record": "11-10-9"
+      },
+      "startTime": "2026-03-22T14:00Z",
+      "timeET": "10:00 AM ET",
+      "channels": [
+        "Paramount+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "venue": "Renato Dall'Ara, Bologna",
+      "isNational": true
+    },
+    {
+      "id": "ligue1-746648",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Lyon",
+        "abbreviation": "LYON",
+        "record": "14-5-8"
+      },
+      "awayTeam": {
+        "name": "AS Monaco",
+        "abbreviation": "MON",
+        "record": "14-4-9"
+      },
+      "startTime": "2026-03-22T14:00Z",
+      "timeET": "10:00 AM ET",
+      "channels": [],
+      "status": "final",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "venue": "Groupama Stadium, Lyon"
+    },
+    {
+      "id": "epl-740896",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Aston Villa",
+        "abbreviation": "AVL",
+        "record": "16-6-9"
+      },
+      "awayTeam": {
+        "name": "West Ham United",
+        "abbreviation": "WHU",
+        "record": "7-8-16"
+      },
+      "startTime": "2026-03-22T14:15Z",
+      "timeET": "10:15 AM ET",
+      "channels": [
+        "NBCSN",
+        "Peacock"
+      ],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "venue": "Villa Park, Birmingham",
+      "isNational": true
+    },
+    {
+      "id": "epl-740904",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Tottenham Hotspur",
+        "abbreviation": "TOT",
+        "record": "7-9-15"
+      },
+      "awayTeam": {
+        "name": "Nottingham Forest",
+        "abbreviation": "NFO",
+        "record": "8-8-15"
+      },
+      "startTime": "2026-03-22T14:15Z",
+      "timeET": "10:15 AM ET",
+      "channels": [
+        "USA Net",
+        "Tele"
+      ],
+      "status": "final",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "venue": "Tottenham Hotspur Stadium, London",
+      "isNational": true
+    },
+    {
+      "id": "bundesliga-746958",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Mainz",
+        "abbreviation": "M05",
+        "record": "7-9-11"
+      },
+      "awayTeam": {
+        "name": "Eintracht Frankfurt",
+        "abbreviation": "SGE",
+        "record": "10-8-9"
+      },
+      "startTime": "2026-03-22T14:30Z",
+      "timeET": "10:30 AM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "venue": "MEWA ARENA, Mainz",
+      "isNational": true
+    },
+    {
+      "id": "laliga-748431",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Celta Vigo",
+        "abbreviation": "CEL",
+        "record": "10-11-8"
+      },
+      "awayTeam": {
+        "name": "Alavés",
+        "abbreviation": "ALA",
+        "record": "8-7-14"
+      },
+      "startTime": "2026-03-22T15:15Z",
+      "timeET": "11:15 AM ET",
+      "channels": [
+        "ESPN Deportes",
+        "ESPN+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 3,
+        "away": 4
+      },
+      "venue": "Balaidos, Vigo",
+      "isNational": true
+    },
+    {
+      "id": "ncaaw-401856543",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "North Carolina Tar Heels",
+        "abbreviation": "UNC",
+        "record": "28-7"
+      },
+      "awayTeam": {
+        "name": "Maryland Terrapins",
+        "abbreviation": "MD",
+        "record": "24-9"
+      },
+      "startTime": "2026-03-22T16:00Z",
+      "timeET": "12:00 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "final",
+      "score": {
+        "home": 74,
+        "away": 66
+      },
+      "venue": "Carmichael Arena, Chapel Hill, NC",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401803461",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "New York Rangers",
+        "abbreviation": "NYR"
+      },
+      "awayTeam": {
+        "name": "Winnipeg Jets",
+        "abbreviation": "WPG"
+      },
+      "startTime": "2026-03-22T16:00Z",
+      "timeET": "12:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "MSG"
+      ],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "venue": "Madison Square Garden, New York, NY",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401833311",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Houston Astros",
+        "abbreviation": "HOU",
+        "record": "11-14-3"
+      },
+      "awayTeam": {
+        "name": "St. Louis Cardinals",
+        "abbreviation": "STL",
+        "record": "17-9-2"
+      },
+      "startTime": "2026-03-22T16:05Z",
+      "timeET": "12:05 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Space City Home Network"
+      ],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "venue": "CACTI Park of the Palm Beaches, Palm Beach, Florida",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401856564",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Purdue Boilermakers",
+        "abbreviation": "PUR",
+        "record": "29-8"
+      },
+      "awayTeam": {
+        "name": "Miami Hurricanes",
+        "abbreviation": "MIA",
+        "record": "26-9"
+      },
+      "startTime": "2026-03-22T16:10Z",
+      "timeET": "12:10 PM ET",
+      "channels": [
+        "CBS"
+      ],
+      "status": "final",
+      "score": {
+        "home": 79,
+        "away": 69
+      },
+      "venue": "Enterprise Center, St. Louis, MO",
+      "isNational": true
+    },
+    {
+      "id": "ligue1-746649",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Marseille",
+        "abbreviation": "OLM",
+        "record": "15-4-8"
+      },
+      "awayTeam": {
+        "name": "Lille",
+        "abbreviation": "LILL",
+        "record": "14-5-8"
+      },
+      "startTime": "2026-03-22T16:15Z",
+      "timeET": "12:15 PM ET",
+      "channels": [],
+      "status": "final",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "venue": "Stade Vélodrome, Marseille"
+    },
+    {
+      "id": "ligue1-746652",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Paris FC",
+        "abbreviation": "PAR",
+        "record": "7-10-10"
+      },
+      "awayTeam": {
+        "name": "Le Havre AC",
+        "abbreviation": "HAC",
+        "record": "6-9-12"
+      },
+      "startTime": "2026-03-22T16:15Z",
+      "timeET": "12:15 PM ET",
+      "channels": [],
+      "status": "final",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "venue": "Stade Jean Bouin, Paris"
+    },
+    {
+      "id": "ligue1-746653",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Stade Rennais",
+        "abbreviation": "REN",
+        "record": "12-8-7"
+      },
+      "awayTeam": {
+        "name": "Metz",
+        "abbreviation": "METZ",
+        "record": "3-5-19"
+      },
+      "startTime": "2026-03-22T16:15Z",
+      "timeET": "12:15 PM ET",
+      "channels": [],
+      "status": "final",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "venue": "Roazhon Park, Rennes"
+    },
+    {
+      "id": "nhl-401803462",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Washington Capitals",
+        "abbreviation": "WSH"
+      },
+      "awayTeam": {
+        "name": "Colorado Avalanche",
+        "abbreviation": "COL"
+      },
+      "startTime": "2026-03-22T16:30Z",
+      "timeET": "12:30 PM ET",
+      "channels": [
+        "NHL Net",
+        "MNMT",
+        "Altitude Sports"
+      ],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "venue": "Capital One Arena, Washington, DC",
+      "isNational": true
+    },
+    {
+      "id": "bundesliga-746955",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "St. Pauli",
+        "abbreviation": "STP",
+        "record": "6-6-15"
+      },
+      "awayTeam": {
+        "name": "SC Freiburg",
+        "abbreviation": "SCF",
+        "record": "10-7-10"
+      },
+      "startTime": "2026-03-22T16:30Z",
+      "timeET": "12:30 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "venue": "Millerntor-Stadion, Hamburg Norderstedt",
+      "isNational": true
+    },
+    {
+      "id": "ncaaw-401856542",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Michigan Wolverines",
+        "abbreviation": "MICH",
+        "record": "27-6"
+      },
+      "awayTeam": {
+        "name": "NC State Wolfpack",
+        "abbreviation": "NCSU",
+        "record": "21-11"
+      },
+      "startTime": "2026-03-22T17:00Z",
+      "timeET": "1:00 PM ET",
+      "channels": [
+        "ABC"
+      ],
+      "status": "final",
+      "score": {
+        "home": 92,
+        "away": 63
+      },
+      "venue": "Crisler Center, Ann Arbor, MI",
+      "isNational": true
+    },
+    {
+      "id": "mls-761504",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "FC Cincinnati",
+        "abbreviation": "CIN",
+        "record": "2-0-3"
+      },
+      "awayTeam": {
+        "name": "CF Montréal",
+        "abbreviation": "MTL",
+        "record": "1-0-4"
+      },
+      "startTime": "2026-03-22T17:00Z",
+      "timeET": "1:00 PM ET",
+      "channels": [
+        "Apple TV"
+      ],
+      "status": "final",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "venue": "TQL Stadium, Cincinnati, Ohio",
+      "isNational": true,
+      "tournament": "MLS"
+    },
+    {
+      "id": "mls-761510",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "New York City FC",
+        "abbreviation": "NYC",
+        "record": "3-1-1"
+      },
+      "awayTeam": {
+        "name": "Inter Miami CF",
+        "abbreviation": "MIA",
+        "record": "3-1-1"
+      },
+      "startTime": "2026-03-22T17:00Z",
+      "timeET": "1:00 PM ET",
+      "channels": [
+        "Apple TV"
+      ],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "venue": "Yankee Stadium, New York City",
+      "isNational": true,
+      "tournament": "MLS"
+    },
+    {
+      "id": "seriea-737078",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "AS Roma",
+        "abbreviation": "ROMA",
+        "record": "17-3-10"
+      },
+      "awayTeam": {
+        "name": "Lecce",
+        "abbreviation": "LEC",
+        "record": "7-6-17"
+      },
+      "startTime": "2026-03-22T17:00Z",
+      "timeET": "1:00 PM ET",
+      "channels": [
+        "Paramount+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "venue": "Olimpico, Roma",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401833314",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "New York Yankees",
+        "abbreviation": "NYY",
+        "record": "18-11"
+      },
+      "awayTeam": {
+        "name": "Philadelphia Phillies",
+        "abbreviation": "PHI",
+        "record": "10-16-2"
+      },
+      "startTime": "2026-03-22T17:05Z",
+      "timeET": "1:05 PM ET",
+      "channels": [
+        "MLB.TV",
+        "YES",
+        "Gotham Sports App",
+        "MLBN",
+        "NBC Sports"
+      ],
+      "status": "final",
+      "score": {
+        "home": 6,
+        "away": 2
+      },
+      "venue": "George M. Steinbrenner Field, Tampa, Florida",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401833315",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Pittsburgh Pirates",
+        "abbreviation": "PIT",
+        "record": "17-12"
+      },
+      "awayTeam": {
+        "name": "Boston Red Sox",
+        "abbreviation": "BOS",
+        "record": "13-14"
+      },
+      "startTime": "2026-03-22T17:05Z",
+      "timeET": "1:05 PM ET",
+      "channels": [
+        "MLB.TV",
+        "NESN 360"
+      ],
+      "status": "final",
+      "score": {
+        "home": 3,
+        "away": 6
+      },
+      "venue": "LECOM Park, Bradenton, Florida",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401833318",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Minnesota Twins",
+        "abbreviation": "MIN",
+        "record": "9-18-1"
+      },
+      "awayTeam": {
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL",
+        "record": "19-7-2"
+      },
+      "startTime": "2026-03-22T17:05Z",
+      "timeET": "1:05 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Twins.TV",
+        "Gray Media"
+      ],
+      "status": "final",
+      "score": {
+        "home": 7,
+        "away": 3
+      },
+      "venue": "Lee Health Sports Complex, Fort Myers, Florida",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401833317",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Toronto Blue Jays",
+        "abbreviation": "TOR",
+        "record": "12-14-2"
+      },
+      "awayTeam": {
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB",
+        "record": "10-17-1"
+      },
+      "startTime": "2026-03-22T17:07Z",
+      "timeET": "1:07 PM ET",
+      "channels": [
+        "Sportsnet",
+        "Rays.TV"
+      ],
+      "status": "final",
+      "score": {
+        "home": 14,
+        "away": 1
+      },
+      "venue": "TD Ballpark, Dunedin, Florida"
+    },
+    {
+      "id": "mlb-401833313",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Miami Marlins",
+        "abbreviation": "MIA",
+        "record": "11-13-3"
+      },
+      "awayTeam": {
+        "name": "New York Mets",
+        "abbreviation": "NYM",
+        "record": "12-13-2"
+      },
+      "startTime": "2026-03-22T17:10Z",
+      "timeET": "1:10 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Marlins.TV"
+      ],
+      "status": "final",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "venue": "Roger Dean Chevrolet Stadium, Jupiter, Florida",
+      "isNational": true
+    },
+    {
+      "id": "laliga-748424",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Athletic Club",
+        "abbreviation": "ATH",
+        "record": "11-5-13"
+      },
+      "awayTeam": {
+        "name": "Real Betis",
+        "abbreviation": "BET",
+        "record": "11-11-7"
+      },
+      "startTime": "2026-03-22T17:30Z",
+      "timeET": "1:30 PM ET",
+      "channels": [
+        "ESPN Deportes",
+        "ESPN+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "venue": "San Mamés, Bilbao",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401833306",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Baltimore Orioles",
+        "abbreviation": "BAL",
+        "record": "12-13-3"
+      },
+      "awayTeam": {
+        "name": "Washington Nationals",
+        "abbreviation": "WSH",
+        "record": "14-10-3"
+      },
+      "startTime": "2026-03-22T17:35Z",
+      "timeET": "1:35 PM ET",
+      "channels": [
+        "MLB.TV",
+        "MASN"
+      ],
+      "status": "final",
+      "score": {
+        "home": 8,
+        "away": 1
+      },
+      "venue": "Oriole Park at Camden Yards, Baltimore, Maryland",
+      "isNational": true
+    },
+    {
+      "id": "ncaaw-401856544",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Minnesota Golden Gophers",
+        "abbreviation": "MINN",
+        "record": "24-8"
+      },
+      "awayTeam": {
+        "name": "Ole Miss Rebels",
+        "abbreviation": "MISS",
+        "record": "24-12"
+      },
+      "startTime": "2026-03-22T18:07Z",
+      "timeET": "2:07 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "final",
+      "score": {
+        "home": 65,
+        "away": 63
+      },
+      "venue": "Williams Arena, Minneapolis, MN",
+      "isNational": true
+    },
+    {
+      "id": "mls-761511",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Minnesota United FC",
+        "abbreviation": "MIN",
+        "record": "1-2-2"
+      },
+      "awayTeam": {
+        "name": "Seattle Sounders FC",
+        "abbreviation": "SEA",
+        "record": "3-1-1"
+      },
+      "startTime": "2026-03-22T18:30Z",
+      "timeET": "2:30 PM ET",
+      "channels": [
+        "Fox",
+        "Apple TV"
+      ],
+      "status": "final",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "venue": "Allianz Field, Saint Paul, Minnesota",
+      "isNational": true,
+      "tournament": "MLS"
+    },
+    {
+      "id": "bundesliga-746953",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "FC Augsburg",
+        "abbreviation": "FCA",
+        "record": "9-4-14"
+      },
+      "awayTeam": {
+        "name": "VfB Stuttgart",
+        "abbreviation": "VFB",
+        "record": "16-5-6"
+      },
+      "startTime": "2026-03-22T18:30Z",
+      "timeET": "2:30 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 5
+      },
+      "venue": "WWK Arena, Augsburg",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401856561",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Iowa State Cyclones",
+        "abbreviation": "ISU",
+        "record": "29-7"
+      },
+      "awayTeam": {
+        "name": "Kentucky Wildcats",
+        "abbreviation": "UK",
+        "record": "22-14"
+      },
+      "startTime": "2026-03-22T18:45Z",
+      "timeET": "2:45 PM ET",
+      "channels": [
+        "CBS"
+      ],
+      "status": "final",
+      "score": {
+        "home": 82,
+        "away": 63
+      },
+      "venue": "Enterprise Center, St. Louis, MO",
+      "isNational": true
+    },
+    {
+      "id": "ncaaw-401856545",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "LSU Tigers",
+        "abbreviation": "LSU",
+        "record": "29-5"
+      },
+      "awayTeam": {
+        "name": "Texas Tech Lady Raiders",
+        "abbreviation": "TTU",
+        "record": "26-8"
+      },
+      "startTime": "2026-03-22T19:00Z",
+      "timeET": "3:00 PM ET",
+      "channels": [
+        "ABC"
+      ],
+      "status": "final",
+      "score": {
+        "home": 101,
+        "away": 47
+      },
+      "venue": "Pete Maravich Assembly Center, Baton Rouge, LA",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401803463",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Pittsburgh Penguins",
+        "abbreviation": "PIT"
+      },
+      "awayTeam": {
+        "name": "Carolina Hurricanes",
+        "abbreviation": "CAR"
+      },
+      "startTime": "2026-03-22T19:00Z",
+      "timeET": "3:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "FanDuel Sports Network"
+      ],
+      "status": "final",
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "venue": "PPG Paints Arena, Pittsburgh, PA",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401803464",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Chicago Blackhawks",
+        "abbreviation": "CHI"
+      },
+      "awayTeam": {
+        "name": "Nashville Predators",
+        "abbreviation": "NSH"
+      },
+      "startTime": "2026-03-22T19:00Z",
+      "timeET": "3:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "CHSN",
+        "FanDuel Sports Network"
+      ],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "venue": "United Center, Chicago, IL",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401833307",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Chicago Cubs",
+        "abbreviation": "CHC",
+        "record": "13-16"
+      },
+      "awayTeam": {
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL",
+        "record": "12-16"
+      },
+      "startTime": "2026-03-22T19:05Z",
+      "timeET": "3:05 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Marquee Sports Net",
+        "Brewers.TV"
+      ],
+      "status": "final",
+      "score": {
+        "home": 12,
+        "away": 0
+      },
+      "venue": "Sloan Park, Mesa, Arizona",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401833309",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE",
+        "record": "14-14-1"
+      },
+      "awayTeam": {
+        "name": "Cincinnati Reds",
+        "abbreviation": "CIN",
+        "record": "14-15"
+      },
+      "startTime": "2026-03-22T19:05Z",
+      "timeET": "3:05 PM ET",
+      "channels": [
+        "MLB.TV",
+        "CLEGuardians.TV",
+        "Reds.TV"
+      ],
+      "status": "final",
+      "score": {
+        "home": 8,
+        "away": 2
+      },
+      "venue": "Goodyear Ballpark, Goodyear, Arizona",
+      "isNational": true
+    },
+    {
+      "id": "seriea-737079",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Fiorentina",
+        "abbreviation": "FIO",
+        "record": "6-11-13"
+      },
+      "awayTeam": {
+        "name": "Internazionale",
+        "abbreviation": "INT",
+        "record": "22-3-5"
+      },
+      "startTime": "2026-03-22T19:45Z",
+      "timeET": "3:45 PM ET",
+      "channels": [
+        "Paramount+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "venue": "Stadio Artemio Franchi, Firenze",
+      "isNational": true
+    },
+    {
+      "id": "ligue1-746650",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Nantes",
+        "abbreviation": "NAN",
+        "record": "4-5-17"
+      },
+      "awayTeam": {
+        "name": "Strasbourg",
+        "abbreviation": "STR",
+        "record": "11-7-9"
+      },
+      "startTime": "2026-03-22T19:45Z",
+      "timeET": "3:45 PM ET",
+      "channels": [],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "venue": "Stade de la Beaujoire, Nantes"
+    },
+    {
+      "id": "laliga-748433",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Real Madrid",
+        "abbreviation": "RMA",
+        "record": "22-3-4"
+      },
+      "awayTeam": {
+        "name": "Atlético Madrid",
+        "abbreviation": "ATM",
+        "record": "17-6-6"
+      },
+      "startTime": "2026-03-22T20:00Z",
+      "timeET": "4:00 PM ET",
+      "channels": [
+        "ESPN Deportes",
+        "ESPN+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "venue": "Santiago Bernabéu, Madrid",
+      "isNational": true
+    },
+    {
+      "id": "ncaaw-401856539",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Duke Blue Devils",
+        "abbreviation": "DUKE",
+        "record": "26-8"
+      },
+      "awayTeam": {
+        "name": "Baylor Bears",
+        "abbreviation": "BAY",
+        "record": "25-9"
+      },
+      "startTime": "2026-03-22T20:07Z",
+      "timeET": "4:07 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "final",
+      "score": {
+        "home": 69,
+        "away": 46
+      },
+      "venue": "Cameron Indoor Stadium, Durham, NC",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401833310",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Colorado Rockies",
+        "abbreviation": "COL",
+        "record": "14-14-1"
+      },
+      "awayTeam": {
+        "name": "Athletics",
+        "abbreviation": "ATH",
+        "record": "13-16-1"
+      },
+      "startTime": "2026-03-22T20:10Z",
+      "timeET": "4:10 PM ET",
+      "channels": [],
+      "status": "final",
+      "score": {
+        "home": 6,
+        "away": 5
+      },
+      "venue": "Salt River Fields at Talking Stick, Scottsdale, Arizona"
+    },
+    {
+      "id": "mls-761512",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Portland Timbers",
+        "abbreviation": "POR",
+        "record": "1-1-3"
+      },
+      "awayTeam": {
+        "name": "LA Galaxy",
+        "abbreviation": "LA",
+        "record": "1-2-2"
+      },
+      "startTime": "2026-03-22T20:45Z",
+      "timeET": "4:45 PM ET",
+      "channels": [
+        "Fox",
+        "Apple TV"
+      ],
+      "status": "final",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "venue": "Providence Park, Portland, Oregon",
+      "isNational": true,
+      "tournament": "MLS"
+    },
+    {
+      "id": "nba-401810887",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Denver Nuggets",
+        "abbreviation": "DEN",
+        "record": "44-28"
+      },
+      "awayTeam": {
+        "name": "Portland Trail Blazers",
+        "abbreviation": "POR",
+        "record": "35-37"
+      },
+      "startTime": "2026-03-22T21:00Z",
+      "timeET": "5:00 PM ET",
+      "channels": [
+        "NBA TV",
+        "KUNP 16",
+        "BlazerVision",
+        "Altitude Sports"
+      ],
+      "status": "final",
+      "score": {
+        "home": 128,
+        "away": 112
+      },
+      "venue": "Ball Arena, Denver, CO",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401856558",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Kansas Jayhawks",
+        "abbreviation": "KU",
+        "record": "24-11"
+      },
+      "awayTeam": {
+        "name": "St. John's Red Storm",
+        "abbreviation": "SJU",
+        "record": "30-6"
+      },
+      "startTime": "2026-03-22T21:15Z",
+      "timeET": "5:15 PM ET",
+      "channels": [
+        "CBS"
+      ],
+      "status": "final",
+      "score": {
+        "home": 65,
+        "away": 67
+      },
+      "venue": "Viejas Arena, San Diego, CA",
+      "isNational": true
+    },
+    {
+      "id": "nba-401810888",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Sacramento Kings",
+        "abbreviation": "SAC",
+        "record": "19-53"
+      },
+      "awayTeam": {
+        "name": "Brooklyn Nets",
+        "abbreviation": "BKN",
+        "record": "17-54"
+      },
+      "startTime": "2026-03-22T22:00Z",
+      "timeET": "6:00 PM ET",
+      "channels": [
+        "YES",
+        "NBA League Pass",
+        "NBC Sports"
+      ],
+      "status": "final",
+      "score": {
+        "home": 126,
+        "away": 122
+      },
+      "venue": "Golden 1 Center, Sacramento, CA"
+    },
+    {
+      "id": "ncaaw-401856541",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Texas Longhorns",
+        "abbreviation": "TEX",
+        "record": "33-3"
+      },
+      "awayTeam": {
+        "name": "Oregon Ducks",
+        "abbreviation": "ORE",
+        "record": "23-13"
+      },
+      "startTime": "2026-03-22T22:00Z",
+      "timeET": "6:00 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "final",
+      "score": {
+        "home": 100,
+        "away": 58
+      },
+      "venue": "Moody Center, Austin, TX",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401856562",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Virginia Cavaliers",
+        "abbreviation": "UVA",
+        "record": "30-6"
+      },
+      "awayTeam": {
+        "name": "Tennessee Volunteers",
+        "abbreviation": "TENN",
+        "record": "24-11"
+      },
+      "startTime": "2026-03-22T22:10Z",
+      "timeET": "6:10 PM ET",
+      "channels": [
+        "TNT"
+      ],
+      "status": "final",
+      "score": {
+        "home": 72,
+        "away": 79
+      },
+      "venue": "Xfinity Mobile Arena, Philadelphia, PA",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401803465",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "New York Islanders",
+        "abbreviation": "NYI"
+      },
+      "awayTeam": {
+        "name": "Columbus Blue Jackets",
+        "abbreviation": "CBJ"
+      },
+      "startTime": "2026-03-22T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "MSGSN",
+        "FanDuel Sports Network"
+      ],
+      "status": "final",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "venue": "UBS Arena, Elmont, NY",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401803466",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Dallas Stars",
+        "abbreviation": "DAL"
+      },
+      "awayTeam": {
+        "name": "Vegas Golden Knights",
+        "abbreviation": "VGK"
+      },
+      "startTime": "2026-03-22T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "NHL Net",
+        "Scripps Sports",
+        "Victory+"
+      ],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "venue": "American Airlines Center, Dallas, TX",
+      "isNational": true
+    },
+    {
+      "id": "mls-761513",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "San Diego FC",
+        "abbreviation": "SD",
+        "record": "3-2-0"
+      },
+      "awayTeam": {
+        "name": "Real Salt Lake",
+        "abbreviation": "RSL",
+        "record": "3-1-1"
+      },
+      "startTime": "2026-03-22T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "Apple TV"
+      ],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "venue": "Snapdragon Stadium, San Diego, California",
+      "isNational": true,
+      "tournament": "MLS"
+    },
+    {
+      "id": "ncaam-401856563",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Florida Gators",
+        "abbreviation": "FLA",
+        "record": "27-8"
+      },
+      "awayTeam": {
+        "name": "Iowa Hawkeyes",
+        "abbreviation": "IOWA",
+        "record": "23-12"
+      },
+      "startTime": "2026-03-22T23:10Z",
+      "timeET": "7:10 PM ET",
+      "channels": [
+        "TBS"
+      ],
+      "status": "final",
+      "score": {
+        "home": 72,
+        "away": 73
+      },
+      "venue": "Benchmark International Arena, Tampa, FL",
+      "isNational": true
+    },
+    {
+      "id": "nba-401810889",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "New York Knicks",
+        "abbreviation": "NY",
+        "record": "47-25"
+      },
+      "awayTeam": {
+        "name": "Washington Wizards",
+        "abbreviation": "WSH",
+        "record": "16-55"
+      },
+      "startTime": "2026-03-22T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "MNMT",
+        "NBA League Pass",
+        "MSG"
+      ],
+      "status": "final",
+      "score": {
+        "home": 145,
+        "away": 113
+      },
+      "venue": "Madison Square Garden, New York, NY"
+    },
+    {
+      "id": "nba-401810890",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Boston Celtics",
+        "abbreviation": "BOS",
+        "record": "47-24"
+      },
+      "awayTeam": {
+        "name": "Minnesota Timberwolves",
+        "abbreviation": "MIN",
+        "record": "44-28"
+      },
+      "startTime": "2026-03-23T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "NBC",
+        "Peacock"
+      ],
+      "status": "final",
+      "score": {
+        "home": 92,
+        "away": 102
+      },
+      "venue": "TD Garden, Boston, MA",
+      "isNational": true
+    },
+    {
+      "id": "ncaaw-401856546",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Oklahoma Sooners",
+        "abbreviation": "OU",
+        "record": "26-7"
+      },
+      "awayTeam": {
+        "name": "Michigan State Spartans",
+        "abbreviation": "MSU",
+        "record": "23-9"
+      },
+      "startTime": "2026-03-23T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "final",
+      "score": {
+        "home": 77,
+        "away": 71
+      },
+      "venue": "Lloyd Noble Center, Norman, OK",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401803467",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Calgary Flames",
+        "abbreviation": "CGY"
+      },
+      "awayTeam": {
+        "name": "Tampa Bay Lightning",
+        "abbreviation": "TB"
+      },
+      "startTime": "2026-03-23T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "The Spot - MTN"
+      ],
+      "status": "final",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "venue": "Scotiabank Saddledome, Calgary, AB",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401803468",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Anaheim Ducks",
+        "abbreviation": "ANA"
+      },
+      "awayTeam": {
+        "name": "Buffalo Sabres",
+        "abbreviation": "BUF"
+      },
+      "startTime": "2026-03-23T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "MSGB",
+        "Victory+",
+        "KTTV"
+      ],
+      "status": "final",
+      "score": {
+        "home": 6,
+        "away": 5
+      },
+      "venue": "Honda Center, Anaheim, CA",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401856565",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Arizona Wildcats",
+        "abbreviation": "ARIZ",
+        "record": "34-2"
+      },
+      "awayTeam": {
+        "name": "Utah State Aggies",
+        "abbreviation": "USU",
+        "record": "29-7"
+      },
+      "startTime": "2026-03-23T00:11Z",
+      "timeET": "8:11 PM ET",
+      "channels": [
+        "truTV"
+      ],
+      "status": "final",
+      "score": {
+        "home": 78,
+        "away": 66
+      },
+      "venue": "Viejas Arena, San Diego, CA",
+      "isNational": true
+    },
+    {
+      "id": "nba-401810891",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Phoenix Suns",
+        "abbreviation": "PHX",
+        "record": "40-32"
+      },
+      "awayTeam": {
+        "name": "Toronto Raptors",
+        "abbreviation": "TOR",
+        "record": "39-31"
+      },
+      "startTime": "2026-03-23T01:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "Arizona's Family 3TV",
+        "Suns Live",
+        "Sportsnet",
+        "NBA League Pass"
+      ],
+      "status": "final",
+      "score": {
+        "home": 120,
+        "away": 98
+      },
+      "venue": "Mortgage Matchup Center, Phoenix, AZ"
+    },
+    {
+      "id": "nhl-401803469",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Utah Mammoth",
+        "abbreviation": "UTA"
+      },
+      "awayTeam": {
+        "name": "Los Angeles Kings",
+        "abbreviation": "LA"
+      },
+      "startTime": "2026-03-23T01:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "Utah 16",
+        "FanDuel Sports Network"
+      ],
+      "status": "final",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "venue": "Delta Center, Salt Lake City, UT",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401833308",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Chicago White Sox",
+        "abbreviation": "CHW",
+        "record": "15-15-1"
+      },
+      "awayTeam": {
+        "name": "Seattle Mariners",
+        "abbreviation": "SEA",
+        "record": "11-18-1"
+      },
+      "startTime": "2026-03-23T01:05Z",
+      "timeET": "9:05 PM ET",
+      "channels": [
+        "MLB.TV",
+        "CHSN",
+        "Mariners.TV"
+      ],
+      "status": "final",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "venue": "Camelback Ranch - Glendale, Phoenix, Arizona",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401833312",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Los Angeles Angels",
+        "abbreviation": "LAA",
+        "record": "16-15"
+      },
+      "awayTeam": {
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD",
+        "record": "20-8-1"
+      },
+      "startTime": "2026-03-23T01:07Z",
+      "timeET": "9:07 PM ET",
+      "channels": [
+        "MLB.TV",
+        "MLB Net",
+        "Sportsnet",
+        "MLBN",
+        "FanDuel Sports Network"
+      ],
+      "status": "final",
+      "score": {
+        "home": 5,
+        "away": 13
+      },
+      "venue": "Angel Stadium, Anaheim, California",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401856559",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "UConn Huskies",
+        "abbreviation": "CONN",
+        "record": "31-5"
+      },
+      "awayTeam": {
+        "name": "UCLA Bruins",
+        "abbreviation": "UCLA",
+        "record": "24-12"
+      },
+      "startTime": "2026-03-23T01:10Z",
+      "timeET": "9:10 PM ET",
+      "channels": [
+        "TNT"
+      ],
+      "status": "final",
+      "score": {
+        "home": 73,
+        "away": 57
+      },
+      "venue": "Xfinity Mobile Arena, Philadelphia, PA",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401833316",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "San Diego Padres",
+        "abbreviation": "SD",
+        "record": "14-15-1"
+      },
+      "awayTeam": {
+        "name": "Arizona Diamondbacks",
+        "abbreviation": "ARI",
+        "record": "15-13-1"
+      },
+      "startTime": "2026-03-23T01:10Z",
+      "timeET": "9:10 PM ET",
+      "channels": [],
+      "status": "final",
+      "score": {
+        "home": 1,
+        "away": 11
+      },
+      "venue": "Peoria Stadium, Peoria, Arizona"
+    },
+    {
+      "id": "ncaaw-401856540",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "TCU Horned Frogs",
+        "abbreviation": "TCU",
+        "record": "31-5"
+      },
+      "awayTeam": {
+        "name": "Washington Huskies",
+        "abbreviation": "WASH",
+        "record": "22-11"
+      },
+      "startTime": "2026-03-23T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "final",
+      "score": {
+        "home": 62,
+        "away": 59
+      },
+      "venue": "Schollmaier Arena, Fort Worth, TX",
+      "isNational": true
+    },
+    {
+      "id": "ncaam-401856560",
+      "sport": "College Basketball",
+      "homeTeam": {
+        "name": "Alabama Crimson Tide",
+        "abbreviation": "ALA",
+        "record": "25-9"
+      },
+      "awayTeam": {
+        "name": "Texas Tech Red Raiders",
+        "abbreviation": "TTU",
+        "record": "23-11"
+      },
+      "startTime": "2026-03-23T02:08Z",
+      "timeET": "10:08 PM ET",
+      "channels": [
+        "TBS"
+      ],
+      "status": "final",
+      "score": {
+        "home": 90,
+        "away": 65
+      },
+      "venue": "Benchmark International Arena, Tampa, FL",
+      "isNational": true
+    }
+  ],
+  "lastUpdated": "2026-03-25T11:15:59.120Z"
+}
