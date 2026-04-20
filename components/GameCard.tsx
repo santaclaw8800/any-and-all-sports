@@ -2,6 +2,9 @@
 
 import { Game } from '@/lib/types';
 import { SPORT_CONFIG } from '@/lib/sports-config';
+import { getAffiliateConfig } from '@/lib/affiliates';
+import AffiliateButton from './AffiliateButton';
+import WatchDropdown from './WatchDropdown';
 
 interface GameCardProps {
   game: Game;
@@ -166,15 +169,13 @@ export default function GameCard({ game }: GameCardProps) {
       {/* Status + Channels */}
       <div className="flex items-center justify-between flex-wrap gap-2">
         {statusBadge()}
-        <div className="flex flex-wrap gap-1">
+        <div className="flex flex-wrap gap-1.5 items-start">
           {game.channels.map((ch) => (
-            <span
-              key={ch}
-              className="px-1.5 py-0.5 rounded text-[10px] font-semibold bg-zinc-800 text-zinc-400 border border-zinc-700"
-            >
-              {ch}
-            </span>
+            <AffiliateButton key={ch} channel={ch} gameId={game.id} />
           ))}
+          {game.channels.filter((ch) => getAffiliateConfig(ch)).length > 1 && (
+            <WatchDropdown channels={game.channels} gameId={game.id} />
+          )}
         </div>
       </div>
 

@@ -20,4 +20,13 @@ node scripts/fetch-schedules.mjs
 echo "[$(date)] Generating social post..."
 node scripts/generate-social-post.mjs
 
+# 3. Commit new schedule data
+echo "[$(date)] Committing schedule data..."
+git add data/schedules/ && git commit -m "chore: daily schedule update $(date +%Y-%m-%d)" || echo "Nothing to commit"
+
+# 4. Redeploy to Vercel so new data is live
+echo "[$(date)] Deploying to Vercel..."
+export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
+vercel --prod --yes 2>&1 | tail -3
+
 echo "[$(date)] Done!"
