@@ -5,6 +5,7 @@ import DateNav from '@/components/DateNav';
 import ScheduleView from '@/components/ScheduleView';
 import Link from 'next/link';
 import { redirect } from 'next/navigation';
+import { SportsEventsSchema, BreadcrumbSchema } from '@/components/StructuredData';
 
 interface PageProps {
   params: Promise<{ date: string }>;
@@ -14,8 +15,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const { date } = await params;
   const displayDate = formatDateDisplay(date);
   return {
-    title: `Sports Schedule for ${displayDate}`,
-    description: `Complete sports TV and streaming schedule for ${displayDate}. NBA, NFL, MLB, NHL, Soccer, Tennis, Golf, MMA and more.`,
+    title: `Sports on TV Tonight - ${displayDate}`,
+    description: `What games are on ${displayDate}? Complete sports TV and streaming schedule with every NBA, NFL, MLB, NHL, Soccer, Golf and MMA game - with channels and streaming info.`,
+    alternates: {
+      canonical: `https://anyandallsports.com/${date}`,
+    },
   };
 }
 
@@ -46,8 +50,16 @@ export default async function DatePage({ params }: PageProps) {
   const liveCount = schedule?.games.filter((g) => g.status === 'live').length ?? 0;
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-      <DateNav date={date} />
+    <>
+      {schedule && <SportsEventsSchema games={schedule.games} date={date} />}
+      <BreadcrumbSchema
+        items={[
+          { name: 'Home', url: 'https://anyandallsports.com' },
+          { name: displayDate, url: `https://anyandallsports.com/${date}` },
+        ]}
+      />
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+        <DateNav date={date} />
 
       {!schedule ? (
         <div className="text-center py-24">
@@ -94,6 +106,7 @@ export default async function DatePage({ params }: PageProps) {
           <ScheduleView schedule={schedule} />
         </>
       )}
-    </div>
+      </div>
+    </>
   );
 }

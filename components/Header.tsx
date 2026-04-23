@@ -58,8 +58,10 @@ export default function Header() {
                   {session.user.image && (
                     <img
                       src={session.user.image}
-                      alt={session.user.name || 'User'}
+                      alt={`${session.user.name || 'User'} profile picture`}
                       className="w-8 h-8 rounded-full border border-zinc-700"
+                      width={32}
+                      height={32}
                     />
                   )}
                   <span className="hidden sm:block text-sm text-zinc-300 max-w-[100px] truncate">

@@ -3,11 +3,16 @@ import { getSchedule, getTodayET, formatDateDisplay } from '@/lib/schedule';
 import DateNav from '@/components/DateNav';
 import PersonalizedSchedule from '@/components/PersonalizedSchedule';
 import Link from 'next/link';
+import { SportsEventsSchema, BreadcrumbSchema } from '@/components/StructuredData';
+import SEOContentBlock from '@/components/SEOContentBlock';
 
 export const metadata: Metadata = {
-  title: "Today's Sports Schedule — TV & Streaming Guide",
+  title: "What Sports Are On Tonight? | Today's Complete TV & Streaming Schedule",
   description:
-    "What sports are on TV today? Complete schedule for NBA, NFL, MLB, NHL, Soccer, Tennis, Golf, MMA and more.",
+    "What sports are on TV tonight? Find every NBA, NFL, MLB, NHL, Soccer, Golf and MMA game on tonight with channels and streaming info. Updated daily.",
+  alternates: {
+    canonical: 'https://anyandallsports.com',
+  },
 };
 
 export const revalidate = 300; // revalidate every 5 minutes
@@ -43,37 +48,49 @@ export default function HomePage() {
   const liveCount = schedule.games.filter((g) => g.status === 'live').length;
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
-      {/* Date navigation */}
-      <DateNav date={today} />
+    <>
+      <SportsEventsSchema games={schedule.games} date={today} />
+      <BreadcrumbSchema
+        items={[
+          { name: 'Home', url: 'https://anyandallsports.com' },
+          { name: "Today's Schedule", url: 'https://anyandallsports.com' },
+        ]}
+      />
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+        {/* Date navigation */}
+        <DateNav date={today} />
 
-      {/* Stats bar */}
-      <div className="flex items-center gap-4 mb-6 flex-wrap">
-        <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-zinc-900 border border-zinc-800">
-          <span className="text-sm text-zinc-400">
-            <span className="font-bold text-white">{totalGames}</span> events today
-          </span>
-        </div>
-        {liveCount > 0 && (
-          <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-red-950/40 border border-red-600/30">
-            <span className="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse inline-block" />
-            <span className="text-sm text-red-400 font-semibold">
-              {liveCount} game{liveCount !== 1 ? 's' : ''} in progress
+        {/* Stats bar */}
+        <div className="flex items-center gap-4 mb-6 flex-wrap">
+          <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-zinc-900 border border-zinc-800">
+            <span className="text-sm text-zinc-400">
+              <span className="font-bold text-white">{totalGames}</span> events today
             </span>
           </div>
-        )}
-        <div className="text-xs text-zinc-700 ml-auto hidden sm:block">
-          Updated: {new Date(schedule.lastUpdated).toLocaleTimeString('en-US', {
-            timeZone: 'America/New_York',
-            hour: 'numeric',
-            minute: '2-digit',
-            timeZoneName: 'short',
-          })}
+          {liveCount > 0 && (
+            <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-red-950/40 border border-red-600/30">
+              <span className="w-1.5 h-1.5 rounded-full bg-red-500 animate-pulse inline-block" />
+              <span className="text-sm text-red-400 font-semibold">
+                {liveCount} game{liveCount !== 1 ? 's' : ''} in progress
+              </span>
+            </div>
+          )}
+          <div className="text-xs text-zinc-700 ml-auto hidden sm:block">
+            Updated: {new Date(schedule.lastUpdated).toLocaleTimeString('en-US', {
+              timeZone: 'America/New_York',
+              hour: 'numeric',
+              minute: '2-digit',
+              timeZoneName: 'short',
+            })}
+          </div>
         </div>
+
+        {/* Schedule */}
+        <PersonalizedSchedule schedule={schedule} />
       </div>
 
-      {/* Schedule */}
-      <PersonalizedSchedule schedule={schedule} />
-    </div>
+      {/* SEO Content Block */}
+      <SEOContentBlock />
+    </>
   );
 }

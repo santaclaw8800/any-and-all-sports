@@ -11,23 +11,36 @@ export default function DateNav({ date }: DateNavProps) {
   const prevDate = getPrevDate(date);
   const nextDate = getNextDate(date);
 
+  const prevDateDisplay = formatDateDisplay(prevDate);
+  const nextDateDisplay = formatDateDisplay(nextDate);
+
   return (
     <div className="flex items-center justify-between gap-4 py-4 px-4 sm:px-0">
       <Link
         href={`/${prevDate}`}
         className="flex items-center gap-2 px-3 py-2 rounded-lg bg-zinc-900 hover:bg-zinc-800 border border-zinc-800 hover:border-zinc-700 text-zinc-400 hover:text-white transition-all text-sm font-semibold"
+        title={`Sports schedule for ${prevDateDisplay}`}
+        aria-label={`View sports schedule for ${prevDateDisplay}`}
       >
-        ← Prev
+        <span aria-hidden="true">←</span> Prev
       </Link>
 
       <div className="text-center flex-1">
         <h1 className="text-lg sm:text-xl font-black text-white leading-tight">
-          {isToday && (
-            <span className="inline-block mr-2 px-2 py-0.5 rounded-full bg-emerald-600 text-white text-xs font-bold uppercase tracking-wider">
-              Today
-            </span>
+          {isToday ? (
+            <>
+              <span className="inline-block mr-2 px-2 py-0.5 rounded-full bg-emerald-600 text-white text-xs font-bold uppercase tracking-wider">
+                Today
+              </span>
+              <span className="sr-only">Sports on TV Tonight - </span>
+              {formatDateDisplay(date)}
+            </>
+          ) : (
+            <>
+              <span className="sr-only">Sports Schedule for </span>
+              {formatDateDisplay(date)}
+            </>
           )}
-          {formatDateDisplay(date)}
         </h1>
       </div>
 
@@ -36,6 +49,8 @@ export default function DateNav({ date }: DateNavProps) {
           <Link
             href="/"
             className="px-3 py-2 rounded-lg bg-emerald-700 hover:bg-emerald-600 text-white text-sm font-bold transition-all"
+            title="View today's sports schedule"
+            aria-label="View today's sports TV schedule"
           >
             Today
           </Link>
@@ -43,8 +58,10 @@ export default function DateNav({ date }: DateNavProps) {
         <Link
           href={`/${nextDate}`}
           className="flex items-center gap-2 px-3 py-2 rounded-lg bg-zinc-900 hover:bg-zinc-800 border border-zinc-800 hover:border-zinc-700 text-zinc-400 hover:text-white transition-all text-sm font-semibold"
+          title={`Sports schedule for ${nextDateDisplay}`}
+          aria-label={`View sports schedule for ${nextDateDisplay}`}
         >
-          Next →
+          Next <span aria-hidden="true">→</span>
         </Link>
       </div>
     </div>
