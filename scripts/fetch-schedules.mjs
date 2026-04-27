@@ -398,9 +398,12 @@ async function main() {
   // Sort chronologically
   allGames.sort((a, b) => a.startTime.localeCompare(b.startTime));
 
+  // Filter out completed games
+  const filteredGames = allGames.filter(g => g.status !== 'final' && g.status !== 'completed');
+
   const daySchedule = {
     date: targetDate,
-    games: allGames,
+    games: filteredGames,
     lastUpdated: new Date().toISOString(),
   };
 

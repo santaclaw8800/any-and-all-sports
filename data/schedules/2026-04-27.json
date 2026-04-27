@@ -2,48 +2,6 @@
   "date": "2026-04-27",
   "games": [
     {
-      "id": "pga-401811943",
-      "sport": "Golf",
-      "homeTeam": {
-        "name": "Zurich Classic of New Orleans"
-      },
-      "awayTeam": {
-        "name": "PGA Tour"
-      },
-      "startTime": "2026-04-23T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [
-        "ESPN+",
-        "CBS",
-        "CNBC",
-        "Golf Chnl",
-        "Paramount+"
-      ],
-      "status": "final",
-      "isNational": true,
-      "tournament": "PGA Tour"
-    },
-    {
-      "id": "lpga-401835149",
-      "sport": "Golf",
-      "homeTeam": {
-        "name": "The Chevron Championship"
-      },
-      "awayTeam": {
-        "name": "LPGA"
-      },
-      "startTime": "2026-04-23T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [
-        "NBC",
-        "Golf Chnl",
-        "Peacock"
-      ],
-      "status": "final",
-      "isNational": true,
-      "tournament": "LPGA"
-    },
-    {
       "id": "dpwt-401822689",
       "sport": "Golf",
       "homeTeam": {
@@ -60,25 +18,6 @@
       "status": "live",
       "isNational": true,
       "tournament": "DP World Tour"
-    },
-    {
-      "id": "champs-401832013",
-      "sport": "Golf",
-      "homeTeam": {
-        "name": "Mitsubishi Electric Classic"
-      },
-      "awayTeam": {
-        "name": "Champions Tour"
-      },
-      "startTime": "2026-04-24T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [
-        "CNBC",
-        "Golf Chnl"
-      ],
-      "status": "final",
-      "isNational": true,
-      "tournament": "Champions Tour"
     },
     {
       "id": "seriea-737122",
@@ -502,5 +441,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-04-27T16:23:42.730Z"
+  "lastUpdated": "2026-04-27T16:37:53.631Z"
 }

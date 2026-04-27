@@ -341,7 +341,8 @@ async function run() {
   }
 
   const { games: allGames } = schedule;
-  const games = allGames;
+  // Filter out completed games
+  const games = allGames.filter(g => g.status !== 'final' && g.status !== 'completed');
   const sportGroups = groupBySport(games);
   const pages = chunkGamesIntoPages(sportGroups, 6);
   const totalPages = pages.length;
