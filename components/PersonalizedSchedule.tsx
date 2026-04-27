@@ -20,7 +20,7 @@ export default function PersonalizedSchedule({ schedule }: PersonalizedScheduleP
 
     const filteredGames = schedule.games.filter((game: Game) => {
       // Filter out completed games
-      if (game.status === 'final' || game.status === 'completed') return false;
+      if (game.status === 'final') return false;
 
       // Check if sport matches
       const sportMatches = preferences.sports.length === 0 || preferences.sports.includes(game.sport);

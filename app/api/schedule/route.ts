@@ -19,7 +19,7 @@ export async function GET(request: NextRequest) {
 
   // Filter out completed games for today's schedule
   let filteredGames = schedule.games.filter((game: Game) =>
-    game.status !== 'final' && game.status !== 'completed'
+    game.status !== 'final'
   );
 
   // Filter by sport (case-insensitive)
