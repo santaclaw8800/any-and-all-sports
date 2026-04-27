@@ -113,17 +113,39 @@
       "tournament": "Champions Tour"
     },
     {
+      "id": "seriea-737135",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Napoli",
+        "abbreviation": "NAP",
+        "record": "21-6-7"
+      },
+      "awayTeam": {
+        "name": "Bologna",
+        "abbreviation": "BOL",
+        "record": "14-6-14"
+      },
+      "startTime": "2026-05-11T18:45Z",
+      "timeET": "2:45 PM ET",
+      "channels": [
+        "Paramount+"
+      ],
+      "status": "upcoming",
+      "venue": "Stadio Diego Armando Maradona, Napoli",
+      "isNational": true
+    },
+    {
       "id": "epl-740954",
       "sport": "Soccer",
       "homeTeam": {
         "name": "Tottenham Hotspur",
         "abbreviation": "TOT",
-        "record": "7-10-16"
+        "record": "8-10-16"
       },
       "awayTeam": {
         "name": "Leeds United",
         "abbreviation": "LEE",
-        "record": "9-12-12"
+        "record": "9-13-12"
       },
       "startTime": "2026-05-11T19:00Z",
       "timeET": "3:00 PM ET",
@@ -137,12 +159,12 @@
       "homeTeam": {
         "name": "Rayo Vallecano",
         "abbreviation": "RAY",
-        "record": "8-11-12"
+        "record": "9-11-12"
       },
       "awayTeam": {
         "name": "Girona",
         "abbreviation": "GIR",
-        "record": "9-11-12"
+        "record": "9-11-13"
       },
       "startTime": "2026-05-11T19:00Z",
       "timeET": "3:00 PM ET",
@@ -159,12 +181,12 @@
       "homeTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "14-11"
+        "record": "15-13"
       },
       "awayTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "11-14"
+        "record": "12-16"
       },
       "startTime": "2026-05-11T22:10Z",
       "timeET": "6:10 PM ET",
@@ -184,12 +206,12 @@
       "homeTeam": {
         "name": "Baltimore Orioles",
         "abbreviation": "BAL",
-        "record": "11-13"
+        "record": "13-14"
       },
       "awayTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "14-9"
+        "record": "18-9"
       },
       "startTime": "2026-05-11T22:35Z",
       "timeET": "6:35 PM ET",
@@ -208,12 +230,12 @@
       "homeTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "10-13"
+        "record": "11-15"
       },
       "awayTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "12-11"
+        "record": "15-11"
       },
       "startTime": "2026-05-11T23:07Z",
       "timeET": "7:07 PM ET",
@@ -232,12 +254,12 @@
       "homeTeam": {
         "name": "Texas Rangers",
         "abbreviation": "TEX",
-        "record": "12-11"
+        "record": "14-13"
       },
       "awayTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "13-10"
+        "record": "14-12"
       },
       "startTime": "2026-05-12T00:05Z",
       "timeET": "8:05 PM ET",
@@ -256,12 +278,12 @@
       "homeTeam": {
         "name": "Houston Astros",
         "abbreviation": "HOU",
-        "record": "9-16"
+        "record": "10-18"
       },
       "awayTeam": {
         "name": "Seattle Mariners",
         "abbreviation": "SEA",
-        "record": "10-15"
+        "record": "13-15"
       },
       "startTime": "2026-05-12T00:10Z",
       "timeET": "8:10 PM ET",
@@ -281,12 +303,12 @@
       "homeTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "16-7"
+        "record": "18-9"
       },
       "awayTeam": {
         "name": "San Francisco Giants",
         "abbreviation": "SF",
-        "record": "10-13"
+        "record": "12-15"
       },
       "startTime": "2026-05-12T02:10Z",
       "timeET": "10:10 PM ET",
@@ -300,5 +322,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-04-22T15:03:53.507Z"
+  "lastUpdated": "2026-04-26T10:00:21.512Z"
 }

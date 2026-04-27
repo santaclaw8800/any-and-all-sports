@@ -61,12 +61,12 @@
       "homeTeam": {
         "name": "Detroit Tigers",
         "abbreviation": "DET",
-        "record": "12-12"
+        "record": "14-14"
       },
       "awayTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "14-11"
+        "record": "15-13"
       },
       "startTime": "2026-05-21T17:10Z",
       "timeET": "1:10 PM ET",
@@ -85,12 +85,12 @@
       "homeTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "14-9"
+        "record": "14-12"
       },
       "awayTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "13-10"
+        "record": "16-11"
       },
       "startTime": "2026-05-21T17:15Z",
       "timeET": "1:15 PM ET",
@@ -109,12 +109,12 @@
       "homeTeam": {
         "name": "Washington Nationals",
         "abbreviation": "WSH",
-        "record": "11-13"
+        "record": "12-16"
       },
       "awayTeam": {
         "name": "New York Mets",
         "abbreviation": "NYM",
-        "record": "7-16"
+        "record": "9-17"
       },
       "startTime": "2026-05-21T20:05Z",
       "timeET": "4:05 PM ET",
@@ -133,12 +133,12 @@
       "homeTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "11-13"
+        "record": "13-14"
       },
       "awayTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "16-8"
+        "record": "19-9"
       },
       "startTime": "2026-05-21T22:40Z",
       "timeET": "6:40 PM ET",
@@ -157,12 +157,12 @@
       "homeTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "14-9"
+        "record": "18-9"
       },
       "awayTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "10-13"
+        "record": "11-15"
       },
       "startTime": "2026-05-21T23:05Z",
       "timeET": "7:05 PM ET",
@@ -189,9 +189,13 @@
       },
       "startTime": "2026-05-22T00:00Z",
       "timeET": "8:00 PM ET",
-      "channels": [],
+      "channels": [
+        "Amazon Prime",
+        "WWOR-TV"
+      ],
       "status": "upcoming",
-      "venue": "Barclays Center, Brooklyn, NY"
+      "venue": "Barclays Center, Brooklyn, NY",
+      "isNational": true
     },
     {
       "id": "wnba-401856925",
@@ -216,12 +220,12 @@
       "homeTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "11-14"
+        "record": "12-16"
       },
       "awayTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "13-11"
+        "record": "14-13"
       },
       "startTime": "2026-05-22T01:38Z",
       "timeET": "9:38 PM ET",
@@ -240,12 +244,12 @@
       "homeTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "13-10"
+        "record": "14-12"
       },
       "awayTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "9-15"
+        "record": "11-16"
       },
       "startTime": "2026-05-22T01:40Z",
       "timeET": "9:40 PM ET",
@@ -271,10 +275,13 @@
       },
       "startTime": "2026-05-22T02:00Z",
       "timeET": "10:00 PM ET",
-      "channels": [],
+      "channels": [
+        "Amazon Prime"
+      ],
       "status": "upcoming",
-      "venue": "Mortgage Matchup Center, Phoenix, AZ"
+      "venue": "Mortgage Matchup Center, Phoenix, AZ",
+      "isNational": true
     }
   ],
-  "lastUpdated": "2026-04-22T15:04:08.050Z"
+  "lastUpdated": "2026-04-26T10:00:35.634Z"
 }

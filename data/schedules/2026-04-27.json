@@ -15,10 +15,11 @@
       "channels": [
         "ESPN+",
         "CBS",
+        "CNBC",
         "Golf Chnl",
         "Paramount+"
       ],
-      "status": "upcoming",
+      "status": "final",
       "isNational": true,
       "tournament": "PGA Tour"
     },
@@ -38,7 +39,7 @@
         "Golf Chnl",
         "Peacock"
       ],
-      "status": "upcoming",
+      "status": "final",
       "isNational": true,
       "tournament": "LPGA"
     },
@@ -56,7 +57,7 @@
       "channels": [
         "Golf Chnl"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "DP World Tour"
     },
@@ -75,71 +76,9 @@
         "CNBC",
         "Golf Chnl"
       ],
-      "status": "upcoming",
+      "status": "final",
       "isNational": true,
       "tournament": "Champions Tour"
-    },
-    {
-      "id": "nhl-401869760",
-      "sport": "NHL",
-      "homeTeam": {
-        "name": "Utah Mammoth",
-        "abbreviation": "UTA",
-        "record": "43-33-6"
-      },
-      "awayTeam": {
-        "name": "Vegas Golden Knights",
-        "abbreviation": "VGK",
-        "record": "39-26-17"
-      },
-      "startTime": "2026-04-27T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [
-        "ESPN",
-        "Scripps Sports",
-        "Utah 16"
-      ],
-      "status": "upcoming",
-      "venue": "Delta Center, Salt Lake City, UT",
-      "isNational": true
-    },
-    {
-      "id": "nhl-401869788",
-      "sport": "NHL",
-      "homeTeam": {
-        "name": "Carolina Hurricanes",
-        "abbreviation": "CAR",
-        "record": "53-22-7"
-      },
-      "awayTeam": {
-        "name": "Ottawa Senators",
-        "abbreviation": "OTT",
-        "record": "44-27-11"
-      },
-      "startTime": "2026-04-27T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [],
-      "status": "upcoming",
-      "venue": "Lenovo Center, Raleigh, NC"
-    },
-    {
-      "id": "nhl-401869801",
-      "sport": "NHL",
-      "homeTeam": {
-        "name": "Pittsburgh Penguins",
-        "abbreviation": "PIT",
-        "record": "41-25-16"
-      },
-      "awayTeam": {
-        "name": "Philadelphia Flyers",
-        "abbreviation": "PHI",
-        "record": "43-27-12"
-      },
-      "startTime": "2026-04-27T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [],
-      "status": "upcoming",
-      "venue": "PPG Paints Arena, Pittsburgh, PA"
     },
     {
       "id": "seriea-737122",
@@ -214,12 +153,12 @@
       "homeTeam": {
         "name": "Espanyol",
         "abbreviation": "ESP",
-        "record": "10-8-13"
+        "record": "10-8-14"
       },
       "awayTeam": {
         "name": "Levante",
         "abbreviation": "LEV",
-        "record": "7-8-16"
+        "record": "8-8-16"
       },
       "startTime": "2026-04-27T19:00Z",
       "timeET": "3:00 PM ET",
@@ -237,12 +176,12 @@
       "homeTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "14-11"
+        "record": "15-14"
       },
       "awayTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "12-11"
+        "record": "16-11"
       },
       "startTime": "2026-04-27T22:10Z",
       "timeET": "6:10 PM ET",
@@ -262,12 +201,12 @@
       "homeTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "13-10"
+        "record": "16-12"
       },
       "awayTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "14-9"
+        "record": "14-13"
       },
       "startTime": "2026-04-27T22:40Z",
       "timeET": "6:40 PM ET",
@@ -280,17 +219,41 @@
       "isNational": true
     },
     {
+      "id": "nhl-401869801",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Pittsburgh Penguins",
+        "abbreviation": "PIT",
+        "record": "41-25-16"
+      },
+      "awayTeam": {
+        "name": "Philadelphia Flyers",
+        "abbreviation": "PHI",
+        "record": "43-27-12"
+      },
+      "startTime": "2026-04-27T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN",
+        "NBC Sports",
+        "SportsNet PIT"
+      ],
+      "status": "upcoming",
+      "venue": "PPG Paints Arena, Pittsburgh, PA",
+      "isNational": true
+    },
+    {
       "id": "mlb-401815110",
       "sport": "MLB",
       "homeTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "10-13"
+        "record": "12-15"
       },
       "awayTeam": {
         "name": "Boston Red Sox",
         "abbreviation": "BOS",
-        "record": "9-14"
+        "record": "11-17"
       },
       "startTime": "2026-04-27T23:07Z",
       "timeET": "7:07 PM ET",
@@ -309,12 +272,12 @@
       "homeTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "9-14"
+        "record": "11-17"
       },
       "awayTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "11-14"
+        "record": "12-17"
       },
       "startTime": "2026-04-27T23:40Z",
       "timeET": "7:40 PM ET",
@@ -333,12 +296,12 @@
       "homeTeam": {
         "name": "Minnesota Twins",
         "abbreviation": "MIN",
-        "record": "12-11"
+        "record": "12-16"
       },
       "awayTeam": {
         "name": "Seattle Mariners",
         "abbreviation": "SEA",
-        "record": "10-15"
+        "record": "14-15"
       },
       "startTime": "2026-04-27T23:40Z",
       "timeET": "7:40 PM ET",
@@ -381,14 +344,17 @@
       "homeTeam": {
         "name": "Minnesota Lynx",
         "abbreviation": "MIN",
-        "record": "0-0"
+        "record": "1-0"
       },
       "awayTeam": {
-        "name": "Nigeria"
+        "name": "Nigeria",
+        "abbreviation": "NIGERIA"
       },
       "startTime": "2026-04-28T00:00Z",
       "timeET": "8:00 PM ET",
-      "channels": [],
+      "channels": [
+        "Victory+"
+      ],
       "status": "upcoming",
       "venue": "T-Mobile Center, Kansas City, MO"
     },
@@ -398,12 +364,12 @@
       "homeTeam": {
         "name": "Texas Rangers",
         "abbreviation": "TEX",
-        "record": "12-11"
+        "record": "14-14"
       },
       "awayTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "14-9"
+        "record": "18-10"
       },
       "startTime": "2026-04-28T00:05Z",
       "timeET": "8:05 PM ET",
@@ -432,11 +398,35 @@
       "startTime": "2026-04-28T01:30Z",
       "timeET": "9:30 PM ET",
       "channels": [
-        "Peacock",
-        "NBCSN"
+        "NBCSN",
+        "Peacock"
       ],
       "status": "upcoming",
       "venue": "Mortgage Matchup Center, Phoenix, AZ",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401869760",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Utah Mammoth",
+        "abbreviation": "UTA",
+        "record": "43-33-6"
+      },
+      "awayTeam": {
+        "name": "Vegas Golden Knights",
+        "abbreviation": "VGK",
+        "record": "39-26-17"
+      },
+      "startTime": "2026-04-28T01:30Z",
+      "timeET": "9:30 PM ET",
+      "channels": [
+        "ESPN",
+        "Scripps Sports",
+        "Utah 16"
+      ],
+      "status": "upcoming",
+      "venue": "Delta Center, Salt Lake City, UT",
       "isNational": true
     },
     {
@@ -445,12 +435,12 @@
       "homeTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "16-7"
+        "record": "18-9"
       },
       "awayTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "14-9"
+        "record": "17-11"
       },
       "startTime": "2026-04-28T01:40Z",
       "timeET": "9:40 PM ET",
@@ -469,12 +459,12 @@
       "homeTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "16-7"
+        "record": "19-9"
       },
       "awayTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "11-13"
+        "record": "13-15"
       },
       "startTime": "2026-04-28T02:10Z",
       "timeET": "10:10 PM ET",
@@ -512,5 +502,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-04-22T15:03:28.486Z"
+  "lastUpdated": "2026-04-27T05:00:03.722Z"
 }
