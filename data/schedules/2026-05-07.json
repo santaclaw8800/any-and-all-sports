@@ -100,12 +100,12 @@
       "homeTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "18-9"
+        "record": "22-11"
       },
       "awayTeam": {
         "name": "Texas Rangers",
         "abbreviation": "TEX",
-        "record": "14-13"
+        "record": "16-17"
       },
       "startTime": "2026-05-07T16:35Z",
       "timeET": "12:35 PM ET",
@@ -125,12 +125,12 @@
       "homeTeam": {
         "name": "Washington Nationals",
         "abbreviation": "WSH",
-        "record": "12-16"
+        "record": "15-19"
       },
       "awayTeam": {
         "name": "Minnesota Twins",
         "abbreviation": "MIN",
-        "record": "12-15"
+        "record": "14-20"
       },
       "startTime": "2026-05-07T17:05Z",
       "timeET": "1:05 PM ET",
@@ -149,12 +149,12 @@
       "homeTeam": {
         "name": "Kansas City Royals",
         "abbreviation": "KC",
-        "record": "10-17"
+        "record": "14-19"
       },
       "awayTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "15-13"
+        "record": "18-16"
       },
       "startTime": "2026-05-07T18:10Z",
       "timeET": "2:10 PM ET",
@@ -173,12 +173,12 @@
       "homeTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "17-10"
+        "record": "21-12"
       },
       "awayTeam": {
         "name": "Cincinnati Reds",
         "abbreviation": "CIN",
-        "record": "18-9"
+        "record": "20-13"
       },
       "startTime": "2026-05-07T18:20Z",
       "timeET": "2:20 PM ET",
@@ -197,12 +197,12 @@
       "homeTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "14-12"
+        "record": "16-16"
       },
       "awayTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "16-11"
+        "record": "18-16"
       },
       "startTime": "2026-05-07T19:40Z",
       "timeET": "3:40 PM ET",
@@ -220,12 +220,12 @@
       "homeTeam": {
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI",
-        "record": "9-18"
+        "record": "13-20"
       },
       "awayTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "14-13"
+        "record": "17-16"
       },
       "startTime": "2026-05-07T22:40Z",
       "timeET": "6:40 PM ET",
@@ -243,12 +243,12 @@
       "homeTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "13-14"
+        "record": "16-17"
       },
       "awayTeam": {
         "name": "Baltimore Orioles",
         "abbreviation": "BAL",
-        "record": "13-14"
+        "record": "15-18"
       },
       "startTime": "2026-05-07T22:40Z",
       "timeET": "6:40 PM ET",
@@ -262,17 +262,36 @@
       "isNational": true
     },
     {
+      "id": "nba-401871334",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "TBD",
+        "abbreviation": "TBD"
+      },
+      "awayTeam": {
+        "name": "TBD",
+        "abbreviation": "TBD"
+      },
+      "startTime": "2026-05-07T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "Amazon Prime"
+      ],
+      "status": "upcoming",
+      "isNational": true
+    },
+    {
       "id": "mlb-401815247",
       "sport": "MLB",
       "homeTeam": {
         "name": "Boston Red Sox",
         "abbreviation": "BOS",
-        "record": "10-17"
+        "record": "13-20"
       },
       "awayTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "15-11"
+        "record": "20-12"
       },
       "startTime": "2026-05-07T23:00Z",
       "timeET": "7:00 PM ET",
@@ -284,17 +303,63 @@
       "isNational": true
     },
     {
+      "id": "nhl-401871412",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Philadelphia Flyers",
+        "abbreviation": "PHI",
+        "record": "43-27-12"
+      },
+      "awayTeam": {
+        "name": "Carolina Hurricanes",
+        "abbreviation": "CAR",
+        "record": "53-22-7"
+      },
+      "startTime": "2026-05-08T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "TNT",
+        "truTV",
+        "Max"
+      ],
+      "status": "upcoming",
+      "venue": "Xfinity Mobile Arena, Philadelphia, PA",
+      "isNational": true
+    },
+    {
+      "id": "nba-401871327",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Oklahoma City Thunder",
+        "abbreviation": "OKC",
+        "record": "64-18"
+      },
+      "awayTeam": {
+        "name": "Los Angeles Lakers",
+        "abbreviation": "LAL",
+        "record": "53-29"
+      },
+      "startTime": "2026-05-08T01:30Z",
+      "timeET": "9:30 PM ET",
+      "channels": [
+        "Amazon Prime"
+      ],
+      "status": "upcoming",
+      "venue": "Paycom Center, Oklahoma City, OK",
+      "isNational": true
+    },
+    {
       "id": "mlb-401815252",
       "sport": "MLB",
       "homeTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "18-8"
+        "record": "19-13"
       },
       "awayTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "14-12"
+        "record": "20-13"
       },
       "startTime": "2026-05-08T02:00Z",
       "timeET": "10:00 PM ET",
@@ -306,5 +371,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-04-26T10:00:15.225Z"
+  "lastUpdated": "2026-05-03T10:00:10.923Z"
 }

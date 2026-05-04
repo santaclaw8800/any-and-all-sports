@@ -2,17 +2,55 @@
   "date": "2026-05-19",
   "games": [
     {
+      "id": "epl-740958",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "AFC Bournemouth",
+        "abbreviation": "BOU",
+        "record": "11-16-7"
+      },
+      "awayTeam": {
+        "name": "Manchester City",
+        "abbreviation": "MNC",
+        "record": "21-7-5"
+      },
+      "startTime": "2026-05-19T18:30Z",
+      "timeET": "2:30 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Vitality Stadium, Bournemouth"
+    },
+    {
+      "id": "epl-740960",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Chelsea",
+        "abbreviation": "CHE",
+        "record": "13-9-12"
+      },
+      "awayTeam": {
+        "name": "Tottenham Hotspur",
+        "abbreviation": "TOT",
+        "record": "8-10-16"
+      },
+      "startTime": "2026-05-19T19:15Z",
+      "timeET": "3:15 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Stamford Bridge, London"
+    },
+    {
       "id": "mlb-401815404",
       "sport": "MLB",
       "homeTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "13-14"
+        "record": "16-17"
       },
       "awayTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "19-9"
+        "record": "24-10"
       },
       "startTime": "2026-05-19T20:10Z",
       "timeET": "4:10 PM ET",
@@ -32,12 +70,12 @@
       "homeTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "15-11"
+        "record": "20-12"
       },
       "awayTeam": {
         "name": "Baltimore Orioles",
         "abbreviation": "BAL",
-        "record": "13-14"
+        "record": "15-18"
       },
       "startTime": "2026-05-19T22:40Z",
       "timeET": "6:40 PM ET",
@@ -56,12 +94,12 @@
       "homeTeam": {
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI",
-        "record": "9-18"
+        "record": "13-20"
       },
       "awayTeam": {
         "name": "Cincinnati Reds",
         "abbreviation": "CIN",
-        "record": "18-9"
+        "record": "20-13"
       },
       "startTime": "2026-05-19T22:40Z",
       "timeET": "6:40 PM ET",
@@ -80,12 +118,12 @@
       "homeTeam": {
         "name": "Detroit Tigers",
         "abbreviation": "DET",
-        "record": "14-14"
+        "record": "17-17"
       },
       "awayTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "15-13"
+        "record": "18-16"
       },
       "startTime": "2026-05-19T22:40Z",
       "timeET": "6:40 PM ET",
@@ -104,12 +142,12 @@
       "homeTeam": {
         "name": "Washington Nationals",
         "abbreviation": "WSH",
-        "record": "12-16"
+        "record": "15-19"
       },
       "awayTeam": {
         "name": "New York Mets",
         "abbreviation": "NYM",
-        "record": "9-17"
+        "record": "11-22"
       },
       "startTime": "2026-05-19T22:45Z",
       "timeET": "6:45 PM ET",
@@ -128,12 +166,12 @@
       "homeTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "18-9"
+        "record": "22-11"
       },
       "awayTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "11-15"
+        "record": "16-17"
       },
       "startTime": "2026-05-19T23:05Z",
       "timeET": "7:05 PM ET",
@@ -153,12 +191,12 @@
       "homeTeam": {
         "name": "Kansas City Royals",
         "abbreviation": "KC",
-        "record": "10-17"
+        "record": "14-19"
       },
       "awayTeam": {
         "name": "Boston Red Sox",
         "abbreviation": "BOS",
-        "record": "10-17"
+        "record": "13-20"
       },
       "startTime": "2026-05-19T23:40Z",
       "timeET": "7:40 PM ET",
@@ -177,12 +215,12 @@
       "homeTeam": {
         "name": "Minnesota Twins",
         "abbreviation": "MIN",
-        "record": "12-15"
+        "record": "14-20"
       },
       "awayTeam": {
         "name": "Houston Astros",
         "abbreviation": "HOU",
-        "record": "10-18"
+        "record": "13-21"
       },
       "startTime": "2026-05-19T23:40Z",
       "timeET": "7:40 PM ET",
@@ -203,12 +241,12 @@
       "homeTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "17-10"
+        "record": "21-12"
       },
       "awayTeam": {
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL",
-        "record": "13-13"
+        "record": "18-14"
       },
       "startTime": "2026-05-19T23:40Z",
       "timeET": "7:40 PM ET",
@@ -227,12 +265,12 @@
       "homeTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "14-12"
+        "record": "20-13"
       },
       "awayTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "16-11"
+        "record": "18-16"
       },
       "startTime": "2026-05-19T23:45Z",
       "timeET": "7:45 PM ET",
@@ -250,12 +288,12 @@
       "homeTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "11-16"
+        "record": "14-20"
       },
       "awayTeam": {
         "name": "Texas Rangers",
         "abbreviation": "TEX",
-        "record": "14-13"
+        "record": "16-17"
       },
       "startTime": "2026-05-20T00:40Z",
       "timeET": "8:40 PM ET",
@@ -274,19 +312,19 @@
       "homeTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "12-16"
+        "record": "13-21"
       },
       "awayTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "14-13"
+        "record": "17-16"
       },
       "startTime": "2026-05-20T01:38Z",
       "timeET": "9:38 PM ET",
       "channels": [
         "MLB.TV",
-        "FanDuel Sports Network",
-        "NBC Sports"
+        "NBC Sports",
+        "Angels.TV"
       ],
       "status": "upcoming",
       "venue": "Angel Stadium, Anaheim, California",
@@ -298,12 +336,12 @@
       "homeTeam": {
         "name": "Seattle Mariners",
         "abbreviation": "SEA",
-        "record": "13-15"
+        "record": "16-18"
       },
       "awayTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "11-16"
+        "record": "16-17"
       },
       "startTime": "2026-05-20T01:40Z",
       "timeET": "9:40 PM ET",
@@ -322,12 +360,12 @@
       "homeTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "18-8"
+        "record": "19-13"
       },
       "awayTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "18-9"
+        "record": "20-13"
       },
       "startTime": "2026-05-20T01:40Z",
       "timeET": "9:40 PM ET",
@@ -346,12 +384,12 @@
       "homeTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "14-12"
+        "record": "16-16"
       },
       "awayTeam": {
         "name": "San Francisco Giants",
         "abbreviation": "SF",
-        "record": "12-15"
+        "record": "13-20"
       },
       "startTime": "2026-05-20T01:40Z",
       "timeET": "9:40 PM ET",
@@ -382,5 +420,5 @@
       "venue": "Mortgage Matchup Center, Phoenix, AZ"
     }
   ],
-  "lastUpdated": "2026-04-26T10:00:32.962Z"
+  "lastUpdated": "2026-05-03T10:00:27.744Z"
 }
