@@ -1,0 +1,337 @@
+{
+  "date": "2026-06-04",
+  "games": [
+    {
+      "id": "pga-401811950",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "the Memorial Tournament pres. by Workday"
+      },
+      "awayTeam": {
+        "name": "PGA Tour"
+      },
+      "startTime": "2026-06-04T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "ESPN+",
+        "CBS",
+        "Golf Chnl",
+        "Paramount+"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "PGA Tour"
+    },
+    {
+      "id": "lpga-401835158",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "U.S. Women's Open pres. by Ally"
+      },
+      "awayTeam": {
+        "name": "LPGA"
+      },
+      "startTime": "2026-06-04T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [],
+      "status": "upcoming",
+      "tournament": "LPGA"
+    },
+    {
+      "id": "liv-401809165",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "LIV Golf Andalucía"
+      },
+      "awayTeam": {
+        "name": "LIV Golf"
+      },
+      "startTime": "2026-06-04T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "FS1",
+        "FS2"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "LIV Golf"
+    },
+    {
+      "id": "dpwt-401822694",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "KLM Open"
+      },
+      "awayTeam": {
+        "name": "DP World Tour"
+      },
+      "startTime": "2026-06-04T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [],
+      "status": "upcoming",
+      "tournament": "DP World Tour"
+    },
+    {
+      "id": "mlb-401815621",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Philadelphia Phillies",
+        "abbreviation": "PHI",
+        "record": "18-22"
+      },
+      "awayTeam": {
+        "name": "San Diego Padres",
+        "abbreviation": "SD",
+        "record": "23-16"
+      },
+      "startTime": "2026-06-04T17:05Z",
+      "timeET": "1:05 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Padres.TV",
+        "NBC 10"
+      ],
+      "status": "upcoming",
+      "venue": "Citizens Bank Park, Philadelphia, Pennsylvania",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401815619",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Boston Red Sox",
+        "abbreviation": "BOS",
+        "record": "17-22"
+      },
+      "awayTeam": {
+        "name": "Baltimore Orioles",
+        "abbreviation": "BAL",
+        "record": "17-23"
+      },
+      "startTime": "2026-06-04T17:35Z",
+      "timeET": "1:35 PM ET",
+      "channels": [
+        "MLB.TV",
+        "MASN",
+        "NESN"
+      ],
+      "status": "upcoming",
+      "venue": "Fenway Park, Boston, Massachusetts",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401815620",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "New York Yankees",
+        "abbreviation": "NYY",
+        "record": "26-14"
+      },
+      "awayTeam": {
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE",
+        "record": "21-20"
+      },
+      "startTime": "2026-06-04T17:35Z",
+      "timeET": "1:35 PM ET",
+      "channels": [
+        "MLB.TV",
+        "CLEGuardians.TV",
+        "YES"
+      ],
+      "status": "upcoming",
+      "venue": "Yankee Stadium, Bronx, New York",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401815626",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL",
+        "record": "21-16"
+      },
+      "awayTeam": {
+        "name": "San Francisco Giants",
+        "abbreviation": "SF",
+        "record": "15-24"
+      },
+      "startTime": "2026-06-04T18:10Z",
+      "timeET": "2:10 PM ET",
+      "channels": [
+        "MLB.TV",
+        "NBC Sports",
+        "Brewers.TV"
+      ],
+      "status": "upcoming",
+      "venue": "American Family Field, Milwaukee, Wisconsin",
+      "isNational": true
+    },
+    {
+      "id": "wnba-401856961",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Indiana Fever",
+        "abbreviation": "IND",
+        "record": "0-1"
+      },
+      "awayTeam": {
+        "name": "Atlanta Dream",
+        "abbreviation": "ATL",
+        "record": "1-0"
+      },
+      "startTime": "2026-06-04T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "Amazon Prime"
+      ],
+      "status": "upcoming",
+      "venue": "Gainbridge Fieldhouse, Indianapolis, IN",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401815622",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL",
+        "record": "27-13"
+      },
+      "awayTeam": {
+        "name": "Toronto Blue Jays",
+        "abbreviation": "TOR",
+        "record": "18-21"
+      },
+      "startTime": "2026-06-04T23:15Z",
+      "timeET": "7:15 PM ET",
+      "channels": [
+        "MLB.TV",
+        "BravesVision",
+        "Sportsnet"
+      ],
+      "status": "upcoming",
+      "venue": "Truist Park, Atlanta, Georgia",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401815624",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Minnesota Twins",
+        "abbreviation": "MIN",
+        "record": "17-23"
+      },
+      "awayTeam": {
+        "name": "Kansas City Royals",
+        "abbreviation": "KC",
+        "record": "19-21"
+      },
+      "startTime": "2026-06-04T23:40Z",
+      "timeET": "7:40 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Twins.TV",
+        "Royals.TV"
+      ],
+      "status": "upcoming",
+      "venue": "Target Field, Minneapolis, Minnesota",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401815623",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Chicago Cubs",
+        "abbreviation": "CHC",
+        "record": "27-13"
+      },
+      "awayTeam": {
+        "name": "Athletics",
+        "abbreviation": "ATH",
+        "record": "21-18"
+      },
+      "startTime": "2026-06-05T00:05Z",
+      "timeET": "8:05 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Marquee Sports Net",
+        "NBC Sports"
+      ],
+      "status": "upcoming",
+      "venue": "Wrigley Field, Chicago, Illinois",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401815625",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Houston Astros",
+        "abbreviation": "HOU",
+        "record": "16-24"
+      },
+      "awayTeam": {
+        "name": "Pittsburgh Pirates",
+        "abbreviation": "PIT",
+        "record": "22-18"
+      },
+      "startTime": "2026-06-05T00:10Z",
+      "timeET": "8:10 PM ET",
+      "channels": [
+        "MLB.TV",
+        "FS1",
+        "Space City Home Network",
+        "Space City Home (Alt.)"
+      ],
+      "status": "upcoming",
+      "venue": "Daikin Park, Houston, Texas",
+      "isNational": true
+    },
+    {
+      "id": "wnba-401856962",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Minnesota Lynx",
+        "abbreviation": "MIN",
+        "record": "0-1"
+      },
+      "awayTeam": {
+        "name": "Golden State Valkyries",
+        "abbreviation": "GS",
+        "record": "1-0"
+      },
+      "startTime": "2026-06-05T01:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "Amazon Prime"
+      ],
+      "status": "upcoming",
+      "venue": "Target Center, Minneapolis, MN",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401815627",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Arizona Diamondbacks",
+        "abbreviation": "ARI",
+        "record": "18-20"
+      },
+      "awayTeam": {
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD",
+        "record": "24-15"
+      },
+      "startTime": "2026-06-05T01:40Z",
+      "timeET": "9:40 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Sportsnet",
+        "DBACKS.TV"
+      ],
+      "status": "upcoming",
+      "venue": "Chase Field, Phoenix, Arizona",
+      "isNational": true
+    }
+  ],
+  "lastUpdated": "2026-05-10T10:00:39.272Z"
+}
