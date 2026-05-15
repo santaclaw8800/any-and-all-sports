@@ -74,7 +74,7 @@
       "awayTeam": {
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI",
-        "record": "20-23"
+        "record": "21-23"
       },
       "startTime": "2026-05-15T22:40Z",
       "timeET": "6:40 PM ET",
@@ -259,12 +259,12 @@
       "homeTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "30-13"
+        "record": "30-14"
       },
       "awayTeam": {
         "name": "Boston Red Sox",
         "abbreviation": "BOS",
-        "record": "18-24"
+        "record": "18-25"
       },
       "startTime": "2026-05-15T23:15Z",
       "timeET": "7:15 PM ET",
@@ -330,12 +330,12 @@
       "homeTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "21-21"
+        "record": "22-21"
       },
       "awayTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "27-16"
+        "record": "28-16"
       },
       "startTime": "2026-05-15T23:40Z",
       "timeET": "7:40 PM ET",
@@ -384,7 +384,7 @@
       "awayTeam": {
         "name": "Kansas City Royals",
         "abbreviation": "KC",
-        "record": "19-24"
+        "record": "19-25"
       },
       "startTime": "2026-05-16T00:15Z",
       "timeET": "8:15 PM ET",
@@ -455,7 +455,7 @@
       "awayTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "25-18"
+        "record": "26-18"
       },
       "startTime": "2026-05-16T01:38Z",
       "timeET": "9:38 PM ET",
@@ -505,7 +505,7 @@
       "awayTeam": {
         "name": "San Francisco Giants",
         "abbreviation": "SF",
-        "record": "18-25"
+        "record": "18-26"
       },
       "startTime": "2026-05-16T01:40Z",
       "timeET": "9:40 PM ET",
@@ -566,5 +566,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-05-15T00:05:22.217Z"
+  "lastUpdated": "2026-05-15T10:00:04.463Z"
 }
