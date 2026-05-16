@@ -2,24 +2,20 @@
   "date": "2026-05-16",
   "slides": [
     {
-      "title": "Saturday overview",
-      "body": "Golf, Bundesliga, MLS, MLB, and combat sports make this one of the biggest slates."
+      "title": "Early Golf",
+      "body": "PGA Championship and LPGA coverage starts at 12:00 AM ET on ESPN, ESPN2, ESPN+, and Golf Channel."
     },
     {
-      "title": "Golf watch info",
-      "body": "PGA Championship is on ESPN/ESPN2/ESPN+. LPGA coverage is on Golf Channel."
+      "title": "Bundesliga Morning",
+      "body": "All nine Bundesliga matches kick at 9:30 AM ET on ESPN+."
     },
     {
-      "title": "Soccer morning window",
-      "body": "Nine Bundesliga matches at 9:30 AM ET on ESPN+."
+      "title": "MLB Afternoon",
+      "body": "Blue Jays-Tigers, Orioles-Nationals, Phillies-Pirates, and more all day on MLB.TV and select TV."
     },
     {
-      "title": "MLB afternoon board",
-      "body": "Blue Jays-Tigers, Orioles-Nationals, Phillies-Pirates, and more on MLB.TV."
-    },
-    {
-      "title": "More to watch",
-      "body": "Chicago Fire at CF Montréal closes the day on Apple TV. Follow @any_and_all_sports."
+      "title": "MLS Late Day",
+      "body": "Chicago Fire FC at CF Montréal starts 4:30 PM ET on Apple TV."
     }
   ],
   "pngFiles": [
@@ -33,5 +29,5 @@
     "slide-8.png",
     "slide-9.png"
   ],
-  "generatedAt": "2026-05-15T00:05:36.798Z"
+  "generatedAt": "2026-05-16T10:00:15.217Z"
 }

@@ -247,12 +247,12 @@
         "homeTeam": {
           "name": "Detroit Tigers",
           "abbreviation": "DET",
-          "record": "19-25"
+          "record": "20-25"
         },
         "awayTeam": {
           "name": "Toronto Blue Jays",
           "abbreviation": "TOR",
-          "record": "19-24"
+          "record": "19-25"
         },
         "startTime": "2026-05-16T17:10Z",
         "timeET": "1:10 PM ET",
@@ -274,12 +274,12 @@
         "homeTeam": {
           "name": "St. Louis Cardinals",
           "abbreviation": "STL",
-          "record": "25-18"
+          "record": "26-18"
         },
         "awayTeam": {
           "name": "Kansas City Royals",
           "abbreviation": "KC",
-          "record": "19-24"
+          "record": "19-26"
         },
         "startTime": "2026-05-16T18:15Z",
         "timeET": "2:15 PM ET",
@@ -298,12 +298,12 @@
         "homeTeam": {
           "name": "Colorado Rockies",
           "abbreviation": "COL",
-          "record": "17-27"
+          "record": "17-28"
         },
         "awayTeam": {
           "name": "Arizona Diamondbacks",
           "abbreviation": "ARI",
-          "record": "20-22"
+          "record": "21-22"
         },
         "startTime": "2026-05-16T19:10Z",
         "timeET": "3:10 PM ET",
@@ -322,12 +322,12 @@
         "homeTeam": {
           "name": "Washington Nationals",
           "abbreviation": "WSH",
-          "record": "21-23"
+          "record": "22-23"
         },
         "awayTeam": {
           "name": "Baltimore Orioles",
           "abbreviation": "BAL",
-          "record": "20-24"
+          "record": "20-25"
         },
         "startTime": "2026-05-16T20:05Z",
         "timeET": "4:05 PM ET",
@@ -347,12 +347,12 @@
         "homeTeam": {
           "name": "Pittsburgh Pirates",
           "abbreviation": "PIT",
-          "record": "24-20"
+          "record": "24-21"
         },
         "awayTeam": {
           "name": "Philadelphia Phillies",
           "abbreviation": "PHI",
-          "record": "20-23"
+          "record": "22-23"
         },
         "startTime": "2026-05-16T20:05Z",
         "timeET": "4:05 PM ET",
@@ -370,12 +370,12 @@
         "homeTeam": {
           "name": "Tampa Bay Rays",
           "abbreviation": "TB",
-          "record": "28-14"
+          "record": "29-14"
         },
         "awayTeam": {
           "name": "Miami Marlins",
           "abbreviation": "MIA",
-          "record": "20-24"
+          "record": "20-25"
         },
         "startTime": "2026-05-16T20:10Z",
         "timeET": "4:10 PM ET",
@@ -412,28 +412,6 @@
         "tournament": "MLS"
       },
       {
-        "id": "nhl-401871429",
-        "sport": "NHL",
-        "homeTeam": {
-          "name": "Vegas Golden Knights",
-          "abbreviation": "VGK",
-          "record": "39-26-17"
-        },
-        "awayTeam": {
-          "name": "Anaheim Ducks",
-          "abbreviation": "ANA",
-          "record": "43-33-6"
-        },
-        "startTime": "2026-05-16T21:00Z",
-        "timeET": "5:00 PM ET",
-        "channels": [
-          "ESPN"
-        ],
-        "status": "upcoming",
-        "venue": "T-Mobile Arena, Las Vegas, NV",
-        "isNational": true
-      },
-      {
         "id": "ufc-600058948",
         "sport": "MMA/UFC",
         "homeTeam": {
@@ -459,12 +437,12 @@
         "homeTeam": {
           "name": "Cleveland Guardians",
           "abbreviation": "CLE",
-          "record": "24-21"
+          "record": "24-22"
         },
         "awayTeam": {
           "name": "Cincinnati Reds",
           "abbreviation": "CIN",
-          "record": "23-21"
+          "record": "24-21"
         },
         "startTime": "2026-05-16T22:10Z",
         "timeET": "6:10 PM ET",
@@ -483,12 +461,12 @@
         "homeTeam": {
           "name": "Chicago White Sox",
           "abbreviation": "CHW",
-          "record": "21-21"
+          "record": "22-22"
         },
         "awayTeam": {
           "name": "Chicago Cubs",
           "abbreviation": "CHC",
-          "record": "27-16"
+          "record": "29-16"
         },
         "startTime": "2026-05-16T23:10Z",
         "timeET": "7:10 PM ET",
@@ -508,12 +486,12 @@
         "homeTeam": {
           "name": "Minnesota Twins",
           "abbreviation": "MIN",
-          "record": "20-24"
+          "record": "20-25"
         },
         "awayTeam": {
           "name": "Milwaukee Brewers",
           "abbreviation": "MIL",
-          "record": "24-17"
+          "record": "25-17"
         },
         "startTime": "2026-05-16T23:10Z",
         "timeET": "7:10 PM ET",
@@ -532,12 +510,12 @@
         "homeTeam": {
           "name": "Houston Astros",
           "abbreviation": "HOU",
-          "record": "17-28"
+          "record": "18-28"
         },
         "awayTeam": {
           "name": "Texas Rangers",
           "abbreviation": "TEX",
-          "record": "21-22"
+          "record": "21-23"
         },
         "startTime": "2026-05-16T23:10Z",
         "timeET": "7:10 PM ET",
@@ -556,12 +534,12 @@
         "homeTeam": {
           "name": "Atlanta Braves",
           "abbreviation": "ATL",
-          "record": "30-13"
+          "record": "31-14"
         },
         "awayTeam": {
           "name": "Boston Red Sox",
           "abbreviation": "BOS",
-          "record": "18-24"
+          "record": "18-26"
         },
         "startTime": "2026-05-16T23:15Z",
         "timeET": "7:15 PM ET",
@@ -581,12 +559,12 @@
         "homeTeam": {
           "name": "New York Mets",
           "abbreviation": "NYM",
-          "record": "18-25"
+          "record": "18-26"
         },
         "awayTeam": {
           "name": "New York Yankees",
           "abbreviation": "NYY",
-          "record": "27-17"
+          "record": "28-17"
         },
         "startTime": "2026-05-16T23:15Z",
         "timeET": "7:15 PM ET",
@@ -604,12 +582,12 @@
         "homeTeam": {
           "name": "Seattle Mariners",
           "abbreviation": "SEA",
-          "record": "22-23"
+          "record": "22-24"
         },
         "awayTeam": {
           "name": "San Diego Padres",
           "abbreviation": "SD",
-          "record": "25-18"
+          "record": "26-18"
         },
         "startTime": "2026-05-16T23:15Z",
         "timeET": "7:15 PM ET",
@@ -903,12 +881,12 @@
         "homeTeam": {
           "name": "Los Angeles Angels",
           "abbreviation": "LAA",
-          "record": "16-28"
+          "record": "16-29"
         },
         "awayTeam": {
           "name": "Los Angeles Dodgers",
           "abbreviation": "LAD",
-          "record": "25-18"
+          "record": "27-18"
         },
         "startTime": "2026-05-17T01:38Z",
         "timeET": "9:38 PM ET",
@@ -928,12 +906,12 @@
         "homeTeam": {
           "name": "Athletics",
           "abbreviation": "ATH",
-          "record": "22-21"
+          "record": "23-21"
         },
         "awayTeam": {
           "name": "San Francisco Giants",
           "abbreviation": "SF",
-          "record": "18-25"
+          "record": "18-27"
         },
         "startTime": "2026-05-17T01:40Z",
         "timeET": "9:40 PM ET",
@@ -969,46 +947,41 @@
         "tournament": "MLS"
       }
     ],
-    "lastUpdated": "2026-05-15T00:05:22.775Z"
+    "lastUpdated": "2026-05-16T10:00:07.139Z"
   },
   "social": {
-    "caption": "Saturday is stacked: PGA Championship, LPGA, Bundesliga morning matches on ESPN+, MLS, MLB, and a UFC/MMA card later. Watch on ESPN/ESPN+, FS1, MLB.TV, Apple TV, and more. Follow @any_and_all_sports for the full schedule.",
+    "caption": "Saturday is loaded: PGA Championship and LPGA start early, Bundesliga and MLS hit ESPN+ and Apple TV, then a full MLB slate rolls through the afternoon. Catch the action on ESPN, ESPN+, Golf Channel, MLB.TV, FS1, Apple TV, and more. Follow @any_and_all_sports for the daily schedule.",
     "hashtags": [
       "#SportsSchedule",
-      "#Golf",
+      "#DailySports",
       "#PGAChampionship",
       "#LPGA",
-      "#Soccer",
       "#Bundesliga",
       "#MLS",
       "#MLB",
-      "#UFC",
-      "#MMA",
       "#ESPNPlus",
-      "#FS1",
+      "#GolfChannel",
+      "#MLBTV",
       "#AppleTV",
+      "#FS1",
       "#AnyAndAllSports"
     ],
     "slides": [
       {
-        "title": "Saturday overview",
-        "body": "Golf, Bundesliga, MLS, MLB, and combat sports make this one of the biggest slates."
+        "title": "Early Golf",
+        "body": "PGA Championship and LPGA coverage starts at 12:00 AM ET on ESPN, ESPN2, ESPN+, and Golf Channel."
       },
       {
-        "title": "Golf watch info",
-        "body": "PGA Championship is on ESPN/ESPN2/ESPN+. LPGA coverage is on Golf Channel."
+        "title": "Bundesliga Morning",
+        "body": "All nine Bundesliga matches kick at 9:30 AM ET on ESPN+."
       },
       {
-        "title": "Soccer morning window",
-        "body": "Nine Bundesliga matches at 9:30 AM ET on ESPN+."
+        "title": "MLB Afternoon",
+        "body": "Blue Jays-Tigers, Orioles-Nationals, Phillies-Pirates, and more all day on MLB.TV and select TV."
       },
       {
-        "title": "MLB afternoon board",
-        "body": "Blue Jays-Tigers, Orioles-Nationals, Phillies-Pirates, and more on MLB.TV."
-      },
-      {
-        "title": "More to watch",
-        "body": "Chicago Fire at CF Montréal closes the day on Apple TV. Follow @any_and_all_sports."
+        "title": "MLS Late Day",
+        "body": "Chicago Fire FC at CF Montréal starts 4:30 PM ET on Apple TV."
       }
     ],
     "pngFiles": [
@@ -1023,5 +996,5 @@
       "slide-9.png"
     ]
   },
-  "lastUpdated": "2026-05-15T00:05:36.798Z"
+  "lastUpdated": "2026-05-16T10:00:15.217Z"
 }
