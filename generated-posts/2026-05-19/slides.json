@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-19",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "19 events across Soccer, MLB, NBA, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Manchester City at AFC Bournemouth 2:30 PM ET on USA Net / Universo"
+    },
+    {
+      "title": "Game 2",
+      "body": "Tottenham Hotspur at Chelsea 3:15 PM ET on Peacock"
+    },
+    {
+      "title": "Game 3",
+      "body": "Atlanta Braves at Miami Marlins 4:10 PM ET on ESPN Unlmtd / MLB.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Baltimore Orioles at Tampa Bay Rays 6:40 PM ET on MLB.TV / Rays.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Cincinnati Reds at Philadelphia Phillies 6:40 PM ET on MLB.TV / Reds.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-05-18T03:30:21.191Z"
+}
