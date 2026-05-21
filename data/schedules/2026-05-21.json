@@ -2,29 +2,6 @@
   "date": "2026-05-21",
   "games": [
     {
-      "id": "nhl-401873383",
-      "sport": "NHL",
-      "homeTeam": {
-        "name": "Carolina Hurricanes",
-        "abbreviation": "CAR",
-        "record": "53-22-7"
-      },
-      "awayTeam": {
-        "name": "Sabres/Canadiens",
-        "abbreviation": "Sabres/Canadiens"
-      },
-      "startTime": "2026-05-21T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [
-        "TNT",
-        "truTV",
-        "Max"
-      ],
-      "status": "upcoming",
-      "venue": "Lenovo Center, Raleigh, NC",
-      "isNational": true
-    },
-    {
       "id": "pga-401811948",
       "sport": "Golf",
       "homeTeam": {
@@ -59,7 +36,7 @@
       "channels": [
         "Golf Chnl"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "Champions Tour"
     },
@@ -74,8 +51,11 @@
       },
       "startTime": "2026-05-21T04:00Z",
       "timeET": "12:00 AM ET",
-      "channels": [],
+      "channels": [
+        "Golf Chnl"
+      ],
       "status": "upcoming",
+      "isNational": true,
       "tournament": "DP World Tour"
     },
     {
@@ -84,12 +64,12 @@
       "homeTeam": {
         "name": "Detroit Tigers",
         "abbreviation": "DET",
-        "record": "20-27"
+        "record": "20-30"
       },
       "awayTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "26-22"
+        "record": "29-22"
       },
       "startTime": "2026-05-21T17:10Z",
       "timeET": "1:10 PM ET",
@@ -108,12 +88,12 @@
       "homeTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "27-19"
+        "record": "28-20"
       },
       "awayTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "24-23"
+        "record": "25-24"
       },
       "startTime": "2026-05-21T17:15Z",
       "timeET": "1:15 PM ET",
@@ -132,12 +112,12 @@
       "homeTeam": {
         "name": "Washington Nationals",
         "abbreviation": "WSH",
-        "record": "23-24"
+        "record": "25-25"
       },
       "awayTeam": {
         "name": "New York Mets",
         "abbreviation": "NYM",
-        "record": "20-26"
+        "record": "21-28"
       },
       "startTime": "2026-05-21T20:05Z",
       "timeET": "4:05 PM ET",
@@ -156,12 +136,12 @@
       "homeTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "21-26"
+        "record": "22-28"
       },
       "awayTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "32-15"
+        "record": "34-16"
       },
       "startTime": "2026-05-21T22:40Z",
       "timeET": "6:40 PM ET",
@@ -180,12 +160,12 @@
       "homeTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "28-19"
+        "record": "30-20"
       },
       "awayTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "21-25"
+        "record": "22-27"
       },
       "startTime": "2026-05-21T23:05Z",
       "timeET": "7:05 PM ET",
@@ -215,7 +195,8 @@
       "startTime": "2026-05-22T00:00Z",
       "timeET": "8:00 PM ET",
       "channels": [
-        "ESPN"
+        "ESPN",
+        "ERADM"
       ],
       "status": "upcoming",
       "venue": "Madison Square Garden, New York, NY",
@@ -256,7 +237,7 @@
       "awayTeam": {
         "name": "Toronto Tempo",
         "abbreviation": "TOR",
-        "record": "2-2"
+        "record": "3-2"
       },
       "startTime": "2026-05-22T00:00Z",
       "timeET": "8:00 PM ET",
@@ -270,17 +251,41 @@
       "venue": "Target Center, Minneapolis, MN"
     },
     {
+      "id": "nhl-401873383",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Carolina Hurricanes",
+        "abbreviation": "CAR",
+        "record": "53-22-7"
+      },
+      "awayTeam": {
+        "name": "Montreal Canadiens",
+        "abbreviation": "MTL",
+        "record": "48-24-10"
+      },
+      "startTime": "2026-05-22T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "TNT",
+        "truTV",
+        "Max"
+      ],
+      "status": "upcoming",
+      "venue": "Lenovo Center, Raleigh, NC",
+      "isNational": true
+    },
+    {
       "id": "mlb-401815439",
       "sport": "MLB",
       "homeTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "16-31"
+        "record": "17-33"
       },
       "awayTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "23-23"
+        "record": "25-24"
       },
       "startTime": "2026-05-22T01:38Z",
       "timeET": "9:38 PM ET",
@@ -299,12 +304,12 @@
       "homeTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "22-23"
+        "record": "25-23"
       },
       "awayTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "18-29"
+        "record": "19-31"
       },
       "startTime": "2026-05-22T01:40Z",
       "timeET": "9:40 PM ET",
@@ -324,7 +329,7 @@
       "homeTeam": {
         "name": "Phoenix Mercury",
         "abbreviation": "PHX",
-        "record": "2-2"
+        "record": "2-3"
       },
       "awayTeam": {
         "name": "Los Angeles Sparks",
@@ -341,5 +346,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-05-18T03:30:07.141Z"
+  "lastUpdated": "2026-05-21T10:00:04.701Z"
 }
