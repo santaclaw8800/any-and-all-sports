@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-21",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "15 events across NHL, Golf, MLB, NBA, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Sabres/Canadiens at Carolina Hurricanes 12:00 AM ET on TNT / truTV"
+    },
+    {
+      "title": "Game 2",
+      "body": "PGA Tour at THE CJ CUP Byron Nelson 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 3",
+      "body": "Champions Tour at Trophy Hassan II 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 4",
+      "body": "DP World Tour at Soudal Open 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Cleveland Guardians at Detroit Tigers 1:10 PM ET on MLB.TV / CLEGuardians.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-05-18T03:30:24.189Z"
+}
