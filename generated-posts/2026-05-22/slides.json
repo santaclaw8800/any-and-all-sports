@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-22",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "24 events across Golf, F1, MLB, WNBA, NHL, NBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at THE CJ CUP Byron Nelson 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "Champions Tour at Trophy Hassan II 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "DP World Tour at Soudal Open 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Formula 1 at Lenovo Canadian Grand Prix 12:30 PM ET on Apple TV / Netflix"
+    },
+    {
+      "title": "Game 5",
+      "body": "Houston Astros at Chicago Cubs 2:20 PM ET on Apple TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png"
+  ],
+  "generatedAt": "2026-05-18T03:30:25.972Z"
+}
