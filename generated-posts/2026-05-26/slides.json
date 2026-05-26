@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-26",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "17 events across MLB, NBA, NHL."
+    },
+    {
+      "title": "Game 1",
+      "body": "Washington Nationals at Cleveland Guardians 6:10 PM ET on MLB.TV / CLEGuardians.TV"
+    },
+    {
+      "title": "Game 2",
+      "body": "Tampa Bay Rays at Baltimore Orioles 6:35 PM ET on MLB.TV / Rays.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Los Angeles Angels at Detroit Tigers 6:40 PM ET on MLB.TV / Tigers.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Chicago Cubs at Pittsburgh Pirates 6:40 PM ET on MLB.TV / Marquee Sports Net"
+    },
+    {
+      "title": "Game 5",
+      "body": "Atlanta Braves at Boston Red Sox 6:45 PM ET on MLB.TV / TBS"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-05-25T03:30:40.196Z"
+}
