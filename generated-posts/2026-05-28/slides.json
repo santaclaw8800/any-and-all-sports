@@ -2,28 +2,24 @@
   "date": "2026-05-28",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "13 events across Golf, MLB, WNBA, NHL, NBA."
+      "title": "Golf starts at midnight",
+      "body": "PGA Tour, LIV Golf Korea, and DP World Tour all tee off at 12:00 AM ET."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at Charles Schwab Challenge 12:00 AM ET on ESPN+ / CBS"
+      "title": "MLB all afternoon",
+      "body": "Angels-Tigers at 1:10 PM ET, Twins-White Sox at 2:10 PM ET, then Braves-Red Sox at 4:10 PM ET."
     },
     {
-      "title": "Game 2",
-      "body": "LIV Golf at LIV Golf Korea 12:00 AM ET on Check listings"
+      "title": "More baseball at night",
+      "body": "Blue Jays-Orioles, Cubs-Pirates, and Astros-Rangers all hit the late window."
     },
     {
-      "title": "Game 3",
-      "body": "DP World Tour at Austrian Alpine Open pres. by Kitzbühel Tirol 12:00 AM ET on Check listings"
+      "title": "WNBA doubleheader",
+      "body": "Aces-Wings at 8:00 PM ET on Amazon Prime, then Fever-Valkyries at 10:00 PM ET."
     },
     {
-      "title": "Game 4",
-      "body": "Los Angeles Angels at Detroit Tigers 1:10 PM ET on MLB.TV / Tigers.TV"
-    },
-    {
-      "title": "Game 5",
-      "body": "Minnesota Twins at Chicago White Sox 2:10 PM ET on MLB.TV / Twins.TV"
+      "title": "Prime time NBA",
+      "body": "Thunder-Spurs tips at 8:30 PM ET on NBC and Peacock."
     }
   ],
   "pngFiles": [
@@ -31,5 +27,5 @@
     "slide-2.png",
     "slide-3.png"
   ],
-  "generatedAt": "2026-05-25T03:30:41.129Z"
+  "generatedAt": "2026-05-28T10:00:11.639Z"
 }

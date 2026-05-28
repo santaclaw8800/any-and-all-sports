@@ -60,12 +60,12 @@
         "homeTeam": {
           "name": "Detroit Tigers",
           "abbreviation": "DET",
-          "record": "21-33"
+          "record": "22-34"
         },
         "awayTeam": {
           "name": "Los Angeles Angels",
           "abbreviation": "LAA",
-          "record": "20-34"
+          "record": "21-35"
         },
         "startTime": "2026-05-28T17:10Z",
         "timeET": "1:10 PM ET",
@@ -84,12 +84,12 @@
         "homeTeam": {
           "name": "Chicago White Sox",
           "abbreviation": "CHW",
-          "record": "26-26"
+          "record": "28-27"
         },
         "awayTeam": {
           "name": "Minnesota Twins",
           "abbreviation": "MIN",
-          "record": "26-27"
+          "record": "27-29"
         },
         "startTime": "2026-05-28T18:10Z",
         "timeET": "2:10 PM ET",
@@ -108,12 +108,12 @@
         "homeTeam": {
           "name": "Boston Red Sox",
           "abbreviation": "BOS",
-          "record": "22-30"
+          "record": "23-31"
         },
         "awayTeam": {
           "name": "Atlanta Braves",
           "abbreviation": "ATL",
-          "record": "36-18"
+          "record": "37-19"
         },
         "startTime": "2026-05-28T20:10Z",
         "timeET": "4:10 PM ET",
@@ -132,12 +132,12 @@
         "homeTeam": {
           "name": "Baltimore Orioles",
           "abbreviation": "BAL",
-          "record": "23-30"
+          "record": "26-30"
         },
         "awayTeam": {
           "name": "Toronto Blue Jays",
           "abbreviation": "TOR",
-          "record": "25-28"
+          "record": "27-29"
         },
         "startTime": "2026-05-28T22:35Z",
         "timeET": "6:35 PM ET",
@@ -156,12 +156,12 @@
         "homeTeam": {
           "name": "Pittsburgh Pirates",
           "abbreviation": "PIT",
-          "record": "27-26"
+          "record": "29-27"
         },
         "awayTeam": {
           "name": "Chicago Cubs",
           "abbreviation": "CHC",
-          "record": "29-24"
+          "record": "30-26"
         },
         "startTime": "2026-05-28T22:40Z",
         "timeET": "6:40 PM ET",
@@ -196,39 +196,17 @@
         "isNational": true
       },
       {
-        "id": "nhl-401872907",
-        "sport": "NHL",
-        "homeTeam": {
-          "name": "Colorado Avalanche",
-          "abbreviation": "COL",
-          "record": "55-16-11"
-        },
-        "awayTeam": {
-          "name": "Vegas Golden Knights",
-          "abbreviation": "VGK",
-          "record": "39-26-17"
-        },
-        "startTime": "2026-05-29T00:00Z",
-        "timeET": "8:00 PM ET",
-        "channels": [
-          "ESPN"
-        ],
-        "status": "upcoming",
-        "venue": "Ball Arena, Denver, CO",
-        "isNational": true
-      },
-      {
         "id": "mlb-401815533",
         "sport": "MLB",
         "homeTeam": {
           "name": "Texas Rangers",
           "abbreviation": "TEX",
-          "record": "24-28"
+          "record": "25-30"
         },
         "awayTeam": {
           "name": "Houston Astros",
           "abbreviation": "HOU",
-          "record": "23-31"
+          "record": "25-32"
         },
         "startTime": "2026-05-29T00:05Z",
         "timeET": "8:05 PM ET",
@@ -271,7 +249,7 @@
         "homeTeam": {
           "name": "Golden State Valkyries",
           "abbreviation": "GS",
-          "record": "3-2"
+          "record": "4-2"
         },
         "awayTeam": {
           "name": "Indiana Fever",
@@ -288,60 +266,46 @@
         "isNational": true
       }
     ],
-    "lastUpdated": "2026-05-25T03:30:28.103Z"
+    "lastUpdated": "2026-05-28T10:00:05.388Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Thursday, May 28, 2026\n\n⛳ Golf  ·  ⚾ MLB  ·  🏀 WNBA  ·  🏒 NHL  ·  🏀 NBA\n\n13 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#WNBA #WNBABasketball #WomensBasketball\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n#NBA #NBATonight #NBABasketball #NBAonESPN #NBAonTNT\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Your schedule for Thu, May 28: golf starts early, then a full MLB slate, plus WNBA doubleheader and Thunder-Spurs in the NBA. Watch on ESPN+, CBS, MLB.TV, NBC, Peacock, Amazon Prime, and league/team networks. Follow @any_and_all_sports for daily sports schedules.",
     "hashtags": [
-      "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
       "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
-      "#Golf",
-      "#PGA",
-      "#PGATour",
-      "#LPGA",
-      "#LIVGolf",
-      "#ChampionsTour",
-      "#DPWorldTour",
+      "#NBA",
+      "#WNBA",
       "#MLB",
-      "#MLBTonight",
-      "#Baseball",
-      "#MLBonFOX",
-      "#MLBonESPN",
-      "#WNBA"
+      "#Golf",
+      "#PGAChampionship",
+      "#LIVGolf",
+      "#DPWorldTour",
+      "#ESPNPlus",
+      "#MLBTV",
+      "#NBC",
+      "#Peacock",
+      "#AmazonPrime",
+      "#AnyAndAllSports"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "13 events across Golf, MLB, WNBA, NHL, NBA."
+        "title": "Golf starts at midnight",
+        "body": "PGA Tour, LIV Golf Korea, and DP World Tour all tee off at 12:00 AM ET."
       },
       {
-        "title": "Game 1",
-        "body": "PGA Tour at Charles Schwab Challenge 12:00 AM ET on ESPN+ / CBS"
+        "title": "MLB all afternoon",
+        "body": "Angels-Tigers at 1:10 PM ET, Twins-White Sox at 2:10 PM ET, then Braves-Red Sox at 4:10 PM ET."
       },
       {
-        "title": "Game 2",
-        "body": "LIV Golf at LIV Golf Korea 12:00 AM ET on Check listings"
+        "title": "More baseball at night",
+        "body": "Blue Jays-Orioles, Cubs-Pirates, and Astros-Rangers all hit the late window."
       },
       {
-        "title": "Game 3",
-        "body": "DP World Tour at Austrian Alpine Open pres. by Kitzbühel Tirol 12:00 AM ET on Check listings"
+        "title": "WNBA doubleheader",
+        "body": "Aces-Wings at 8:00 PM ET on Amazon Prime, then Fever-Valkyries at 10:00 PM ET."
       },
       {
-        "title": "Game 4",
-        "body": "Los Angeles Angels at Detroit Tigers 1:10 PM ET on MLB.TV / Tigers.TV"
-      },
-      {
-        "title": "Game 5",
-        "body": "Minnesota Twins at Chicago White Sox 2:10 PM ET on MLB.TV / Twins.TV"
+        "title": "Prime time NBA",
+        "body": "Thunder-Spurs tips at 8:30 PM ET on NBC and Peacock."
       }
     ],
     "pngFiles": [
@@ -350,5 +314,5 @@
       "slide-3.png"
     ]
   },
-  "lastUpdated": "2026-05-25T03:30:41.129Z"
+  "lastUpdated": "2026-05-28T10:00:11.639Z"
 }
