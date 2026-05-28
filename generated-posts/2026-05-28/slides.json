@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-28",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "13 events across Golf, MLB, WNBA, NHL, NBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Charles Schwab Challenge 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "LIV Golf at LIV Golf Korea 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "DP World Tour at Austrian Alpine Open pres. by Kitzbühel Tirol 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Los Angeles Angels at Detroit Tigers 1:10 PM ET on MLB.TV / Tigers.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Minnesota Twins at Chicago White Sox 2:10 PM ET on MLB.TV / Twins.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-05-25T03:30:41.129Z"
+}
