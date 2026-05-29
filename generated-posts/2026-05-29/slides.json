@@ -1,0 +1,38 @@
+{
+  "date": "2026-05-29",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "25 events across Golf, MLB, WNBA, NBA, NHL."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Charles Schwab Challenge 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "LIV Golf at LIV Golf Korea 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "DP World Tour at Austrian Alpine Open pres. by Kitzbühel Tirol 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "LPGA at ShopRite LPGA Classic powered by Wakefern 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 5",
+      "body": "Atlanta Braves at Cincinnati Reds 6:40 PM ET on MLB.TV / BravesVision"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png"
+  ],
+  "generatedAt": "2026-05-25T03:30:41.912Z"
+}
