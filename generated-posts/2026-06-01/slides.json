@@ -1,0 +1,34 @@
+{
+  "date": "2026-06-01",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "11 events across MLB, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Detroit Tigers at Tampa Bay Rays 6:40 PM ET on MLB.TV / Rays.TV"
+    },
+    {
+      "title": "Game 2",
+      "body": "Miami Marlins at Washington Nationals 6:45 PM ET on MLB.TV / Marlins.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Kansas City Royals at Cincinnati Reds 7:10 PM ET on MLB.TV / Royals.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Chicago White Sox at Minnesota Twins 7:40 PM ET on MLB.TV / Twins.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "San Francisco Giants at Milwaukee Brewers 7:40 PM ET on MLB.TV / FS1"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png"
+  ],
+  "generatedAt": "2026-06-01T03:30:19.908Z"
+}
