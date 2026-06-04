@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-04",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "16 events across Golf, MLB, WNBA, NHL."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at the Memorial Tournament pres. by Workday 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at U.S. Women's Open pres. by Ally 12:00 AM ET on NBC / USA Net"
+    },
+    {
+      "title": "Game 3",
+      "body": "LIV Golf at LIV Golf Andalucía 12:00 AM ET on FS1 / FS2"
+    },
+    {
+      "title": "Game 4",
+      "body": "DP World Tour at KLM Open 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "San Diego Padres at Philadelphia Phillies 1:05 PM ET on MLB.TV / Padres.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-06-01T03:30:24.295Z"
+}
