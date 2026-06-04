@@ -2,28 +2,24 @@
   "date": "2026-06-04",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "16 events across Golf, MLB, WNBA, NHL."
+      "title": "Thursday Sports Schedule",
+      "body": "Golf, MLB, WNBA, and NHL all on deck. Follow @any_and_all_sports for daily schedule updates."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at the Memorial Tournament pres. by Workday 12:00 AM ET on ESPN+ / CBS"
+      "title": "Golf Starts at Midnight",
+      "body": "PGA Tour, LPGA, LIV Golf, and DP World Tour all begin at 12:00 AM ET across ESPN+, CBS, NBC, USA, Peacock, FS1, FS2, and Golf Channel."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at U.S. Women's Open pres. by Ally 12:00 AM ET on NBC / USA Net"
+      "title": "MLB Day Slate",
+      "body": "Padres-Phillies, Orioles-Red Sox, Guardians-Yankees, Giants-Brewers, and more. Watch on MLB.TV plus local and national channels."
     },
     {
-      "title": "Game 3",
-      "body": "LIV Golf at LIV Golf Andalucía 12:00 AM ET on FS1 / FS2"
+      "title": "Primetime Games",
+      "body": "Dream-Fever at 7:00 PM ET on Prime. Golden Knights-Hurricanes at 8:00 PM ET on ABC. Valkyries-Lynx at 9:00 PM ET on Prime."
     },
     {
-      "title": "Game 4",
-      "body": "DP World Tour at KLM Open 12:00 AM ET on Check listings"
-    },
-    {
-      "title": "Game 5",
-      "body": "San Diego Padres at Philadelphia Phillies 1:05 PM ET on MLB.TV / Padres.TV"
+      "title": "Late MLB Matchups",
+      "body": "Blue Jays-Braves, Royals-Twins, A's-Cubs, Pirates-Astros, and Dodgers-D-backs close the night. Check MLB.TV and local network listings."
     }
   ],
   "pngFiles": [
@@ -32,5 +28,5 @@
     "slide-3.png",
     "slide-4.png"
   ],
-  "generatedAt": "2026-06-01T03:30:24.295Z"
+  "generatedAt": "2026-06-04T10:00:11.300Z"
 }
