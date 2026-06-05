@@ -2,28 +2,24 @@
   "date": "2026-06-05",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "25 events across Golf, F1, MLB, WNBA, NBA."
+      "title": "Today’s Schedule",
+      "body": "Golf, F1, MLB, and WNBA all hit the board. Here’s your full Friday watch guide."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at the Memorial Tournament pres. by Workday 12:00 AM ET on ESPN+ / CBS"
+      "title": "Morning Watch",
+      "body": "Monaco Grand Prix starts at 7:30 AM ET on Apple TV. Golf tournaments begin at 12:00 AM ET."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at U.S. Women's Open pres. by Ally 12:00 AM ET on NBC / USA Net"
+      "title": "MLB Day Games",
+      "body": "Giants-Cubs leads off at 2:20 PM ET on MLB.TV, NBC Sports, and Marquee Sports Net."
     },
     {
-      "title": "Game 3",
-      "body": "LIV Golf at LIV Golf Andalucía 12:00 AM ET on FS1 / FS2"
+      "title": "Night Baseball",
+      "body": "Red Sox-Yankees, Orioles-Blue Jays, Rays-Marlins, and more. Check MLB.TV and local nets."
     },
     {
-      "title": "Game 4",
-      "body": "DP World Tour at KLM Open 12:00 AM ET on Check listings"
-    },
-    {
-      "title": "Game 5",
-      "body": "Champions Tour at American Family Insurance Championship 12:00 AM ET on Golf Chnl"
+      "title": "Prime Time Game",
+      "body": "Sun at Sky tips at 7:30 PM ET on ION and WNBA League Pass."
     }
   ],
   "pngFiles": [
@@ -34,5 +30,5 @@
     "slide-5.png",
     "slide-6.png"
   ],
-  "generatedAt": "2026-06-01T03:30:26.091Z"
+  "generatedAt": "2026-06-05T10:00:12.550Z"
 }
