@@ -2,28 +2,24 @@
   "date": "2026-06-06",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "27 events across Golf, F1, WNBA, MLB, MMA/UFC, NHL."
+      "title": "Today’s lineup",
+      "body": "Golf, WNBA, MLB and UFC fill the day. Follow @any_and_all_sports for the full watch guide."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at the Memorial Tournament pres. by Workday 12:00 AM ET on ESPN+ / CBS"
+      "title": "Golf at noon ET",
+      "body": "PGA Tour, LPGA, LIV, DP World Tour and Champions Tour all tee off at 12:00 AM ET on listed networks."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at U.S. Women's Open pres. by Ally 12:00 AM ET on NBC / USA Net"
+      "title": "WNBA on ABC",
+      "body": "Storm at Lynx at 1:00 PM ET, then Valkyries at Aces at 3:00 PM ET."
     },
     {
-      "title": "Game 3",
-      "body": "LIV Golf at LIV Golf Andalucía 12:00 AM ET on FS1 / FS2"
+      "title": "MLB all afternoon",
+      "body": "10 MLB games start between 1:10 PM ET and 4:10 PM ET on MLB.TV and team/local networks."
     },
     {
-      "title": "Game 4",
-      "body": "DP World Tour at KLM Open 12:00 AM ET on Check listings"
-    },
-    {
-      "title": "Game 5",
-      "body": "Champions Tour at American Family Insurance Championship 12:00 AM ET on Golf Chnl"
+      "title": "UFC at 5 ET",
+      "body": "TBD vs TBD streams on Paramount+ at 5:00 PM ET."
     }
   ],
   "pngFiles": [
@@ -34,5 +30,5 @@
     "slide-5.png",
     "slide-6.png"
   ],
-  "generatedAt": "2026-06-01T03:30:27.995Z"
+  "generatedAt": "2026-06-06T10:00:09.674Z"
 }
