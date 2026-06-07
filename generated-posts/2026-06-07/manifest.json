@@ -1,10 +1,20 @@
 {
   "date": "2026-06-07",
-  "scheduleHash": "5ba88e10b4d22d5c8dcac9f5653a439b5ada310a9721c045b92909be74f23ede",
-  "reason": "weekly",
-  "source": "deterministic",
-  "generatedAt": "2026-06-01T03:30:29.554Z",
-  "model": null,
+  "scheduleHash": "db54853300df6af43cfeb12b2ebd3594fd57219792349df64eaab76720c4e23c",
+  "reason": "verification",
+  "source": "openai",
+  "generatedAt": "2026-06-07T10:00:11.249Z",
+  "model": "gpt-5.4-mini",
   "maxOutputTokens": 1200,
-  "openAiUsage": null
+  "openAiUsage": {
+    "input_tokens": 898,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 354,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 1252
+  }
 }

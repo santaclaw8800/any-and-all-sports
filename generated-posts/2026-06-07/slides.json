@@ -2,28 +2,24 @@
   "date": "2026-06-07",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "23 events across Golf, F1, MLB, WNBA."
+      "title": "Sunday Sports Schedule",
+      "body": "Golf, MLB, and WNBA all day. See each matchup, start time, and where to watch."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at the Memorial Tournament pres. by Workday 12:00 AM ET on ESPN+ / CBS"
+      "title": "Golf All Morning",
+      "body": "PGA Tour, LPGA, LIV, DP World Tour, and Champions Tour all tee off at 12:00 AM ET."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at U.S. Women's Open pres. by Ally 12:00 AM ET on NBC / USA Net"
+      "title": "MLB Day Games",
+      "body": "First pitch runs 1:35 PM to 3:15 PM ET. Watch on MLB.TV, ESPN Unlimited, Peacock, and local nets."
     },
     {
-      "title": "Game 3",
-      "body": "LIV Golf at LIV Golf Andalucía 12:00 AM ET on FS1 / FS2"
+      "title": "WNBA Spotlight",
+      "body": "Sky at Tempo at 3:00 PM ET on WNBA League Pass, CW26, and TSN."
     },
     {
-      "title": "Game 4",
-      "body": "DP World Tour at KLM Open 12:00 AM ET on Check listings"
-    },
-    {
-      "title": "Game 5",
-      "body": "Champions Tour at American Family Insurance Championship 12:00 AM ET on Golf Chnl"
+      "title": "Follow for Daily Schedules",
+      "body": "Get the next sports slate from @any_and_all_sports."
     }
   ],
   "pngFiles": [
@@ -33,5 +29,5 @@
     "slide-4.png",
     "slide-5.png"
   ],
-  "generatedAt": "2026-06-01T03:30:29.554Z"
+  "generatedAt": "2026-06-07T10:00:11.249Z"
 }
