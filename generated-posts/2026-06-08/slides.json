@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-08",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "12 events across MLB, WNBA, NBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Seattle Mariners at Baltimore Orioles 6:35 PM ET on MLB.TV / MASN"
+    },
+    {
+      "title": "Game 2",
+      "body": "Boston Red Sox at Tampa Bay Rays 6:40 PM ET on MLB.TV / Rays.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "New York Yankees at Cleveland Guardians 6:40 PM ET on MLB.TV / FS1"
+    },
+    {
+      "title": "Game 4",
+      "body": "New York Liberty at Connecticut Sun 7:00 PM ET on WNBA League Pass / Fox 5 New York"
+    },
+    {
+      "title": "Game 5",
+      "body": "Indiana Fever at Washington Mystics 7:00 PM ET on Peacock / NBCSN"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-06-08T03:30:19.551Z"
+}
