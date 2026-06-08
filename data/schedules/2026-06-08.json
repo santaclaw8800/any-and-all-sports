@@ -228,7 +228,7 @@
       "homeTeam": {
         "name": "San Francisco Giants",
         "abbreviation": "SF",
-        "record": "26-39"
+        "record": "27-39"
       },
       "awayTeam": {
         "name": "Washington Nationals",
@@ -296,5 +296,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-06-08T03:30:04.209Z"
+  "lastUpdated": "2026-06-08T10:00:06.496Z"
 }
