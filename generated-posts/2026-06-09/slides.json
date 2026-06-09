@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-09",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "19 events across MLB, WNBA, NHL."
+    },
+    {
+      "title": "Game 1",
+      "body": "Seattle Mariners at Baltimore Orioles 6:35 PM ET on MLB.TV / MASN"
+    },
+    {
+      "title": "Game 2",
+      "body": "Arizona Diamondbacks at Miami Marlins 6:40 PM ET on MLB.TV / DBACKS.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Boston Red Sox at Tampa Bay Rays 6:40 PM ET on MLB.TV / Rays.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Los Angeles Dodgers at Pittsburgh Pirates 6:40 PM ET on MLB.TV / Sportsnet"
+    },
+    {
+      "title": "Game 5",
+      "body": "Minnesota Twins at Detroit Tigers 6:40 PM ET on MLB.TV / Twins.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-06-08T03:30:20.829Z"
+}
