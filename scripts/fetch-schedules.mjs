@@ -12,9 +12,22 @@
 import { writeFileSync, mkdirSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { execFileSync } from 'child_process';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
+
+if ((process.env.NODE_USE_SYSTEM_CA || process.env.NODE_EXTRA_CA_CERTS) && !process.env.AAS_SAFE_NODE_ENV) {
+  const env = { ...process.env, AAS_SAFE_NODE_ENV: '1' };
+  delete env.NODE_USE_SYSTEM_CA;
+  delete env.NODE_EXTRA_CA_CERTS;
+  execFileSync(process.execPath, [fileURLToPath(import.meta.url), ...process.argv.slice(2)], {
+    cwd: ROOT,
+    stdio: 'inherit',
+    env,
+  });
+  process.exit(0);
+}
 
 // ── Sport configuration ───────────────────────────────────────────────────────
 const SPORTS = [
@@ -31,14 +44,26 @@ const SPORTS = [
   // Hockey
   { sport: 'hockey',     league: 'nhl',                      category: 'NHL',                abbr: 'nhl'        },
   // Soccer
-  { sport: 'soccer',     league: 'usa.1',                    category: 'Soccer',             abbr: 'mls'        },
-  { sport: 'soccer',     league: 'eng.1',                    category: 'Soccer',             abbr: 'epl'        },
-  { sport: 'soccer',     league: 'esp.1',                    category: 'Soccer',             abbr: 'laliga'     },
-  { sport: 'soccer',     league: 'ita.1',                    category: 'Soccer',             abbr: 'seriea'     },
-  { sport: 'soccer',     league: 'ger.1',                    category: 'Soccer',             abbr: 'bundesliga' },
-  { sport: 'soccer',     league: 'fra.1',                    category: 'Soccer',             abbr: 'ligue1'     },
-  { sport: 'soccer',     league: 'uefa.champions',           category: 'Soccer',             abbr: 'ucl'        },
-  { sport: 'soccer',     league: 'fifa.world',               category: 'Soccer',             abbr: 'fifawc'     },
+  { sport: 'soccer',     league: 'usa.1',                    category: 'Soccer',             abbr: 'mls'          },
+  { sport: 'soccer',     league: 'eng.1',                    category: 'Soccer',             abbr: 'epl'          },
+  { sport: 'soccer',     league: 'esp.1',                    category: 'Soccer',             abbr: 'laliga'       },
+  { sport: 'soccer',     league: 'ita.1',                    category: 'Soccer',             abbr: 'seriea'       },
+  { sport: 'soccer',     league: 'ger.1',                    category: 'Soccer',             abbr: 'bundesliga'   },
+  { sport: 'soccer',     league: 'fra.1',                    category: 'Soccer',             abbr: 'ligue1'       },
+  { sport: 'soccer',     league: 'uefa.champions',           category: 'Soccer',             abbr: 'ucl'          },
+  { sport: 'soccer',     league: 'fifa.world',               category: 'Soccer',             abbr: 'fifawc'       },
+  { sport: 'soccer',     league: 'mex.1',                    category: 'Soccer',             abbr: 'ligamx'       },
+  { sport: 'soccer',     league: 'ned.1',                    category: 'Soccer',             abbr: 'eredivisie'   },
+  { sport: 'soccer',     league: 'por.1',                    category: 'Soccer',             abbr: 'primeiraliga' },
+  { sport: 'soccer',     league: 'sco.1',                    category: 'Soccer',             abbr: 'scottishprem' },
+  { sport: 'soccer',     league: 'eng.2',                    category: 'Soccer',             abbr: 'eflchamp'     },
+  { sport: 'soccer',     league: 'uefa.europa',              category: 'Soccer',             abbr: 'uel'          },
+  { sport: 'soccer',     league: 'uefa.europa.conf',         category: 'Soccer',             abbr: 'uecl'         },
+  { sport: 'soccer',     league: 'conmebol.libertadores',    category: 'Soccer',             abbr: 'libertadores' },
+  { sport: 'soccer',     league: 'usa.nwsl',                 category: 'Soccer',             abbr: 'nwsl'         },
+  { sport: 'soccer',     league: 'conmebol.america',         category: 'Soccer',             abbr: 'copaamerica'  },
+  { sport: 'soccer',     league: 'uefa.euro',                category: 'Soccer',             abbr: 'euro'         },
+  { sport: 'soccer',     league: 'fifa.wwc',                 category: 'Soccer',             abbr: 'fifawwc'      },
   // Golf
   { sport: 'golf',       league: 'pga',                      category: 'Golf',               abbr: 'pga'        },
   { sport: 'golf',       league: 'lpga',                     category: 'Golf',               abbr: 'lpga'       },
@@ -58,13 +83,36 @@ const SPORTS = [
   { sport: 'basketball', league: 'fiba',                     category: 'International Basketball', abbr: 'fiba'       },
 ];
 
-// Tour display names for golf league abbrs
+// Tour / competition display names for mapped league abbreviations
 const GOLF_TOUR_NAMES = {
   pga:    'PGA Tour',
   lpga:   'LPGA',
   liv:    'LIV Golf',
   champs: 'Champions Tour',
   dpwt:   'DP World Tour',
+};
+
+const SOCCER_TOURNAMENT_NAMES = {
+  mls: 'MLS',
+  epl: 'Premier League',
+  laliga: 'La Liga',
+  seriea: 'Serie A',
+  bundesliga: 'Bundesliga',
+  ligue1: 'Ligue 1',
+  ucl: 'UEFA Champions League',
+  fifawc: 'FIFA World Cup',
+  ligamx: 'Liga MX',
+  eredivisie: 'Eredivisie',
+  primeiraliga: 'Primeira Liga',
+  scottishprem: 'Scottish Premiership',
+  eflchamp: 'EFL Championship',
+  uel: 'UEFA Europa League',
+  uecl: 'UEFA Conference League',
+  libertadores: 'Copa Libertadores',
+  nwsl: 'NWSL',
+  copaamerica: 'Copa América',
+  euro: 'UEFA European Championship',
+  fifawwc: "FIFA Women's World Cup",
 };
 
 // ── Channel name normalization ────────────────────────────────────────────────
@@ -88,10 +136,26 @@ const CHANNEL_MAP = {
   'NFL+':                 'NFL+',
   'FS1':                  'FS1',
   'Fox Sports 1':         'FS1',
+  'Fox Sports 1 USA':     'FS1',
   'FS2':                  'FS2',
   'Fox Sports 2':         'FS2',
+  'Fox Sports 2 USA':     'FS2',
   'FOX':                  'Fox',
+  'FOX Network':          'Fox',
   'Fox':                  'Fox',
+  'FOX One':              'FOX One',
+  'Foxsports.com':        'Foxsports.com',
+  'FOX Sports App':       'Foxsports.com',
+  'Tubi':                 'Tubi',
+  'Tele':                 'Telemundo',
+  'Telemundo':            'Telemundo',
+  'Telemundo Deportes En Vivo': 'Telemundo Deportes',
+  'UNIVERSO':             'Universo',
+  'UNIVERSO NOW':         'Universo',
+  'SiriusXM FC':          'SiriusXM FC',
+  'Futbol de Primera Radio': 'Futbol de Primera Radio',
+  'Prime Video':          'Amazon Prime',
+  'Prime Video USA':      'Amazon Prime',
   'CBS':                  'CBS',
   'CBS Sports':           'CBS Sports',
   'CBS Sports Network':   'CBS Sports',
@@ -99,7 +163,6 @@ const CHANNEL_MAP = {
   'Peacock':              'Peacock',
   'Paramount+':           'Paramount+',
   'Apple TV+':            'Apple TV+',
-  'Prime Video':          'Amazon Prime',
   'DAZN':                 'DAZN',
   'fuboTV':               'fuboTV',
   'YouTube TV':           'YouTube TV',
@@ -190,17 +253,25 @@ function toTimeET(isoString) {
  * National broadcasts are added first, then regional/home/away, then
  * anything additional found in geoBroadcasts that wasn't already captured.
  */
-function extractChannels(competition) {
+function mergeChannels(...channelLists) {
   const seen = new Set();
-  const channels = [];
+  const merged = [];
 
-  function addChannel(name) {
-    const normalized = normalizeChannel(name);
-    if (normalized && !seen.has(normalized)) {
-      seen.add(normalized);
-      channels.push(normalized);
+  for (const list of channelLists) {
+    for (const name of list ?? []) {
+      const normalized = normalizeChannel(name);
+      if (normalized && !seen.has(normalized)) {
+        seen.add(normalized);
+        merged.push(normalized);
+      }
     }
   }
+
+  return merged;
+}
+
+function extractChannels(competition) {
+  const broadcastNames = [];
 
   // Step 1 — broadcasts[] : national first, then regional
   const broadcasts = competition.broadcasts ?? [];
@@ -208,19 +279,55 @@ function extractChannels(competition) {
   const regional = broadcasts.filter(b => b.market !== 'national');
 
   for (const b of [...national, ...regional]) {
-    for (const name of b.names ?? []) addChannel(name);
+    for (const name of b.names ?? []) broadcastNames.push(name);
   }
 
   // Step 2 — geoBroadcasts[] : TV before streaming, fills in anything missed
   const geoBroadcasts = competition.geoBroadcasts ?? [];
   const tvGeo  = geoBroadcasts.filter(g => g.type?.shortName === 'TV');
   const stGeo  = geoBroadcasts.filter(g => g.type?.shortName !== 'TV');
+  const geoNames = [];
 
   for (const g of [...tvGeo, ...stGeo]) {
-    addChannel(g.media?.shortName);
+    geoNames.push(g.media?.shortName);
   }
 
-  return channels;
+  return mergeChannels(broadcastNames, geoNames);
+}
+
+function extractSummaryChannels(summaryCompetition) {
+  const broadcastNames = (summaryCompetition?.broadcasts ?? []).map((b) => b.media?.shortName);
+  return mergeChannels(broadcastNames);
+}
+
+function getFifaStageLabel(summaryHeader, summaryCompetition) {
+  const seasonName = summaryHeader?.season?.name ?? '';
+  const groupName = summaryCompetition?.groups?.name ?? '';
+  const stageName = seasonName.includes(',')
+    ? seasonName.split(',').slice(1).join(',').trim()
+    : seasonName.replace(/^\d{4}\s+/, '').trim();
+
+  if (/group stage/i.test(stageName) && groupName) return groupName;
+  if (stageName) return stageName;
+  if (groupName) return groupName;
+  return undefined;
+}
+
+function getFifaExtraChannels(channels) {
+  const extras = [];
+  const hasFox = channels.includes('Fox');
+  const hasFs1 = channels.includes('FS1');
+  const hasFs2 = channels.includes('FS2');
+  const hasSpanish = channels.includes('Telemundo') || channels.includes('Peacock');
+
+  if (hasFox || hasFs1 || hasFs2) extras.push('FOX One');
+  if (hasFox) extras.push('Tubi');
+  if (hasSpanish) extras.push('Telemundo Deportes');
+
+  // FIFA-specific US audio rights surfaced by Live Soccer TV match pages.
+  extras.push('SiriusXM FC', 'Futbol de Primera Radio');
+
+  return mergeChannels(extras);
 }
 
 // ── ESPN event -> Game ────────────────────────────────────────────────────────
@@ -323,8 +430,46 @@ function mapEventToGame(event, sportConfig) {
   if (isNational)                  game.isNational = true;
 
   // Tournament labels
-  if (sportConfig.abbr === 'mls') game.tournament = 'MLS';
+  if (sportConfig.sport === 'soccer') {
+    game.tournament = SOCCER_TOURNAMENT_NAMES[sportConfig.abbr] ?? event.league?.name ?? 'Soccer';
+  }
   if (sportConfig.sport === 'golf') game.tournament = GOLF_TOUR_NAMES[sportConfig.abbr] ?? 'Golf';
+
+  return game;
+}
+
+async function fetchCompetitionSummary(sportConfig, eventId) {
+  const url = `https://site.api.espn.com/apis/site/v2/sports/${sportConfig.sport}/${sportConfig.league}/summary?event=${eventId}`;
+  const res = await fetch(url, {
+    headers: { 'User-Agent': 'any-and-all-sports/1.0 (public sports schedule site)' },
+    signal: AbortSignal.timeout(15_000),
+  });
+
+  if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
+  return res.json();
+}
+
+function mergeFifaSummaryIntoGame(game, summary, sportConfig) {
+  const summaryHeader = summary?.header;
+  const summaryCompetition = summaryHeader?.competitions?.[0];
+  if (!summaryCompetition) return game;
+
+  const mergedChannels = mergeChannels(
+    game.channels,
+    extractSummaryChannels(summaryCompetition),
+  );
+
+  if (sportConfig.abbr === 'fifawc' || sportConfig.abbr === 'fifawwc') {
+    game.channels = mergeChannels(mergedChannels, getFifaExtraChannels(mergedChannels));
+    const stageLabel = getFifaStageLabel(summaryHeader, summaryCompetition);
+    if (stageLabel) game.description = stageLabel;
+  } else {
+    game.channels = mergedChannels;
+  }
+
+  if (summaryHeader?.league?.name && !game.tournament) {
+    game.tournament = summaryHeader.league.name;
+  }
 
   return game;
 }
@@ -350,6 +495,19 @@ async function fetchSport(sportConfig, espnDate) {
   const data = await res.json();
   const events = data.events ?? [];
   const games = events.map(e => mapEventToGame(e, sportConfig)).filter(Boolean);
+
+  if (sportConfig.abbr === 'fifawc' || sportConfig.abbr === 'fifawwc') {
+    const summaryResults = await Promise.allSettled(
+      events.map((event) => fetchCompetitionSummary(sportConfig, event.id))
+    );
+
+    for (let i = 0; i < games.length; i++) {
+      const summaryResult = summaryResults[i];
+      if (summaryResult?.status === 'fulfilled') {
+        mergeFifaSummaryIntoGame(games[i], summaryResult.value, sportConfig);
+      }
+    }
+  }
 
   console.log(`    ${league.toUpperCase()}: ${games.length} game(s)`);
   return games;
