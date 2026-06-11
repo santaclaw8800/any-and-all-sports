@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-11",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "17 events across Golf, MLB, Soccer, WNBA, NHL."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at RBC Canadian Open 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at Dow Championship 12:00 AM ET on CBS / Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "Arizona Diamondbacks at Miami Marlins 1:10 PM ET on MLB.TV / DBACKS.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Minnesota Twins at Detroit Tigers 1:10 PM ET on MLB.TV / Twins.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "St. Louis Cardinals at New York Mets 1:10 PM ET on MLB.TV / Cardinals.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-06-10T17:27:59.214Z"
+}

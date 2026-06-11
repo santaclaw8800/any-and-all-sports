@@ -1,0 +1,10 @@
+{
+  "date": "2026-06-11",
+  "scheduleHash": "cee398a152a8a18774fd086e3b0b746cf3b068cca68811824a22e6b45b029b32",
+  "reason": "fifa-enrichment-refresh",
+  "source": "deterministic",
+  "generatedAt": "2026-06-10T17:27:59.214Z",
+  "model": null,
+  "maxOutputTokens": 1200,
+  "openAiUsage": null
+}
