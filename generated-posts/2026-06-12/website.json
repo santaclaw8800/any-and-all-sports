@@ -20,7 +20,7 @@
           "Golf Chnl",
           "Paramount+"
         ],
-        "status": "upcoming",
+        "status": "live",
         "isNational": true,
         "tournament": "PGA Tour"
       },
@@ -115,12 +115,12 @@
         "homeTeam": {
           "name": "Pittsburgh Pirates",
           "abbreviation": "PIT",
-          "record": "34-33"
+          "record": "35-34"
         },
         "awayTeam": {
           "name": "Miami Marlins",
           "abbreviation": "MIA",
-          "record": "32-35"
+          "record": "34-35"
         },
         "startTime": "2026-06-12T22:40Z",
         "timeET": "6:40 PM ET",
@@ -139,12 +139,12 @@
         "homeTeam": {
           "name": "Washington Nationals",
           "abbreviation": "WSH",
-          "record": "35-33"
+          "record": "35-34"
         },
         "awayTeam": {
           "name": "Seattle Mariners",
           "abbreviation": "SEA",
-          "record": "36-32"
+          "record": "36-34"
         },
         "startTime": "2026-06-12T22:45Z",
         "timeET": "6:45 PM ET",
@@ -163,12 +163,12 @@
         "homeTeam": {
           "name": "Baltimore Orioles",
           "abbreviation": "BAL",
-          "record": "31-37"
+          "record": "33-37"
         },
         "awayTeam": {
           "name": "San Diego Padres",
           "abbreviation": "SD",
-          "record": "34-32"
+          "record": "35-32"
         },
         "startTime": "2026-06-12T23:05Z",
         "timeET": "7:05 PM ET",
@@ -182,61 +182,17 @@
         "isNational": true
       },
       {
-        "id": "mlb-401815719",
-        "sport": "MLB",
-        "homeTeam": {
-          "name": "Cincinnati Reds",
-          "abbreviation": "CIN",
-          "record": "32-34"
-        },
-        "awayTeam": {
-          "name": "Arizona Diamondbacks",
-          "abbreviation": "ARI",
-          "record": "34-32"
-        },
-        "startTime": "2026-06-12T23:10Z",
-        "timeET": "7:10 PM ET",
-        "channels": [
-          "Apple TV"
-        ],
-        "status": "upcoming",
-        "venue": "Great American Ball Park, Cincinnati, Ohio",
-        "isNational": true
-      },
-      {
-        "id": "mlb-401815720",
-        "sport": "MLB",
-        "homeTeam": {
-          "name": "New York Mets",
-          "abbreviation": "NYM",
-          "record": "29-37"
-        },
-        "awayTeam": {
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL",
-          "record": "45-22"
-        },
-        "startTime": "2026-06-12T23:10Z",
-        "timeET": "7:10 PM ET",
-        "channels": [
-          "Apple TV"
-        ],
-        "status": "upcoming",
-        "venue": "Citi Field, Queens, New York",
-        "isNational": true
-      },
-      {
         "id": "mlb-401815721",
         "sport": "MLB",
         "homeTeam": {
           "name": "Cleveland Guardians",
           "abbreviation": "CLE",
-          "record": "37-32"
+          "record": "37-33"
         },
         "awayTeam": {
           "name": "Detroit Tigers",
           "abbreviation": "DET",
-          "record": "28-39"
+          "record": "29-40"
         },
         "startTime": "2026-06-12T23:10Z",
         "timeET": "7:10 PM ET",
@@ -255,12 +211,12 @@
         "homeTeam": {
           "name": "Boston Red Sox",
           "abbreviation": "BOS",
-          "record": "27-38"
+          "record": "27-39"
         },
         "awayTeam": {
           "name": "Texas Rangers",
           "abbreviation": "TEX",
-          "record": "32-34"
+          "record": "34-34"
         },
         "startTime": "2026-06-12T23:10Z",
         "timeET": "7:10 PM ET",
@@ -274,6 +230,50 @@
         "isNational": true
       },
       {
+        "id": "mlb-401815719",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Cincinnati Reds",
+          "abbreviation": "CIN",
+          "record": "32-35"
+        },
+        "awayTeam": {
+          "name": "Arizona Diamondbacks",
+          "abbreviation": "ARI",
+          "record": "34-34"
+        },
+        "startTime": "2026-06-12T23:15Z",
+        "timeET": "7:15 PM ET",
+        "channels": [
+          "Apple TV"
+        ],
+        "status": "upcoming",
+        "venue": "Great American Ball Park, Cincinnati, Ohio",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401815720",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "New York Mets",
+          "abbreviation": "NYM",
+          "record": "30-38"
+        },
+        "awayTeam": {
+          "name": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "record": "45-23"
+        },
+        "startTime": "2026-06-12T23:15Z",
+        "timeET": "7:15 PM ET",
+        "channels": [
+          "Apple TV"
+        ],
+        "status": "upcoming",
+        "venue": "Citi Field, Queens, New York",
+        "isNational": true
+      },
+      {
         "id": "wnba-401856984",
         "sport": "WNBA",
         "homeTeam": {
@@ -284,7 +284,7 @@
         "awayTeam": {
           "name": "Toronto Tempo",
           "abbreviation": "TOR",
-          "record": "6-5"
+          "record": "7-5"
         },
         "startTime": "2026-06-12T23:30Z",
         "timeET": "7:30 PM ET",
@@ -303,12 +303,12 @@
         "homeTeam": {
           "name": "Toronto Blue Jays",
           "abbreviation": "TOR",
-          "record": "33-35"
+          "record": "33-36"
         },
         "awayTeam": {
           "name": "New York Yankees",
           "abbreviation": "NYY",
-          "record": "40-26"
+          "record": "41-26"
         },
         "startTime": "2026-06-12T23:37Z",
         "timeET": "7:37 PM ET",
@@ -328,12 +328,12 @@
         "homeTeam": {
           "name": "Chicago White Sox",
           "abbreviation": "CHW",
-          "record": "35-31"
+          "record": "36-31"
         },
         "awayTeam": {
           "name": "Los Angeles Dodgers",
           "abbreviation": "LAD",
-          "record": "43-24"
+          "record": "44-25"
         },
         "startTime": "2026-06-12T23:40Z",
         "timeET": "7:40 PM ET",
@@ -352,12 +352,12 @@
         "homeTeam": {
           "name": "Milwaukee Brewers",
           "abbreviation": "MIL",
-          "record": "41-24"
+          "record": "41-25"
         },
         "awayTeam": {
           "name": "Philadelphia Phillies",
           "abbreviation": "PHI",
-          "record": "36-31"
+          "record": "37-31"
         },
         "startTime": "2026-06-12T23:40Z",
         "timeET": "7:40 PM ET",
@@ -376,12 +376,12 @@
         "homeTeam": {
           "name": "Kansas City Royals",
           "abbreviation": "KC",
-          "record": "28-39"
+          "record": "28-41"
         },
         "awayTeam": {
           "name": "Houston Astros",
           "abbreviation": "HOU",
-          "record": "31-38"
+          "record": "31-39"
         },
         "startTime": "2026-06-13T00:10Z",
         "timeET": "8:10 PM ET",
@@ -401,12 +401,12 @@
         "homeTeam": {
           "name": "Minnesota Twins",
           "abbreviation": "MIN",
-          "record": "30-38"
+          "record": "31-39"
         },
         "awayTeam": {
           "name": "St. Louis Cardinals",
           "abbreviation": "STL",
-          "record": "36-28"
+          "record": "37-29"
         },
         "startTime": "2026-06-13T00:10Z",
         "timeET": "8:10 PM ET",
@@ -457,12 +457,12 @@
         "homeTeam": {
           "name": "Los Angeles Angels",
           "abbreviation": "LAA",
-          "record": "26-42"
+          "record": "27-42"
         },
         "awayTeam": {
           "name": "Tampa Bay Rays",
           "abbreviation": "TB",
-          "record": "39-25"
+          "record": "40-25"
         },
         "startTime": "2026-06-13T01:38Z",
         "timeET": "9:38 PM ET",
@@ -481,7 +481,7 @@
         "homeTeam": {
           "name": "Seattle Storm",
           "abbreviation": "SEA",
-          "record": "3-10"
+          "record": "3-11"
         },
         "awayTeam": {
           "name": "Golden State Valkyries",
@@ -504,12 +504,12 @@
         "homeTeam": {
           "name": "Athletics",
           "abbreviation": "ATH",
-          "record": "32-35"
+          "record": "33-35"
         },
         "awayTeam": {
           "name": "Colorado Rockies",
           "abbreviation": "COL",
-          "record": "25-42"
+          "record": "26-43"
         },
         "startTime": "2026-06-13T02:05Z",
         "timeET": "10:05 PM ET",
@@ -528,12 +528,12 @@
         "homeTeam": {
           "name": "San Francisco Giants",
           "abbreviation": "SF",
-          "record": "27-41"
+          "record": "28-41"
         },
         "awayTeam": {
           "name": "Chicago Cubs",
           "abbreviation": "CHC",
-          "record": "34-33"
+          "record": "35-34"
         },
         "startTime": "2026-06-13T02:15Z",
         "timeET": "10:15 PM ET",
@@ -548,60 +548,46 @@
         "isNational": true
       }
     ],
-    "lastUpdated": "2026-06-10T17:27:57.844Z"
+    "lastUpdated": "2026-06-12T10:00:06.656Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Friday, June 12, 2026\n\n⛳ Golf  ·  🏎️ F1  ·  ⚽ Soccer  ·  ⚾ MLB  ·  🏀 WNBA\n\n23 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#F1 #Formula1 #F1Racing #GrandPrix\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#WNBA #WNBABasketball #WomensBasketball\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Big day across golf, F1, soccer, MLB, and WNBA. Start with morning golf and F1, then Canada vs Bosnia-Herzegovina at 3 PM ET. MLB rolls out all evening on MLB.TV and local networks, with WNBA on ION/TSN. Follow @any_and_all_sports for daily watch guides.",
     "hashtags": [
       "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
       "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
+      "#MLB",
+      "#WNBA",
+      "#F1",
+      "#Soccer",
       "#Golf",
       "#PGA",
-      "#PGATour",
       "#LPGA",
-      "#LIVGolf",
-      "#ChampionsTour",
-      "#DPWorldTour",
-      "#F1",
-      "#Formula1",
-      "#F1Racing",
-      "#GrandPrix",
-      "#Soccer",
-      "#Football"
+      "#GolfChannel",
+      "#AppleTV",
+      "#MLBTV",
+      "#ION",
+      "#Peacock"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "23 events across Golf, F1, Soccer, MLB, WNBA."
+        "title": "Morning: Golf + F1",
+        "body": "PGA, LPGA, and Champions Tour start at 12 AM ET; F1 hits 7:30 AM ET on Apple TV."
       },
       {
-        "title": "Game 1",
-        "body": "PGA Tour at RBC Canadian Open 12:00 AM ET on ESPN+ / CBS"
+        "title": "Soccer at 3 PM ET",
+        "body": "Bosnia-Herzegovina at Canada airs on Fox, Telemundo, and Peacock."
       },
       {
-        "title": "Game 2",
-        "body": "LPGA at Dow Championship 12:00 AM ET on CBS / Golf Chnl"
+        "title": "WNBA Tonight",
+        "body": "Toronto Tempo at Washington Mystics tips at 7:30 PM ET on ION, WNBA League Pass, and TSN."
       },
       {
-        "title": "Game 3",
-        "body": "Champions Tour at Principal Charity Classic 12:00 AM ET on Golf Chnl"
+        "title": "MLB All Evening",
+        "body": "Eight MLB games begin at 6:40 PM ET, mostly on MLB.TV and local team networks."
       },
       {
-        "title": "Game 4",
-        "body": "Formula 1 at MSC Cruises Barcelona-Catalunya Grand Prix 7:30 AM ET on Apple TV"
-      },
-      {
-        "title": "Game 5",
-        "body": "Bosnia-Herzegovina at Canada 3:00 PM ET on Fox / Telemundo"
+        "title": "Follow for Daily Schedules",
+        "body": "Get the full watch guide daily and follow @any_and_all_sports."
       }
     ],
     "pngFiles": [
@@ -611,5 +597,5 @@
       "slide-4.png"
     ]
   },
-  "lastUpdated": "2026-06-10T17:27:59.230Z"
+  "lastUpdated": "2026-06-12T10:00:12.416Z"
 }

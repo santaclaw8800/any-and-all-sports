@@ -2,28 +2,24 @@
   "date": "2026-06-12",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "23 events across Golf, F1, Soccer, MLB, WNBA."
+      "title": "Morning: Golf + F1",
+      "body": "PGA, LPGA, and Champions Tour start at 12 AM ET; F1 hits 7:30 AM ET on Apple TV."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at RBC Canadian Open 12:00 AM ET on ESPN+ / CBS"
+      "title": "Soccer at 3 PM ET",
+      "body": "Bosnia-Herzegovina at Canada airs on Fox, Telemundo, and Peacock."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at Dow Championship 12:00 AM ET on CBS / Golf Chnl"
+      "title": "WNBA Tonight",
+      "body": "Toronto Tempo at Washington Mystics tips at 7:30 PM ET on ION, WNBA League Pass, and TSN."
     },
     {
-      "title": "Game 3",
-      "body": "Champions Tour at Principal Charity Classic 12:00 AM ET on Golf Chnl"
+      "title": "MLB All Evening",
+      "body": "Eight MLB games begin at 6:40 PM ET, mostly on MLB.TV and local team networks."
     },
     {
-      "title": "Game 4",
-      "body": "Formula 1 at MSC Cruises Barcelona-Catalunya Grand Prix 7:30 AM ET on Apple TV"
-    },
-    {
-      "title": "Game 5",
-      "body": "Bosnia-Herzegovina at Canada 3:00 PM ET on Fox / Telemundo"
+      "title": "Follow for Daily Schedules",
+      "body": "Get the full watch guide daily and follow @any_and_all_sports."
     }
   ],
   "pngFiles": [
@@ -32,5 +28,5 @@
     "slide-3.png",
     "slide-4.png"
   ],
-  "generatedAt": "2026-06-10T17:27:59.230Z"
+  "generatedAt": "2026-06-12T10:00:12.416Z"
 }

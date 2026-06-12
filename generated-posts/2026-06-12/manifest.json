@@ -1,10 +1,20 @@
 {
   "date": "2026-06-12",
-  "scheduleHash": "6e603b33571eb0b445b977fa61e6b12298335af81e5bc29750da57a333c3e46f",
-  "reason": "fifa-enrichment-refresh",
-  "source": "deterministic",
-  "generatedAt": "2026-06-10T17:27:59.230Z",
-  "model": null,
+  "scheduleHash": "3dc1946ca926f1be0c0c11153169e7093c8e415ff38e2e543f61a885df0d426d",
+  "reason": "verification",
+  "source": "openai",
+  "generatedAt": "2026-06-12T10:00:12.416Z",
+  "model": "gpt-5.4-mini",
   "maxOutputTokens": 1200,
-  "openAiUsage": null
+  "openAiUsage": {
+    "input_tokens": 880,
+    "input_tokens_details": {
+      "cached_tokens": 0
+    },
+    "output_tokens": 401,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 1281
+  }
 }
