@@ -1,0 +1,38 @@
+{
+  "date": "2026-06-14",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "28 events across Golf, F1, Soccer, MLB, WNBA, NHL, MMA/UFC."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at RBC Canadian Open 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at Dow Championship 12:00 AM ET on CBS / Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "Champions Tour at Principal Charity Classic 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 4",
+      "body": "Formula 1 at MSC Cruises Barcelona-Catalunya Grand Prix 7:30 AM ET on Apple TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Türkiye at Australia 12:00 AM ET on FS1 / Telemundo"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png"
+  ],
+  "generatedAt": "2026-06-10T17:27:59.255Z"
+}
