@@ -2,28 +2,24 @@
   "date": "2026-06-14",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "28 events across Golf, F1, Soccer, MLB, WNBA, NHL, MMA/UFC."
+      "title": "Sunday Sports Schedule",
+      "body": "Golf, MLB, soccer, WNBA, and more all day. Follow @any_and_all_sports for the daily lineup."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at RBC Canadian Open 12:00 AM ET on ESPN+ / CBS"
+      "title": "Golf: All Day",
+      "body": "RBC Canadian Open, Dow Championship, and Principal Charity Classic start at 12:00 AM ET."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at Dow Championship 12:00 AM ET on CBS / Golf Chnl"
+      "title": "Early MLB Slate",
+      "body": "First pitch starts at 12:15 PM ET, with a full run of MLB games through 3:05 PM ET."
     },
     {
-      "title": "Game 3",
-      "body": "Champions Tour at Principal Charity Classic 12:00 AM ET on Golf Chnl"
+      "title": "World Cup Match",
+      "body": "Curaçao at Germany at 1:00 PM ET on Fox, Telemundo, and Peacock."
     },
     {
-      "title": "Game 4",
-      "body": "Formula 1 at MSC Cruises Barcelona-Catalunya Grand Prix 7:30 AM ET on Apple TV"
-    },
-    {
-      "title": "Game 5",
-      "body": "Türkiye at Australia 12:00 AM ET on FS1 / Telemundo"
+      "title": "WNBA Afternoon Games",
+      "body": "Mystics at Liberty and Dream at Tempo both tip at 3:00 PM ET."
     }
   ],
   "pngFiles": [
@@ -34,5 +30,5 @@
     "slide-5.png",
     "slide-6.png"
   ],
-  "generatedAt": "2026-06-10T17:27:59.255Z"
+  "generatedAt": "2026-06-14T10:00:11.978Z"
 }
