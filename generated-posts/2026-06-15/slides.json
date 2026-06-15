@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-15",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "18 events across Golf, Soccer, MLB, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "LPGA at Dow Championship 12:00 AM ET on CBS / Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "Cape Verde at Spain 12:00 PM ET on Fox / Telemundo"
+    },
+    {
+      "title": "Game 3",
+      "body": "Egypt at Belgium 3:00 PM ET on Fox / Telemundo"
+    },
+    {
+      "title": "Game 4",
+      "body": "Uruguay at Saudi Arabia 6:00 PM ET on FS1 / Telemundo"
+    },
+    {
+      "title": "Game 5",
+      "body": "Miami Marlins at Philadelphia Phillies 6:40 PM ET on MLB.TV / Marlins.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-06-15T03:30:21.868Z"
+}
