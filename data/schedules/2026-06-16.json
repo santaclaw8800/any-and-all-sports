@@ -2,17 +2,79 @@
   "date": "2026-06-16",
   "games": [
     {
+      "id": "fifawc-760432",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "France",
+        "abbreviation": "FRA",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Senegal",
+        "abbreviation": "SEN",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-06-16T19:00Z",
+      "timeET": "3:00 PM ET",
+      "channels": [
+        "Fox",
+        "Telemundo",
+        "Peacock",
+        "FOX One",
+        "Tubi",
+        "Telemundo Deportes",
+        "SiriusXM FC",
+        "Futbol de Primera Radio"
+      ],
+      "status": "upcoming",
+      "venue": "MetLife Stadium, East Rutherford, New Jersey",
+      "isNational": true,
+      "tournament": "FIFA World Cup",
+      "description": "Group I"
+    },
+    {
+      "id": "fifawc-760430",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Iraq",
+        "abbreviation": "IRQ",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Norway",
+        "abbreviation": "NOR",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-06-16T22:00Z",
+      "timeET": "6:00 PM ET",
+      "channels": [
+        "Fox",
+        "Telemundo",
+        "Peacock",
+        "FOX One",
+        "Tubi",
+        "Telemundo Deportes",
+        "SiriusXM FC",
+        "Futbol de Primera Radio"
+      ],
+      "status": "upcoming",
+      "venue": "Gillette Stadium, Foxborough, Massachusetts",
+      "isNational": true,
+      "tournament": "FIFA World Cup",
+      "description": "Group I"
+    },
+    {
       "id": "mlb-401815776",
       "sport": "MLB",
       "homeTeam": {
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI",
-        "record": "38-33"
+        "record": "39-33"
       },
       "awayTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "36-36"
+        "record": "36-37"
       },
       "startTime": "2026-06-16T22:40Z",
       "timeET": "6:40 PM ET",
@@ -31,12 +93,12 @@
       "homeTeam": {
         "name": "Washington Nationals",
         "abbreviation": "WSH",
-        "record": "37-35"
+        "record": "38-35"
       },
       "awayTeam": {
         "name": "Kansas City Royals",
         "abbreviation": "KC",
-        "record": "29-43"
+        "record": "29-44"
       },
       "startTime": "2026-06-16T22:45Z",
       "timeET": "6:45 PM ET",
@@ -128,12 +190,12 @@
       "homeTeam": {
         "name": "Cincinnati Reds",
         "abbreviation": "CIN",
-        "record": "33-37"
+        "record": "34-37"
       },
       "awayTeam": {
         "name": "New York Mets",
         "abbreviation": "NYM",
-        "record": "32-39"
+        "record": "32-40"
       },
       "startTime": "2026-06-16T23:10Z",
       "timeET": "7:10 PM ET",
@@ -201,12 +263,12 @@
       "homeTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "38-31"
+        "record": "39-31"
       },
       "awayTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "37-33"
+        "record": "37-34"
       },
       "startTime": "2026-06-16T23:45Z",
       "timeET": "7:45 PM ET",
@@ -226,12 +288,12 @@
       "homeTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "37-35"
+        "record": "38-35"
       },
       "awayTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "27-45"
+        "record": "27-46"
       },
       "startTime": "2026-06-17T00:05Z",
       "timeET": "8:05 PM ET",
@@ -250,12 +312,12 @@
       "homeTeam": {
         "name": "Texas Rangers",
         "abbreviation": "TEX",
-        "record": "35-36"
+        "record": "35-37"
       },
       "awayTeam": {
         "name": "Minnesota Twins",
         "abbreviation": "MIN",
-        "record": "33-40"
+        "record": "34-40"
       },
       "startTime": "2026-06-17T00:05Z",
       "timeET": "8:05 PM ET",
@@ -274,12 +336,12 @@
       "homeTeam": {
         "name": "Houston Astros",
         "abbreviation": "HOU",
-        "record": "33-40"
+        "record": "33-41"
       },
       "awayTeam": {
         "name": "Detroit Tigers",
         "abbreviation": "DET",
-        "record": "29-42"
+        "record": "30-42"
       },
       "startTime": "2026-06-17T00:10Z",
       "timeET": "8:10 PM ET",
@@ -294,17 +356,48 @@
       "isNational": true
     },
     {
+      "id": "fifawc-760433",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Argentina",
+        "abbreviation": "ARG",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Algeria",
+        "abbreviation": "ALG",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-06-17T01:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "Fox",
+        "Telemundo",
+        "Peacock",
+        "FOX One",
+        "Tubi",
+        "Telemundo Deportes",
+        "SiriusXM FC",
+        "Futbol de Primera Radio"
+      ],
+      "status": "upcoming",
+      "venue": "GEHA Field at Arrowhead Stadium, Kansas City, Missouri",
+      "isNational": true,
+      "tournament": "FIFA World Cup",
+      "description": "Group J"
+    },
+    {
       "id": "mlb-401815785",
       "sport": "MLB",
       "homeTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "36-35"
+        "record": "37-35"
       },
       "awayTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "29-43"
+        "record": "29-44"
       },
       "startTime": "2026-06-17T01:40Z",
       "timeET": "9:40 PM ET",
@@ -347,12 +440,12 @@
       "homeTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "35-36"
+        "record": "36-36"
       },
       "awayTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "36-36"
+        "record": "36-37"
       },
       "startTime": "2026-06-17T01:40Z",
       "timeET": "9:40 PM ET",
@@ -370,12 +463,12 @@
       "homeTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "45-27"
+        "record": "46-27"
       },
       "awayTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "41-27"
+        "record": "41-28"
       },
       "startTime": "2026-06-17T02:10Z",
       "timeET": "10:10 PM ET",
@@ -390,5 +483,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-06-15T03:30:07.391Z"
+  "lastUpdated": "2026-06-16T10:00:05.041Z"
 }

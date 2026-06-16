@@ -2,34 +2,31 @@
   "date": "2026-06-16",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "16 events across MLB, WNBA."
+      "title": "Tuesday Sports Schedule",
+      "body": "Big day: World Cup soccer, 15 MLB games, and WNBA."
     },
     {
-      "title": "Game 1",
-      "body": "Miami Marlins at Philadelphia Phillies 6:40 PM ET on MLB.TV / Marlins.TV"
+      "title": "Soccer on TV",
+      "body": "Senegal-France at 3 PM ET, Norway-Iraq at 6 PM ET, Algeria-Argentina at 9 PM ET on Fox/Telemundo/Peacock."
     },
     {
-      "title": "Game 2",
-      "body": "Kansas City Royals at Washington Nationals 6:45 PM ET on MLB.TV / Royals.TV"
+      "title": "MLB All Day",
+      "body": "MLB.TV has every game, with local coverage on team networks and select games on NBC Sports, TBS, YES, SNY, and more."
     },
     {
-      "title": "Game 3",
-      "body": "Toronto Blue Jays at Boston Red Sox 6:45 PM ET on MLB.TV / Sportsnet"
+      "title": "WNBA Tonight",
+      "body": "Toronto Tempo at Indiana Fever at 7 PM ET on USA Net, MeTV Indianapolis, and TSN."
     },
     {
-      "title": "Game 4",
-      "body": "Toronto Tempo at Indiana Fever 7:00 PM ET on USA Net / MeTV Indianapolis"
-    },
-    {
-      "title": "Game 5",
-      "body": "Chicago White Sox at New York Yankees 7:05 PM ET on MLB.TV / CHSN"
+      "title": "Follow for Daily Schedules",
+      "body": "Save this post and follow @any_and_all_sports for the next slate."
     }
   ],
   "pngFiles": [
     "slide-1.png",
     "slide-2.png",
-    "slide-3.png"
+    "slide-3.png",
+    "slide-4.png"
   ],
-  "generatedAt": "2026-06-15T03:30:22.898Z"
+  "generatedAt": "2026-06-16T10:00:11.658Z"
 }
