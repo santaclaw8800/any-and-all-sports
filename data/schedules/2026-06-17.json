@@ -2,34 +2,29 @@
   "date": "2026-06-17",
   "games": [
     {
-      "id": "fifawc-760431",
-      "sport": "Soccer",
+      "id": "mlb-401815778",
+      "sport": "MLB",
       "homeTeam": {
-        "name": "Austria",
-        "abbreviation": "AUT",
-        "record": "0-0-0"
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL",
+        "record": "46-25"
       },
       "awayTeam": {
-        "name": "Jordan",
-        "abbreviation": "JOR",
-        "record": "0-0-0"
+        "name": "San Francisco Giants",
+        "abbreviation": "SF",
+        "record": "29-43"
       },
-      "startTime": "2026-06-17T04:00Z",
-      "timeET": "12:00 AM ET",
+      "startTime": "2026-06-16T23:15Z",
+      "timeET": "7:15 PM ET",
       "channels": [
-        "FS1",
-        "Telemundo",
-        "Peacock",
-        "FOX One",
-        "Telemundo Deportes",
-        "SiriusXM FC",
-        "Futbol de Primera Radio"
+        "MLB.TV",
+        "NBC Sports",
+        "BravesVision",
+        "Gray Media"
       ],
       "status": "upcoming",
-      "venue": "Levi's Stadium, Santa Clara, California",
-      "isNational": true,
-      "tournament": "FIFA World Cup",
-      "description": "Group J"
+      "venue": "Truist Park, Atlanta, Georgia",
+      "isNational": true
     },
     {
       "id": "mlb-401815792",
@@ -37,12 +32,12 @@
       "homeTeam": {
         "name": "Cincinnati Reds",
         "abbreviation": "CIN",
-        "record": "33-37"
+        "record": "35-37"
       },
       "awayTeam": {
         "name": "New York Mets",
         "abbreviation": "NYM",
-        "record": "32-39"
+        "record": "32-41"
       },
       "startTime": "2026-06-17T16:40Z",
       "timeET": "12:40 PM ET",
@@ -92,12 +87,12 @@
       "homeTeam": {
         "name": "Washington Nationals",
         "abbreviation": "WSH",
-        "record": "37-35"
+        "record": "39-35"
       },
       "awayTeam": {
         "name": "Kansas City Royals",
         "abbreviation": "KC",
-        "record": "29-43"
+        "record": "29-45"
       },
       "startTime": "2026-06-17T17:05Z",
       "timeET": "1:05 PM ET",
@@ -116,12 +111,12 @@
       "homeTeam": {
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI",
-        "record": "38-33"
+        "record": "40-33"
       },
       "awayTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "36-36"
+        "record": "36-38"
       },
       "startTime": "2026-06-17T17:05Z",
       "timeET": "1:05 PM ET",
@@ -140,12 +135,12 @@
       "homeTeam": {
         "name": "Houston Astros",
         "abbreviation": "HOU",
-        "record": "33-40"
+        "record": "34-41"
       },
       "awayTeam": {
         "name": "Detroit Tigers",
         "abbreviation": "DET",
-        "record": "29-42"
+        "record": "30-43"
       },
       "startTime": "2026-06-17T18:10Z",
       "timeET": "2:10 PM ET",
@@ -165,12 +160,12 @@
       "homeTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "38-31"
+        "record": "40-31"
       },
       "awayTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "37-33"
+        "record": "37-35"
       },
       "startTime": "2026-06-17T18:15Z",
       "timeET": "2:15 PM ET",
@@ -189,12 +184,12 @@
       "homeTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "45-27"
+        "record": "47-27"
       },
       "awayTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "41-27"
+        "record": "41-29"
       },
       "startTime": "2026-06-17T19:10Z",
       "timeET": "3:10 PM ET",
@@ -213,12 +208,12 @@
       "homeTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "36-35"
+        "record": "37-36"
       },
       "awayTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "29-43"
+        "record": "30-44"
       },
       "startTime": "2026-06-17T19:40Z",
       "timeET": "3:40 PM ET",
@@ -268,12 +263,12 @@
       "homeTeam": {
         "name": "Boston Red Sox",
         "abbreviation": "BOS",
-        "record": "29-40"
+        "record": "29-41"
       },
       "awayTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "34-38"
+        "record": "35-38"
       },
       "startTime": "2026-06-17T22:45Z",
       "timeET": "6:45 PM ET",
@@ -346,12 +341,12 @@
       "homeTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "43-27"
+        "record": "44-27"
       },
       "awayTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "38-32"
+        "record": "38-33"
       },
       "startTime": "2026-06-17T23:05Z",
       "timeET": "7:05 PM ET",
@@ -382,7 +377,8 @@
       "channels": [
         "MLB.TV",
         "NBC Sports",
-        "BravesVision"
+        "BravesVision",
+        "Gray Media"
       ],
       "status": "upcoming",
       "venue": "Truist Park, Atlanta, Georgia",
@@ -394,12 +390,12 @@
       "homeTeam": {
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL",
-        "record": "43-26"
+        "record": "44-26"
       },
       "awayTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "39-33"
+        "record": "39-34"
       },
       "startTime": "2026-06-17T23:40Z",
       "timeET": "7:40 PM ET",
@@ -444,12 +440,12 @@
       "homeTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "37-35"
+        "record": "38-36"
       },
       "awayTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "27-45"
+        "record": "28-46"
       },
       "startTime": "2026-06-18T00:05Z",
       "timeET": "8:05 PM ET",
@@ -468,12 +464,12 @@
       "homeTeam": {
         "name": "Seattle Mariners",
         "abbreviation": "SEA",
-        "record": "37-36"
+        "record": "38-36"
       },
       "awayTeam": {
         "name": "Baltimore Orioles",
         "abbreviation": "BAL",
-        "record": "34-39"
+        "record": "34-40"
       },
       "startTime": "2026-06-18T01:40Z",
       "timeET": "9:40 PM ET",
@@ -492,12 +488,12 @@
       "homeTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "35-36"
+        "record": "36-37"
       },
       "awayTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "36-36"
+        "record": "37-37"
       },
       "startTime": "2026-06-18T01:40Z",
       "timeET": "9:40 PM ET",
@@ -515,12 +511,12 @@
       "homeTeam": {
         "name": "Golden State Valkyries",
         "abbreviation": "GS",
-        "record": "8-5"
+        "record": "9-5"
       },
       "awayTeam": {
         "name": "Dallas Wings",
         "abbreviation": "DAL",
-        "record": "8-5"
+        "record": "9-5"
       },
       "startTime": "2026-06-18T02:00Z",
       "timeET": "10:00 PM ET",
@@ -538,12 +534,12 @@
       "homeTeam": {
         "name": "Los Angeles Sparks",
         "abbreviation": "LA",
-        "record": "7-6"
+        "record": "7-7"
       },
       "awayTeam": {
         "name": "Minnesota Lynx",
         "abbreviation": "MIN",
-        "record": "10-3"
+        "record": "11-3"
       },
       "startTime": "2026-06-18T02:00Z",
       "timeET": "10:00 PM ET",
@@ -566,15 +562,16 @@
       "awayTeam": {
         "name": "Las Vegas Aces",
         "abbreviation": "LV",
-        "record": "10-3"
+        "record": "10-4"
       },
       "startTime": "2026-06-18T02:00Z",
       "timeET": "10:00 PM ET",
       "channels": [
         "USA Net",
+        "CNBC",
         "AZ Family Sports Net",
-        "Merc+",
-        "Vegas 34"
+        "Vegas 34",
+        "Merc+"
       ],
       "status": "upcoming",
       "venue": "Mortgage Matchup Center, Phoenix, AZ",
@@ -586,7 +583,7 @@
       "homeTeam": {
         "name": "Portland Fire",
         "abbreviation": "POR",
-        "record": "7-8"
+        "record": "7-9"
       },
       "awayTeam": {
         "name": "Seattle Storm",
@@ -635,5 +632,5 @@
       "description": "Group K"
     }
   ],
-  "lastUpdated": "2026-06-15T03:30:08.066Z"
+  "lastUpdated": "2026-06-17T10:00:15.488Z"
 }
