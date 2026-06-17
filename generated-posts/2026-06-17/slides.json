@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-17",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "25 events across Soccer, MLB, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Jordan at Austria 12:00 AM ET on FS1 / Telemundo"
+    },
+    {
+      "title": "Game 2",
+      "body": "New York Mets at Cincinnati Reds 12:40 PM ET on MLB.TV / Reds.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Congo DR at Portugal 1:00 PM ET on Fox / Telemundo"
+    },
+    {
+      "title": "Game 4",
+      "body": "Kansas City Royals at Washington Nationals 1:05 PM ET on MLB.TV / Royals.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Miami Marlins at Philadelphia Phillies 1:05 PM ET on MLB.TV / Marlins.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png"
+  ],
+  "generatedAt": "2026-06-15T03:30:24.186Z"
+}
