@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-24",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "26 events across MLB, Soccer, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Texas Rangers at Miami Marlins 12:10 PM ET on MLB.TV / Rangers Sports Network"
+    },
+    {
+      "title": "Game 2",
+      "body": "Chicago Cubs at New York Mets 1:10 PM ET on MLB.TV / SNY"
+    },
+    {
+      "title": "Game 3",
+      "body": "Cleveland Guardians at Chicago White Sox 2:10 PM ET on MLB.TV / CLEGuardians.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Qatar at Bosnia-Herzegovina 3:00 PM ET on FS1 / Universo"
+    },
+    {
+      "title": "Game 5",
+      "body": "Canada at Switzerland 3:00 PM ET on Fox / Telemundo"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png"
+  ],
+  "generatedAt": "2026-06-24T14:16:51.059Z"
+}
