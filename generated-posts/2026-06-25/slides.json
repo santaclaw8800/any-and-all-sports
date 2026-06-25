@@ -1,0 +1,37 @@
+{
+  "date": "2026-06-25",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "22 events across Golf, MLB, Soccer, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Travelers Championship 12:00 AM ET on ESPN+ / NBC"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at KPMG Women's PGA Championship 12:00 AM ET on NBCSN / NBC"
+    },
+    {
+      "title": "Game 3",
+      "body": "LIV Golf at LIV Golf Louisiana 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "DP World Tour at DS Automobiles 83° Open d'Italia 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Kansas City Royals at Tampa Bay Rays 12:10 PM ET on MLB.TV / Royals.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png"
+  ],
+  "generatedAt": "2026-06-25T10:00:13.210Z"
+}
