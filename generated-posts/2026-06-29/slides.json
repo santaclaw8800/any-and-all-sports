@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-29",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "18 events across Golf, Soccer, MLB."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Travelers Championship 12:00 AM ET on ESPN+ / NBC"
+    },
+    {
+      "title": "Game 2",
+      "body": "LIV Golf at LIV Golf Louisiana 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Japan at Brazil 1:00 PM ET on Fox / Telemundo"
+    },
+    {
+      "title": "Game 4",
+      "body": "Paraguay at Germany 4:30 PM ET on Fox / Telemundo"
+    },
+    {
+      "title": "Game 5",
+      "body": "Chicago White Sox at Baltimore Orioles 6:35 PM ET on MLB.TV / MASN"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-06-29T03:30:16.792Z"
+}
