@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-01",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "17 events across Soccer, MLB."
+    },
+    {
+      "title": "Game 1",
+      "body": "Congo DR at England 12:00 PM ET on Fox / Telemundo"
+    },
+    {
+      "title": "Game 2",
+      "body": "Chicago White Sox at Baltimore Orioles 12:35 PM ET on MLB.TV / MASN"
+    },
+    {
+      "title": "Game 3",
+      "body": "Texas Rangers at Cleveland Guardians 1:10 PM ET on MLB.TV / CLEGuardians.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Detroit Tigers at New York Yankees 1:35 PM ET on MLB.TV / Tigers.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Washington Nationals at Boston Red Sox 1:35 PM ET on MLB.TV / Nationals.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-06-29T03:30:18.940Z"
+}
