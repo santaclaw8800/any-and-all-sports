@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-02",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "18 events across Golf, MLB, Soccer, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at John Deere Classic 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "Champions Tour at U.S. Senior Open Championship 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "DP World Tour at BMW International Open 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Pittsburgh Pirates at Philadelphia Phillies 12:35 PM ET on MLB.TV / NBC Sports"
+    },
+    {
+      "title": "Game 5",
+      "body": "Cincinnati Reds at Milwaukee Brewers 2:10 PM ET on MLB.TV / Reds.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-06-29T03:30:20.188Z"
+}
