@@ -18,7 +18,7 @@
         "Golf Chnl",
         "Paramount+"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "PGA Tour"
     },
@@ -34,7 +34,7 @@
       "startTime": "2026-07-02T04:00Z",
       "timeET": "12:00 AM ET",
       "channels": [],
-      "status": "upcoming",
+      "status": "live",
       "tournament": "Champions Tour"
     },
     {
@@ -49,7 +49,7 @@
       "startTime": "2026-07-02T04:00Z",
       "timeET": "12:00 AM ET",
       "channels": [],
-      "status": "upcoming",
+      "status": "live",
       "tournament": "DP World Tour"
     },
     {
@@ -103,12 +103,12 @@
       "homeTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "46-38"
+        "record": "49-38"
       },
       "awayTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "43-38"
+        "record": "45-39"
       },
       "startTime": "2026-07-03T20:05Z",
       "timeET": "4:05 PM ET",
@@ -156,12 +156,12 @@
       "homeTeam": {
         "name": "Washington Nationals",
         "abbreviation": "WSH",
-        "record": "43-42"
+        "record": "45-43"
       },
       "awayTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "42-42"
+        "record": "44-44"
       },
       "startTime": "2026-07-03T22:45Z",
       "timeET": "6:45 PM ET",
@@ -179,12 +179,12 @@
       "homeTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "48-35"
+        "record": "48-38"
       },
       "awayTeam": {
         "name": "Minnesota Twins",
         "abbreviation": "MIN",
-        "record": "40-45"
+        "record": "42-46"
       },
       "startTime": "2026-07-03T23:05Z",
       "timeET": "7:05 PM ET",
@@ -203,12 +203,12 @@
       "homeTeam": {
         "name": "Cincinnati Reds",
         "abbreviation": "CIN",
-        "record": "39-43"
+        "record": "40-46"
       },
       "awayTeam": {
         "name": "Baltimore Orioles",
         "abbreviation": "BAL",
-        "record": "39-46"
+        "record": "40-48"
       },
       "startTime": "2026-07-03T23:10Z",
       "timeET": "7:10 PM ET",
@@ -227,12 +227,12 @@
       "homeTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "44-40"
+        "record": "46-42"
       },
       "awayTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "43-39"
+        "record": "45-41"
       },
       "startTime": "2026-07-03T23:10Z",
       "timeET": "7:10 PM ET",
@@ -252,12 +252,12 @@
       "homeTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "49-33"
+        "record": "50-35"
       },
       "awayTeam": {
         "name": "New York Mets",
         "abbreviation": "NYM",
-        "record": "35-49"
+        "record": "36-51"
       },
       "startTime": "2026-07-03T23:15Z",
       "timeET": "7:15 PM ET",
@@ -321,12 +321,12 @@
       "homeTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "33-51"
+        "record": "35-53"
       },
       "awayTeam": {
         "name": "San Francisco Giants",
         "abbreviation": "SF",
-        "record": "35-48"
+        "record": "36-50"
       },
       "startTime": "2026-07-04T00:10Z",
       "timeET": "8:10 PM ET",
@@ -345,12 +345,12 @@
       "homeTeam": {
         "name": "Houston Astros",
         "abbreviation": "HOU",
-        "record": "42-44"
+        "record": "43-46"
       },
       "awayTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "48-33"
+        "record": "51-33"
       },
       "startTime": "2026-07-04T00:15Z",
       "timeET": "8:15 PM ET",
@@ -419,12 +419,12 @@
       "homeTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "36-49"
+        "record": "36-52"
       },
       "awayTeam": {
         "name": "Boston Red Sox",
         "abbreviation": "BOS",
-        "record": "36-46"
+        "record": "37-48"
       },
       "startTime": "2026-07-04T01:38Z",
       "timeET": "9:38 PM ET",
@@ -443,12 +443,12 @@
       "homeTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "40-44"
+        "record": "41-46"
       },
       "awayTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "44-40"
+        "record": "46-42"
       },
       "startTime": "2026-07-04T01:40Z",
       "timeET": "9:40 PM ET",
@@ -467,12 +467,12 @@
       "homeTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "41-42"
+        "record": "43-43"
       },
       "awayTeam": {
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL",
-        "record": "50-31"
+        "record": "53-32"
       },
       "startTime": "2026-07-04T01:45Z",
       "timeET": "9:45 PM ET",
@@ -481,7 +481,7 @@
         "Apple TV"
       ],
       "status": "upcoming",
-      "venue": "Chase Field, Phoenix, Arizona",
+      "venue": "Chase Field, Hanover, New Hampshire",
       "isNational": true
     },
     {
@@ -536,12 +536,12 @@
       "homeTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "54-30"
+        "record": "57-31"
       },
       "awayTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "43-39"
+        "record": "43-43"
       },
       "startTime": "2026-07-04T02:10Z",
       "timeET": "10:10 PM ET",
@@ -561,12 +561,12 @@
       "homeTeam": {
         "name": "Seattle Mariners",
         "abbreviation": "SEA",
-        "record": "42-43"
+        "record": "45-43"
       },
       "awayTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "39-45"
+        "record": "41-46"
       },
       "startTime": "2026-07-04T02:10Z",
       "timeET": "10:10 PM ET",
@@ -581,5 +581,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-06-29T03:30:05.655Z"
+  "lastUpdated": "2026-07-03T10:00:05.857Z"
 }

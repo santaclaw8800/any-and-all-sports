@@ -2,28 +2,24 @@
   "date": "2026-07-03",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "25 events across Golf, F1, Soccer, MLB, WNBA."
+      "title": "Early Start",
+      "body": "Golf, F1, and more begin before noon ET."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at John Deere Classic 12:00 AM ET on ESPN+ / CBS"
+      "title": "World Cup Matchups",
+      "body": "Egypt vs Australia, Cape Verde vs Argentina, Ghana vs Colombia."
     },
     {
-      "title": "Game 2",
-      "body": "Champions Tour at U.S. Senior Open Championship 12:00 AM ET on Check listings"
+      "title": "MLB All Evening",
+      "body": "Eight MLB games hit from 4:05 PM to 8:15 PM ET."
     },
     {
-      "title": "Game 3",
-      "body": "DP World Tour at BMW International Open 12:00 AM ET on Check listings"
+      "title": "WNBA Spotlight",
+      "body": "Lynx at Liberty tips at 7:30 PM ET on ION and League Pass."
     },
     {
-      "title": "Game 4",
-      "body": "Formula 1 at Pirelli British Grand Prix 7:30 AM ET on Apple TV"
-    },
-    {
-      "title": "Game 5",
-      "body": "Egypt at Australia 2:00 PM ET on Fox / Telemundo"
+      "title": "How To Watch",
+      "body": "Check ESPN+, Fox, Telemundo, Apple TV, ION, MLB.TV, and more."
     }
   ],
   "pngFiles": [
@@ -33,5 +29,5 @@
     "slide-4.png",
     "slide-5.png"
   ],
-  "generatedAt": "2026-06-29T03:30:21.935Z"
+  "generatedAt": "2026-07-03T10:00:12.661Z"
 }
