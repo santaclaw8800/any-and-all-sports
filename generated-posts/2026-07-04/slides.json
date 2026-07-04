@@ -2,28 +2,28 @@
   "date": "2026-07-04",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "25 events across Golf, F1, MLB, WNBA, Soccer."
+      "title": "Morning Golf",
+      "body": "John Deere Classic, U.S. Senior Open, and BMW International Open all tee off at 12:00 AM ET."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at John Deere Classic 12:00 AM ET on ESPN+ / CBS"
+      "title": "Early MLB Starts",
+      "body": "Pirates-Nationals at 11:05 AM ET, then Twins-Yankees at 1:35 PM ET on ESPN Unlmtd and MLB.TV."
     },
     {
-      "title": "Game 2",
-      "body": "Champions Tour at U.S. Senior Open Championship 12:00 AM ET on Check listings"
+      "title": "Afternoon Action",
+      "body": "Tigers-Rangers at 4:05 PM ET and Blue Jays-Mariners at 4:10 PM ET."
     },
     {
-      "title": "Game 3",
-      "body": "DP World Tour at BMW International Open 12:00 AM ET on Check listings"
+      "title": "Soccer + WNBA",
+      "body": "Valkyries-Dream at 1:00 PM ET on CBS/Paramount+. Morocco-Canada at 1:00 PM ET on Fox/Telemundo/FOX One."
     },
     {
-      "title": "Game 4",
-      "body": "Formula 1 at Pirelli British Grand Prix 7:30 AM ET on Apple TV"
+      "title": "Night Slate",
+      "body": "Seven MLB games start at 7:10 PM ET or later, plus Reign-Courage at 7:30 PM ET on ION."
     },
     {
-      "title": "Game 5",
-      "body": "Pittsburgh Pirates at Washington Nationals 11:05 AM ET on MLB.TV / Nationals.TV"
+      "title": "Watch & Follow",
+      "body": "Catch games on MLB.TV, Fox, CBS, Paramount+, ION, ESPN+, and local networks. Follow @any_and_all_sports."
     }
   ],
   "pngFiles": [
@@ -33,5 +33,5 @@
     "slide-4.png",
     "slide-5.png"
   ],
-  "generatedAt": "2026-06-29T03:30:23.254Z"
+  "generatedAt": "2026-07-04T10:00:10.036Z"
 }

@@ -18,7 +18,7 @@
         "Golf Chnl",
         "Paramount+"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "PGA Tour"
     },
@@ -34,7 +34,7 @@
       "startTime": "2026-07-02T04:00Z",
       "timeET": "12:00 AM ET",
       "channels": [],
-      "status": "upcoming",
+      "status": "live",
       "tournament": "Champions Tour"
     },
     {
@@ -49,25 +49,8 @@
       "startTime": "2026-07-02T04:00Z",
       "timeET": "12:00 AM ET",
       "channels": [],
-      "status": "upcoming",
+      "status": "live",
       "tournament": "DP World Tour"
-    },
-    {
-      "id": "f1-600057437",
-      "sport": "F1",
-      "homeTeam": {
-        "name": "Pirelli British Grand Prix"
-      },
-      "awayTeam": {
-        "name": "Formula 1"
-      },
-      "startTime": "2026-07-03T11:30Z",
-      "timeET": "7:30 AM ET",
-      "channels": [
-        "Apple TV"
-      ],
-      "status": "upcoming",
-      "isNational": true
     },
     {
       "id": "mlb-401816019",
@@ -75,12 +58,12 @@
       "homeTeam": {
         "name": "Washington Nationals",
         "abbreviation": "WSH",
-        "record": "43-42"
+        "record": "46-43"
       },
       "awayTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "42-42"
+        "record": "44-45"
       },
       "startTime": "2026-07-04T15:05Z",
       "timeET": "11:05 AM ET",
@@ -98,7 +81,7 @@
       "homeTeam": {
         "name": "Atlanta Dream",
         "abbreviation": "ATL",
-        "record": "12-7"
+        "record": "12-8"
       },
       "awayTeam": {
         "name": "Golden State Valkyries",
@@ -123,8 +106,8 @@
         "abbreviation": "CAN"
       },
       "awayTeam": {
-        "name": "Round of 32 3 Winner",
-        "abbreviation": "RD32"
+        "name": "Morocco",
+        "abbreviation": "MAR"
       },
       "startTime": "2026-07-04T17:00Z",
       "timeET": "1:00 PM ET",
@@ -149,12 +132,12 @@
       "homeTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "48-35"
+        "record": "49-38"
       },
       "awayTeam": {
         "name": "Minnesota Twins",
         "abbreviation": "MIN",
-        "record": "40-45"
+        "record": "42-47"
       },
       "startTime": "2026-07-04T17:35Z",
       "timeET": "1:35 PM ET",
@@ -174,12 +157,12 @@
       "homeTeam": {
         "name": "Texas Rangers",
         "abbreviation": "TEX",
-        "record": "42-42"
+        "record": "45-43"
       },
       "awayTeam": {
         "name": "Detroit Tigers",
         "abbreviation": "DET",
-        "record": "35-49"
+        "record": "38-50"
       },
       "startTime": "2026-07-04T20:05Z",
       "timeET": "4:05 PM ET",
@@ -198,12 +181,12 @@
       "homeTeam": {
         "name": "Seattle Mariners",
         "abbreviation": "SEA",
-        "record": "42-43"
+        "record": "45-44"
       },
       "awayTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "39-45"
+        "record": "42-46"
       },
       "startTime": "2026-07-04T20:10Z",
       "timeET": "4:10 PM ET",
@@ -211,7 +194,8 @@
         "MLB.TV",
         "Mariners.TV",
         "Sportsnet",
-        "TVA"
+        "TVA",
+        "ERADM"
       ],
       "status": "upcoming",
       "venue": "T-Mobile Park, Seattle, Washington",
@@ -221,12 +205,12 @@
       "id": "fifawc-760503",
       "sport": "Soccer",
       "homeTeam": {
-        "name": "Round of 32 2 Winner",
-        "abbreviation": "RD32"
+        "name": "Paraguay",
+        "abbreviation": "PAR"
       },
       "awayTeam": {
-        "name": "Round of 32 5 Winner",
-        "abbreviation": "RD32"
+        "name": "France",
+        "abbreviation": "FRA"
       },
       "startTime": "2026-07-04T21:00Z",
       "timeET": "5:00 PM ET",
@@ -246,40 +230,17 @@
       "description": "Round of 16"
     },
     {
-      "id": "nwsl-401853930",
-      "sport": "Soccer",
-      "homeTeam": {
-        "name": "North Carolina Courage",
-        "abbreviation": "NC",
-        "record": "5-3-3"
-      },
-      "awayTeam": {
-        "name": "Seattle Reign FC",
-        "abbreviation": "SEA",
-        "record": "4-2-5"
-      },
-      "startTime": "2026-07-04T22:30Z",
-      "timeET": "6:30 PM ET",
-      "channels": [
-        "ION"
-      ],
-      "status": "upcoming",
-      "venue": "WakeMed Soccer Park, Cary, North Carolina",
-      "isNational": true,
-      "tournament": "NWSL"
-    },
-    {
       "id": "mlb-401816015",
       "sport": "MLB",
       "homeTeam": {
         "name": "Cincinnati Reds",
         "abbreviation": "CIN",
-        "record": "39-43"
+        "record": "40-47"
       },
       "awayTeam": {
         "name": "Baltimore Orioles",
         "abbreviation": "BAL",
-        "record": "39-46"
+        "record": "41-48"
       },
       "startTime": "2026-07-04T23:10Z",
       "timeET": "7:10 PM ET",
@@ -298,12 +259,12 @@
       "homeTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "44-40"
+        "record": "47-42"
       },
       "awayTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "43-39"
+        "record": "45-42"
       },
       "startTime": "2026-07-04T23:10Z",
       "timeET": "7:10 PM ET",
@@ -322,12 +283,12 @@
       "homeTeam": {
         "name": "Houston Astros",
         "abbreviation": "HOU",
-        "record": "42-44"
+        "record": "43-47"
       },
       "awayTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "48-33"
+        "record": "52-33"
       },
       "startTime": "2026-07-04T23:10Z",
       "timeET": "7:10 PM ET",
@@ -341,17 +302,40 @@
       "isNational": true
     },
     {
+      "id": "nwsl-401853930",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "North Carolina Courage",
+        "abbreviation": "NC",
+        "record": "5-3-3"
+      },
+      "awayTeam": {
+        "name": "Seattle Reign FC",
+        "abbreviation": "SEA",
+        "record": "4-2-5"
+      },
+      "startTime": "2026-07-04T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "ION"
+      ],
+      "status": "upcoming",
+      "venue": "WakeMed Soccer Park, Cary, North Carolina",
+      "isNational": true,
+      "tournament": "NWSL"
+    },
+    {
       "id": "mlb-401816018",
       "sport": "MLB",
       "homeTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "49-33"
+        "record": "51-35"
       },
       "awayTeam": {
         "name": "New York Mets",
         "abbreviation": "NYM",
-        "record": "35-49"
+        "record": "36-52"
       },
       "startTime": "2026-07-05T00:08Z",
       "timeET": "8:08 PM ET",
@@ -369,18 +353,19 @@
       "homeTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "46-38"
+        "record": "49-39"
       },
       "awayTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "43-38"
+        "record": "46-39"
       },
       "startTime": "2026-07-05T00:08Z",
       "timeET": "8:08 PM ET",
       "channels": [
         "MLB.TV",
-        "Fox"
+        "Fox",
+        "ERADM"
       ],
       "status": "upcoming",
       "venue": "Wrigley Field, Chicago, Illinois",
@@ -392,12 +377,12 @@
       "homeTeam": {
         "name": "Kansas City Royals",
         "abbreviation": "KC",
-        "record": "35-50"
+        "record": "35-53"
       },
       "awayTeam": {
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI",
-        "record": "47-37"
+        "record": "49-39"
       },
       "startTime": "2026-07-05T00:10Z",
       "timeET": "8:10 PM ET",
@@ -416,12 +401,12 @@
       "homeTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "33-51"
+        "record": "36-53"
       },
       "awayTeam": {
         "name": "San Francisco Giants",
         "abbreviation": "SF",
-        "record": "35-48"
+        "record": "36-51"
       },
       "startTime": "2026-07-05T00:10Z",
       "timeET": "8:10 PM ET",
@@ -463,7 +448,7 @@
       "homeTeam": {
         "name": "Seattle Storm",
         "abbreviation": "SEA",
-        "record": "5-15"
+        "record": "5-16"
       },
       "awayTeam": {
         "name": "Portland Fire",
@@ -487,12 +472,12 @@
       "homeTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "36-49"
+        "record": "36-53"
       },
       "awayTeam": {
         "name": "Boston Red Sox",
         "abbreviation": "BOS",
-        "record": "36-46"
+        "record": "38-48"
       },
       "startTime": "2026-07-05T01:38Z",
       "timeET": "9:38 PM ET",
@@ -511,12 +496,12 @@
       "homeTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "40-44"
+        "record": "41-47"
       },
       "awayTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "44-40"
+        "record": "47-42"
       },
       "startTime": "2026-07-05T01:40Z",
       "timeET": "9:40 PM ET",
@@ -535,12 +520,12 @@
       "homeTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "41-42"
+        "record": "43-44"
       },
       "awayTeam": {
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL",
-        "record": "50-31"
+        "record": "54-32"
       },
       "startTime": "2026-07-05T01:40Z",
       "timeET": "9:40 PM ET",
@@ -550,7 +535,7 @@
         "Brewers.TV"
       ],
       "status": "upcoming",
-      "venue": "Chase Field, Phoenix, Arizona",
+      "venue": "Chase Field, Hanover, New Hampshire",
       "isNational": true
     },
     {
@@ -559,12 +544,12 @@
       "homeTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "54-30"
+        "record": "58-31"
       },
       "awayTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "43-39"
+        "record": "43-44"
       },
       "startTime": "2026-07-05T02:10Z",
       "timeET": "10:10 PM ET",
@@ -580,5 +565,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-06-29T03:30:06.312Z"
+  "lastUpdated": "2026-07-04T10:00:04.089Z"
 }
