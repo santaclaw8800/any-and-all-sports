@@ -18,7 +18,7 @@
         "Golf Chnl",
         "Paramount+"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "PGA Tour"
     },
@@ -34,7 +34,7 @@
       "startTime": "2026-07-02T04:00Z",
       "timeET": "12:00 AM ET",
       "channels": [],
-      "status": "upcoming",
+      "status": "live",
       "tournament": "Champions Tour"
     },
     {
@@ -49,25 +49,8 @@
       "startTime": "2026-07-02T04:00Z",
       "timeET": "12:00 AM ET",
       "channels": [],
-      "status": "upcoming",
+      "status": "live",
       "tournament": "DP World Tour"
-    },
-    {
-      "id": "f1-600057437",
-      "sport": "F1",
-      "homeTeam": {
-        "name": "Pirelli British Grand Prix"
-      },
-      "awayTeam": {
-        "name": "Formula 1"
-      },
-      "startTime": "2026-07-03T11:30Z",
-      "timeET": "7:30 AM ET",
-      "channels": [
-        "Apple TV"
-      ],
-      "status": "upcoming",
-      "isNational": true
     },
     {
       "id": "nwsl-401854062",
@@ -85,7 +68,8 @@
       "startTime": "2026-07-05T16:00Z",
       "timeET": "12:00 PM ET",
       "channels": [
-        "ESPN"
+        "ESPN",
+        "ESPN Unlmtd"
       ],
       "status": "upcoming",
       "venue": "Centreville Bank Stadium, Pawtucket, Rhode Island",
@@ -98,12 +82,12 @@
       "homeTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "49-33"
+        "record": "52-35"
       },
       "awayTeam": {
         "name": "New York Mets",
         "abbreviation": "NYM",
-        "record": "35-49"
+        "record": "36-53"
       },
       "startTime": "2026-07-05T16:30Z",
       "timeET": "12:30 PM ET",
@@ -121,18 +105,17 @@
       "homeTeam": {
         "name": "Washington Nationals",
         "abbreviation": "WSH",
-        "record": "43-42"
+        "record": "46-44"
       },
       "awayTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "42-42"
+        "record": "45-45"
       },
       "startTime": "2026-07-05T17:00Z",
       "timeET": "1:00 PM ET",
       "channels": [
-        "Peacock",
-        "NBCSN Extra"
+        "Peacock"
       ],
       "status": "upcoming",
       "venue": "Nationals Park, Washington, District of Columbia",
@@ -144,18 +127,17 @@
       "homeTeam": {
         "name": "Cincinnati Reds",
         "abbreviation": "CIN",
-        "record": "39-43"
+        "record": "40-48"
       },
       "awayTeam": {
         "name": "Baltimore Orioles",
         "abbreviation": "BAL",
-        "record": "39-46"
+        "record": "42-48"
       },
       "startTime": "2026-07-05T17:05Z",
       "timeET": "1:05 PM ET",
       "channels": [
-        "Peacock",
-        "NBCSN Extra"
+        "Peacock"
       ],
       "status": "upcoming",
       "venue": "Great American Ball Park, Cincinnati, Ohio",
@@ -167,18 +149,18 @@
       "homeTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "48-35"
+        "record": "49-39"
       },
       "awayTeam": {
         "name": "Minnesota Twins",
         "abbreviation": "MIN",
-        "record": "40-45"
+        "record": "43-47"
       },
       "startTime": "2026-07-05T17:35Z",
       "timeET": "1:35 PM ET",
       "channels": [
         "Peacock",
-        "NBCSN Extra"
+        "NBCSN"
       ],
       "status": "upcoming",
       "venue": "Yankee Stadium, Bronx, New York",
@@ -190,18 +172,17 @@
       "homeTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "44-40"
+        "record": "47-43"
       },
       "awayTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "43-39"
+        "record": "46-42"
       },
       "startTime": "2026-07-05T18:00Z",
       "timeET": "2:00 PM ET",
       "channels": [
-        "Peacock",
-        "NBCSN Extra"
+        "Peacock"
       ],
       "status": "upcoming",
       "venue": "Progressive Field, Cleveland, Ohio",
@@ -213,18 +194,17 @@
       "homeTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "46-38"
+        "record": "49-40"
       },
       "awayTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "43-38"
+        "record": "47-39"
       },
       "startTime": "2026-07-05T18:30Z",
       "timeET": "2:30 PM ET",
       "channels": [
-        "Peacock",
-        "NBCSN Extra"
+        "Peacock"
       ],
       "status": "upcoming",
       "venue": "Wrigley Field, Chicago, Illinois",
@@ -241,7 +221,7 @@
       "awayTeam": {
         "name": "Dallas Wings",
         "abbreviation": "DAL",
-        "record": "11-8"
+        "record": "12-8"
       },
       "startTime": "2026-07-05T19:00Z",
       "timeET": "3:00 PM ET",
@@ -259,18 +239,17 @@
       "homeTeam": {
         "name": "Kansas City Royals",
         "abbreviation": "KC",
-        "record": "35-50"
+        "record": "35-54"
       },
       "awayTeam": {
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI",
-        "record": "47-37"
+        "record": "50-39"
       },
       "startTime": "2026-07-05T19:00Z",
       "timeET": "3:00 PM ET",
       "channels": [
         "Peacock",
-        "NBCSN Extra",
         "NBC Sports"
       ],
       "status": "upcoming",
@@ -283,18 +262,17 @@
       "homeTeam": {
         "name": "Texas Rangers",
         "abbreviation": "TEX",
-        "record": "42-42"
+        "record": "45-44"
       },
       "awayTeam": {
         "name": "Detroit Tigers",
         "abbreviation": "DET",
-        "record": "35-49"
+        "record": "39-50"
       },
       "startTime": "2026-07-05T19:30Z",
       "timeET": "3:30 PM ET",
       "channels": [
-        "Peacock",
-        "NBCSN Extra"
+        "Peacock"
       ],
       "status": "upcoming",
       "venue": "Globe Life Field, Arlington, Texas",
@@ -306,18 +284,17 @@
       "homeTeam": {
         "name": "Houston Astros",
         "abbreviation": "HOU",
-        "record": "42-44"
+        "record": "44-47"
       },
       "awayTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "48-33"
+        "record": "52-34"
       },
       "startTime": "2026-07-05T19:30Z",
       "timeET": "3:30 PM ET",
       "channels": [
-        "Peacock",
-        "NBCSN Extra"
+        "Peacock"
       ],
       "status": "upcoming",
       "venue": "Daikin Park, Houston, Texas",
@@ -329,18 +306,17 @@
       "homeTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "33-51"
+        "record": "36-54"
       },
       "awayTeam": {
         "name": "San Francisco Giants",
         "abbreviation": "SF",
-        "record": "35-48"
+        "record": "37-51"
       },
       "startTime": "2026-07-05T20:00Z",
       "timeET": "4:00 PM ET",
       "channels": [
         "Peacock",
-        "NBCSN Extra",
         "NBC Sports"
       ],
       "status": "upcoming",
@@ -348,15 +324,37 @@
       "isNational": true
     },
     {
+      "id": "mlb-401816042",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Arizona Diamondbacks",
+        "abbreviation": "ARI",
+        "record": "44-44"
+      },
+      "awayTeam": {
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL",
+        "record": "54-33"
+      },
+      "startTime": "2026-07-05T20:00Z",
+      "timeET": "4:00 PM ET",
+      "channels": [
+        "Peacock"
+      ],
+      "status": "upcoming",
+      "venue": "Chase Field (NH), Hanover, New Hampshire",
+      "isNational": true
+    },
+    {
       "id": "fifawc-760504",
       "sport": "Soccer",
       "homeTeam": {
-        "name": "Round of 32 4 Winner",
-        "abbreviation": "RD32"
+        "name": "Brazil",
+        "abbreviation": "BRA"
       },
       "awayTeam": {
-        "name": "Round of 32 6 Winner",
-        "abbreviation": "RD32"
+        "name": "Norway",
+        "abbreviation": "NOR"
       },
       "startTime": "2026-07-05T20:00Z",
       "timeET": "4:00 PM ET",
@@ -376,46 +374,22 @@
       "description": "Round of 16"
     },
     {
-      "id": "mlb-401816042",
-      "sport": "MLB",
-      "homeTeam": {
-        "name": "Arizona Diamondbacks",
-        "abbreviation": "ARI",
-        "record": "41-42"
-      },
-      "awayTeam": {
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL",
-        "record": "50-31"
-      },
-      "startTime": "2026-07-05T20:10Z",
-      "timeET": "4:10 PM ET",
-      "channels": [
-        "Peacock",
-        "NBCSN Extra"
-      ],
-      "status": "upcoming",
-      "venue": "Chase Field, Phoenix, Arizona",
-      "isNational": true
-    },
-    {
       "id": "mlb-401816041",
       "sport": "MLB",
       "homeTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "40-44"
+        "record": "41-48"
       },
       "awayTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "44-40"
+        "record": "48-42"
       },
       "startTime": "2026-07-05T20:30Z",
       "timeET": "4:30 PM ET",
       "channels": [
-        "Peacock",
-        "NBCSN Extra"
+        "Peacock"
       ],
       "status": "upcoming",
       "venue": "Sutter Health Park, Sacramento, California",
@@ -427,18 +401,18 @@
       "homeTeam": {
         "name": "Seattle Mariners",
         "abbreviation": "SEA",
-        "record": "42-43"
+        "record": "46-44"
       },
       "awayTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "39-45"
+        "record": "42-47"
       },
       "startTime": "2026-07-05T21:00Z",
       "timeET": "5:00 PM ET",
       "channels": [
         "Peacock",
-        "NBCSN Extra",
+        "NBCSN",
         "Sportsnet",
         "TVA"
       ],
@@ -475,7 +449,7 @@
       "homeTeam": {
         "name": "Las Vegas Aces",
         "abbreviation": "LV",
-        "record": "14-5"
+        "record": "15-5"
       },
       "awayTeam": {
         "name": "Indiana Fever",
@@ -520,18 +494,19 @@
       "homeTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "54-30"
+        "record": "59-31"
       },
       "awayTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "43-39"
+        "record": "43-45"
       },
       "startTime": "2026-07-05T23:20Z",
       "timeET": "7:20 PM ET",
       "channels": [
         "NBC",
-        "Peacock"
+        "Peacock",
+        "ERADM"
       ],
       "status": "upcoming",
       "venue": "Dodger Stadium, Los Angeles, California",
@@ -541,12 +516,12 @@
       "id": "fifawc-760505",
       "sport": "Soccer",
       "homeTeam": {
-        "name": "Round of 32 7 Winner",
-        "abbreviation": "RD32"
+        "name": "Mexico",
+        "abbreviation": "MEX"
       },
       "awayTeam": {
-        "name": "Round of 32 8 Winner",
-        "abbreviation": "RD32"
+        "name": "England",
+        "abbreviation": "ENG"
       },
       "startTime": "2026-07-06T00:00Z",
       "timeET": "8:00 PM ET",
@@ -571,18 +546,18 @@
       "homeTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "36-49"
+        "record": "36-54"
       },
       "awayTeam": {
         "name": "Boston Red Sox",
         "abbreviation": "BOS",
-        "record": "36-46"
+        "record": "39-48"
       },
       "startTime": "2026-07-06T01:30Z",
       "timeET": "9:30 PM ET",
       "channels": [
         "Peacock",
-        "NBCSN Extra",
+        "NBCSN",
         "NESN"
       ],
       "status": "upcoming",
@@ -590,5 +565,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-06-29T03:30:07.120Z"
+  "lastUpdated": "2026-07-05T10:00:09.051Z"
 }
