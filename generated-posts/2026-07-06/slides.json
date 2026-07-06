@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-06",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "13 events across MLB, Soccer, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Philadelphia Phillies at Kansas City Royals 2:10 PM ET on ESPN Unlmtd / MLB.TV"
+    },
+    {
+      "title": "Game 2",
+      "body": "Spain at Portugal 3:00 PM ET on Fox / Telemundo"
+    },
+    {
+      "title": "Game 3",
+      "body": "New York Yankees at Tampa Bay Rays 6:40 PM ET on MLB.TV / Rays.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Houston Astros at Washington Nationals 6:45 PM ET on MLB.TV / Space City Home Network"
+    },
+    {
+      "title": "Game 5",
+      "body": "New York Mets at Atlanta Braves 7:15 PM ET on MLB.TV / BravesVision"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-07-06T03:30:18.270Z"
+}
