@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-08",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "18 events across MLB, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Toronto Blue Jays at San Francisco Giants 3:45 PM ET on ESPN Unlmtd / MLB.TV"
+    },
+    {
+      "title": "Game 2",
+      "body": "Chicago Cubs at Baltimore Orioles 6:35 PM ET on MLB.TV / Marquee Sports Net"
+    },
+    {
+      "title": "Game 3",
+      "body": "Athletics at Detroit Tigers 6:40 PM ET on MLB.TV / Tigers.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Atlanta Braves at Pittsburgh Pirates 6:40 PM ET on MLB.TV / BravesVision"
+    },
+    {
+      "title": "Game 5",
+      "body": "New York Yankees at Tampa Bay Rays 6:40 PM ET on MLB.TV / Amazon Prime"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-07-06T03:30:20.599Z"
+}
