@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-09",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "21 events across Golf, MLB, Soccer, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Genesis Scottish Open 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "PGA Tour at ISCO Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "LPGA at The Amundi Evian Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 4",
+      "body": "Champions Tour at Kaulig Companies Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 5",
+      "body": "Atlanta Braves at Pittsburgh Pirates 12:35 PM ET on MLB.TV / BravesVision"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-07-06T03:30:21.885Z"
+}
