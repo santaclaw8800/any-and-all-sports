@@ -2,28 +2,24 @@
   "date": "2026-07-10",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "27 events across Golf, Soccer, MLB, WNBA."
+      "title": "Golf all day",
+      "body": "PGA Tour, LPGA, and Champions Tour tee off at 12:00 AM ET. Watch on ESPN+, CBS, and Golf Channel."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at Genesis Scottish Open 12:00 AM ET on ESPN+ / CBS"
+      "title": "World Cup action",
+      "body": "Belgium vs Spain starts at 3:00 PM ET. Watch on Fox, Telemundo, and FOX One."
     },
     {
-      "title": "Game 2",
-      "body": "PGA Tour at ISCO Championship 12:00 AM ET on Golf Chnl"
+      "title": "MLB begins at 6:40",
+      "body": "A full slate starts early evening on MLB.TV, plus select team nets and NBC Sports/Apple TV."
     },
     {
-      "title": "Game 3",
-      "body": "LPGA at The Amundi Evian Championship 12:00 AM ET on Golf Chnl"
+      "title": "WNBA at 7:30",
+      "body": "Valkyries-Sun and Wings-Tempo tip at 7:30 PM ET. Watch on ION and WNBA League Pass."
     },
     {
-      "title": "Game 4",
-      "body": "Champions Tour at Kaulig Companies Championship 12:00 AM ET on Golf Chnl"
-    },
-    {
-      "title": "Game 5",
-      "body": "Round of 16 6 Winner at Round of 16 5 Winner 3:00 PM ET on Fox / Telemundo"
+      "title": "NWSL closes the night",
+      "body": "Chicago Stars FC-Boston Legacy FC and KC Current-Orlando Pride start at 8:00 PM ET."
     }
   ],
   "pngFiles": [
@@ -34,5 +30,5 @@
     "slide-5.png",
     "slide-6.png"
   ],
-  "generatedAt": "2026-07-06T03:30:23.590Z"
+  "generatedAt": "2026-07-10T10:00:11.336Z"
 }
