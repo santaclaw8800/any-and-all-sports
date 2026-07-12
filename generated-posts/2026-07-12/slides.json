@@ -2,28 +2,24 @@
   "date": "2026-07-12",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "25 events across Golf, MLB, WNBA, Soccer."
+      "title": "Sunday Sports Schedule",
+      "body": "Golf, MLB, and WNBA all day. Check times and tune in fast."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at Genesis Scottish Open 12:00 AM ET on ESPN+ / CBS"
+      "title": "Golf All Day",
+      "body": "Genesis Scottish Open, ISCO Championship, Evian, and Kaulig Companies Championship on ESPN+, CBS, and Golf Channel."
     },
     {
-      "title": "Game 2",
-      "body": "PGA Tour at ISCO Championship 12:00 AM ET on Golf Chnl"
+      "title": "Early MLB Slate",
+      "body": "First pitch starts at 12:15 PM ET. Most games on MLB.TV with team networks and Peacock."
     },
     {
-      "title": "Game 3",
-      "body": "LPGA at The Amundi Evian Championship 12:00 AM ET on Golf Chnl"
+      "title": "More Baseball",
+      "body": "Yankees, Red Sox, Cubs, Braves, Astros and more fill the afternoon window."
     },
     {
-      "title": "Game 4",
-      "body": "Champions Tour at Kaulig Companies Championship 12:00 AM ET on Golf Chnl"
-    },
-    {
-      "title": "Game 5",
-      "body": "Milwaukee Brewers at Pittsburgh Pirates 12:15 PM ET on Peacock"
+      "title": "WNBA Doubleheader",
+      "body": "Liberty at Tempo and Storm at Mystics tip at 3:00 PM ET on NBA TV and WNBA League Pass."
     }
   ],
   "pngFiles": [
@@ -33,5 +29,5 @@
     "slide-4.png",
     "slide-5.png"
   ],
-  "generatedAt": "2026-07-06T03:30:26.664Z"
+  "generatedAt": "2026-07-12T10:00:12.052Z"
 }
