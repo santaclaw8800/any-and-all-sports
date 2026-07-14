@@ -1,0 +1,29 @@
+{
+  "date": "2026-07-14",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "4 events across WNBA, Soccer, MLB."
+    },
+    {
+      "title": "Game 1",
+      "body": "Portland Fire at Connecticut Sun 11:00 AM ET on WNBA League Pass / Fox 12 Plus"
+    },
+    {
+      "title": "Game 2",
+      "body": "Spain at France 3:00 PM ET on Fox / Telemundo"
+    },
+    {
+      "title": "Game 3",
+      "body": "Washington Mystics at Toronto Tempo 7:00 PM ET on NBA TV / WNBA League Pass"
+    },
+    {
+      "title": "Game 4",
+      "body": "American All-Stars at National All-Stars 8:00 PM ET on Fox"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png"
+  ],
+  "generatedAt": "2026-07-13T03:30:20.585Z"
+}

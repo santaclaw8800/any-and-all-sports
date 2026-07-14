@@ -1,0 +1,102 @@
+{
+  "date": "2026-07-14",
+  "games": [
+    {
+      "id": "wnba-401857066",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Connecticut Sun",
+        "abbreviation": "CON",
+        "record": "5-18"
+      },
+      "awayTeam": {
+        "name": "Portland Fire",
+        "abbreviation": "POR",
+        "record": "10-13"
+      },
+      "startTime": "2026-07-14T15:00Z",
+      "timeET": "11:00 AM ET",
+      "channels": [
+        "WNBA League Pass",
+        "Fox 12 Plus",
+        "NBC Sports"
+      ],
+      "status": "upcoming",
+      "venue": "Mohegan Sun Arena, Uncasville, CT"
+    },
+    {
+      "id": "fifawc-760514",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "France",
+        "abbreviation": "FRA"
+      },
+      "awayTeam": {
+        "name": "Spain",
+        "abbreviation": "ESP"
+      },
+      "startTime": "2026-07-14T19:00Z",
+      "timeET": "3:00 PM ET",
+      "channels": [
+        "Fox",
+        "Telemundo",
+        "FOX One",
+        "Tubi",
+        "Telemundo Deportes",
+        "SiriusXM FC",
+        "Futbol de Primera Radio"
+      ],
+      "status": "upcoming",
+      "venue": "AT&T Stadium, Arlington, Texas",
+      "isNational": true,
+      "tournament": "FIFA World Cup",
+      "description": "Semifinals"
+    },
+    {
+      "id": "wnba-401857067",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Toronto Tempo",
+        "abbreviation": "TOR",
+        "record": "10-13"
+      },
+      "awayTeam": {
+        "name": "Washington Mystics",
+        "abbreviation": "WSH",
+        "record": "11-10"
+      },
+      "startTime": "2026-07-14T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "NBA TV",
+        "WNBA League Pass",
+        "MNMT",
+        "TSN"
+      ],
+      "status": "upcoming",
+      "venue": "Coca-Cola Coliseum, Toronto, ON",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401817370",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "National All-Stars",
+        "abbreviation": "NL"
+      },
+      "awayTeam": {
+        "name": "American All-Stars",
+        "abbreviation": "AL"
+      },
+      "startTime": "2026-07-15T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "Fox"
+      ],
+      "status": "upcoming",
+      "venue": "Citizens Bank Park, Philadelphia, Pennsylvania",
+      "isNational": true
+    }
+  ],
+  "lastUpdated": "2026-07-13T03:30:06.668Z"
+}

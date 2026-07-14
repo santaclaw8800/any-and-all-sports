@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-14",
+  "schedule": {
+    "date": "2026-07-14",
+    "games": [
+      {
+        "id": "wnba-401857066",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Connecticut Sun",
+          "abbreviation": "CON",
+          "record": "5-18"
+        },
+        "awayTeam": {
+          "name": "Portland Fire",
+          "abbreviation": "POR",
+          "record": "10-13"
+        },
+        "startTime": "2026-07-14T15:00Z",
+        "timeET": "11:00 AM ET",
+        "channels": [
+          "WNBA League Pass",
+          "Fox 12 Plus",
+          "NBC Sports"
+        ],
+        "status": "upcoming",
+        "venue": "Mohegan Sun Arena, Uncasville, CT"
+      },
+      {
+        "id": "fifawc-760514",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "France",
+          "abbreviation": "FRA"
+        },
+        "awayTeam": {
+          "name": "Spain",
+          "abbreviation": "ESP"
+        },
+        "startTime": "2026-07-14T19:00Z",
+        "timeET": "3:00 PM ET",
+        "channels": [
+          "Fox",
+          "Telemundo",
+          "FOX One",
+          "Tubi",
+          "Telemundo Deportes",
+          "SiriusXM FC",
+          "Futbol de Primera Radio"
+        ],
+        "status": "upcoming",
+        "venue": "AT&T Stadium, Arlington, Texas",
+        "isNational": true,
+        "tournament": "FIFA World Cup",
+        "description": "Semifinals"
+      },
+      {
+        "id": "wnba-401857067",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Toronto Tempo",
+          "abbreviation": "TOR",
+          "record": "10-13"
+        },
+        "awayTeam": {
+          "name": "Washington Mystics",
+          "abbreviation": "WSH",
+          "record": "11-10"
+        },
+        "startTime": "2026-07-14T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "NBA TV",
+          "WNBA League Pass",
+          "MNMT",
+          "TSN"
+        ],
+        "status": "upcoming",
+        "venue": "Coca-Cola Coliseum, Toronto, ON",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401817370",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "National All-Stars",
+          "abbreviation": "NL"
+        },
+        "awayTeam": {
+          "name": "American All-Stars",
+          "abbreviation": "AL"
+        },
+        "startTime": "2026-07-15T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "Fox"
+        ],
+        "status": "upcoming",
+        "venue": "Citizens Bank Park, Philadelphia, Pennsylvania",
+        "isNational": true
+      }
+    ],
+    "lastUpdated": "2026-07-13T03:30:06.668Z"
+  },
+  "social": {
+    "caption": "🏟️ What's On Tonight — Tuesday, July 14, 2026\n\n🏀 WNBA  ·  ⚽ Soccer  ·  ⚾ MLB\n\n4 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#WNBA #WNBABasketball #WomensBasketball\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "hashtags": [
+      "#AnyAndAllSports",
+      "#WhatsOnTonight",
+      "#SportsTonight",
+      "#SportsSchedule",
+      "#SportsTV",
+      "#SportsTVSchedule",
+      "#WatchSports",
+      "#WhereToWatch",
+      "#GameTonight",
+      "#SportsOnTV",
+      "#LiveSports",
+      "#WNBA",
+      "#WNBABasketball",
+      "#WomensBasketball",
+      "#Soccer",
+      "#Football",
+      "#PremierLeague",
+      "#LaLiga",
+      "#SerieA",
+      "#Bundesliga",
+      "#MLS",
+      "#UCL",
+      "#ChampionsLeague",
+      "#MLB"
+    ],
+    "slides": [
+      {
+        "title": "What's On Tonight",
+        "body": "4 events across WNBA, Soccer, MLB."
+      },
+      {
+        "title": "Game 1",
+        "body": "Portland Fire at Connecticut Sun 11:00 AM ET on WNBA League Pass / Fox 12 Plus"
+      },
+      {
+        "title": "Game 2",
+        "body": "Spain at France 3:00 PM ET on Fox / Telemundo"
+      },
+      {
+        "title": "Game 3",
+        "body": "Washington Mystics at Toronto Tempo 7:00 PM ET on NBA TV / WNBA League Pass"
+      },
+      {
+        "title": "Game 4",
+        "body": "American All-Stars at National All-Stars 8:00 PM ET on Fox"
+      }
+    ],
+    "pngFiles": [
+      "slide-1.png"
+    ]
+  },
+  "lastUpdated": "2026-07-13T03:30:20.585Z"
+}
