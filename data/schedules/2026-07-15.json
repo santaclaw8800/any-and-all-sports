@@ -31,12 +31,12 @@
       "homeTeam": {
         "name": "Minnesota Lynx",
         "abbreviation": "MIN",
-        "record": "17-6"
+        "record": "18-6"
       },
       "awayTeam": {
         "name": "Los Angeles Sparks",
         "abbreviation": "LA",
-        "record": "10-11"
+        "record": "10-12"
       },
       "startTime": "2026-07-15T17:00Z",
       "timeET": "1:00 PM ET",
@@ -147,5 +147,5 @@
       "tournament": "NWSL"
     }
   ],
-  "lastUpdated": "2026-07-13T03:30:07.417Z"
+  "lastUpdated": "2026-07-15T10:00:06.517Z"
 }
