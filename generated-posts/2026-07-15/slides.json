@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-15",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "6 events across WNBA, Soccer."
+    },
+    {
+      "title": "Game 1",
+      "body": "Seattle Storm at Chicago Sky 12:00 PM ET on WNBA League Pass / CW Seattle"
+    },
+    {
+      "title": "Game 2",
+      "body": "Los Angeles Sparks at Minnesota Lynx 1:00 PM ET on WNBA League Pass / Spectrum Sports Net"
+    },
+    {
+      "title": "Game 3",
+      "body": "Argentina at England 3:00 PM ET on Fox / Telemundo"
+    },
+    {
+      "title": "Game 4",
+      "body": "Boston Legacy FC at Orlando Pride 7:00 PM ET on NWSL+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Golden State Valkyries at Indiana Fever 8:00 PM ET on USA Net / KPIX+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png"
+  ],
+  "generatedAt": "2026-07-13T03:30:21.058Z"
+}

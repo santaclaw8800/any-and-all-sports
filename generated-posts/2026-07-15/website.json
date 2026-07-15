@@ -1,0 +1,213 @@
+{
+  "date": "2026-07-15",
+  "schedule": {
+    "date": "2026-07-15",
+    "games": [
+      {
+        "id": "wnba-401857068",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Chicago Sky",
+          "abbreviation": "CHI",
+          "record": "7-16"
+        },
+        "awayTeam": {
+          "name": "Seattle Storm",
+          "abbreviation": "SEA",
+          "record": "6-19"
+        },
+        "startTime": "2026-07-15T16:00Z",
+        "timeET": "12:00 PM ET",
+        "channels": [
+          "WNBA League Pass",
+          "CW Seattle",
+          "Prime Video-Seattle",
+          "CW26"
+        ],
+        "status": "upcoming",
+        "venue": "Wintrust Arena, Chicago, IL"
+      },
+      {
+        "id": "wnba-401857069",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Minnesota Lynx",
+          "abbreviation": "MIN",
+          "record": "17-6"
+        },
+        "awayTeam": {
+          "name": "Los Angeles Sparks",
+          "abbreviation": "LA",
+          "record": "10-11"
+        },
+        "startTime": "2026-07-15T17:00Z",
+        "timeET": "1:00 PM ET",
+        "channels": [
+          "WNBA League Pass",
+          "Spectrum Sports Net",
+          "Victory+ MIN"
+        ],
+        "status": "upcoming",
+        "venue": "Target Center, Minneapolis, MN"
+      },
+      {
+        "id": "fifawc-760515",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "England",
+          "abbreviation": "ENG"
+        },
+        "awayTeam": {
+          "name": "Argentina",
+          "abbreviation": "ARG"
+        },
+        "startTime": "2026-07-15T19:00Z",
+        "timeET": "3:00 PM ET",
+        "channels": [
+          "Fox",
+          "Telemundo",
+          "FOX One",
+          "Tubi",
+          "Telemundo Deportes",
+          "SiriusXM FC",
+          "Futbol de Primera Radio"
+        ],
+        "status": "upcoming",
+        "venue": "Mercedes-Benz Stadium, Atlanta, Georgia",
+        "isNational": true,
+        "tournament": "FIFA World Cup",
+        "description": "Semifinals"
+      },
+      {
+        "id": "nwsl-401854065",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Orlando Pride",
+          "abbreviation": "ORL",
+          "record": "6-2-6"
+        },
+        "awayTeam": {
+          "name": "Boston Legacy FC",
+          "abbreviation": "BOS",
+          "record": "3-4-7"
+        },
+        "startTime": "2026-07-15T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "NWSL+"
+        ],
+        "status": "upcoming",
+        "venue": "Inter&Co Stadium, Orlando, Florida",
+        "isNational": true,
+        "tournament": "NWSL"
+      },
+      {
+        "id": "wnba-401857070",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Indiana Fever",
+          "abbreviation": "IND",
+          "record": "14-9"
+        },
+        "awayTeam": {
+          "name": "Golden State Valkyries",
+          "abbreviation": "GS",
+          "record": "17-7"
+        },
+        "startTime": "2026-07-16T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "USA Net",
+          "KPIX+",
+          "WTHR Channel 13"
+        ],
+        "status": "upcoming",
+        "venue": "Gainbridge Fieldhouse, Indianapolis, IN",
+        "isNational": true
+      },
+      {
+        "id": "nwsl-401853940",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Gotham FC",
+          "abbreviation": "GFC",
+          "record": "7-3-3"
+        },
+        "awayTeam": {
+          "name": "Washington Spirit",
+          "abbreviation": "WAS",
+          "record": "8-3-2"
+        },
+        "startTime": "2026-07-16T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "ESPN"
+        ],
+        "status": "upcoming",
+        "venue": "Citi Field, New York, New York",
+        "isNational": true,
+        "tournament": "NWSL"
+      }
+    ],
+    "lastUpdated": "2026-07-13T03:30:07.417Z"
+  },
+  "social": {
+    "caption": "🏟️ What's On Tonight — Wednesday, July 15, 2026\n\n🏀 WNBA  ·  ⚽ Soccer\n\n6 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#WNBA #WNBABasketball #WomensBasketball\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "hashtags": [
+      "#AnyAndAllSports",
+      "#WhatsOnTonight",
+      "#SportsTonight",
+      "#SportsSchedule",
+      "#SportsTV",
+      "#SportsTVSchedule",
+      "#WatchSports",
+      "#WhereToWatch",
+      "#GameTonight",
+      "#SportsOnTV",
+      "#LiveSports",
+      "#WNBA",
+      "#WNBABasketball",
+      "#WomensBasketball",
+      "#Soccer",
+      "#Football",
+      "#PremierLeague",
+      "#LaLiga",
+      "#SerieA",
+      "#Bundesliga",
+      "#MLS",
+      "#UCL",
+      "#ChampionsLeague",
+      "#NBA"
+    ],
+    "slides": [
+      {
+        "title": "What's On Tonight",
+        "body": "6 events across WNBA, Soccer."
+      },
+      {
+        "title": "Game 1",
+        "body": "Seattle Storm at Chicago Sky 12:00 PM ET on WNBA League Pass / CW Seattle"
+      },
+      {
+        "title": "Game 2",
+        "body": "Los Angeles Sparks at Minnesota Lynx 1:00 PM ET on WNBA League Pass / Spectrum Sports Net"
+      },
+      {
+        "title": "Game 3",
+        "body": "Argentina at England 3:00 PM ET on Fox / Telemundo"
+      },
+      {
+        "title": "Game 4",
+        "body": "Boston Legacy FC at Orlando Pride 7:00 PM ET on NWSL+"
+      },
+      {
+        "title": "Game 5",
+        "body": "Golden State Valkyries at Indiana Fever 8:00 PM ET on USA Net / KPIX+"
+      }
+    ],
+    "pngFiles": [
+      "slide-1.png"
+    ]
+  },
+  "lastUpdated": "2026-07-13T03:30:21.058Z"
+}
