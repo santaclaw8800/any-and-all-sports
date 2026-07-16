@@ -2,28 +2,24 @@
   "date": "2026-07-16",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "11 events across Golf, WNBA, MLB, Soccer."
+      "title": "Thursday Sports Schedule",
+      "body": "Golf, WNBA, MLB, and MLS make for a full day of action."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at The Open 12:00 AM ET on NBC / USA Net"
+      "title": "Golf Starts at Midnight",
+      "body": "PGA Tour at The Open on NBC, USA Net, and Peacock."
     },
     {
-      "title": "Game 2",
-      "body": "PGA Tour at Corales Puntacana Championship 12:00 AM ET on Golf Chnl"
+      "title": "More Golf Early",
+      "body": "PGA Tour at Corales Puntacana Championship on Golf Chnl."
     },
     {
-      "title": "Game 3",
-      "body": "Portland Fire at Washington Mystics 7:00 PM ET on NBA TV / Fox 12 Plus"
+      "title": "WNBA and MLB Tonight",
+      "body": "Mystics-Fire on NBA TV/Fox 12 Plus/MNMT. Mets-Phillies on ESPN."
     },
     {
-      "title": "Game 4",
-      "body": "New York Mets at Philadelphia Phillies 7:00 PM ET on ESPN"
-    },
-    {
-      "title": "Game 5",
-      "body": "Toronto FC at CF Montréal 7:30 PM ET on Apple TV"
+      "title": "MLS Late Games",
+      "body": "Five matches on Apple TV plus Liga MX action late."
     }
   ],
   "pngFiles": [
@@ -31,5 +27,5 @@
     "slide-2.png",
     "slide-3.png"
   ],
-  "generatedAt": "2026-07-13T03:30:22.025Z"
+  "generatedAt": "2026-07-16T10:00:11.225Z"
 }

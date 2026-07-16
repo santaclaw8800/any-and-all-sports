@@ -19,7 +19,7 @@
           "USA Net",
           "Peacock"
         ],
-        "status": "upcoming",
+        "status": "live",
         "isNational": true,
         "tournament": "PGA Tour"
       },
@@ -47,12 +47,12 @@
         "homeTeam": {
           "name": "Washington Mystics",
           "abbreviation": "WSH",
-          "record": "11-10"
+          "record": "12-10"
         },
         "awayTeam": {
           "name": "Portland Fire",
           "abbreviation": "POR",
-          "record": "10-13"
+          "record": "10-14"
         },
         "startTime": "2026-07-16T23:00Z",
         "timeET": "7:00 PM ET",
@@ -234,68 +234,53 @@
           "abbreviation": "UANL",
           "record": "0-0-0"
         },
-        "startTime": "2026-07-17T03:00Z",
-        "timeET": "11:00 PM ET",
+        "startTime": "2026-07-17T03:10Z",
+        "timeET": "11:10 PM ET",
         "channels": [],
         "status": "upcoming",
         "venue": "Estadio Caliente, Tijuana",
         "tournament": "Liga MX"
       }
     ],
-    "lastUpdated": "2026-07-13T03:30:08.134Z"
+    "lastUpdated": "2026-07-16T10:00:05.011Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Thursday, July 16, 2026\n\n⛳ Golf  ·  🏀 WNBA  ·  ⚾ MLB  ·  ⚽ Soccer\n\n11 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#WNBA #WNBABasketball #WomensBasketball\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Thursday’s slate is loaded: golf opens early, then WNBA, MLB, and a busy MLS night. Watch on NBC, USA Net, Peacock, ESPN, NBA TV, Fox 12 Plus, MNMT, Amazon Prime, and Apple TV. Follow @any_and_all_sports for daily schedules.",
     "hashtags": [
       "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
       "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
-      "#Golf",
-      "#PGA",
-      "#PGATour",
-      "#LPGA",
-      "#LIVGolf",
-      "#ChampionsTour",
-      "#DPWorldTour",
+      "#NBATV",
       "#WNBA",
-      "#WNBABasketball",
-      "#WomensBasketball",
       "#MLB",
-      "#MLBTonight",
-      "#Baseball"
+      "#MLS",
+      "#Golf",
+      "#TheOpen",
+      "#Peacock",
+      "#ESPN",
+      "#AmazonPrime",
+      "#AppleTV",
+      "#NBCSports"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "11 events across Golf, WNBA, MLB, Soccer."
+        "title": "Thursday Sports Schedule",
+        "body": "Golf, WNBA, MLB, and MLS make for a full day of action."
       },
       {
-        "title": "Game 1",
-        "body": "PGA Tour at The Open 12:00 AM ET on NBC / USA Net"
+        "title": "Golf Starts at Midnight",
+        "body": "PGA Tour at The Open on NBC, USA Net, and Peacock."
       },
       {
-        "title": "Game 2",
-        "body": "PGA Tour at Corales Puntacana Championship 12:00 AM ET on Golf Chnl"
+        "title": "More Golf Early",
+        "body": "PGA Tour at Corales Puntacana Championship on Golf Chnl."
       },
       {
-        "title": "Game 3",
-        "body": "Portland Fire at Washington Mystics 7:00 PM ET on NBA TV / Fox 12 Plus"
+        "title": "WNBA and MLB Tonight",
+        "body": "Mystics-Fire on NBA TV/Fox 12 Plus/MNMT. Mets-Phillies on ESPN."
       },
       {
-        "title": "Game 4",
-        "body": "New York Mets at Philadelphia Phillies 7:00 PM ET on ESPN"
-      },
-      {
-        "title": "Game 5",
-        "body": "Toronto FC at CF Montréal 7:30 PM ET on Apple TV"
+        "title": "MLS Late Games",
+        "body": "Five matches on Apple TV plus Liga MX action late."
       }
     ],
     "pngFiles": [
@@ -304,5 +289,5 @@
       "slide-3.png"
     ]
   },
-  "lastUpdated": "2026-07-13T03:30:22.025Z"
+  "lastUpdated": "2026-07-16T10:00:11.225Z"
 }

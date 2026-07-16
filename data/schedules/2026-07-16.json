@@ -17,7 +17,7 @@
         "USA Net",
         "Peacock"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "PGA Tour"
     },
@@ -45,12 +45,12 @@
       "homeTeam": {
         "name": "Washington Mystics",
         "abbreviation": "WSH",
-        "record": "11-10"
+        "record": "12-10"
       },
       "awayTeam": {
         "name": "Portland Fire",
         "abbreviation": "POR",
-        "record": "10-13"
+        "record": "10-14"
       },
       "startTime": "2026-07-16T23:00Z",
       "timeET": "7:00 PM ET",
@@ -232,13 +232,13 @@
         "abbreviation": "UANL",
         "record": "0-0-0"
       },
-      "startTime": "2026-07-17T03:00Z",
-      "timeET": "11:00 PM ET",
+      "startTime": "2026-07-17T03:10Z",
+      "timeET": "11:10 PM ET",
       "channels": [],
       "status": "upcoming",
       "venue": "Estadio Caliente, Tijuana",
       "tournament": "Liga MX"
     }
   ],
-  "lastUpdated": "2026-07-13T03:30:08.134Z"
+  "lastUpdated": "2026-07-16T10:00:05.011Z"
 }
