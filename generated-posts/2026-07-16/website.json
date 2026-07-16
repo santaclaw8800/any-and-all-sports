@@ -1,0 +1,308 @@
+{
+  "date": "2026-07-16",
+  "schedule": {
+    "date": "2026-07-16",
+    "games": [
+      {
+        "id": "pga-401811957",
+        "sport": "Golf",
+        "homeTeam": {
+          "name": "The Open"
+        },
+        "awayTeam": {
+          "name": "PGA Tour"
+        },
+        "startTime": "2026-07-16T04:00Z",
+        "timeET": "12:00 AM ET",
+        "channels": [
+          "NBC",
+          "USA Net",
+          "Peacock"
+        ],
+        "status": "upcoming",
+        "isNational": true,
+        "tournament": "PGA Tour"
+      },
+      {
+        "id": "pga-401811958",
+        "sport": "Golf",
+        "homeTeam": {
+          "name": "Corales Puntacana Championship"
+        },
+        "awayTeam": {
+          "name": "PGA Tour"
+        },
+        "startTime": "2026-07-16T04:00Z",
+        "timeET": "12:00 AM ET",
+        "channels": [
+          "Golf Chnl"
+        ],
+        "status": "upcoming",
+        "isNational": true,
+        "tournament": "PGA Tour"
+      },
+      {
+        "id": "wnba-401857071",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Washington Mystics",
+          "abbreviation": "WSH",
+          "record": "11-10"
+        },
+        "awayTeam": {
+          "name": "Portland Fire",
+          "abbreviation": "POR",
+          "record": "10-13"
+        },
+        "startTime": "2026-07-16T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "NBA TV",
+          "Fox 12 Plus",
+          "MNMT"
+        ],
+        "status": "upcoming",
+        "venue": "CareFirst Arena, Washington, DC",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401816143",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Philadelphia Phillies",
+          "abbreviation": "PHI",
+          "record": "54-43"
+        },
+        "awayTeam": {
+          "name": "New York Mets",
+          "abbreviation": "NYM",
+          "record": "40-57"
+        },
+        "startTime": "2026-07-16T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN"
+        ],
+        "status": "upcoming",
+        "venue": "Citizens Bank Park, Philadelphia, Pennsylvania",
+        "isNational": true
+      },
+      {
+        "id": "mls-761659",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "CF Montréal",
+          "abbreviation": "MTL",
+          "record": "4-2-8"
+        },
+        "awayTeam": {
+          "name": "Toronto FC",
+          "abbreviation": "TOR",
+          "record": "3-5-6"
+        },
+        "startTime": "2026-07-16T23:30Z",
+        "timeET": "7:30 PM ET",
+        "channels": [
+          "Apple TV"
+        ],
+        "status": "upcoming",
+        "venue": "Stade Saputo, Montreal",
+        "isNational": true,
+        "tournament": "MLS"
+      },
+      {
+        "id": "mls-761660",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Chicago Fire FC",
+          "abbreviation": "CHI",
+          "record": "8-2-4"
+        },
+        "awayTeam": {
+          "name": "Vancouver Whitecaps",
+          "abbreviation": "VAN",
+          "record": "10-2-2"
+        },
+        "startTime": "2026-07-17T00:30Z",
+        "timeET": "8:30 PM ET",
+        "channels": [
+          "Apple TV"
+        ],
+        "status": "upcoming",
+        "venue": "Soldier Field, Chicago, Illinois",
+        "isNational": true,
+        "tournament": "MLS"
+      },
+      {
+        "id": "mls-761661",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "St. Louis CITY SC",
+          "abbreviation": "STL",
+          "record": "4-4-6"
+        },
+        "awayTeam": {
+          "name": "Sporting Kansas City",
+          "abbreviation": "SKC",
+          "record": "3-2-9"
+        },
+        "startTime": "2026-07-17T00:30Z",
+        "timeET": "8:30 PM ET",
+        "channels": [
+          "Apple TV"
+        ],
+        "status": "upcoming",
+        "venue": "Energizer Park, St. Louis, Missouri",
+        "isNational": true,
+        "tournament": "MLS"
+      },
+      {
+        "id": "wnba-401857072",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Dallas Wings",
+          "abbreviation": "DAL",
+          "record": "16-8"
+        },
+        "awayTeam": {
+          "name": "New York Liberty",
+          "abbreviation": "NY",
+          "record": "13-11"
+        },
+        "startTime": "2026-07-17T01:00Z",
+        "timeET": "9:00 PM ET",
+        "channels": [
+          "Amazon Prime"
+        ],
+        "status": "upcoming",
+        "venue": "College Park Center, Arlington, TX",
+        "isNational": true
+      },
+      {
+        "id": "ligamx-401877045",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Necaxa",
+          "abbreviation": "NCX",
+          "record": "0-0-0"
+        },
+        "awayTeam": {
+          "name": "Atlante",
+          "abbreviation": "ATL",
+          "record": "0-0-0"
+        },
+        "startTime": "2026-07-17T01:00Z",
+        "timeET": "9:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Estadio Victoria, Aguascalientes",
+        "tournament": "Liga MX"
+      },
+      {
+        "id": "mls-761662",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Seattle Sounders FC",
+          "abbreviation": "SEA",
+          "record": "7-3-3"
+        },
+        "awayTeam": {
+          "name": "Portland Timbers",
+          "abbreviation": "POR",
+          "record": "4-2-8"
+        },
+        "startTime": "2026-07-17T02:30Z",
+        "timeET": "10:30 PM ET",
+        "channels": [
+          "Apple TV"
+        ],
+        "status": "upcoming",
+        "venue": "Lumen Field, Seattle, Washington",
+        "isNational": true,
+        "tournament": "MLS"
+      },
+      {
+        "id": "ligamx-401877044",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Tijuana",
+          "abbreviation": "TIJ",
+          "record": "0-0-0"
+        },
+        "awayTeam": {
+          "name": "Tigres UANL",
+          "abbreviation": "UANL",
+          "record": "0-0-0"
+        },
+        "startTime": "2026-07-17T03:00Z",
+        "timeET": "11:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Estadio Caliente, Tijuana",
+        "tournament": "Liga MX"
+      }
+    ],
+    "lastUpdated": "2026-07-13T03:30:08.134Z"
+  },
+  "social": {
+    "caption": "🏟️ What's On Tonight — Thursday, July 16, 2026\n\n⛳ Golf  ·  🏀 WNBA  ·  ⚾ MLB  ·  ⚽ Soccer\n\n11 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#WNBA #WNBABasketball #WomensBasketball\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "hashtags": [
+      "#AnyAndAllSports",
+      "#WhatsOnTonight",
+      "#SportsTonight",
+      "#SportsSchedule",
+      "#SportsTV",
+      "#SportsTVSchedule",
+      "#WatchSports",
+      "#WhereToWatch",
+      "#GameTonight",
+      "#SportsOnTV",
+      "#LiveSports",
+      "#Golf",
+      "#PGA",
+      "#PGATour",
+      "#LPGA",
+      "#LIVGolf",
+      "#ChampionsTour",
+      "#DPWorldTour",
+      "#WNBA",
+      "#WNBABasketball",
+      "#WomensBasketball",
+      "#MLB",
+      "#MLBTonight",
+      "#Baseball"
+    ],
+    "slides": [
+      {
+        "title": "What's On Tonight",
+        "body": "11 events across Golf, WNBA, MLB, Soccer."
+      },
+      {
+        "title": "Game 1",
+        "body": "PGA Tour at The Open 12:00 AM ET on NBC / USA Net"
+      },
+      {
+        "title": "Game 2",
+        "body": "PGA Tour at Corales Puntacana Championship 12:00 AM ET on Golf Chnl"
+      },
+      {
+        "title": "Game 3",
+        "body": "Portland Fire at Washington Mystics 7:00 PM ET on NBA TV / Fox 12 Plus"
+      },
+      {
+        "title": "Game 4",
+        "body": "New York Mets at Philadelphia Phillies 7:00 PM ET on ESPN"
+      },
+      {
+        "title": "Game 5",
+        "body": "Toronto FC at CF Montréal 7:30 PM ET on Apple TV"
+      }
+    ],
+    "pngFiles": [
+      "slide-1.png",
+      "slide-2.png",
+      "slide-3.png"
+    ]
+  },
+  "lastUpdated": "2026-07-13T03:30:22.025Z"
+}
