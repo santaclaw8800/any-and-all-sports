@@ -17,7 +17,7 @@
         "USA Net",
         "Peacock"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "PGA Tour"
     },
@@ -35,7 +35,7 @@
       "channels": [
         "Golf Chnl"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "PGA Tour"
     },
@@ -168,7 +168,6 @@
       "startTime": "2026-07-17T23:15Z",
       "timeET": "7:15 PM ET",
       "channels": [
-        "MLB.TV",
         "Apple TV"
       ],
       "status": "upcoming",
@@ -206,12 +205,12 @@
       "homeTeam": {
         "name": "Indiana Fever",
         "abbreviation": "IND",
-        "record": "14-9"
+        "record": "14-10"
       },
       "awayTeam": {
         "name": "Seattle Storm",
         "abbreviation": "SEA",
-        "record": "6-19"
+        "record": "6-20"
       },
       "startTime": "2026-07-17T23:30Z",
       "timeET": "7:30 PM ET",
@@ -229,12 +228,12 @@
       "homeTeam": {
         "name": "Toronto Tempo",
         "abbreviation": "TOR",
-        "record": "10-13"
+        "record": "10-14"
       },
       "awayTeam": {
         "name": "Atlanta Dream",
         "abbreviation": "ATL",
-        "record": "13-10"
+        "record": "14-10"
       },
       "startTime": "2026-07-17T23:30Z",
       "timeET": "7:30 PM ET",
@@ -253,12 +252,12 @@
       "homeTeam": {
         "name": "Chicago Sky",
         "abbreviation": "CHI",
-        "record": "7-16"
+        "record": "8-16"
       },
       "awayTeam": {
         "name": "Los Angeles Sparks",
         "abbreviation": "LA",
-        "record": "10-11"
+        "record": "10-13"
       },
       "startTime": "2026-07-17T23:30Z",
       "timeET": "7:30 PM ET",
@@ -558,12 +557,12 @@
       "homeTeam": {
         "name": "Phoenix Mercury",
         "abbreviation": "PHX",
-        "record": "8-16"
+        "record": "8-17"
       },
       "awayTeam": {
         "name": "Connecticut Sun",
         "abbreviation": "CON",
-        "record": "5-18"
+        "record": "6-18"
       },
       "startTime": "2026-07-18T02:00Z",
       "timeET": "10:00 PM ET",
@@ -616,7 +615,7 @@
       "startTime": "2026-07-18T02:25Z",
       "timeET": "10:25 PM ET",
       "channels": [
-        "FS1",
+        "Fox",
         "Apple TV"
       ],
       "status": "upcoming",
@@ -645,5 +644,5 @@
       "tournament": "Liga MX"
     }
   ],
-  "lastUpdated": "2026-07-13T03:30:09.080Z"
+  "lastUpdated": "2026-07-17T10:00:03.541Z"
 }
