@@ -2,28 +2,24 @@
   "date": "2026-07-19",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "23 events across Golf, F1, MLB, WNBA, Soccer."
+      "title": "Sunday Sports Schedule",
+      "body": "Golf, MLB, WNBA and soccer all day. Times below are ET."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at The Open 12:00 AM ET on NBC / USA Net"
+      "title": "Golf Starts Overnight",
+      "body": "The Open on NBC/USA/Peacock and Corales Puntacana on Golf Channel at 12:00 AM."
     },
     {
-      "title": "Game 2",
-      "body": "PGA Tour at Corales Puntacana Championship 12:00 AM ET on Golf Chnl"
+      "title": "MLB Midday Marathon",
+      "body": "White Sox-Blue Jays, Dodgers-Yankees and more all afternoon on MLB.TV and local nets."
     },
     {
-      "title": "Game 3",
-      "body": "Formula 1 at Moët & Chandon Belgian Grand Prix 7:30 AM ET on Apple TV"
+      "title": "WNBA + World Cup Action",
+      "body": "Sparks-Wings on ABC and Sky-Dream on CBS/Paramount+. Argentina-Spain at 3:00 PM on FOX/Telemundo."
     },
     {
-      "title": "Game 4",
-      "body": "Chicago White Sox at Toronto Blue Jays 12:15 PM ET on Peacock / Sportsnet"
-    },
-    {
-      "title": "Game 5",
-      "body": "Los Angeles Sparks at Dallas Wings 1:00 PM ET on ABC"
+      "title": "Follow For Daily Picks",
+      "body": "Watch the full slate and follow @any_and_all_sports for tomorrow’s schedule."
     }
   ],
   "pngFiles": [
@@ -32,5 +28,5 @@
     "slide-3.png",
     "slide-4.png"
   ],
-  "generatedAt": "2026-07-13T03:30:27.358Z"
+  "generatedAt": "2026-07-19T10:00:11.051Z"
 }
