@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-21",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "17 events across MLB, Soccer."
+    },
+    {
+      "title": "Game 1",
+      "body": "Los Angeles Dodgers at Philadelphia Phillies 6:40 PM ET on MLB.TV / TBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "Minnesota Twins at Cleveland Guardians 6:40 PM ET on MLB.TV / CLEGuardians.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Pittsburgh Pirates at New York Yankees 7:05 PM ET on MLB.TV / YES"
+    },
+    {
+      "title": "Game 4",
+      "body": "Tampa Bay Rays at Toronto Blue Jays 7:07 PM ET on MLB.TV / Rays.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Baltimore Orioles at Boston Red Sox 7:10 PM ET on MLB.TV / MASN"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-07-20T03:30:19.272Z"
+}
