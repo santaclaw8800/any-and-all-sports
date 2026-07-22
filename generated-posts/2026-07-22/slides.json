@@ -2,28 +2,28 @@
   "date": "2026-07-22",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "36 events across MLB, WNBA, Soccer."
+      "title": "Today at a glance",
+      "body": "38 games on the board: MLB all day, WNBA tonight."
     },
     {
-      "title": "Game 1",
-      "body": "Pittsburgh Pirates at New York Yankees 1:35 PM ET on MLB.TV / YES"
+      "title": "Early MLB slate",
+      "body": "Pirates-Yankees, Orioles-Red Sox, Mets-Brewers start the day."
     },
     {
-      "title": "Game 2",
-      "body": "New York Mets at Milwaukee Brewers 2:10 PM ET on MLB.TV / Brewers.TV"
+      "title": "Afternoon action",
+      "body": "Giants-Royals, A's-Dbacks, Reds-Mariners, plus WNBA."
     },
     {
-      "title": "Game 3",
-      "body": "San Francisco Giants at Kansas City Royals 2:10 PM ET on MLB.TV / NBC Sports"
+      "title": "Night games",
+      "body": "Dodgers-Phillies, Twins-Guardians, Padres-Braves, more."
     },
     {
-      "title": "Game 4",
-      "body": "Phoenix Mercury at Los Angeles Sparks 3:00 PM ET on WNBA League Pass / Arizona's Family 3TV"
+      "title": "Where to watch",
+      "body": "Use MLB.TV, WNBA League Pass, and local team channels."
     },
     {
-      "title": "Game 5",
-      "body": "Minnesota Lynx at Seattle Storm 3:00 PM ET on WNBA League Pass / Victory+ MIN"
+      "title": "Follow the schedule",
+      "body": "Follow @any_and_all_sports for daily sports posts."
     }
   ],
   "pngFiles": [
@@ -35,5 +35,5 @@
     "slide-6.png",
     "slide-7.png"
   ],
-  "generatedAt": "2026-07-20T03:30:21.460Z"
+  "generatedAt": "2026-07-22T10:00:11.723Z"
 }
