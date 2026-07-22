@@ -1,0 +1,39 @@
+{
+  "date": "2026-07-22",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "36 events across MLB, WNBA, Soccer."
+    },
+    {
+      "title": "Game 1",
+      "body": "Pittsburgh Pirates at New York Yankees 1:35 PM ET on MLB.TV / YES"
+    },
+    {
+      "title": "Game 2",
+      "body": "New York Mets at Milwaukee Brewers 2:10 PM ET on MLB.TV / Brewers.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "San Francisco Giants at Kansas City Royals 2:10 PM ET on MLB.TV / NBC Sports"
+    },
+    {
+      "title": "Game 4",
+      "body": "Phoenix Mercury at Los Angeles Sparks 3:00 PM ET on WNBA League Pass / Arizona's Family 3TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Minnesota Lynx at Seattle Storm 3:00 PM ET on WNBA League Pass / Victory+ MIN"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png"
+  ],
+  "generatedAt": "2026-07-20T03:30:21.460Z"
+}
