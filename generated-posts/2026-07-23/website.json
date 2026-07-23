@@ -39,7 +39,7 @@
           "CNBC",
           "Golf Chnl"
         ],
-        "status": "upcoming",
+        "status": "live",
         "isNational": true,
         "tournament": "LPGA"
       },
@@ -74,8 +74,13 @@
         },
         "startTime": "2026-07-23T04:00Z",
         "timeET": "12:00 AM ET",
-        "channels": [],
-        "status": "upcoming",
+        "channels": [
+          "NBC",
+          "Golf Chnl",
+          "Peacock"
+        ],
+        "status": "live",
+        "isNational": true,
         "tournament": "Champions Tour"
       },
       {
@@ -84,12 +89,12 @@
         "homeTeam": {
           "name": "Atlanta Braves",
           "abbreviation": "ATL",
-          "record": "57-41"
+          "record": "59-42"
         },
         "awayTeam": {
           "name": "San Diego Padres",
           "abbreviation": "SD",
-          "record": "49-50"
+          "record": "50-52"
         },
         "startTime": "2026-07-23T16:15Z",
         "timeET": "12:15 PM ET",
@@ -108,12 +113,12 @@
         "homeTeam": {
           "name": "Cleveland Guardians",
           "abbreviation": "CLE",
-          "record": "52-48"
+          "record": "54-49"
         },
         "awayTeam": {
           "name": "Minnesota Twins",
           "abbreviation": "MIN",
-          "record": "49-51"
+          "record": "50-53"
         },
         "startTime": "2026-07-23T17:10Z",
         "timeET": "1:10 PM ET",
@@ -133,12 +138,12 @@
         "homeTeam": {
           "name": "Toronto Blue Jays",
           "abbreviation": "TOR",
-          "record": "46-53"
+          "record": "46-56"
         },
         "awayTeam": {
           "name": "Tampa Bay Rays",
           "abbreviation": "TB",
-          "record": "56-42"
+          "record": "59-42"
         },
         "startTime": "2026-07-23T19:07Z",
         "timeET": "3:07 PM ET",
@@ -158,12 +163,12 @@
         "homeTeam": {
           "name": "St. Louis Cardinals",
           "abbreviation": "STL",
-          "record": "51-47"
+          "record": "52-49"
         },
         "awayTeam": {
           "name": "Arizona Diamondbacks",
           "abbreviation": "ARI",
-          "record": "51-48"
+          "record": "53-49"
         },
         "startTime": "2026-07-23T21:15Z",
         "timeET": "5:15 PM ET",
@@ -182,12 +187,12 @@
         "homeTeam": {
           "name": "Detroit Tigers",
           "abbreviation": "DET",
-          "record": "46-53"
+          "record": "48-54"
         },
         "awayTeam": {
           "name": "Kansas City Royals",
           "abbreviation": "KC",
-          "record": "40-60"
+          "record": "43-60"
         },
         "startTime": "2026-07-23T22:40Z",
         "timeET": "6:40 PM ET",
@@ -202,60 +207,47 @@
         "isNational": true
       }
     ],
-    "lastUpdated": "2026-07-20T03:30:06.295Z"
+    "lastUpdated": "2026-07-23T10:00:01.141Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Thursday, July 23, 2026\n\n⛳ Golf  ·  ⚾ MLB\n\n9 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Thursday’s slate is packed with golf and baseball. PGA, LPGA, LIV, and Champions Tour all tee off at 12:00 AM ET, then MLB rolls all afternoon and night. Watch on ESPN+, CBS, Golf Channel, NBC, Peacock, MLB.TV, and team networks. Follow @any_and_all_sports for daily schedules.",
     "hashtags": [
       "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
       "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
+      "#TodayInSports",
       "#Golf",
-      "#PGA",
       "#PGATour",
       "#LPGA",
       "#LIVGolf",
       "#ChampionsTour",
-      "#DPWorldTour",
       "#MLB",
-      "#MLBTonight",
       "#Baseball",
-      "#MLBonFOX",
-      "#MLBonESPN",
-      "#NBA"
+      "#ESPNPlus",
+      "#CBS",
+      "#GolfChannel",
+      "#NBC",
+      "#Peacock"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "9 events across Golf, MLB."
+        "title": "Thursday Sports Schedule",
+        "body": "Golf all day, MLB all afternoon. Full slate below."
       },
       {
-        "title": "Game 1",
-        "body": "PGA Tour at 3M Open 12:00 AM ET on ESPN+ / CBS"
+        "title": "Golf Starts at Midnight",
+        "body": "PGA, LPGA, LIV, and Champions Tour all tee off at 12:00 AM ET."
       },
       {
-        "title": "Game 2",
-        "body": "LPGA at ISPS HANDA Women's Scottish Open 12:00 AM ET on CNBC / Golf Chnl"
+        "title": "MLB Day Games",
+        "body": "Padres-Braves, Twins-Guardians, Rays-Blue Jays, D-backs-Cardinals."
       },
       {
-        "title": "Game 3",
-        "body": "LIV Golf at LIV Golf United Kingdom 12:00 AM ET on Fox / FS1"
+        "title": "Nightcap on Deck",
+        "body": "Royals-Tigers closes the day at 6:40 PM ET."
       },
       {
-        "title": "Game 4",
-        "body": "Champions Tour at ISPS HANDA Senior Open 12:00 AM ET on Check listings"
-      },
-      {
-        "title": "Game 5",
-        "body": "San Diego Padres at Atlanta Braves 12:15 PM ET on MLB.TV / BravesVision"
+        "title": "Watch & Follow",
+        "body": "Watch on ESPN+, CBS, Golf Channel, NBC, Peacock, MLB.TV, and team networks. Follow @any_and_all_sports."
       }
     ],
     "pngFiles": [
@@ -263,5 +255,5 @@
       "slide-2.png"
     ]
   },
-  "lastUpdated": "2026-07-20T03:30:22.287Z"
+  "lastUpdated": "2026-07-23T10:00:08.927Z"
 }

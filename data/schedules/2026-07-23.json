@@ -37,7 +37,7 @@
         "CNBC",
         "Golf Chnl"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "LPGA"
     },
@@ -72,8 +72,13 @@
       },
       "startTime": "2026-07-23T04:00Z",
       "timeET": "12:00 AM ET",
-      "channels": [],
-      "status": "upcoming",
+      "channels": [
+        "NBC",
+        "Golf Chnl",
+        "Peacock"
+      ],
+      "status": "live",
+      "isNational": true,
       "tournament": "Champions Tour"
     },
     {
@@ -82,12 +87,12 @@
       "homeTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "57-41"
+        "record": "59-42"
       },
       "awayTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "49-50"
+        "record": "50-52"
       },
       "startTime": "2026-07-23T16:15Z",
       "timeET": "12:15 PM ET",
@@ -106,12 +111,12 @@
       "homeTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "52-48"
+        "record": "54-49"
       },
       "awayTeam": {
         "name": "Minnesota Twins",
         "abbreviation": "MIN",
-        "record": "49-51"
+        "record": "50-53"
       },
       "startTime": "2026-07-23T17:10Z",
       "timeET": "1:10 PM ET",
@@ -131,12 +136,12 @@
       "homeTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "46-53"
+        "record": "46-56"
       },
       "awayTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "56-42"
+        "record": "59-42"
       },
       "startTime": "2026-07-23T19:07Z",
       "timeET": "3:07 PM ET",
@@ -156,12 +161,12 @@
       "homeTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "51-47"
+        "record": "52-49"
       },
       "awayTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "51-48"
+        "record": "53-49"
       },
       "startTime": "2026-07-23T21:15Z",
       "timeET": "5:15 PM ET",
@@ -180,12 +185,12 @@
       "homeTeam": {
         "name": "Detroit Tigers",
         "abbreviation": "DET",
-        "record": "46-53"
+        "record": "48-54"
       },
       "awayTeam": {
         "name": "Kansas City Royals",
         "abbreviation": "KC",
-        "record": "40-60"
+        "record": "43-60"
       },
       "startTime": "2026-07-23T22:40Z",
       "timeET": "6:40 PM ET",
@@ -200,5 +205,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-07-20T03:30:06.295Z"
+  "lastUpdated": "2026-07-23T10:00:01.141Z"
 }
