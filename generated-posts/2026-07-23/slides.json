@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-23",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "9 events across Golf, MLB."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at 3M Open 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at ISPS HANDA Women's Scottish Open 12:00 AM ET on CNBC / Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "LIV Golf at LIV Golf United Kingdom 12:00 AM ET on Fox / FS1"
+    },
+    {
+      "title": "Game 4",
+      "body": "Champions Tour at ISPS HANDA Senior Open 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "San Diego Padres at Atlanta Braves 12:15 PM ET on MLB.TV / BravesVision"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png"
+  ],
+  "generatedAt": "2026-07-20T03:30:22.287Z"
+}
