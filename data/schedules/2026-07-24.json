@@ -1,0 +1,569 @@
+{
+  "date": "2026-07-24",
+  "games": [
+    {
+      "id": "pga-401811959",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "3M Open"
+      },
+      "awayTeam": {
+        "name": "PGA Tour"
+      },
+      "startTime": "2026-07-23T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "ESPN+",
+        "CBS",
+        "Golf Chnl",
+        "Paramount+"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "PGA Tour"
+    },
+    {
+      "id": "lpga-401835163",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "ISPS HANDA Women's Scottish Open"
+      },
+      "awayTeam": {
+        "name": "LPGA"
+      },
+      "startTime": "2026-07-23T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "CNBC",
+        "Golf Chnl"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "LPGA"
+    },
+    {
+      "id": "liv-401804745",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "LIV Golf United Kingdom"
+      },
+      "awayTeam": {
+        "name": "LIV Golf"
+      },
+      "startTime": "2026-07-23T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "Fox",
+        "FS1",
+        "FS2"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "LIV Golf"
+    },
+    {
+      "id": "champs-401832062",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "ISPS HANDA Senior Open"
+      },
+      "awayTeam": {
+        "name": "Champions Tour"
+      },
+      "startTime": "2026-07-23T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [],
+      "status": "upcoming",
+      "tournament": "Champions Tour"
+    },
+    {
+      "id": "f1-600057440",
+      "sport": "F1",
+      "homeTeam": {
+        "name": "AWS Hungarian Grand Prix"
+      },
+      "awayTeam": {
+        "name": "Formula 1"
+      },
+      "startTime": "2026-07-24T11:30Z",
+      "timeET": "7:30 AM ET",
+      "channels": [
+        "Apple TV"
+      ],
+      "status": "upcoming",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816246",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL",
+        "record": "62-37"
+      },
+      "awayTeam": {
+        "name": "Colorado Rockies",
+        "abbreviation": "COL",
+        "record": "40-61"
+      },
+      "startTime": "2026-07-24T20:10Z",
+      "timeET": "4:10 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Rockies.TV",
+        "Brewers.TV"
+      ],
+      "status": "upcoming",
+      "venue": "American Family Field, Milwaukee, Wisconsin",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816237",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Pittsburgh Pirates",
+        "abbreviation": "PIT",
+        "record": "52-48"
+      },
+      "awayTeam": {
+        "name": "Chicago Cubs",
+        "abbreviation": "CHC",
+        "record": "56-43"
+      },
+      "startTime": "2026-07-24T22:40Z",
+      "timeET": "6:40 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Marquee Sports Net"
+      ],
+      "status": "upcoming",
+      "venue": "PNC Park, Pittsburgh, Pennsylvania",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816239",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Detroit Tigers",
+        "abbreviation": "DET",
+        "record": "46-53"
+      },
+      "awayTeam": {
+        "name": "Kansas City Royals",
+        "abbreviation": "KC",
+        "record": "40-60"
+      },
+      "startTime": "2026-07-24T22:40Z",
+      "timeET": "6:40 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Royals.TV",
+        "Tigers.TV"
+      ],
+      "status": "upcoming",
+      "venue": "Comerica Park, Detroit, Michigan",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816241",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Philadelphia Phillies",
+        "abbreviation": "PHI",
+        "record": "55-45"
+      },
+      "awayTeam": {
+        "name": "New York Yankees",
+        "abbreviation": "NYY",
+        "record": "55-44"
+      },
+      "startTime": "2026-07-24T22:40Z",
+      "timeET": "6:40 PM ET",
+      "channels": [
+        "Apple TV"
+      ],
+      "status": "upcoming",
+      "venue": "Citizens Bank Park, Philadelphia, Pennsylvania",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816235",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Washington Nationals",
+        "abbreviation": "WSH",
+        "record": "50-50"
+      },
+      "awayTeam": {
+        "name": "Arizona Diamondbacks",
+        "abbreviation": "ARI",
+        "record": "51-48"
+      },
+      "startTime": "2026-07-24T22:45Z",
+      "timeET": "6:45 PM ET",
+      "channels": [
+        "MLB.TV",
+        "DBACKS.TV",
+        "Nationals.TV",
+        "Fox 5 WTTG",
+        "Gray Media"
+      ],
+      "status": "upcoming",
+      "venue": "Nationals Park, Washington, District of Columbia",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816236",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Baltimore Orioles",
+        "abbreviation": "BAL",
+        "record": "49-51"
+      },
+      "awayTeam": {
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL",
+        "record": "57-41"
+      },
+      "startTime": "2026-07-24T23:05Z",
+      "timeET": "7:05 PM ET",
+      "channels": [
+        "MLB.TV",
+        "BravesVision",
+        "MASN"
+      ],
+      "status": "upcoming",
+      "venue": "Oriole Park at Camden Yards, Baltimore, Maryland",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816238",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB",
+        "record": "56-42"
+      },
+      "awayTeam": {
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE",
+        "record": "52-48"
+      },
+      "startTime": "2026-07-24T23:10Z",
+      "timeET": "7:10 PM ET",
+      "channels": [
+        "MLB.TV",
+        "CLEGuardians.TV",
+        "Rays.TV"
+      ],
+      "status": "upcoming",
+      "venue": "Tropicana Field, St. Petersburg, Florida",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816240",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "New York Mets",
+        "abbreviation": "NYM",
+        "record": "42-58"
+      },
+      "awayTeam": {
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD",
+        "record": "63-37"
+      },
+      "startTime": "2026-07-24T23:10Z",
+      "timeET": "7:10 PM ET",
+      "channels": [
+        "ESPN Unlmtd",
+        "MLB.TV",
+        "Sportsnet",
+        "WPIX"
+      ],
+      "status": "upcoming",
+      "venue": "Citi Field, Queens, New York",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816242",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Miami Marlins",
+        "abbreviation": "MIA",
+        "record": "52-48"
+      },
+      "awayTeam": {
+        "name": "San Diego Padres",
+        "abbreviation": "SD",
+        "record": "49-50"
+      },
+      "startTime": "2026-07-24T23:10Z",
+      "timeET": "7:10 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Padres.TV",
+        "Marlins.TV"
+      ],
+      "status": "upcoming",
+      "venue": "loanDepot park, Miami, Florida",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816243",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Boston Red Sox",
+        "abbreviation": "BOS",
+        "record": "50-48"
+      },
+      "awayTeam": {
+        "name": "Toronto Blue Jays",
+        "abbreviation": "TOR",
+        "record": "46-53"
+      },
+      "startTime": "2026-07-24T23:10Z",
+      "timeET": "7:10 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Apple TV",
+        "TVA",
+        "NESN"
+      ],
+      "status": "upcoming",
+      "venue": "Fenway Park, Boston, Massachusetts",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816247",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Chicago White Sox",
+        "abbreviation": "CHW",
+        "record": "52-46"
+      },
+      "awayTeam": {
+        "name": "Houston Astros",
+        "abbreviation": "HOU",
+        "record": "47-54"
+      },
+      "startTime": "2026-07-24T23:40Z",
+      "timeET": "7:40 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Space City Home Network",
+        "CHSN"
+      ],
+      "status": "upcoming",
+      "venue": "Rate Field, Chicago, Illinois",
+      "isNational": true
+    },
+    {
+      "id": "nwsl-401853948",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Houston Dash",
+        "abbreviation": "HOU",
+        "record": "4-4-7"
+      },
+      "awayTeam": {
+        "name": "Bay FC",
+        "abbreviation": "BAY",
+        "record": "5-3-6"
+      },
+      "startTime": "2026-07-25T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "Victory+"
+      ],
+      "status": "upcoming",
+      "venue": "Shell Energy Stadium, Houston, Texas",
+      "tournament": "NWSL"
+    },
+    {
+      "id": "nwsl-401853947",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Orlando Pride",
+        "abbreviation": "ORL",
+        "record": "6-2-8"
+      },
+      "awayTeam": {
+        "name": "Chicago Stars FC",
+        "abbreviation": "CHI",
+        "record": "4-0-11"
+      },
+      "startTime": "2026-07-25T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "Victory+"
+      ],
+      "status": "upcoming",
+      "venue": "Inter&Co Stadium, Orlando, Florida",
+      "tournament": "NWSL"
+    },
+    {
+      "id": "mlb-401816248",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Texas Rangers",
+        "abbreviation": "TEX",
+        "record": "50-49"
+      },
+      "awayTeam": {
+        "name": "Seattle Mariners",
+        "abbreviation": "SEA",
+        "record": "50-50"
+      },
+      "startTime": "2026-07-25T00:05Z",
+      "timeET": "8:05 PM ET",
+      "channels": [
+        "MLB.TV",
+        "CW33",
+        "Mariners.TV"
+      ],
+      "status": "upcoming",
+      "venue": "Globe Life Field, Arlington, Texas",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816244",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Minnesota Twins",
+        "abbreviation": "MIN",
+        "record": "49-51"
+      },
+      "awayTeam": {
+        "name": "Athletics",
+        "abbreviation": "ATH",
+        "record": "42-57"
+      },
+      "startTime": "2026-07-25T00:10Z",
+      "timeET": "8:10 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Twins.TV",
+        "NBC Sports"
+      ],
+      "status": "upcoming",
+      "venue": "Target Field, Minneapolis, Minnesota",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401816245",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "St. Louis Cardinals",
+        "abbreviation": "STL",
+        "record": "51-47"
+      },
+      "awayTeam": {
+        "name": "Cincinnati Reds",
+        "abbreviation": "CIN",
+        "record": "45-53"
+      },
+      "startTime": "2026-07-25T00:15Z",
+      "timeET": "8:15 PM ET",
+      "channels": [
+        "MLB.TV",
+        "Reds.TV",
+        "Cardinals.TV",
+        "KMOV-TV"
+      ],
+      "status": "upcoming",
+      "venue": "Busch Stadium, St. Louis, Missouri",
+      "isNational": true
+    },
+    {
+      "id": "nwsl-401853949",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Portland Thorns FC",
+        "abbreviation": "POR",
+        "record": "8-3-5"
+      },
+      "awayTeam": {
+        "name": "Gotham FC",
+        "abbreviation": "GFC",
+        "record": "9-3-3"
+      },
+      "startTime": "2026-07-25T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "Amazon Prime"
+      ],
+      "status": "upcoming",
+      "venue": "Providence Park, Portland, Oregon",
+      "isNational": true,
+      "tournament": "NWSL"
+    },
+    {
+      "id": "mlb-401816249",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "San Francisco Giants",
+        "abbreviation": "SF",
+        "record": "42-57"
+      },
+      "awayTeam": {
+        "name": "Los Angeles Angels",
+        "abbreviation": "LAA",
+        "record": "39-61"
+      },
+      "startTime": "2026-07-25T02:15Z",
+      "timeET": "10:15 PM ET",
+      "channels": [
+        "ESPN Unlmtd",
+        "MLB.TV",
+        "NBC Sports",
+        "KNTV",
+        "Angels.TV"
+      ],
+      "status": "upcoming",
+      "venue": "Oracle Park, San Francisco, California",
+      "isNational": true
+    },
+    {
+      "id": "ligamx-401877033",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Atlante",
+        "abbreviation": "ATL",
+        "record": "0-0-1"
+      },
+      "awayTeam": {
+        "name": "América",
+        "abbreviation": "AME",
+        "record": "1-0-0"
+      },
+      "startTime": "2026-07-25T03:00Z",
+      "timeET": "11:00 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Estadio Banorte, Mexico City",
+      "tournament": "Liga MX"
+    },
+    {
+      "id": "ligamx-401877032",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Tijuana",
+        "abbreviation": "TIJ",
+        "record": "1-0-0"
+      },
+      "awayTeam": {
+        "name": "León",
+        "abbreviation": "LEO",
+        "record": "0-0-1"
+      },
+      "startTime": "2026-07-25T03:00Z",
+      "timeET": "11:00 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Estadio Caliente, Tijuana",
+      "tournament": "Liga MX"
+    }
+  ],
+  "lastUpdated": "2026-07-20T03:30:06.948Z"
+}
