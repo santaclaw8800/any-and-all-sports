@@ -2,28 +2,24 @@
   "date": "2026-07-26",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "25 events across Golf, F1, MLB, Soccer."
+      "title": "Today’s top events",
+      "body": "Golf all day, then 13 MLB games across the afternoon."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at 3M Open 12:00 AM ET on ESPN+ / CBS"
+      "title": "Golf watch info",
+      "body": "PGA Tour on ESPN+, CBS, Golf Chnl; LPGA, LIV, Champions on listed networks."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at ISPS HANDA Women's Scottish Open 12:00 AM ET on CNBC / Golf Chnl"
+      "title": "MLB early starts",
+      "body": "Guardians-Rays at 12:15 PM ET on Peacock; first wave starts 1:35 PM ET."
     },
     {
-      "title": "Game 3",
-      "body": "LIV Golf at LIV Golf United Kingdom 12:00 AM ET on Fox / FS1"
+      "title": "MLB late window",
+      "body": "Dodgers-Mets, Mariners-Rangers, and Angels-Giants round out the day."
     },
     {
-      "title": "Game 4",
-      "body": "Champions Tour at ISPS HANDA Senior Open 12:00 AM ET on Check listings"
-    },
-    {
-      "title": "Game 5",
-      "body": "Formula 1 at AWS Hungarian Grand Prix 7:30 AM ET on Apple TV"
+      "title": "Follow for daily schedules",
+      "body": "Save this post and follow @any_and_all_sports for more watch guides."
     }
   ],
   "pngFiles": [
@@ -33,5 +29,5 @@
     "slide-4.png",
     "slide-5.png"
   ],
-  "generatedAt": "2026-07-20T03:30:27.797Z"
+  "generatedAt": "2026-07-26T10:00:08.364Z"
 }
