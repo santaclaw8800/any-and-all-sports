@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-27",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "12 events across MLB."
+    },
+    {
+      "title": "Game 1",
+      "body": "Seattle Mariners at Texas Rangers 2:35 PM ET on ESPN Unlmtd / MLB.TV"
+    },
+    {
+      "title": "Game 2",
+      "body": "Arizona Diamondbacks at Pittsburgh Pirates 6:40 PM ET on MLB.TV / DBACKS.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Baltimore Orioles at Detroit Tigers 6:40 PM ET on MLB.TV / Tigers.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Philadelphia Phillies at Miami Marlins 6:40 PM ET on MLB.TV / Marlins.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Toronto Blue Jays at Washington Nationals 6:45 PM ET on MLB.TV / Nationals.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png"
+  ],
+  "generatedAt": "2026-07-27T03:30:16.909Z"
+}
