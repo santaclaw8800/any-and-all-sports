@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-28",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "20 events across MLB, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Arizona Diamondbacks at Pittsburgh Pirates 6:40 PM ET on MLB.TV / DBACKS.TV"
+    },
+    {
+      "title": "Game 2",
+      "body": "Baltimore Orioles at Detroit Tigers 6:40 PM ET on MLB.TV / Tigers.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Philadelphia Phillies at Miami Marlins 6:40 PM ET on MLB.TV / Marlins.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Texas Rangers at Tampa Bay Rays 6:40 PM ET on MLB.TV / Rangers Sports Network"
+    },
+    {
+      "title": "Game 5",
+      "body": "Toronto Blue Jays at Washington Nationals 6:45 PM ET on MLB.TV / Nationals.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-07-27T03:30:18.257Z"
+}
