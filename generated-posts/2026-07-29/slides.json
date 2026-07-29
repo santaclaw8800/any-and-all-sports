@@ -2,28 +2,28 @@
   "date": "2026-07-29",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "21 events across MLB, WNBA, Soccer."
+      "title": "Today's schedule",
+      "body": "22 games across MLB, WNBA, and soccer. Start early, finish late."
     },
     {
-      "title": "Game 1",
-      "body": "Philadelphia Phillies at Miami Marlins 12:10 PM ET on MLB.TV / Marlins.TV"
+      "title": "Early MLB action",
+      "body": "Phillies-Marlins at 12:10 PM ET, then Diamondbacks-Pirates and Blue Jays-Nationals."
     },
     {
-      "title": "Game 2",
-      "body": "Arizona Diamondbacks at Pittsburgh Pirates 12:35 PM ET on MLB.TV / DBACKS.TV"
+      "title": "Afternoon slate",
+      "body": "Braves-Mets, Orioles-Tigers, Brewers-Giants, and Rockies-Padres hit mid-day."
     },
     {
-      "title": "Game 3",
-      "body": "Toronto Blue Jays at Washington Nationals 1:05 PM ET on MLB.TV / Nationals.TV"
+      "title": "Night baseball",
+      "body": "Rangers-Rays, Guardians-Reds, Yankees-White Sox, Cubs-Cardinals, Astros-Angels."
     },
     {
-      "title": "Game 4",
-      "body": "Atlanta Braves at New York Mets 1:10 PM ET on MLB.TV / BravesVision"
+      "title": "Late games to watch",
+      "body": "Dream-Wings at 8 PM ET, MLS All-Stars at 8 PM ET, Spirit-Royals at 9 PM ET."
     },
     {
-      "title": "Game 5",
-      "body": "Baltimore Orioles at Detroit Tigers 1:10 PM ET on MLB.TV / Tigers.TV"
+      "title": "Where to watch",
+      "body": "MLB.TV, ESPN Unlimited, USA Network, Apple TV, CBSSN, and NWSL+. Follow @any_and_all_sports."
     }
   ],
   "pngFiles": [
@@ -32,5 +32,5 @@
     "slide-3.png",
     "slide-4.png"
   ],
-  "generatedAt": "2026-07-27T03:30:19.840Z"
+  "generatedAt": "2026-07-29T10:00:10.095Z"
 }
