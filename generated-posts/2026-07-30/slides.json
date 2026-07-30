@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-30",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "15 events across Golf, MLB, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Rocket Classic 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at AIG Women's Open 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Texas Rangers at Tampa Bay Rays 12:10 PM ET on MLB.TV / Rangers Sports Network"
+    },
+    {
+      "title": "Game 4",
+      "body": "Kansas City Royals at Minnesota Twins 1:40 PM ET on MLB.TV / Twins.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "New York Yankees at Chicago White Sox 2:10 PM ET on MLB.TV / CHSN"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-07-27T03:30:20.825Z"
+}
