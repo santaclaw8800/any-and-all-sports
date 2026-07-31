@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-31",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "27 events across Golf, MLB, Soccer, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Rocket Classic 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at AIG Women's Open 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Champions Tour at Portugal Invitational 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 4",
+      "body": "New York Yankees at Chicago Cubs 2:20 PM ET on MLB.TV / Marquee Sports Net"
+    },
+    {
+      "title": "Game 5",
+      "body": "Rangers at Dundee United 3:00 PM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png"
+  ],
+  "generatedAt": "2026-07-27T03:30:22.390Z"
+}
