@@ -1,0 +1,15 @@
+{
+  "dates": [
+    "2026-08-01"
+  ],
+  "regenerated": [],
+  "cacheHits": 0,
+  "daysRegenerated": 0,
+  "openAiStatus": "error_fallback",
+  "model": "gpt-5.4-mini",
+  "maxOutputTokens": 1200,
+  "totalTokens": 0,
+  "estimatedCost": 0,
+  "generationDurationMs": 4013,
+  "openAiDurationMs": 0
+}

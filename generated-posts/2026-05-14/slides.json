@@ -1,0 +1,30 @@
+{
+  "date": "2026-05-14",
+  "slides": [
+    {
+      "title": "Top games today",
+      "body": "PGA Championship and LPGA start the day, then MLB, NHL, and WNBA take over tonight."
+    },
+    {
+      "title": "Golf watch info",
+      "body": "PGA Championship on ESPN/ESPN2/ESPN+. LPGA at Kroger Queen City Championship on Golf Channel."
+    },
+    {
+      "title": "MLB on deck",
+      "body": "Phillies-Red Sox, Cubs-Braves, Royals-White Sox, and Giants-Dodgers all on MLB.TV."
+    },
+    {
+      "title": "NHL spotlight",
+      "body": "Canadiens-Sabres and Golden Knights-Ducks on TNT, truTV, and Max."
+    },
+    {
+      "title": "WNBA late games",
+      "body": "Lynx-Wings and Liberty-Fire on Amazon Prime. Follow @any_and_all_sports."
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png"
+  ],
+  "generatedAt": "2026-05-15T00:05:32.274Z"
+}

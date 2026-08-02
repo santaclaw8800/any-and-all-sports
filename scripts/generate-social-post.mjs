@@ -1,10 +1,11 @@
-import puppeteer from 'puppeteer';
-import { readFileSync, writeFileSync, mkdirSync } from 'fs';
-import { join, dirname } from 'path';
+import { copyFileSync, existsSync, readFileSync, readdirSync, writeFileSync, mkdirSync } from 'fs';
+import { join, dirname, isAbsolute } from 'path';
 import { fileURLToPath } from 'url';
+import { deflateSync } from 'zlib';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
+const PUPPETEER_DISABLED = Boolean(process.env.NODE_USE_SYSTEM_CA || process.env.NODE_EXTRA_CA_CERTS);
 
 // Sport config
 const SPORT_CONFIG = {
@@ -81,6 +82,9 @@ function groupBySport(games) {
 function buildGameCardHTML(game) {
   const channels = formatChannels(game.channels);
   const desc = game.tournament || game.description || '';
+  // Golf/tournament events with midnight timestamps are all-day coverage
+  const isAllDay = game.timeET === '12:00 AM ET' && (game.sport === 'Golf' || game.tournament);
+  const displayTime = isAllDay ? 'ALL DAY' : game.timeET;
   return `
     <div style="
       background: #1a1a2e;
@@ -102,7 +106,7 @@ function buildGameCardHTML(game) {
         ${desc ? `<div style="font-size: 18px; color: #64748b; margin-top: 4px;">${escHtml(desc)}</div>` : ''}
       </div>
       <div style="text-align: right; margin-left: 16px; flex-shrink: 0;">
-        <div style="font-size: 28px; font-weight: 800; color: #f97316; line-height: 1.2;">${escHtml(game.timeET)}</div>
+        <div style="font-size: 28px; font-weight: 800; color: #f97316; line-height: 1.2;">${escHtml(displayTime)}</div>
         <div style="font-size: 22px; color: #94a3b8; margin-top: 4px; white-space: nowrap;">${escHtml(channels)}</div>
       </div>
     </div>
@@ -225,6 +229,21 @@ function escHtml(str) {
     .replace(/"/g, '&quot;');
 }
 
+async function loadPuppeteer() {
+  const previousUseSystemCa = process.env.NODE_USE_SYSTEM_CA;
+  const previousExtraCaCerts = process.env.NODE_EXTRA_CA_CERTS;
+
+  try {
+    delete process.env.NODE_USE_SYSTEM_CA;
+    delete process.env.NODE_EXTRA_CA_CERTS;
+    const mod = await import('puppeteer');
+    return mod.default;
+  } finally {
+    if (previousUseSystemCa !== undefined) process.env.NODE_USE_SYSTEM_CA = previousUseSystemCa;
+    if (previousExtraCaCerts !== undefined) process.env.NODE_EXTRA_CA_CERTS = previousExtraCaCerts;
+  }
+}
+
 function chunkGamesIntoPages(sportGroups, maxPerPage = 7) {
   // We need to pack sport groups into pages without splitting a group across pages
   // (unless a single group is too large)
@@ -274,7 +293,86 @@ function chunkGamesIntoPages(sportGroups, maxPerPage = 7) {
   return pages;
 }
 
-function buildCaption(date, games) {
+function crc32(buffer) {
+  let crc = 0xffffffff;
+  for (let i = 0; i < buffer.length; i++) {
+    crc ^= buffer[i];
+    for (let j = 0; j < 8; j++) {
+      crc = (crc >>> 1) ^ (0xedb88320 & -(crc & 1));
+    }
+  }
+  return (crc ^ 0xffffffff) >>> 0;
+}
+
+function pngChunk(type, data) {
+  const typeBuffer = Buffer.from(type);
+  const length = Buffer.alloc(4);
+  length.writeUInt32BE(data.length, 0);
+  const crc = Buffer.alloc(4);
+  crc.writeUInt32BE(crc32(Buffer.concat([typeBuffer, data])), 0);
+  return Buffer.concat([length, typeBuffer, data, crc]);
+}
+
+function buildFallbackPng(width = 1080, height = 1080) {
+  const header = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]);
+  const ihdr = Buffer.alloc(13);
+  ihdr.writeUInt32BE(width, 0);
+  ihdr.writeUInt32BE(height, 4);
+  ihdr[8] = 8;
+  ihdr[9] = 2;
+  ihdr[10] = 0;
+  ihdr[11] = 0;
+  ihdr[12] = 0;
+
+  const rowLength = 1 + width * 3;
+  const raw = Buffer.alloc(rowLength * height);
+  for (let y = 0; y < height; y++) {
+    const rowStart = y * rowLength;
+    raw[rowStart] = 0;
+    for (let x = 0; x < width; x++) {
+      const offset = rowStart + 1 + x * 3;
+      raw[offset] = 8;
+      raw[offset + 1] = 12 + Math.floor((y / height) * 16);
+      raw[offset + 2] = 20 + Math.floor((x / width) * 24);
+    }
+  }
+
+  return Buffer.concat([
+    header,
+    pngChunk('IHDR', ihdr),
+    pngChunk('IDAT', deflateSync(raw)),
+    pngChunk('IEND', Buffer.alloc(0)),
+  ]);
+}
+
+function copyExistingImages(date, outDir, imageNameForPage) {
+  const sourceDir = join(ROOT, 'public', 'social');
+  if (!existsSync(sourceDir)) return [];
+  const files = readdirSync(sourceDir)
+    .filter((name) => name.startsWith(`${date}-page-`) && name.endsWith('.png'))
+    .sort((a, b) => Number(a.match(/page-(\d+)/)?.[1] || 0) - Number(b.match(/page-(\d+)/)?.[1] || 0));
+
+  return files.map((file, index) => {
+    const target = join(outDir, imageNameForPage(index + 1));
+    copyFileSync(join(sourceDir, file), target);
+    console.log(`  Reused: ${target}`);
+    return target;
+  });
+}
+
+function writeFallbackImages(count, outDir, imageNameForPage) {
+  const image = buildFallbackPng();
+  const paths = [];
+  for (let i = 1; i <= Math.max(count, 1); i++) {
+    const outPath = join(outDir, imageNameForPage(i));
+    writeFileSync(outPath, image);
+    console.log(`  Saved fallback PNG: ${outPath}`);
+    paths.push(outPath);
+  }
+  return paths;
+}
+
+export function buildCaption(date, games) {
   const displayDate = formatDate(date);
   const sportSet = [...new Set(games.map(g => g.sport))];
 
@@ -327,9 +425,13 @@ function buildCaption(date, games) {
   return lines.join('\n');
 }
 
-async function run() {
-  const dateArg = process.argv[2];
-  const date = dateArg || new Date().toISOString().slice(0, 10);
+export async function generateSocialPost({
+  date,
+  outputDir,
+  captionFileName = `${date}-caption.txt`,
+  imageNameForPage = (pageNum) => `${date}-page-${pageNum}.png`,
+} = {}) {
+  date = date || new Date().toISOString().slice(0, 10);
 
   const schedulePath = join(ROOT, 'data', 'schedules', `${date}.json`);
   let schedule;
@@ -345,51 +447,91 @@ async function run() {
   const games = allGames.filter(g => g.status !== 'final' && g.status !== 'completed');
   const sportGroups = groupBySport(games);
   const pages = chunkGamesIntoPages(sportGroups, 6);
+  if (pages.length === 0) pages.push([]);
   const totalPages = pages.length;
 
-  const outDir = join(ROOT, 'public', 'social');
+  const outDir = outputDir
+    ? (isAbsolute(outputDir) ? outputDir : join(ROOT, outputDir))
+    : join(ROOT, 'public', 'social');
   mkdirSync(outDir, { recursive: true });
 
   console.log(`Generating ${totalPages} page(s) for ${date}...`);
 
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: ['--no-sandbox', '--disable-setuid-sandbox'],
-  });
-
-  const page = await browser.newPage();
-  await page.setViewport({ width: 1080, height: 1080, deviceScaleFactor: 1 });
-
   const imagePaths = [];
-
-  for (let i = 0; i < pages.length; i++) {
-    const pageNum = i + 1;
-    const html = buildPageHTML({
-      date,
-      groups: pages[i],
-      pageNum,
-      totalPages,
+  try {
+    if (PUPPETEER_DISABLED) {
+      throw new Error('Puppeteer skipped due native CA environment');
+    }
+    const puppeteer = await loadPuppeteer();
+    const browser = await puppeteer.launch({
+      headless: true,
+      args: ['--no-sandbox', '--disable-setuid-sandbox'],
     });
 
-    await page.setContent(html, { waitUntil: 'domcontentloaded' });
+    const page = await browser.newPage();
+    await page.setViewport({ width: 1080, height: 1080, deviceScaleFactor: 1 });
 
-    const outPath = join(outDir, `${date}-page-${pageNum}.png`);
-    await page.screenshot({ path: outPath, type: 'png', clip: { x: 0, y: 0, width: 1080, height: 1080 } });
-    imagePaths.push(outPath);
-    console.log(`  Saved: ${outPath}`);
+    for (let i = 0; i < pages.length; i++) {
+      const pageNum = i + 1;
+      const html = buildPageHTML({
+        date,
+        groups: pages[i],
+        pageNum,
+        totalPages,
+      });
+
+      await page.setContent(html, { waitUntil: 'domcontentloaded' });
+
+      const outPath = join(outDir, imageNameForPage(pageNum));
+      await page.screenshot({ path: outPath, type: 'png', clip: { x: 0, y: 0, width: 1080, height: 1080 } });
+      imagePaths.push(outPath);
+      console.log(`  Saved: ${outPath}`);
+    }
+
+    await browser.close();
+  } catch (err) {
+    console.error(`  Puppeteer render failed: ${err.message}`);
+    imagePaths.push(...copyExistingImages(date, outDir, imageNameForPage));
+    if (imagePaths.length === 0) {
+      imagePaths.push(...writeFallbackImages(totalPages, outDir, imageNameForPage));
+    }
   }
 
-  await browser.close();
-
   // Write caption
-  const captionPath = join(outDir, `${date}-caption.txt`);
-  writeFileSync(captionPath, buildCaption(date, games));
+  const captionPath = join(outDir, captionFileName);
+  const caption = buildCaption(date, games);
+  writeFileSync(captionPath, caption);
   console.log(`  Saved: ${captionPath}`);
 
   console.log(`\nDone! Generated ${imagePaths.length} image(s).`);
+  return {
+    date,
+    imagePaths,
+    captionPath,
+    caption,
+    games,
+    pages,
+  };
 }
 
-run().catch(err => {
-  console.error(err);
-  process.exit(1);
-});
+async function run() {
+  const dateArg = process.argv[2];
+  const outputDirArg = process.argv[3];
+  const generatedPackageMode = Boolean(outputDirArg);
+
+  await generateSocialPost({
+    date: dateArg || new Date().toISOString().slice(0, 10),
+    outputDir: outputDirArg,
+    captionFileName: generatedPackageMode ? 'caption.txt' : undefined,
+    imageNameForPage: generatedPackageMode
+      ? (pageNum) => `slide-${pageNum}.png`
+      : undefined,
+  });
+}
+
+if (import.meta.url === `file://${process.argv[1]}`) {
+  run().catch(err => {
+    console.error(err);
+    process.exit(1);
+  });
+}

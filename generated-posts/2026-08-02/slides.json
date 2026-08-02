@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-02",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "29 events across Golf, Soccer, WNBA, MLB."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Rocket Classic 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at AIG Women's Open 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Champions Tour at Portugal Invitational 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 4",
+      "body": "Kilmarnock at St Johnstone 9:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Motherwell at Hibernian 11:30 AM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png"
+  ],
+  "generatedAt": "2026-07-27T03:30:26.389Z"
+}

@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-20",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "23 events across Golf, WNBA, Soccer, MLB, MMA/UFC."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at U.S. Open 12:00 AM ET on NBC / USA Net"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at Meijer LPGA Classic for Simply Give 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Indiana Fever at Atlanta Dream 1:00 PM ET on ABC"
+    },
+    {
+      "title": "Game 4",
+      "body": "Sweden at Netherlands 1:00 PM ET on Fox / Telemundo"
+    },
+    {
+      "title": "Game 5",
+      "body": "Chicago White Sox at Detroit Tigers 1:10 PM ET on MLB.TV / Tigers.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-06-15T03:30:28.163Z"
+}

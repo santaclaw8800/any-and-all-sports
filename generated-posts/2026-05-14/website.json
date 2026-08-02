@@ -1,0 +1,301 @@
+{
+  "date": "2026-05-14",
+  "schedule": {
+    "date": "2026-05-14",
+    "games": [
+      {
+        "id": "pga-401811947",
+        "sport": "Golf",
+        "homeTeam": {
+          "name": "PGA Championship"
+        },
+        "awayTeam": {
+          "name": "PGA Tour"
+        },
+        "startTime": "2026-05-14T04:00Z",
+        "timeET": "12:00 AM ET",
+        "channels": [
+          "ESPN",
+          "ESPN2",
+          "ESPN+",
+          "CBS",
+          "Paramount+"
+        ],
+        "status": "live",
+        "isNational": true,
+        "tournament": "PGA Tour"
+      },
+      {
+        "id": "lpga-401835154",
+        "sport": "Golf",
+        "homeTeam": {
+          "name": "Kroger Queen City Championship pres by P&G"
+        },
+        "awayTeam": {
+          "name": "LPGA"
+        },
+        "startTime": "2026-05-14T04:00Z",
+        "timeET": "12:00 AM ET",
+        "channels": [
+          "Golf Chnl"
+        ],
+        "status": "live",
+        "isNational": true,
+        "tournament": "LPGA"
+      },
+      {
+        "id": "mlb-401815337",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Boston Red Sox",
+          "abbreviation": "BOS",
+          "record": "18-24"
+        },
+        "awayTeam": {
+          "name": "Philadelphia Phillies",
+          "abbreviation": "PHI",
+          "record": "20-23"
+        },
+        "startTime": "2026-05-14T22:45Z",
+        "timeET": "6:45 PM ET",
+        "channels": [
+          "MLB.TV",
+          "NBC Sports",
+          "NESN"
+        ],
+        "status": "live",
+        "currentPeriod": "5",
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "venue": "Fenway Park, Boston, Massachusetts",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401871408",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Buffalo Sabres",
+          "abbreviation": "BUF",
+          "record": "50-23-9"
+        },
+        "awayTeam": {
+          "name": "Montreal Canadiens",
+          "abbreviation": "MTL",
+          "record": "48-24-10"
+        },
+        "startTime": "2026-05-14T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "TNT",
+          "truTV",
+          "Max"
+        ],
+        "status": "upcoming",
+        "venue": "KeyBank Center, Buffalo, NY",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401815334",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "record": "30-13"
+        },
+        "awayTeam": {
+          "name": "Chicago Cubs",
+          "abbreviation": "CHC",
+          "record": "27-16"
+        },
+        "startTime": "2026-05-14T23:15Z",
+        "timeET": "7:15 PM ET",
+        "channels": [
+          "MLB.TV",
+          "Marquee Sports Net",
+          "BravesVision"
+        ],
+        "status": "live",
+        "currentPeriod": "3",
+        "score": {
+          "home": 0,
+          "away": 0
+        },
+        "venue": "Truist Park, Atlanta, Georgia",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401815339",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Chicago White Sox",
+          "abbreviation": "CHW",
+          "record": "21-21"
+        },
+        "awayTeam": {
+          "name": "Kansas City Royals",
+          "abbreviation": "KC",
+          "record": "19-24"
+        },
+        "startTime": "2026-05-14T23:40Z",
+        "timeET": "7:40 PM ET",
+        "channels": [
+          "MLB.TV",
+          "Royals.TV",
+          "CHSN"
+        ],
+        "status": "live",
+        "currentPeriod": "1",
+        "score": {
+          "home": 2,
+          "away": 1
+        },
+        "venue": "Rate Field, Chicago, Illinois",
+        "isNational": true
+      },
+      {
+        "id": "wnba-401856908",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Dallas Wings",
+          "abbreviation": "DAL",
+          "record": "1-1"
+        },
+        "awayTeam": {
+          "name": "Minnesota Lynx",
+          "abbreviation": "MIN",
+          "record": "1-1"
+        },
+        "startTime": "2026-05-15T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "Amazon Prime"
+        ],
+        "status": "upcoming",
+        "venue": "College Park Center, Arlington, TX",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401871428",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Anaheim Ducks",
+          "abbreviation": "ANA",
+          "record": "43-33-6"
+        },
+        "awayTeam": {
+          "name": "Vegas Golden Knights",
+          "abbreviation": "VGK",
+          "record": "39-26-17"
+        },
+        "startTime": "2026-05-15T01:30Z",
+        "timeET": "9:30 PM ET",
+        "channels": [
+          "TNT",
+          "truTV",
+          "Max"
+        ],
+        "status": "upcoming",
+        "venue": "Honda Center, Anaheim, CA",
+        "isNational": true
+      },
+      {
+        "id": "wnba-401856909",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Portland Fire",
+          "abbreviation": "POR",
+          "record": "1-1"
+        },
+        "awayTeam": {
+          "name": "New York Liberty",
+          "abbreviation": "NY",
+          "record": "2-1"
+        },
+        "startTime": "2026-05-15T02:00Z",
+        "timeET": "10:00 PM ET",
+        "channels": [
+          "Amazon Prime",
+          "WWOR-TV",
+          "Liberty Live"
+        ],
+        "status": "upcoming",
+        "venue": "Moda Center, Portland, OR",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401815343",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Los Angeles Dodgers",
+          "abbreviation": "LAD",
+          "record": "25-18"
+        },
+        "awayTeam": {
+          "name": "San Francisco Giants",
+          "abbreviation": "SF",
+          "record": "18-25"
+        },
+        "startTime": "2026-05-15T02:10Z",
+        "timeET": "10:10 PM ET",
+        "channels": [
+          "MLB.TV",
+          "MLB Net",
+          "NBC Sports",
+          "Sportsnet"
+        ],
+        "status": "upcoming",
+        "venue": "Dodger Stadium, Los Angeles, California",
+        "isNational": true
+      }
+    ],
+    "lastUpdated": "2026-05-15T00:05:21.648Z"
+  },
+  "social": {
+    "caption": "Today’s slate: PGA Championship + LPGA, plus MLB, NHL, and WNBA. Watch on ESPN/ESPN2/ESPN+, Golf Channel, MLB.TV, TNT/truTV/Max, and Amazon Prime. Follow @any_and_all_sports for daily schedules.",
+    "hashtags": [
+      "#SportsSchedule",
+      "#NBA",
+      "#NHL",
+      "#MLB",
+      "#WNBA",
+      "#Golf",
+      "#PGAChampionship",
+      "#LPGA",
+      "#TNT",
+      "#MLBTV",
+      "#AmazonPrime",
+      "#ESPN",
+      "#GolfChannel",
+      "#AnyAndAllSports"
+    ],
+    "slides": [
+      {
+        "title": "Top games today",
+        "body": "PGA Championship and LPGA start the day, then MLB, NHL, and WNBA take over tonight."
+      },
+      {
+        "title": "Golf watch info",
+        "body": "PGA Championship on ESPN/ESPN2/ESPN+. LPGA at Kroger Queen City Championship on Golf Channel."
+      },
+      {
+        "title": "MLB on deck",
+        "body": "Phillies-Red Sox, Cubs-Braves, Royals-White Sox, and Giants-Dodgers all on MLB.TV."
+      },
+      {
+        "title": "NHL spotlight",
+        "body": "Canadiens-Sabres and Golden Knights-Ducks on TNT, truTV, and Max."
+      },
+      {
+        "title": "WNBA late games",
+        "body": "Lynx-Wings and Liberty-Fire on Amazon Prime. Follow @any_and_all_sports."
+      }
+    ],
+    "pngFiles": [
+      "slide-1.png",
+      "slide-2.png"
+    ]
+  },
+  "lastUpdated": "2026-05-15T00:05:32.274Z"
+}

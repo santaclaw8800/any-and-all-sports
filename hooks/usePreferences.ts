@@ -8,9 +8,13 @@ export function usePreferences() {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    const stored = getPreferences();
-    setPreferencesState(stored);
-    setIsLoading(false);
+    const frame = window.requestAnimationFrame(() => {
+      const stored = getPreferences();
+      setPreferencesState(stored);
+      setIsLoading(false);
+    });
+
+    return () => window.cancelAnimationFrame(frame);
   }, []);
 
   const setPreferences = useCallback((prefs: UserPreferences) => {

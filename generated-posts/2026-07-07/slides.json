@@ -1,0 +1,36 @@
+{
+  "date": "2026-07-07",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "20 events across Soccer, MLB, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Egypt at Argentina 12:00 PM ET on Fox / Telemundo"
+    },
+    {
+      "title": "Game 2",
+      "body": "Milwaukee Brewers at St. Louis Cardinals 2:15 PM ET on ESPN Unlmtd / MLB.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Colombia at Switzerland 4:00 PM ET on Fox / Telemundo"
+    },
+    {
+      "title": "Game 4",
+      "body": "Chicago Cubs at Baltimore Orioles 6:35 PM ET on MLB.TV / Marquee Sports Net"
+    },
+    {
+      "title": "Game 5",
+      "body": "Athletics at Detroit Tigers 6:40 PM ET on MLB.TV / Tigers.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-07-06T03:30:19.389Z"
+}

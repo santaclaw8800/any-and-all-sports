@@ -8,7 +8,12 @@
     "start": "next start",
     "lint": "eslint",
     "fetch-schedule": "node scripts/fetch-schedules.mjs",
-    "generate-post": "node scripts/generate-social-post.mjs"
+    "fetch-ahead": "node scripts/fetch-ahead.mjs",
+    "generate-post": "node scripts/generate-social-post.mjs",
+    "generate-weekly": "node scripts/generate-weekly-content.mjs",
+    "generate-initial": "node scripts/generate-weekly-content.mjs --start today --days 3 --reason initial",
+    "verify-generated": "node scripts/verify-generated-content.mjs",
+    "daily-publish": "node scripts/daily-publish.mjs"
   },
   "dependencies": {
     "next": "16.2.1",
