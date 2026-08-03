@@ -1,0 +1,34 @@
+{
+  "date": "2026-08-03",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "12 events across Soccer, MLB, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Dundee at Celtic 2:30 PM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Washington Nationals at Philadelphia Phillies 6:40 PM ET on MLB.TV / NBC Sports"
+    },
+    {
+      "title": "Game 3",
+      "body": "Las Vegas Aces at Atlanta Dream 7:00 PM ET on Peacock / NBCSN"
+    },
+    {
+      "title": "Game 4",
+      "body": "Seattle Storm at New York Liberty 7:00 PM ET on WNBA League Pass / CW Seattle"
+    },
+    {
+      "title": "Game 5",
+      "body": "St. Louis Cardinals at New York Yankees 7:05 PM ET on MLB.TV / Cardinals.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png"
+  ],
+  "generatedAt": "2026-08-03T03:30:29.665Z"
+}
