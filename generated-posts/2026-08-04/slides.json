@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-04",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "16 events across MLB, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Los Angeles Angels at Baltimore Orioles 6:35 PM ET on MLB.TV / MASN"
+    },
+    {
+      "title": "Game 2",
+      "body": "Athletics at Cincinnati Reds 6:40 PM ET on MLB.TV / Reds.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "New York Mets at Cleveland Guardians 6:40 PM ET on MLB.TV / CLEGuardians.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Washington Nationals at Philadelphia Phillies 6:40 PM ET on MLB.TV / NBC Sports"
+    },
+    {
+      "title": "Game 5",
+      "body": "St. Louis Cardinals at New York Yankees 7:05 PM ET on MLB.TV / Cardinals.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-08-03T03:30:30.882Z"
+}
