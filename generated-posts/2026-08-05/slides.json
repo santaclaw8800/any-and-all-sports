@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-05",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "20 events across MLB, WNBA, Soccer."
+    },
+    {
+      "title": "Game 1",
+      "body": "Toronto Blue Jays at Houston Astros 2:10 PM ET on MLB.TV / Space City Home Network"
+    },
+    {
+      "title": "Game 2",
+      "body": "Los Angeles Dodgers at Chicago Cubs 2:20 PM ET on MLB.TV / MLB Net"
+    },
+    {
+      "title": "Game 3",
+      "body": "San Francisco Giants at Texas Rangers 2:35 PM ET on ESPN Unlmtd / MLB.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Tampa Bay Rays at Colorado Rockies 3:10 PM ET on MLB.TV / Rockies.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Los Angeles Angels at Baltimore Orioles 6:35 PM ET on MLB.TV / MASN"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-08-03T03:30:32.216Z"
+}
