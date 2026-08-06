@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-06",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "17 events across Golf, MLB, WNBA, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Wyndham Championship 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "LIV Golf at LIV Golf New York 12:00 AM ET on Fox / Fox Sports App"
+    },
+    {
+      "title": "Game 3",
+      "body": "Los Angeles Angels at Baltimore Orioles 12:35 PM ET on MLB.TV / MASN"
+    },
+    {
+      "title": "Game 4",
+      "body": "Athletics at Cincinnati Reds 12:40 PM ET on MLB.TV / Reds.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "New York Mets at Cleveland Guardians 1:10 PM ET on ESPN Unlmtd / MLB.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-08-03T03:30:33.279Z"
+}
