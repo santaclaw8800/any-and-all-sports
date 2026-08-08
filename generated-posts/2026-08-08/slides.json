@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-08",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "34 events across Golf, Soccer, WNBA, MLB, MMA/UFC."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Wyndham Championship 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "LIV Golf at LIV Golf New York 12:00 AM ET on Fox / Fox Sports App"
+    },
+    {
+      "title": "Game 3",
+      "body": "Aberdeen at Dundee 10:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "St Johnstone at St Mirren 10:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Telstar at NEC Nijmegen 10:30 AM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png"
+  ],
+  "generatedAt": "2026-08-03T03:30:36.747Z"
+}
