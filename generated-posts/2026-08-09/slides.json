@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-09",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "36 events across Golf, Soccer, MLB, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Wyndham Championship 12:00 AM ET on ESPN+ / CBS"
+    },
+    {
+      "title": "Game 2",
+      "body": "LIV Golf at LIV Golf New York 12:00 AM ET on Fox / Fox Sports App"
+    },
+    {
+      "title": "Game 3",
+      "body": "Feyenoord Rotterdam at Sparta Rotterdam 6:15 AM ET on ESPN+"
+    },
+    {
+      "title": "Game 4",
+      "body": "FC Utrecht at FC Groningen 8:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Ajax Amsterdam at PEC Zwolle 8:30 AM ET on ESPN+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png"
+  ],
+  "generatedAt": "2026-08-03T03:30:38.614Z"
+}
