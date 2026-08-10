@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-10",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "13 events across Soccer, MLB, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "C.D. Nacional at Santa Clara 3:15 PM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Boston Red Sox at Toronto Blue Jays 7:07 PM ET on MLB.TV / Sportsnet"
+    },
+    {
+      "title": "Game 3",
+      "body": "New York Mets at Atlanta Braves 7:15 PM ET on MLB.TV / BravesVision"
+    },
+    {
+      "title": "Game 4",
+      "body": "Baltimore Orioles at Minnesota Twins 7:40 PM ET on MLB.TV / Twins.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Philadelphia Phillies at St. Louis Cardinals 7:45 PM ET on MLB.TV / FS1"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-08-10T03:30:20.740Z"
+}

@@ -1,0 +1,383 @@
+{
+  "date": "2026-08-10",
+  "schedule": {
+    "date": "2026-08-10",
+    "games": [
+      {
+        "id": "primeiraliga-401885486",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Santa Clara",
+          "abbreviation": "CDSC",
+          "record": "0-0-0"
+        },
+        "awayTeam": {
+          "name": "C.D. Nacional",
+          "abbreviation": "CDN",
+          "record": "0-0-0"
+        },
+        "startTime": "2026-08-10T19:15Z",
+        "timeET": "3:15 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Estádio de São Miguel, Ponta Delgada",
+        "tournament": "Primeira Liga"
+      },
+      {
+        "id": "mlb-401816469",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Toronto Blue Jays",
+          "abbreviation": "TOR",
+          "record": "56-63"
+        },
+        "awayTeam": {
+          "name": "Boston Red Sox",
+          "abbreviation": "BOS",
+          "record": "64-53"
+        },
+        "startTime": "2026-08-10T23:07Z",
+        "timeET": "7:07 PM ET",
+        "channels": [
+          "MLB.TV",
+          "Sportsnet",
+          "NESN"
+        ],
+        "status": "upcoming",
+        "venue": "Rogers Centre, Toronto, Ontario",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401816470",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "record": "71-47"
+        },
+        "awayTeam": {
+          "name": "New York Mets",
+          "abbreviation": "NYM",
+          "record": "52-67"
+        },
+        "startTime": "2026-08-10T23:15Z",
+        "timeET": "7:15 PM ET",
+        "channels": [
+          "MLB.TV",
+          "BravesVision",
+          "SNY"
+        ],
+        "status": "upcoming",
+        "venue": "Truist Park, Atlanta, Georgia",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401816471",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Minnesota Twins",
+          "abbreviation": "MIN",
+          "record": "58-61"
+        },
+        "awayTeam": {
+          "name": "Baltimore Orioles",
+          "abbreviation": "BAL",
+          "record": "57-61"
+        },
+        "startTime": "2026-08-10T23:40Z",
+        "timeET": "7:40 PM ET",
+        "channels": [
+          "MLB.TV",
+          "Twins.TV",
+          "MASN"
+        ],
+        "status": "upcoming",
+        "venue": "Target Field, Minneapolis, Minnesota",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401816472",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "St. Louis Cardinals",
+          "abbreviation": "STL",
+          "record": "59-59"
+        },
+        "awayTeam": {
+          "name": "Philadelphia Phillies",
+          "abbreviation": "PHI",
+          "record": "63-56"
+        },
+        "startTime": "2026-08-10T23:45Z",
+        "timeET": "7:45 PM ET",
+        "channels": [
+          "MLB.TV",
+          "FS1",
+          "Cardinals.TV",
+          "NBC Sports"
+        ],
+        "status": "upcoming",
+        "venue": "Busch Stadium, St. Louis, Missouri",
+        "isNational": true
+      },
+      {
+        "id": "wnba-401857132",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Atlanta Dream",
+          "abbreviation": "ATL",
+          "record": "19-12"
+        },
+        "awayTeam": {
+          "name": "Toronto Tempo",
+          "abbreviation": "TOR",
+          "record": "10-21"
+        },
+        "startTime": "2026-08-11T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "Peacock",
+          "NBCSN",
+          "Atlanta News First",
+          "Victory+ ATL",
+          "TSN"
+        ],
+        "status": "upcoming",
+        "venue": "Gateway Center, College Park, GA",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401816478",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Los Angeles Angels",
+          "abbreviation": "LAA",
+          "record": "45-73"
+        },
+        "awayTeam": {
+          "name": "Texas Rangers",
+          "abbreviation": "TEX",
+          "record": "59-59"
+        },
+        "startTime": "2026-08-11T01:38Z",
+        "timeET": "9:38 PM ET",
+        "channels": [
+          "MLB.TV",
+          "Rangers Sports Network",
+          "Angels.TV"
+        ],
+        "status": "upcoming",
+        "venue": "Angel Stadium, Anaheim, California",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401816473",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Arizona Diamondbacks",
+          "abbreviation": "ARI",
+          "record": "63-56"
+        },
+        "awayTeam": {
+          "name": "Colorado Rockies",
+          "abbreviation": "COL",
+          "record": "46-72"
+        },
+        "startTime": "2026-08-11T01:40Z",
+        "timeET": "9:40 PM ET",
+        "channels": [
+          "MLB.TV",
+          "DBACKS.TV",
+          "Rockies.TV"
+        ],
+        "status": "upcoming",
+        "venue": "Chase Field, Phoenix, Arizona",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401816476",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "San Diego Padres",
+          "abbreviation": "SD",
+          "record": "62-57"
+        },
+        "awayTeam": {
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "record": "74-44"
+        },
+        "startTime": "2026-08-11T01:40Z",
+        "timeET": "9:40 PM ET",
+        "channels": [
+          "ESPN Unlmtd",
+          "MLB.TV",
+          "Padres.TV",
+          "Brewers.TV"
+        ],
+        "status": "upcoming",
+        "venue": "Petco Park, San Diego, California",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401816477",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Athletics",
+          "abbreviation": "ATH",
+          "record": "47-71"
+        },
+        "awayTeam": {
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB",
+          "record": "71-46"
+        },
+        "startTime": "2026-08-11T01:40Z",
+        "timeET": "9:40 PM ET",
+        "channels": [
+          "MLB.TV",
+          "Rays.TV",
+          "NBC Sports"
+        ],
+        "status": "upcoming",
+        "venue": "Sutter Health Park, Sacramento, California",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401816474",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "San Francisco Giants",
+          "abbreviation": "SF",
+          "record": "49-69"
+        },
+        "awayTeam": {
+          "name": "Houston Astros",
+          "abbreviation": "HOU",
+          "record": "60-59"
+        },
+        "startTime": "2026-08-11T01:45Z",
+        "timeET": "9:45 PM ET",
+        "channels": [
+          "MLB.TV",
+          "NBC Sports",
+          "Space City Home Network"
+        ],
+        "status": "upcoming",
+        "venue": "Oracle Park, San Francisco, California",
+        "isNational": true
+      },
+      {
+        "id": "wnba-401857133",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Seattle Storm",
+          "abbreviation": "SEA",
+          "record": "6-28"
+        },
+        "awayTeam": {
+          "name": "Chicago Sky",
+          "abbreviation": "CHI",
+          "record": "12-20"
+        },
+        "startTime": "2026-08-11T02:00Z",
+        "timeET": "10:00 PM ET",
+        "channels": [
+          "USA Net",
+          "CW Seattle",
+          "Prime Video-Seattle",
+          "CW26"
+        ],
+        "status": "upcoming",
+        "venue": "Climate Pledge Arena, Seattle, WA",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401816475",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Los Angeles Dodgers",
+          "abbreviation": "LAD",
+          "record": "70-48"
+        },
+        "awayTeam": {
+          "name": "Kansas City Royals",
+          "abbreviation": "KC",
+          "record": "49-70"
+        },
+        "startTime": "2026-08-11T02:10Z",
+        "timeET": "10:10 PM ET",
+        "channels": [
+          "MLB.TV",
+          "Royals.TV",
+          "SportsNet LA"
+        ],
+        "status": "upcoming",
+        "venue": "Dodger Stadium, Los Angeles, California",
+        "isNational": true
+      }
+    ],
+    "lastUpdated": "2026-08-10T03:30:05.763Z"
+  },
+  "social": {
+    "caption": "🏟️ What's On Tonight — Monday, August 10, 2026\n\n⚽ Soccer  ·  ⚾ MLB  ·  🏀 WNBA\n\n13 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#WNBA #WNBABasketball #WomensBasketball\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "hashtags": [
+      "#AnyAndAllSports",
+      "#WhatsOnTonight",
+      "#SportsTonight",
+      "#SportsSchedule",
+      "#SportsTV",
+      "#SportsTVSchedule",
+      "#WatchSports",
+      "#WhereToWatch",
+      "#GameTonight",
+      "#SportsOnTV",
+      "#LiveSports",
+      "#Soccer",
+      "#Football",
+      "#PremierLeague",
+      "#LaLiga",
+      "#SerieA",
+      "#Bundesliga",
+      "#MLS",
+      "#UCL",
+      "#ChampionsLeague",
+      "#MLB",
+      "#MLBTonight",
+      "#Baseball",
+      "#MLBonFOX"
+    ],
+    "slides": [
+      {
+        "title": "What's On Tonight",
+        "body": "13 events across Soccer, MLB, WNBA."
+      },
+      {
+        "title": "Game 1",
+        "body": "C.D. Nacional at Santa Clara 3:15 PM ET on Check listings"
+      },
+      {
+        "title": "Game 2",
+        "body": "Boston Red Sox at Toronto Blue Jays 7:07 PM ET on MLB.TV / Sportsnet"
+      },
+      {
+        "title": "Game 3",
+        "body": "New York Mets at Atlanta Braves 7:15 PM ET on MLB.TV / BravesVision"
+      },
+      {
+        "title": "Game 4",
+        "body": "Baltimore Orioles at Minnesota Twins 7:40 PM ET on MLB.TV / Twins.TV"
+      },
+      {
+        "title": "Game 5",
+        "body": "Philadelphia Phillies at St. Louis Cardinals 7:45 PM ET on MLB.TV / FS1"
+      }
+    ],
+    "pngFiles": [
+      "slide-1.png",
+      "slide-2.png",
+      "slide-3.png"
+    ]
+  },
+  "lastUpdated": "2026-08-10T03:30:20.740Z"
+}
