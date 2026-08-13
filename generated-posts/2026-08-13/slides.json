@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-13",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "23 events across Golf, MLB, Soccer, WNBA, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at FedEx St. Jude Championship 12:00 AM ET on ESPN / ESPN+"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at The Standard Portland Classic 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "DP World Tour at Danish Golf Championship 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Cleveland Guardians at Detroit Tigers 1:10 PM ET on MLB.TV / CLEGuardians.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Pittsburgh Pirates at Miami Marlins 1:10 PM ET on MLB.TV / Marlins.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png"
+  ],
+  "generatedAt": "2026-08-10T03:30:25.150Z"
+}
