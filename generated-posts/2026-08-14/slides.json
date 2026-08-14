@@ -2,28 +2,24 @@
   "date": "2026-08-14",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "30 events across Golf, Soccer, MLB, NFL, WNBA."
+      "title": "Top of the Day",
+      "body": "Golf opens at 12 AM ET with PGA, LPGA, DP World Tour, and Champions Tour events."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at FedEx St. Jude Championship 12:00 AM ET on ESPN / ESPN+"
+      "title": "Early Soccer + MLB",
+      "body": "Sparta Rotterdam, Blackburn, and Wolves are on early, plus Cardinals-Cubs at 2:20 PM ET on Apple TV."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at The Standard Portland Classic 12:00 AM ET on Golf Chnl"
+      "title": "MLB Night Slate",
+      "body": "Reds-Marlins, Red Sox-Pirates, White Sox-Tigers, Orioles-Rays, Padres-Guardians, Nats-Mets, D-backs-Braves."
     },
     {
-      "title": "Game 3",
-      "body": "DP World Tour at Danish Golf Championship 12:00 AM ET on Check listings"
+      "title": "NFL Preseason",
+      "body": "Three games kick at 7 PM ET: Broncos-Falcons, Buccaneers-Jets, and Dolphins-Commanders."
     },
     {
-      "title": "Game 4",
-      "body": "Champions Tour at Boeing Classic 12:00 AM ET on Golf Chnl"
-    },
-    {
-      "title": "Game 5",
-      "body": "Sparta Rotterdam at Telstar 2:00 PM ET on Check listings"
+      "title": "Where to Watch",
+      "body": "Watch on ESPN, ESPN+, CBS, Golf Channel, Apple TV, MLB.TV, NFL Network, Paramount+, and local team channels."
     }
   ],
   "pngFiles": [
@@ -34,5 +30,5 @@
     "slide-5.png",
     "slide-6.png"
   ],
-  "generatedAt": "2026-08-10T03:30:27.066Z"
+  "generatedAt": "2026-08-14T10:00:12.808Z"
 }
