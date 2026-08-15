@@ -1,0 +1,45 @@
+{
+  "date": "2026-08-15",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "63 events across Golf, Soccer, WNBA, NFL, MLB, MMA/UFC."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at FedEx St. Jude Championship 12:00 AM ET on ESPN / ESPN+"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at The Standard Portland Classic 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "DP World Tour at Danish Golf Championship 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Champions Tour at Boeing Classic 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 5",
+      "body": "Preston North End at Bolton Wanderers 7:30 AM ET on Paramount+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png",
+    "slide-10.png",
+    "slide-11.png",
+    "slide-12.png",
+    "slide-13.png"
+  ],
+  "generatedAt": "2026-08-10T03:30:30.684Z"
+}
