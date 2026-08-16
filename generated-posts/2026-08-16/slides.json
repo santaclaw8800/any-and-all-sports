@@ -2,28 +2,24 @@
   "date": "2026-08-16",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "45 events across Golf, Soccer, MLB, WNBA."
+      "title": "Sunday Sports Schedule",
+      "body": "Golf, soccer, and MLB all day. Keep this post handy for start times and where to watch."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at FedEx St. Jude Championship 12:00 AM ET on ESPN / ESPN+"
+      "title": "Golf First",
+      "body": "FedEx St. Jude, Portland Classic, Danish GC, and Boeing Classic all tee off early. Watch on ESPN, ESPN+, CBS, and Golf Channel."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at The Standard Portland Classic 12:00 AM ET on Golf Chnl"
+      "title": "Soccer Window",
+      "body": "Eredivisie, Championship, Primeira Liga, and La Liga matches run from early morning into the afternoon."
     },
     {
-      "title": "Game 3",
-      "body": "DP World Tour at Danish Golf Championship 12:00 AM ET on Check listings"
+      "title": "MLB Midday",
+      "body": "Orioles-Rays on Peacock, plus Diamondbacks-Braves, Red Sox-Pirates, and Yankees-Blue Jays on MLB.TV."
     },
     {
-      "title": "Game 4",
-      "body": "Champions Tour at Boeing Classic 12:00 AM ET on Golf Chnl"
-    },
-    {
-      "title": "Game 5",
-      "body": "FC Groningen at ADO Den Haag 6:15 AM ET on Check listings"
+      "title": "Follow For Daily Schedules",
+      "body": "Get the next pre-generated slate from @any_and_all_sports."
     }
   ],
   "pngFiles": [
@@ -37,5 +33,5 @@
     "slide-8.png",
     "slide-9.png"
   ],
-  "generatedAt": "2026-08-10T03:30:33.400Z"
+  "generatedAt": "2026-08-16T10:00:09.129Z"
 }

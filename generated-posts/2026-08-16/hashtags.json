@@ -1,30 +1,18 @@
 {
   "date": "2026-08-16",
   "hashtags": [
-    "#AnyAndAllSports",
-    "#WhatsOnTonight",
-    "#SportsTonight",
-    "#SportsSchedule",
-    "#SportsTV",
-    "#SportsTVSchedule",
-    "#WatchSports",
-    "#WhereToWatch",
-    "#GameTonight",
-    "#SportsOnTV",
-    "#LiveSports",
-    "#Golf",
-    "#PGA",
-    "#PGATour",
-    "#LPGA",
-    "#LIVGolf",
-    "#ChampionsTour",
-    "#DPWorldTour",
-    "#Soccer",
-    "#Football",
-    "#PremierLeague",
+    "#NBA",
+    "#NHL",
+    "#MLB",
+    "#MLS",
+    "#WNBA",
+    "#EPL",
     "#LaLiga",
-    "#SerieA",
-    "#Bundesliga"
+    "#Golf",
+    "#SportsSchedule",
+    "#WatchNow",
+    "#ESPN",
+    "#MLBTV"
   ],
-  "generatedAt": "2026-08-10T03:30:33.400Z"
+  "generatedAt": "2026-08-16T10:00:09.129Z"
 }
