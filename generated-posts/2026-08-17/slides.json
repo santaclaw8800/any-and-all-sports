@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-17",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "17 events across MLB, Soccer, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "St. Louis Cardinals at Cincinnati Reds 1:40 PM ET on ESPN Unlmtd / MLB.TV"
+    },
+    {
+      "title": "Game 2",
+      "body": "Elche at Deportivo 3:00 PM ET on ESPN Deportes / ESPN+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Wrexham at Cardiff City 3:00 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 4",
+      "body": "Benfica at Casa Pia 3:15 PM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Baltimore Orioles at Tampa Bay Rays 6:05 PM ET on MLB.TV / Rays.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-08-17T03:30:19.292Z"
+}
