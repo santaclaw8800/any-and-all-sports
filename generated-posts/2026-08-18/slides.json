@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-18",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "23 events across Soccer, MLB, WNBA, MMA/UFC."
+    },
+    {
+      "title": "Game 1",
+      "body": "Fluminense at Independiente Rivadavia 6:00 PM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "New York Yankees at Baltimore Orioles 6:35 PM ET on MLB.TV / MASN"
+    },
+    {
+      "title": "Game 3",
+      "body": "Detroit Tigers at Pittsburgh Pirates 6:40 PM ET on MLB.TV / Tigers.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Miami Marlins at Philadelphia Phillies 6:40 PM ET on ESPN Unlmtd / MLB.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "San Francisco Giants at Cleveland Guardians 6:40 PM ET on MLB.TV / CLEGuardians.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-08-17T03:30:20.801Z"
+}
