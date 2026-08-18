@@ -25,7 +25,7 @@
       "homeTeam": {
         "name": "Baltimore Orioles",
         "abbreviation": "BAL",
-        "record": "61-63"
+        "record": "61-64"
       },
       "awayTeam": {
         "name": "New York Yankees",
@@ -49,12 +49,12 @@
       "homeTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "61-65"
+        "record": "61-66"
       },
       "awayTeam": {
         "name": "Detroit Tigers",
         "abbreviation": "DET",
-        "record": "60-64"
+        "record": "61-64"
       },
       "startTime": "2026-08-18T22:40Z",
       "timeET": "6:40 PM ET",
@@ -72,12 +72,12 @@
       "homeTeam": {
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI",
-        "record": "67-58"
+        "record": "68-58"
       },
       "awayTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "64-61"
+        "record": "64-62"
       },
       "startTime": "2026-08-18T22:40Z",
       "timeET": "6:40 PM ET",
@@ -121,12 +121,12 @@
       "homeTeam": {
         "name": "Cincinnati Reds",
         "abbreviation": "CIN",
-        "record": "59-64"
+        "record": "60-65"
       },
       "awayTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "63-61"
+        "record": "64-62"
       },
       "startTime": "2026-08-18T22:40Z",
       "timeET": "6:40 PM ET",
@@ -145,7 +145,7 @@
       "homeTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "74-49"
+        "record": "75-49"
       },
       "awayTeam": {
         "name": "Toronto Blue Jays",
@@ -236,12 +236,12 @@
       "homeTeam": {
         "name": "Boston Red Sox",
         "abbreviation": "BOS",
-        "record": "66-58"
+        "record": "67-58"
       },
       "awayTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "66-59"
+        "record": "66-60"
       },
       "startTime": "2026-08-18T23:10Z",
       "timeET": "7:10 PM ET",
@@ -260,12 +260,12 @@
       "homeTeam": {
         "name": "New York Mets",
         "abbreviation": "NYM",
-        "record": "56-69"
+        "record": "57-69"
       },
       "awayTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "67-58"
+        "record": "67-59"
       },
       "startTime": "2026-08-18T23:10Z",
       "timeET": "7:10 PM ET",
@@ -284,12 +284,12 @@
       "homeTeam": {
         "name": "Kansas City Royals",
         "abbreviation": "KC",
-        "record": "51-74"
+        "record": "52-74"
       },
       "awayTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "49-75"
+        "record": "49-76"
       },
       "startTime": "2026-08-18T23:40Z",
       "timeET": "7:40 PM ET",
@@ -332,12 +332,12 @@
       "homeTeam": {
         "name": "Minnesota Twins",
         "abbreviation": "MIN",
-        "record": "60-65"
+        "record": "61-65"
       },
       "awayTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "74-50"
+        "record": "74-51"
       },
       "startTime": "2026-08-18T23:40Z",
       "timeET": "7:40 PM ET",
@@ -358,12 +358,12 @@
       "homeTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "72-53"
+        "record": "73-53"
       },
       "awayTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "65-58"
+        "record": "65-59"
       },
       "startTime": "2026-08-19T00:05Z",
       "timeET": "8:05 PM ET",
@@ -467,12 +467,12 @@
       "homeTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "50-74"
+        "record": "50-75"
       },
       "awayTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "74-51"
+        "record": "75-51"
       },
       "startTime": "2026-08-19T00:40Z",
       "timeET": "8:40 PM ET",
@@ -530,5 +530,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-08-17T03:30:05.101Z"
+  "lastUpdated": "2026-08-18T10:00:01.756Z"
 }
