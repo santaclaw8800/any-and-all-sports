@@ -7,12 +7,12 @@
       "homeTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "61-65"
+        "record": "62-66"
       },
       "awayTeam": {
         "name": "Detroit Tigers",
         "abbreviation": "DET",
-        "record": "60-64"
+        "record": "61-65"
       },
       "startTime": "2026-08-19T16:35Z",
       "timeET": "12:35 PM ET",
@@ -30,12 +30,12 @@
       "homeTeam": {
         "name": "New York Mets",
         "abbreviation": "NYM",
-        "record": "56-69"
+        "record": "57-70"
       },
       "awayTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "67-58"
+        "record": "68-59"
       },
       "startTime": "2026-08-19T17:10Z",
       "timeET": "1:10 PM ET",
@@ -54,12 +54,12 @@
       "homeTeam": {
         "name": "Minnesota Twins",
         "abbreviation": "MIN",
-        "record": "60-65"
+        "record": "62-65"
       },
       "awayTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "74-50"
+        "record": "74-52"
       },
       "startTime": "2026-08-19T17:40Z",
       "timeET": "1:40 PM ET",
@@ -79,12 +79,12 @@
       "homeTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "72-53"
+        "record": "74-53"
       },
       "awayTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "65-58"
+        "record": "65-60"
       },
       "startTime": "2026-08-19T18:20Z",
       "timeET": "2:20 PM ET",
@@ -127,12 +127,12 @@
       "homeTeam": {
         "name": "Boston Red Sox",
         "abbreviation": "BOS",
-        "record": "66-58"
+        "record": "68-58"
       },
       "awayTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "66-59"
+        "record": "66-61"
       },
       "startTime": "2026-08-19T20:10Z",
       "timeET": "4:10 PM ET",
@@ -187,12 +187,12 @@
       "homeTeam": {
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI",
-        "record": "67-58"
+        "record": "69-58"
       },
       "awayTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "64-61"
+        "record": "64-63"
       },
       "startTime": "2026-08-19T22:05Z",
       "timeET": "6:05 PM ET",
@@ -234,12 +234,12 @@
       "homeTeam": {
         "name": "Baltimore Orioles",
         "abbreviation": "BAL",
-        "record": "61-63"
+        "record": "61-65"
       },
       "awayTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "69-55"
+        "record": "70-55"
       },
       "startTime": "2026-08-19T22:35Z",
       "timeET": "6:35 PM ET",
@@ -259,12 +259,12 @@
       "homeTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "60-65"
+        "record": "61-65"
       },
       "awayTeam": {
         "name": "San Francisco Giants",
         "abbreviation": "SF",
-        "record": "51-73"
+        "record": "51-74"
       },
       "startTime": "2026-08-19T22:40Z",
       "timeET": "6:40 PM ET",
@@ -283,12 +283,12 @@
       "homeTeam": {
         "name": "Cincinnati Reds",
         "abbreviation": "CIN",
-        "record": "59-64"
+        "record": "60-66"
       },
       "awayTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "63-61"
+        "record": "65-62"
       },
       "startTime": "2026-08-19T22:40Z",
       "timeET": "6:40 PM ET",
@@ -307,12 +307,12 @@
       "homeTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "74-49"
+        "record": "75-50"
       },
       "awayTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "61-65"
+        "record": "62-65"
       },
       "startTime": "2026-08-19T22:40Z",
       "timeET": "6:40 PM ET",
@@ -337,7 +337,7 @@
       "awayTeam": {
         "name": "Toronto Tempo",
         "abbreviation": "TOR",
-        "record": "10-23"
+        "record": "10-24"
       },
       "startTime": "2026-08-19T23:30Z",
       "timeET": "7:30 PM ET",
@@ -516,12 +516,12 @@
       "homeTeam": {
         "name": "Kansas City Royals",
         "abbreviation": "KC",
-        "record": "51-74"
+        "record": "53-74"
       },
       "awayTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "49-75"
+        "record": "49-77"
       },
       "startTime": "2026-08-19T23:40Z",
       "timeET": "7:40 PM ET",
@@ -540,12 +540,12 @@
       "homeTeam": {
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL",
-        "record": "77-48"
+        "record": "78-48"
       },
       "awayTeam": {
         "name": "Seattle Mariners",
         "abbreviation": "SEA",
-        "record": "59-66"
+        "record": "59-67"
       },
       "startTime": "2026-08-19T23:40Z",
       "timeET": "7:40 PM ET",
@@ -611,12 +611,12 @@
       "homeTeam": {
         "name": "Texas Rangers",
         "abbreviation": "TEX",
-        "record": "61-64"
+        "record": "62-64"
       },
       "awayTeam": {
         "name": "Washington Nationals",
         "abbreviation": "WSH",
-        "record": "60-66"
+        "record": "60-67"
       },
       "startTime": "2026-08-20T00:05Z",
       "timeET": "8:05 PM ET",
@@ -635,12 +635,12 @@
       "homeTeam": {
         "name": "Houston Astros",
         "abbreviation": "HOU",
-        "record": "63-62"
+        "record": "63-63"
       },
       "awayTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "49-76"
+        "record": "50-76"
       },
       "startTime": "2026-08-20T00:10Z",
       "timeET": "8:10 PM ET",
@@ -700,12 +700,12 @@
       "homeTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "50-74"
+        "record": "50-76"
       },
       "awayTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "74-51"
+        "record": "76-51"
       },
       "startTime": "2026-08-20T00:40Z",
       "timeET": "8:40 PM ET",
@@ -770,7 +770,7 @@
       "homeTeam": {
         "name": "Seattle Sounders FC",
         "abbreviation": "SEA",
-        "record": "7-3-7"
+        "record": "7-3-8"
       },
       "awayTeam": {
         "name": "Austin FC",
@@ -793,7 +793,7 @@
       "homeTeam": {
         "name": "Golden State Valkyries",
         "abbreviation": "GS",
-        "record": "24-9"
+        "record": "25-9"
       },
       "awayTeam": {
         "name": "Minnesota Lynx",
@@ -864,7 +864,7 @@
       "homeTeam": {
         "name": "Vancouver Whitecaps",
         "abbreviation": "VAN",
-        "record": "10-4-3"
+        "record": "11-4-3"
       },
       "awayTeam": {
         "name": "Houston Dynamo FC",
@@ -882,5 +882,5 @@
       "tournament": "MLS"
     }
   ],
-  "lastUpdated": "2026-08-17T03:30:05.738Z"
+  "lastUpdated": "2026-08-19T10:00:03.685Z"
 }
