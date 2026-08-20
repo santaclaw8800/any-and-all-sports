@@ -2,28 +2,24 @@
   "date": "2026-08-20",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "21 events across Golf, MLB, Soccer, WNBA, NFL."
+      "title": "Morning Golf Starts",
+      "body": "BMW Championship, CPKC Women’s Open, LIV Indianapolis, and Nexo Championship all tee off at 12:00 AM ET."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at BMW Championship 12:00 AM ET on ESPN / ESPN+"
+      "title": "MLB Day Game Run",
+      "body": "Cards-Reds, Giants-Guardians, Blue Jays-Rays, A’s-Royals, Mariners-Brewers, and Braves-White Sox."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at CPKC Women's Open 12:00 AM ET on NBCSN / Golf Chnl"
+      "title": "Prime Time Baseball",
+      "body": "Yankees-Orioles, Nationals-Rangers, and Angels-Astros wrap the MLB slate starting at 6:35 PM ET."
     },
     {
-      "title": "Game 3",
-      "body": "LIV Golf at LIV Golf Indianapolis 12:00 AM ET on Fox / Fox Sports App"
+      "title": "Soccer + WNBA",
+      "body": "Alavés-Rayo Vallecano, Mirassol-Liga de Quito, Rosario Central-Corinthians, and Fever-Wings."
     },
     {
-      "title": "Game 4",
-      "body": "DP World Tour at Nexo Championship 12:00 AM ET on Check listings"
-    },
-    {
-      "title": "Game 5",
-      "body": "St. Louis Cardinals at Cincinnati Reds 12:40 PM ET on MLB.TV / Reds.TV"
+      "title": "NFL in the Night Slot",
+      "body": "Raiders-Texans kicks at 8:00 PM ET on ESPN. Follow @any_and_all_sports for more daily schedules."
     }
   ],
   "pngFiles": [
@@ -33,5 +29,5 @@
     "slide-4.png",
     "slide-5.png"
   ],
-  "generatedAt": "2026-08-17T03:30:25.100Z"
+  "generatedAt": "2026-08-20T10:00:09.862Z"
 }
