@@ -2,28 +2,24 @@
   "date": "2026-08-23",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "54 events across Golf, F1, Soccer, MLB, WNBA, NFL."
+      "title": "Sunday Schedule",
+      "body": "Golf early, then wall-to-wall soccer all morning and early afternoon."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at BMW Championship 12:00 AM ET on ESPN / ESPN+"
+      "title": "Where to Watch",
+      "body": "ESPN, ESPN+, CBS, Peacock, USA Network, Telemundo, Paramount+, and Golf Channel."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at CPKC Women's Open 12:00 AM ET on NBCSN / Golf Chnl"
+      "title": "Golf First",
+      "body": "BMW Championship, CPKC Women's Open, LIV Golf Indianapolis, Nexo Championship, and Rogers Charity Classic."
     },
     {
-      "title": "Game 3",
-      "body": "LIV Golf at LIV Golf Indianapolis 12:00 AM ET on Fox / Fox Sports App"
+      "title": "Top Soccer",
+      "body": "Man City, Liverpool, Atletico Madrid, Aston Villa, and Juventus all on the slate."
     },
     {
-      "title": "Game 4",
-      "body": "DP World Tour at Nexo Championship 12:00 AM ET on Check listings"
-    },
-    {
-      "title": "Game 5",
-      "body": "Champions Tour at Rogers Charity Classic 12:00 AM ET on Golf Chnl"
+      "title": "Follow Daily",
+      "body": "Follow @any_and_all_sports for the full schedule every day."
     }
   ],
   "pngFiles": [
@@ -38,5 +34,5 @@
     "slide-9.png",
     "slide-10.png"
   ],
-  "generatedAt": "2026-08-17T03:30:36.883Z"
+  "generatedAt": "2026-08-23T10:00:11.821Z"
 }
