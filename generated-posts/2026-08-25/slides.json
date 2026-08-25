@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-25",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "22 events across International Basketball, Soccer, MLB, WNBA, MMA/UFC."
+    },
+    {
+      "title": "Game 1",
+      "body": "Sydney Kings at Illawarra Hawks 5:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Real Betis at Valencia 3:00 PM ET on ESPN Deportes / ESPN+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Boston Red Sox at Miami Marlins 6:40 PM ET on MLB.TV / Marlins.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Tampa Bay Rays at Detroit Tigers 6:40 PM ET on MLB.TV / Rays.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Colorado Rockies at Washington Nationals 6:45 PM ET on MLB.TV / Rockies.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-08-24T03:30:19.993Z"
+}
