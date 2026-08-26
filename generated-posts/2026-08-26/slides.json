@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-26",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "19 events across MLB, Soccer, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "Tampa Bay Rays at Detroit Tigers 1:10 PM ET on MLB.TV / Rays.TV"
+    },
+    {
+      "title": "Game 2",
+      "body": "Real Sociedad at Real Madrid 3:00 PM ET on ESPN Deportes / ESPN+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Chicago Cubs at Arizona Diamondbacks 3:40 PM ET on ESPN Unlmtd / MLB.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Cincinnati Reds at San Francisco Giants 3:45 PM ET on MLB.TV / NBC Sports"
+    },
+    {
+      "title": "Game 5",
+      "body": "Cleveland Guardians at Los Angeles Angels 4:07 PM ET on MLB.TV / CLEGuardians.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-08-24T03:30:21.458Z"
+}
