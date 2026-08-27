@@ -2,28 +2,24 @@
   "date": "2026-08-27",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "19 events across Golf, International Basketball, MLB, Soccer, NFL, WNBA."
+      "title": "Top of the day",
+      "body": "Golf leads the schedule with TOUR Championship, FM Championship, and British Masters coverage."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at TOUR Championship 12:00 AM ET on ESPN / ESPN+"
+      "title": "Afternoon action",
+      "body": "MLB starts at 1:05 PM ET, then La Liga on ESPN Deportes and ESPN+."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at FM Championship 12:00 AM ET on Golf Chnl"
+      "title": "Prime time baseball",
+      "body": "Astros-Yankees, Brewers-Mets, Dodgers-Braves, and more all night on MLB.TV."
     },
     {
-      "title": "Game 3",
-      "body": "DP World Tour at Husqvarna British Masters hosted by Sir Nick Faldo 12:00 AM ET on Check listings"
+      "title": "NFL + WNBA",
+      "body": "Steelers-Bills on NFL Network, Liberty-Valkyries and Mystics-Mercury on Prime Video."
     },
     {
-      "title": "Game 4",
-      "body": "Cairns Taipans at South East Melbourne Phoenix 5:00 AM ET on Check listings"
-    },
-    {
-      "title": "Game 5",
-      "body": "Colorado Rockies at Washington Nationals 1:05 PM ET on MLB.TV / Rockies.TV"
+      "title": "Late window",
+      "body": "Finish with D-backs-Giants at 9:45 PM ET and keep up with every slate here."
     }
   ],
   "pngFiles": [
@@ -32,5 +28,5 @@
     "slide-3.png",
     "slide-4.png"
   ],
-  "generatedAt": "2026-08-24T03:30:22.941Z"
+  "generatedAt": "2026-08-27T10:00:11.541Z"
 }
