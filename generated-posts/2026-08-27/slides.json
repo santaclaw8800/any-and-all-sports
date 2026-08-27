@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-27",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "19 events across Golf, International Basketball, MLB, Soccer, NFL, WNBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at TOUR Championship 12:00 AM ET on ESPN / ESPN+"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at FM Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "DP World Tour at Husqvarna British Masters hosted by Sir Nick Faldo 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Cairns Taipans at South East Melbourne Phoenix 5:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Colorado Rockies at Washington Nationals 1:05 PM ET on MLB.TV / Rockies.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-08-24T03:30:22.941Z"
+}
