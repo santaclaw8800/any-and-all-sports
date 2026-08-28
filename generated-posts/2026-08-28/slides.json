@@ -2,28 +2,24 @@
   "date": "2026-08-28",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "47 events across Golf, Soccer, MLB, NFL, WNBA."
+      "title": "Morning Golf",
+      "body": "Tour, LPGA, DP World Tour, and Champions Tour all tee off at 12:00 AM ET. Watch on ESPN, ESPN+, CBS, and Golf Channel."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at TOUR Championship 12:00 AM ET on ESPN / ESPN+"
+      "title": "Afternoon Soccer",
+      "body": "La Liga, Premier League, Bundesliga, Serie A, Ligue 1, and more hit the afternoon window. Check ESPN Deportes, ESPN+, Paramount+, and USA Network."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at FM Championship 12:00 AM ET on Golf Chnl"
+      "title": "MLB Spotlight",
+      "body": "Reds-Cubs at 2:20 PM ET, then Dodgers-Tigers and Marlins-Nationals in the evening. Watch on MLB.TV and team networks."
     },
     {
-      "title": "Game 3",
-      "body": "DP World Tour at Husqvarna British Masters hosted by Sir Nick Faldo 12:00 AM ET on Check listings"
+      "title": "Prime Time NFL",
+      "body": "Commanders-Ravens at 6:00 PM ET on NFL Network. Falcons-Dolphins follow at 7:00 PM ET on CBS Miami."
     },
     {
-      "title": "Game 4",
-      "body": "Champions Tour at The Ally Challenge 12:00 AM ET on Golf Chnl"
-    },
-    {
-      "title": "Game 5",
-      "body": "Elche at Racing Santander 1:00 PM ET on ESPN Deportes / ESPN+"
+      "title": "Follow For Daily Schedules",
+      "body": "Get the full day’s watch guide, updated daily. Follow @any_and_all_sports for more sports schedules."
     }
   ],
   "pngFiles": [
@@ -37,5 +33,5 @@
     "slide-8.png",
     "slide-9.png"
   ],
-  "generatedAt": "2026-08-24T03:30:25.458Z"
+  "generatedAt": "2026-08-28T10:00:13.784Z"
 }
