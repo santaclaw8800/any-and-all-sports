@@ -19,7 +19,7 @@
         "Golf Chnl",
         "Paramount+"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "PGA Tour"
     },
@@ -37,7 +37,7 @@
       "channels": [
         "Golf Chnl"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "LPGA"
     },
@@ -53,7 +53,7 @@
       "startTime": "2026-08-27T04:00Z",
       "timeET": "12:00 AM ET",
       "channels": [],
-      "status": "upcoming",
+      "status": "live",
       "tournament": "DP World Tour"
     },
     {
@@ -70,7 +70,7 @@
       "channels": [
         "Golf Chnl"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "Champions Tour"
     },
@@ -181,7 +181,7 @@
       "homeTeam": {
         "name": "Chelsea",
         "abbreviation": "CHE",
-        "record": "0-0-0"
+        "record": "1-0-0"
       },
       "awayTeam": {
         "name": "Brighton & Hove Albion",
@@ -190,9 +190,12 @@
       },
       "startTime": "2026-08-30T13:00Z",
       "timeET": "9:00 AM ET",
-      "channels": [],
+      "channels": [
+        "Peacock"
+      ],
       "status": "upcoming",
       "venue": "Stamford Bridge, London",
+      "isNational": true,
       "tournament": "Premier League"
     },
     {
@@ -210,9 +213,13 @@
       },
       "startTime": "2026-08-30T13:00Z",
       "timeET": "9:00 AM ET",
-      "channels": [],
+      "channels": [
+        "USA Net",
+        "Telemundo"
+      ],
       "status": "upcoming",
       "venue": "Elland Road, Leeds",
+      "isNational": true,
       "tournament": "Premier League"
     },
     {
@@ -226,13 +233,16 @@
       "awayTeam": {
         "name": "Fulham",
         "abbreviation": "FUL",
-        "record": "0-0-0"
+        "record": "0-0-1"
       },
       "startTime": "2026-08-30T13:00Z",
       "timeET": "9:00 AM ET",
-      "channels": [],
+      "channels": [
+        "Peacock"
+      ],
       "status": "upcoming",
       "venue": "Stadium of Light, Sunderland",
+      "isNational": true,
       "tournament": "Premier League"
     },
     {
@@ -270,9 +280,12 @@
       },
       "startTime": "2026-08-30T13:30Z",
       "timeET": "9:30 AM ET",
-      "channels": [],
+      "channels": [
+        "Fandango"
+      ],
       "status": "upcoming",
       "venue": "Europa-Park Stadion, Freiburg im Breisgau",
+      "isNational": true,
       "tournament": "Bundesliga"
     },
     {
@@ -364,12 +377,12 @@
       "homeTeam": {
         "name": "Real Madrid",
         "abbreviation": "RMA",
-        "record": "1-0-0"
+        "record": "2-0-0"
       },
       "awayTeam": {
         "name": "Málaga",
         "abbreviation": "MCF",
-        "record": "0-0-1"
+        "record": "0-1-1"
       },
       "startTime": "2026-08-30T15:00Z",
       "timeET": "11:00 AM ET",
@@ -417,9 +430,13 @@
       },
       "startTime": "2026-08-30T15:30Z",
       "timeET": "11:30 AM ET",
-      "channels": [],
+      "channels": [
+        "USA Net",
+        "Telemundo"
+      ],
       "status": "upcoming",
       "venue": "Old Trafford, Manchester",
+      "isNational": true,
       "tournament": "Premier League"
     },
     {
@@ -437,9 +454,12 @@
       },
       "startTime": "2026-08-30T15:30Z",
       "timeET": "11:30 AM ET",
-      "channels": [],
+      "channels": [
+        "Fandango"
+      ],
       "status": "upcoming",
       "venue": "WWK Arena, Augsburg",
+      "isNational": true,
       "tournament": "Bundesliga"
     },
     {
@@ -448,12 +468,12 @@
       "homeTeam": {
         "name": "Washington Nationals",
         "abbreviation": "WSH",
-        "record": "61-71"
+        "record": "65-73"
       },
       "awayTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "67-64"
+        "record": "68-68"
       },
       "startTime": "2026-08-30T16:15Z",
       "timeET": "12:15 PM ET",
@@ -480,6 +500,7 @@
       "startTime": "2026-08-30T16:30Z",
       "timeET": "12:30 PM ET",
       "channels": [
+        "CBSSN",
         "Paramount+"
       ],
       "status": "upcoming",
@@ -517,7 +538,7 @@
       "homeTeam": {
         "name": "Casa Pia",
         "abbreviation": "CPAC",
-        "record": "0-0-2"
+        "record": "0-0-3"
       },
       "awayTeam": {
         "name": "Moreirense",
@@ -537,12 +558,12 @@
       "homeTeam": {
         "name": "Deportivo",
         "abbreviation": "DEP",
-        "record": "0-1-0"
+        "record": "0-2-0"
       },
       "awayTeam": {
         "name": "Valencia",
         "abbreviation": "VAL",
-        "record": "0-1-0"
+        "record": "0-1-1"
       },
       "startTime": "2026-08-30T17:30Z",
       "timeET": "1:30 PM ET",
@@ -561,12 +582,12 @@
       "homeTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "74-56"
+        "record": "77-59"
       },
       "awayTeam": {
         "name": "Boston Red Sox",
         "abbreviation": "BOS",
-        "record": "71-59"
+        "record": "74-62"
       },
       "startTime": "2026-08-30T17:35Z",
       "timeET": "1:35 PM ET",
@@ -586,12 +607,12 @@
       "homeTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "76-55"
+        "record": "81-55"
       },
       "awayTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "50-80"
+        "record": "52-84"
       },
       "startTime": "2026-08-30T17:35Z",
       "timeET": "1:35 PM ET",
@@ -610,12 +631,12 @@
       "homeTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "64-68"
+        "record": "67-70"
       },
       "awayTeam": {
         "name": "Seattle Mariners",
         "abbreviation": "SEA",
-        "record": "62-69"
+        "record": "64-72"
       },
       "startTime": "2026-08-30T17:37Z",
       "timeET": "1:37 PM ET",
@@ -635,12 +656,12 @@
       "homeTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "65-66"
+        "record": "68-68"
       },
       "awayTeam": {
         "name": "Kansas City Royals",
         "abbreviation": "KC",
-        "record": "58-74"
+        "record": "62-75"
       },
       "startTime": "2026-08-30T17:40Z",
       "timeET": "1:40 PM ET",
@@ -659,12 +680,12 @@
       "homeTeam": {
         "name": "Detroit Tigers",
         "abbreviation": "DET",
-        "record": "61-69"
+        "record": "63-72"
       },
       "awayTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "80-51"
+        "record": "81-55"
       },
       "startTime": "2026-08-30T17:40Z",
       "timeET": "1:40 PM ET",
@@ -683,12 +704,12 @@
       "homeTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "77-53"
+        "record": "81-54"
       },
       "awayTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "71-60"
+        "record": "72-64"
       },
       "startTime": "2026-08-30T17:40Z",
       "timeET": "1:40 PM ET",
@@ -727,12 +748,12 @@
       "homeTeam": {
         "name": "Minnesota Twins",
         "abbreviation": "MIN",
-        "record": "63-68"
+        "record": "64-72"
       },
       "awayTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "68-62"
+        "record": "72-63"
       },
       "startTime": "2026-08-30T18:10Z",
       "timeET": "2:10 PM ET",
@@ -751,12 +772,12 @@
       "homeTeam": {
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL",
-        "record": "81-50"
+        "record": "85-51"
       },
       "awayTeam": {
         "name": "Texas Rangers",
         "abbreviation": "TEX",
-        "record": "65-66"
+        "record": "66-70"
       },
       "startTime": "2026-08-30T18:10Z",
       "timeET": "2:10 PM ET",
@@ -775,12 +796,12 @@
       "homeTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "66-66"
+        "record": "68-69"
       },
       "awayTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "63-69"
+        "record": "66-71"
       },
       "startTime": "2026-08-30T18:15Z",
       "timeET": "2:15 PM ET",
@@ -821,7 +842,7 @@
       "homeTeam": {
         "name": "Lazio",
         "abbreviation": "LAZ",
-        "record": "0-0-0"
+        "record": "1-0-0"
       },
       "awayTeam": {
         "name": "Genoa",
@@ -831,6 +852,7 @@
       "startTime": "2026-08-30T18:45Z",
       "timeET": "2:45 PM ET",
       "channels": [
+        "CBSSN",
         "Paramount+"
       ],
       "status": "upcoming",
@@ -864,12 +886,12 @@
       "homeTeam": {
         "name": "Atlanta Dream",
         "abbreviation": "ATL",
-        "record": "24-13"
+        "record": "25-14"
       },
       "awayTeam": {
         "name": "Minnesota Lynx",
         "abbreviation": "MIN",
-        "record": "31-7"
+        "record": "31-8"
       },
       "startTime": "2026-08-30T19:00Z",
       "timeET": "3:00 PM ET",
@@ -889,12 +911,12 @@
       "homeTeam": {
         "name": "New York Mets",
         "abbreviation": "NYM",
-        "record": "59-72"
+        "record": "61-75"
       },
       "awayTeam": {
         "name": "Houston Astros",
         "abbreviation": "HOU",
-        "record": "65-66"
+        "record": "68-68"
       },
       "startTime": "2026-08-30T19:10Z",
       "timeET": "3:10 PM ET",
@@ -912,12 +934,12 @@
       "homeTeam": {
         "name": "Celta Vigo",
         "abbreviation": "CEL",
-        "record": "0-1-0"
+        "record": "0-1-1"
       },
       "awayTeam": {
         "name": "Athletic Club",
         "abbreviation": "ATH",
-        "record": "0-0-1"
+        "record": "0-0-2"
       },
       "startTime": "2026-08-30T19:30Z",
       "timeET": "3:30 PM ET",
@@ -941,7 +963,7 @@
       "awayTeam": {
         "name": "Gil Vicente",
         "abbreviation": "GVFC",
-        "record": "1-0-0"
+        "record": "2-0-0"
       },
       "startTime": "2026-08-30T19:30Z",
       "timeET": "3:30 PM ET",
@@ -956,12 +978,12 @@
       "homeTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "51-80"
+        "record": "53-83"
       },
       "awayTeam": {
         "name": "Baltimore Orioles",
         "abbreviation": "BAL",
-        "record": "63-68"
+        "record": "67-69"
       },
       "startTime": "2026-08-30T20:05Z",
       "timeET": "4:05 PM ET",
@@ -980,12 +1002,12 @@
       "homeTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "52-79"
+        "record": "52-84"
       },
       "awayTeam": {
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI",
-        "record": "73-58"
+        "record": "76-60"
       },
       "startTime": "2026-08-30T20:07Z",
       "timeET": "4:07 PM ET",
@@ -999,17 +1021,40 @@
       "isNational": true
     },
     {
+      "id": "mls-761758",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Columbus Crew",
+        "abbreviation": "CLB",
+        "record": "5-5-11"
+      },
+      "awayTeam": {
+        "name": "New England Revolution",
+        "abbreviation": "NE",
+        "record": "10-4-7"
+      },
+      "startTime": "2026-08-30T20:30Z",
+      "timeET": "4:30 PM ET",
+      "channels": [
+        "Apple TV"
+      ],
+      "status": "upcoming",
+      "venue": "ScottsMiracle-Gro Field, Columbus, Ohio",
+      "isNational": true,
+      "tournament": "MLS"
+    },
+    {
       "id": "wnba-401857187",
       "sport": "WNBA",
       "homeTeam": {
         "name": "Seattle Storm",
         "abbreviation": "SEA",
-        "record": "7-31"
+        "record": "8-31"
       },
       "awayTeam": {
         "name": "Los Angeles Sparks",
         "abbreviation": "LA",
-        "record": "13-24"
+        "record": "14-25"
       },
       "startTime": "2026-08-30T21:00Z",
       "timeET": "5:00 PM ET",
@@ -1028,12 +1073,12 @@
       "homeTeam": {
         "name": "Portland Fire",
         "abbreviation": "POR",
-        "record": "15-22"
+        "record": "16-23"
       },
       "awayTeam": {
         "name": "Golden State Valkyries",
         "abbreviation": "GS",
-        "record": "25-11"
+        "record": "28-11"
       },
       "startTime": "2026-08-30T23:00Z",
       "timeET": "7:00 PM ET",
@@ -1097,44 +1142,22 @@
       "homeTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "75-56"
+        "record": "77-59"
       },
       "awayTeam": {
         "name": "Cincinnati Reds",
         "abbreviation": "CIN",
-        "record": "62-69"
+        "record": "64-72"
       },
       "startTime": "2026-08-30T23:20Z",
       "timeET": "7:20 PM ET",
       "channels": [
-        "NBC"
+        "NBC",
+        "ERADM"
       ],
       "status": "upcoming",
       "venue": "Wrigley Field, Chicago, Illinois",
       "isNational": true
-    },
-    {
-      "id": "wnba-401857189",
-      "sport": "WNBA",
-      "homeTeam": {
-        "name": "Dallas Wings",
-        "abbreviation": "DAL",
-        "record": "22-16"
-      },
-      "awayTeam": {
-        "name": "Connecticut Sun",
-        "abbreviation": "CON",
-        "record": "9-27"
-      },
-      "startTime": "2026-08-31T00:00Z",
-      "timeET": "8:00 PM ET",
-      "channels": [
-        "WNBA League Pass",
-        "NBC Sports",
-        "KFAA-TV"
-      ],
-      "status": "upcoming",
-      "venue": "College Park Center, Arlington, TX"
     },
     {
       "id": "ligamx-401876993",
@@ -1157,6 +1180,29 @@
       "tournament": "Liga MX"
     },
     {
+      "id": "wnba-401857189",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Dallas Wings",
+        "abbreviation": "DAL",
+        "record": "23-16"
+      },
+      "awayTeam": {
+        "name": "Connecticut Sun",
+        "abbreviation": "CON",
+        "record": "10-29"
+      },
+      "startTime": "2026-08-31T00:30Z",
+      "timeET": "8:30 PM ET",
+      "channels": [
+        "WNBA League Pass",
+        "NBC Sports",
+        "KFAA-TV"
+      ],
+      "status": "upcoming",
+      "venue": "College Park Center, Arlington, TX"
+    },
+    {
       "id": "ligamx-401876992",
       "sport": "Soccer",
       "homeTeam": {
@@ -1169,13 +1215,13 @@
         "abbreviation": "ASL",
         "record": "0-3-2"
       },
-      "startTime": "2026-08-31T02:00Z",
-      "timeET": "10:00 PM ET",
+      "startTime": "2026-08-31T02:10Z",
+      "timeET": "10:10 PM ET",
       "channels": [],
       "status": "upcoming",
       "venue": "Estadio BBVA, Guadalupe",
       "tournament": "Liga MX"
     }
   ],
-  "lastUpdated": "2026-08-24T03:30:08.399Z"
+  "lastUpdated": "2026-08-30T10:00:00.895Z"
 }

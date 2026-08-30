@@ -2,28 +2,24 @@
   "date": "2026-08-30",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "54 events across Golf, Soccer, MLB, WNBA."
+      "title": "Golf kicks off the day",
+      "body": "TOUR Championship, FM Championship, British Masters, Ally Challenge, and LIV Golf start at 12:00 AM ET."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at TOUR Championship 12:00 AM ET on ESPN / ESPN+"
+      "title": "Early soccer starts",
+      "body": "PSV, Feyenoord, Ajax, and more. Catch matches on ESPN+ from 6:15 AM ET through late morning."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at FM Championship 12:00 AM ET on Golf Chnl"
+      "title": "Premier League window",
+      "body": "Brighton-Chelsea, Brentford-Leeds, and Fulham-Sunderland at 9:00 AM ET on Peacock, USA Network, and Telemundo."
     },
     {
-      "title": "Game 3",
-      "body": "DP World Tour at Husqvarna British Masters hosted by Sir Nick Faldo 12:00 AM ET on Check listings"
+      "title": "More Europe on deck",
+      "body": "Scottish Premiership, Bundesliga, Ligue 1, and Primeira Liga keep the soccer slate moving all morning."
     },
     {
-      "title": "Game 4",
-      "body": "Champions Tour at The Ally Challenge 12:00 AM ET on Golf Chnl"
-    },
-    {
-      "title": "Game 5",
-      "body": "LIV Golf at LIV Golf Michigan - Stroke Play 12:00 AM ET on Check listings"
+      "title": "Watch and follow",
+      "body": "Check your local listings, stream where available, and follow @any_and_all_sports for daily schedules."
     }
   ],
   "pngFiles": [
@@ -36,7 +32,8 @@
     "slide-7.png",
     "slide-8.png",
     "slide-9.png",
-    "slide-10.png"
+    "slide-10.png",
+    "slide-11.png"
   ],
-  "generatedAt": "2026-08-24T03:30:33.141Z"
+  "generatedAt": "2026-08-30T10:00:10.554Z"
 }
