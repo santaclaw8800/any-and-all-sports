@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-31",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "21 events across Golf, Soccer, MLB."
+    },
+    {
+      "title": "Game 1",
+      "body": "LIV Golf at LIV Golf Michigan - Stroke Play 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "AS Roma at Lecce 12:30 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Getafe at Osasuna 1:30 PM ET on ESPN Deportes / ESPN+"
+    },
+    {
+      "title": "Game 4",
+      "body": "Bologna at Atalanta 2:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Arsenal at Aston Villa 3:00 PM ET on USA Net / Universo"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-08-31T03:30:16.466Z"
+}
