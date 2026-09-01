@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-01",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "24 events across Soccer, MLB, MMA/UFC."
+    },
+    {
+      "title": "Game 1",
+      "body": "Blackburn Rovers at Lincoln City 2:45 PM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Derby County at Portsmouth 2:45 PM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Bristol City at Preston North End 2:45 PM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Bolton Wanderers at Sheffield United 2:45 PM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Watford at Swansea City 2:45 PM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png"
+  ],
+  "generatedAt": "2026-08-31T03:30:17.889Z"
+}
