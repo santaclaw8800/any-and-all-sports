@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-02",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "26 events across International Basketball, MLB, Soccer."
+    },
+    {
+      "title": "Game 1",
+      "body": "Perth Wildcats at Cairns Taipans 3:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "South East Melbourne Phoenix at Sydney Kings 6:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "San Diego Padres at Cincinnati Reds 12:40 PM ET on MLB.TV / Padres.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Atlanta Braves at Washington Nationals 1:05 PM ET on MLB.TV / BravesVision"
+    },
+    {
+      "title": "Game 5",
+      "body": "Athletics at Texas Rangers 2:35 PM ET on MLB.TV / Rangers Sports Network"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png"
+  ],
+  "generatedAt": "2026-08-31T03:30:19.236Z"
+}
