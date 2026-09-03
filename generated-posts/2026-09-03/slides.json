@@ -2,28 +2,24 @@
   "date": "2026-09-03",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "26 events across Golf, International Basketball, MLB, Soccer, College Football."
+      "title": "Today’s Top Sports",
+      "body": "Golf, MLB, soccer, and college football headline the day."
     },
     {
-      "title": "Game 1",
-      "body": "DP World Tour at Omega European Masters 12:00 AM ET on Check listings"
+      "title": "Golf Early",
+      "body": "Omega European Masters tees off at 12:00 AM ET."
     },
     {
-      "title": "Game 2",
-      "body": "Tasmania JackJumpers at Brisbane Bullets 3:30 AM ET on Check listings"
+      "title": "MLB All Day",
+      "body": "Giants-Pirates at 12:35 PM ET, then Blue Jays-Guardians and more on MLB.TV."
     },
     {
-      "title": "Game 3",
-      "body": "Adelaide 36ers at Illawarra Hawks 6:00 AM ET on Check listings"
+      "title": "Soccer + CFB",
+      "body": "La Liga at 3:00 PM ET. College football starts at 6:00 PM ET with multiple games on ESPN+, BTN, ACCN, SEC Network."
     },
     {
-      "title": "Game 4",
-      "body": "San Francisco Giants at Pittsburgh Pirates 12:35 PM ET on MLB.TV / NBC Sports"
-    },
-    {
-      "title": "Game 5",
-      "body": "Toronto Blue Jays at Cleveland Guardians 1:10 PM ET on MLB.TV / CLEGuardians.TV"
+      "title": "Where to Watch",
+      "body": "Check MLB.TV, Fox, ESPN+, BTN, ACC Network, SEC Network, and follow @any_and_all_sports."
     }
   ],
   "pngFiles": [
@@ -33,5 +29,5 @@
     "slide-4.png",
     "slide-5.png"
   ],
-  "generatedAt": "2026-08-31T03:30:20.887Z"
+  "generatedAt": "2026-09-03T10:00:13.210Z"
 }

@@ -17,24 +17,6 @@
       "tournament": "DP World Tour"
     },
     {
-      "id": "nbl-401875413",
-      "sport": "International Basketball",
-      "homeTeam": {
-        "name": "Brisbane Bullets",
-        "abbreviation": "BRI",
-        "record": "0-0"
-      },
-      "awayTeam": {
-        "name": "Tasmania JackJumpers",
-        "abbreviation": "TAS",
-        "record": "0-0"
-      },
-      "startTime": "2026-09-03T07:30Z",
-      "timeET": "3:30 AM ET",
-      "channels": [],
-      "status": "upcoming"
-    },
-    {
       "id": "nbl-401875414",
       "sport": "International Basketball",
       "homeTeam": {
@@ -58,12 +40,12 @@
       "homeTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "67-71"
+        "record": "68-72"
       },
       "awayTeam": {
         "name": "San Francisco Giants",
         "abbreviation": "SF",
-        "record": "56-81"
+        "record": "58-82"
       },
       "startTime": "2026-09-03T16:35Z",
       "timeET": "12:35 PM ET",
@@ -81,12 +63,12 @@
       "homeTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "69-68"
+        "record": "70-69"
       },
       "awayTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "68-70"
+        "record": "69-71"
       },
       "startTime": "2026-09-03T17:10Z",
       "timeET": "1:10 PM ET",
@@ -105,12 +87,12 @@
       "homeTeam": {
         "name": "Houston Astros",
         "abbreviation": "HOU",
-        "record": "69-68"
+        "record": "71-69"
       },
       "awayTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "72-64"
+        "record": "73-66"
       },
       "startTime": "2026-09-03T18:10Z",
       "timeET": "2:10 PM ET",
@@ -247,7 +229,8 @@
       "startTime": "2026-09-03T23:00Z",
       "timeET": "7:00 PM ET",
       "channels": [
-        "ACC Network"
+        "ACC Network",
+        "ACCNX"
       ],
       "status": "upcoming",
       "venue": "Allegacy Federal Credit Union Stadium, Winston-Salem, NC",
@@ -325,12 +308,12 @@
       "homeTeam": {
         "name": "Baltimore Orioles",
         "abbreviation": "BAL",
-        "record": "68-69"
+        "record": "69-71"
       },
       "awayTeam": {
         "name": "Boston Red Sox",
         "abbreviation": "BOS",
-        "record": "74-63"
+        "record": "75-65"
       },
       "startTime": "2026-09-03T23:15Z",
       "timeET": "7:15 PM ET",
@@ -348,12 +331,12 @@
       "homeTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "77-60"
+        "record": "78-62"
       },
       "awayTeam": {
         "name": "Milwaukee Brewers",
         "abbreviation": "MIL",
-        "record": "85-52"
+        "record": "87-53"
       },
       "startTime": "2026-09-03T23:15Z",
       "timeET": "7:15 PM ET",
@@ -371,12 +354,12 @@
       "homeTeam": {
         "name": "Kansas City Royals",
         "abbreviation": "KC",
-        "record": "62-76"
+        "record": "62-78"
       },
       "awayTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "69-68"
+        "record": "71-69"
       },
       "startTime": "2026-09-03T23:40Z",
       "timeET": "7:40 PM ET",
@@ -461,12 +444,12 @@
       "homeTeam": {
         "name": "Texas Rangers",
         "abbreviation": "TEX",
-        "record": "67-70"
+        "record": "69-71"
       },
       "awayTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "82-54"
+        "record": "83-56"
       },
       "startTime": "2026-09-04T00:05Z",
       "timeET": "8:05 PM ET",
@@ -529,12 +512,12 @@
       "homeTeam": {
         "name": "Seattle Mariners",
         "abbreviation": "SEA",
-        "record": "64-73"
+        "record": "66-74"
       },
       "awayTeam": {
         "name": "Athletics",
         "abbreviation": "ATH",
-        "record": "53-84"
+        "record": "54-86"
       },
       "startTime": "2026-09-04T01:40Z",
       "timeET": "9:40 PM ET",
@@ -553,12 +536,12 @@
       "homeTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "82-55"
+        "record": "82-57"
       },
       "awayTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "68-70"
+        "record": "70-70"
       },
       "startTime": "2026-09-04T02:10Z",
       "timeET": "10:10 PM ET",
@@ -572,5 +555,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-08-31T03:30:02.578Z"
+  "lastUpdated": "2026-09-03T10:00:06.433Z"
 }

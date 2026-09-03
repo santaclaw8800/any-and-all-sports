@@ -19,24 +19,6 @@
         "tournament": "DP World Tour"
       },
       {
-        "id": "nbl-401875413",
-        "sport": "International Basketball",
-        "homeTeam": {
-          "name": "Brisbane Bullets",
-          "abbreviation": "BRI",
-          "record": "0-0"
-        },
-        "awayTeam": {
-          "name": "Tasmania JackJumpers",
-          "abbreviation": "TAS",
-          "record": "0-0"
-        },
-        "startTime": "2026-09-03T07:30Z",
-        "timeET": "3:30 AM ET",
-        "channels": [],
-        "status": "upcoming"
-      },
-      {
         "id": "nbl-401875414",
         "sport": "International Basketball",
         "homeTeam": {
@@ -60,12 +42,12 @@
         "homeTeam": {
           "name": "Pittsburgh Pirates",
           "abbreviation": "PIT",
-          "record": "67-71"
+          "record": "68-72"
         },
         "awayTeam": {
           "name": "San Francisco Giants",
           "abbreviation": "SF",
-          "record": "56-81"
+          "record": "58-82"
         },
         "startTime": "2026-09-03T16:35Z",
         "timeET": "12:35 PM ET",
@@ -83,12 +65,12 @@
         "homeTeam": {
           "name": "Cleveland Guardians",
           "abbreviation": "CLE",
-          "record": "69-68"
+          "record": "70-69"
         },
         "awayTeam": {
           "name": "Toronto Blue Jays",
           "abbreviation": "TOR",
-          "record": "68-70"
+          "record": "69-71"
         },
         "startTime": "2026-09-03T17:10Z",
         "timeET": "1:10 PM ET",
@@ -107,12 +89,12 @@
         "homeTeam": {
           "name": "Houston Astros",
           "abbreviation": "HOU",
-          "record": "69-68"
+          "record": "71-69"
         },
         "awayTeam": {
           "name": "Chicago White Sox",
           "abbreviation": "CHW",
-          "record": "72-64"
+          "record": "73-66"
         },
         "startTime": "2026-09-03T18:10Z",
         "timeET": "2:10 PM ET",
@@ -249,7 +231,8 @@
         "startTime": "2026-09-03T23:00Z",
         "timeET": "7:00 PM ET",
         "channels": [
-          "ACC Network"
+          "ACC Network",
+          "ACCNX"
         ],
         "status": "upcoming",
         "venue": "Allegacy Federal Credit Union Stadium, Winston-Salem, NC",
@@ -327,12 +310,12 @@
         "homeTeam": {
           "name": "Baltimore Orioles",
           "abbreviation": "BAL",
-          "record": "68-69"
+          "record": "69-71"
         },
         "awayTeam": {
           "name": "Boston Red Sox",
           "abbreviation": "BOS",
-          "record": "74-63"
+          "record": "75-65"
         },
         "startTime": "2026-09-03T23:15Z",
         "timeET": "7:15 PM ET",
@@ -350,12 +333,12 @@
         "homeTeam": {
           "name": "Chicago Cubs",
           "abbreviation": "CHC",
-          "record": "77-60"
+          "record": "78-62"
         },
         "awayTeam": {
           "name": "Milwaukee Brewers",
           "abbreviation": "MIL",
-          "record": "85-52"
+          "record": "87-53"
         },
         "startTime": "2026-09-03T23:15Z",
         "timeET": "7:15 PM ET",
@@ -373,12 +356,12 @@
         "homeTeam": {
           "name": "Kansas City Royals",
           "abbreviation": "KC",
-          "record": "62-76"
+          "record": "62-78"
         },
         "awayTeam": {
           "name": "Miami Marlins",
           "abbreviation": "MIA",
-          "record": "69-68"
+          "record": "71-69"
         },
         "startTime": "2026-09-03T23:40Z",
         "timeET": "7:40 PM ET",
@@ -463,12 +446,12 @@
         "homeTeam": {
           "name": "Texas Rangers",
           "abbreviation": "TEX",
-          "record": "67-70"
+          "record": "69-71"
         },
         "awayTeam": {
           "name": "Tampa Bay Rays",
           "abbreviation": "TB",
-          "record": "82-54"
+          "record": "83-56"
         },
         "startTime": "2026-09-04T00:05Z",
         "timeET": "8:05 PM ET",
@@ -531,12 +514,12 @@
         "homeTeam": {
           "name": "Seattle Mariners",
           "abbreviation": "SEA",
-          "record": "64-73"
+          "record": "66-74"
         },
         "awayTeam": {
           "name": "Athletics",
           "abbreviation": "ATH",
-          "record": "53-84"
+          "record": "54-86"
         },
         "startTime": "2026-09-04T01:40Z",
         "timeET": "9:40 PM ET",
@@ -555,12 +538,12 @@
         "homeTeam": {
           "name": "Los Angeles Dodgers",
           "abbreviation": "LAD",
-          "record": "82-55"
+          "record": "82-57"
         },
         "awayTeam": {
           "name": "St. Louis Cardinals",
           "abbreviation": "STL",
-          "record": "68-70"
+          "record": "70-70"
         },
         "startTime": "2026-09-04T02:10Z",
         "timeET": "10:10 PM ET",
@@ -574,60 +557,46 @@
         "isNational": true
       }
     ],
-    "lastUpdated": "2026-08-31T03:30:02.578Z"
+    "lastUpdated": "2026-09-03T10:00:06.433Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Thursday, September 3, 2026\n\n⛳ Golf  ·  🏀 International Basketball  ·  ⚾ MLB  ·  ⚽ Soccer  ·  🏈 College Football\n\n26 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#FIBA #EuroLeague #InternationalBasketball #BasketballWorldCup\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#CollegeFootball #NCAAF #CFB #CFBPlayoff\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Thursday is packed: golf from Omega European Masters, MLB all afternoon and night, La Liga at 3 PM ET, plus a full college football slate. Watch on MLB.TV, ESPN+, Fox, BTN, ACC Network, SEC Network, and more. Follow @any_and_all_sports for daily schedule drops.",
     "hashtags": [
-      "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
-      "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
-      "#Golf",
-      "#PGA",
-      "#PGATour",
-      "#LPGA",
-      "#LIVGolf",
-      "#ChampionsTour",
-      "#DPWorldTour",
-      "#FIBA",
-      "#EuroLeague",
-      "#InternationalBasketball",
-      "#BasketballWorldCup",
       "#MLB",
-      "#MLBTonight"
+      "#LaLiga",
+      "#Golf",
+      "#CollegeFootball",
+      "#SportsSchedule",
+      "#GameDay",
+      "#SportsFans",
+      "#MLBTV",
+      "#ESPNPlus",
+      "#FoxSports",
+      "#BTN",
+      "#ACCN",
+      "#SECNetwork",
+      "#AnyAndAllSports"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "26 events across Golf, International Basketball, MLB, Soccer, College Football."
+        "title": "Today’s Top Sports",
+        "body": "Golf, MLB, soccer, and college football headline the day."
       },
       {
-        "title": "Game 1",
-        "body": "DP World Tour at Omega European Masters 12:00 AM ET on Check listings"
+        "title": "Golf Early",
+        "body": "Omega European Masters tees off at 12:00 AM ET."
       },
       {
-        "title": "Game 2",
-        "body": "Tasmania JackJumpers at Brisbane Bullets 3:30 AM ET on Check listings"
+        "title": "MLB All Day",
+        "body": "Giants-Pirates at 12:35 PM ET, then Blue Jays-Guardians and more on MLB.TV."
       },
       {
-        "title": "Game 3",
-        "body": "Adelaide 36ers at Illawarra Hawks 6:00 AM ET on Check listings"
+        "title": "Soccer + CFB",
+        "body": "La Liga at 3:00 PM ET. College football starts at 6:00 PM ET with multiple games on ESPN+, BTN, ACCN, SEC Network."
       },
       {
-        "title": "Game 4",
-        "body": "San Francisco Giants at Pittsburgh Pirates 12:35 PM ET on MLB.TV / NBC Sports"
-      },
-      {
-        "title": "Game 5",
-        "body": "Toronto Blue Jays at Cleveland Guardians 1:10 PM ET on MLB.TV / CLEGuardians.TV"
+        "title": "Where to Watch",
+        "body": "Check MLB.TV, Fox, ESPN+, BTN, ACC Network, SEC Network, and follow @any_and_all_sports."
       }
     ],
     "pngFiles": [
@@ -638,5 +607,5 @@
       "slide-5.png"
     ]
   },
-  "lastUpdated": "2026-08-31T03:30:20.887Z"
+  "lastUpdated": "2026-09-03T10:00:13.210Z"
 }
