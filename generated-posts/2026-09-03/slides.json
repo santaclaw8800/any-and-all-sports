@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-03",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "26 events across Golf, International Basketball, MLB, Soccer, College Football."
+    },
+    {
+      "title": "Game 1",
+      "body": "DP World Tour at Omega European Masters 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Tasmania JackJumpers at Brisbane Bullets 3:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Adelaide 36ers at Illawarra Hawks 6:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "San Francisco Giants at Pittsburgh Pirates 12:35 PM ET on MLB.TV / NBC Sports"
+    },
+    {
+      "title": "Game 5",
+      "body": "Toronto Blue Jays at Cleveland Guardians 1:10 PM ET on MLB.TV / CLEGuardians.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png"
+  ],
+  "generatedAt": "2026-08-31T03:30:20.887Z"
+}
