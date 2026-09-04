@@ -1,0 +1,42 @@
+{
+  "date": "2026-09-04",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "49 events across Golf, International Basketball, F1, Soccer, MLB, College Football."
+    },
+    {
+      "title": "Game 1",
+      "body": "DP World Tour at Omega European Masters 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Sydney Kings at New Zealand Breakers 3:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Australia at Puerto Rico 5:30 AM ET on Max"
+    },
+    {
+      "title": "Game 4",
+      "body": "Japan at Mali 5:30 AM ET on Max"
+    },
+    {
+      "title": "Game 5",
+      "body": "Melbourne United at Perth Wildcats 6:00 AM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png",
+    "slide-10.png"
+  ],
+  "generatedAt": "2026-08-31T03:30:23.102Z"
+}
