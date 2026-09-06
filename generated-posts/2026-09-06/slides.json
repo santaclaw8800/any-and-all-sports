@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-06",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "58 events across Golf, F1, International Basketball, Soccer, MLB, College Football."
+    },
+    {
+      "title": "Game 1",
+      "body": "DP World Tour at Omega European Masters 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Formula 1 at Pirelli Italian Grand Prix 6:30 AM ET on Apple TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Illawarra Hawks at Melbourne United 12:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "New Zealand Breakers at Tasmania JackJumpers 3:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Türkiye at Australia 5:30 AM ET on Max"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png",
+    "slide-10.png",
+    "slide-11.png"
+  ],
+  "generatedAt": "2026-08-31T03:30:32.638Z"
+}
