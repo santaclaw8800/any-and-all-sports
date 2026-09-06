@@ -2,28 +2,24 @@
   "date": "2026-09-06",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "58 events across Golf, F1, International Basketball, Soccer, MLB, College Football."
+      "title": "Sunday Sports Schedule",
+      "body": "54 events today across golf, hoops, soccer, and college football."
     },
     {
-      "title": "Game 1",
-      "body": "DP World Tour at Omega European Masters 12:00 AM ET on Check listings"
+      "title": "Early Start, Global Slate",
+      "body": "Golf opens at 12:00 AM ET, then games run all morning into late morning."
     },
     {
-      "title": "Game 2",
-      "body": "Formula 1 at Pirelli Italian Grand Prix 6:30 AM ET on Apple TV"
+      "title": "Top Soccer Matchups",
+      "body": "Man United at Everton, Barcelona at Valencia, and Wolves at Birmingham City."
     },
     {
-      "title": "Game 3",
-      "body": "Illawarra Hawks at Melbourne United 12:30 AM ET on Check listings"
+      "title": "Where to Watch",
+      "body": "Catch action on ESPN+, Max, USA Network, Telemundo, Paramount+, and ESPN Deportes."
     },
     {
-      "title": "Game 4",
-      "body": "New Zealand Breakers at Tasmania JackJumpers 3:00 AM ET on Check listings"
-    },
-    {
-      "title": "Game 5",
-      "body": "Türkiye at Australia 5:30 AM ET on Max"
+      "title": "Follow for Daily Schedules",
+      "body": "Follow @any_and_all_sports for every day’s sports slate, fast and organized."
     }
   ],
   "pngFiles": [
@@ -36,8 +32,7 @@
     "slide-7.png",
     "slide-8.png",
     "slide-9.png",
-    "slide-10.png",
-    "slide-11.png"
+    "slide-10.png"
   ],
-  "generatedAt": "2026-08-31T03:30:32.638Z"
+  "generatedAt": "2026-09-06T10:00:15.802Z"
 }
