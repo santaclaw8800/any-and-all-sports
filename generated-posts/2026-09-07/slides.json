@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-07",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "25 events across International Basketball, Soccer, MLB, College Football."
+    },
+    {
+      "title": "Game 1",
+      "body": "Puerto Rico at Türkiye 5:30 AM ET on Max"
+    },
+    {
+      "title": "Game 2",
+      "body": "Belgium at Australia 5:30 AM ET on Max"
+    },
+    {
+      "title": "Game 3",
+      "body": "Hungary at South Korea 8:30 AM ET on Max"
+    },
+    {
+      "title": "Game 4",
+      "body": "Nigeria at France 8:30 AM ET on truTV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Japan at Spain 11:50 AM ET on truTV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png"
+  ],
+  "generatedAt": "2026-09-07T03:30:20.491Z"
+}
