@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-08",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "32 events across International Basketball, Soccer, MLB, MMA/UFC."
+    },
+    {
+      "title": "Game 1",
+      "body": "New Zealand Breakers at South East Melbourne Phoenix 5:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Go Ahead Eagles at FC Utrecht 8:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "LASK Linz at AEK Athens 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 4",
+      "body": "Aston Villa at Club Brugge 12:45 PM ET on CBSSN / Paramount+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Excelsior at NEC Nijmegen 12:45 PM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png"
+  ],
+  "generatedAt": "2026-09-07T03:30:22.481Z"
+}
