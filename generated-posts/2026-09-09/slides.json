@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-09",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "45 events across Soccer, MLB, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "Feyenoord Rotterdam at Barcelona 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 2",
+      "body": "Viking FK at VfB Stuttgart 12:45 PM ET on CBSSN / Paramount+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Telstar at FC Twente 12:45 PM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Minnesota Twins at Detroit Tigers 1:10 PM ET on MLB.TV / Twins.TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "St Mirren at Rangers 2:45 PM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png"
+  ],
+  "generatedAt": "2026-09-07T03:30:24.865Z"
+}
