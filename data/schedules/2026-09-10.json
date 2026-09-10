@@ -27,12 +27,84 @@
       "awayTeam": {
         "name": "New Zealand Breakers",
         "abbreviation": "NZL",
-        "record": "1-1"
+        "record": "2-1"
       },
       "startTime": "2026-09-10T08:30Z",
       "timeET": "4:30 AM ET",
       "channels": [],
-      "status": "upcoming"
+      "status": "live",
+      "currentPeriod": "4",
+      "score": {
+        "home": 72,
+        "away": 78
+      }
+    },
+    {
+      "id": "fiba-401917256",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Hungary",
+        "abbreviation": "HUN",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "United States",
+        "abbreviation": "USA",
+        "record": "3-0"
+      },
+      "startTime": "2026-09-10T09:30Z",
+      "timeET": "5:30 AM ET",
+      "channels": [
+        "TNT",
+        "truTV"
+      ],
+      "status": "upcoming",
+      "venue": "Uber Arena, Berlin, Germany",
+      "isNational": true
+    },
+    {
+      "id": "fiba-401917254",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "France",
+        "abbreviation": "FRA",
+        "record": "3-0"
+      },
+      "awayTeam": {
+        "name": "China",
+        "abbreviation": "CHN",
+        "record": "3-1"
+      },
+      "startTime": "2026-09-10T12:30Z",
+      "timeET": "8:30 AM ET",
+      "channels": [
+        "truTV"
+      ],
+      "status": "upcoming",
+      "venue": "Uber Arena, Berlin, Germany",
+      "isNational": true
+    },
+    {
+      "id": "fiba-401917255",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Germany",
+        "abbreviation": "GER",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Belgium",
+        "abbreviation": "BEL",
+        "record": "3-0"
+      },
+      "startTime": "2026-09-10T15:45Z",
+      "timeET": "11:45 AM ET",
+      "channels": [
+        "truTV"
+      ],
+      "status": "upcoming",
+      "venue": "Uber Arena, Berlin, Germany",
+      "isNational": true
     },
     {
       "id": "mlb-401816885",
@@ -40,12 +112,12 @@
       "homeTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "85-58"
+        "record": "85-61"
       },
       "awayTeam": {
         "name": "Tampa Bay Rays",
         "abbreviation": "TB",
-        "record": "85-58"
+        "record": "87-58"
       },
       "startTime": "2026-09-10T16:15Z",
       "timeET": "12:15 PM ET",
@@ -112,12 +184,12 @@
       "homeTeam": {
         "name": "Philadelphia Phillies",
         "abbreviation": "PHI",
-        "record": "80-63"
+        "record": "82-64"
       },
       "awayTeam": {
         "name": "Houston Astros",
         "abbreviation": "HOU",
-        "record": "73-71"
+        "record": "74-72"
       },
       "startTime": "2026-09-10T17:05Z",
       "timeET": "1:05 PM ET",
@@ -129,6 +201,28 @@
       ],
       "status": "upcoming",
       "venue": "Citizens Bank Park, Philadelphia, Pennsylvania",
+      "isNational": true
+    },
+    {
+      "id": "fiba-401917253",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Spain",
+        "abbreviation": "ESP",
+        "record": "2-1"
+      },
+      "awayTeam": {
+        "name": "Australia",
+        "abbreviation": "AUS",
+        "record": "3-1"
+      },
+      "startTime": "2026-09-10T18:45Z",
+      "timeET": "2:45 PM ET",
+      "channels": [
+        "truTV"
+      ],
+      "status": "upcoming",
+      "venue": "Uber Arena, Berlin, Germany",
       "isNational": true
     },
     {
@@ -241,7 +335,7 @@
       "timeET": "3:15 PM ET",
       "channels": [],
       "status": "upcoming",
-      "venue": "Estádio José Gomes, Amadora",
+      "venue": "Complexo Desportivo FC Alverca, Alverca do Ribatejo",
       "tournament": "Primeira Liga"
     },
     {
@@ -250,12 +344,12 @@
       "homeTeam": {
         "name": "Seattle Mariners",
         "abbreviation": "SEA",
-        "record": "67-77"
+        "record": "68-78"
       },
       "awayTeam": {
         "name": "Texas Rangers",
         "abbreviation": "TEX",
-        "record": "71-73"
+        "record": "72-74"
       },
       "startTime": "2026-09-10T20:10Z",
       "timeET": "4:10 PM ET",
@@ -274,12 +368,12 @@
       "homeTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "81-62"
+        "record": "83-62"
       },
       "awayTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "55-88"
+        "record": "55-90"
       },
       "startTime": "2026-09-10T23:05Z",
       "timeET": "7:05 PM ET",
@@ -298,12 +392,12 @@
       "homeTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "75-68"
+        "record": "75-70"
       },
       "awayTeam": {
         "name": "Pittsburgh Pirates",
         "abbreviation": "PIT",
-        "record": "71-73"
+        "record": "73-73"
       },
       "startTime": "2026-09-10T23:40Z",
       "timeET": "7:40 PM ET",
@@ -390,13 +484,13 @@
         "abbreviation": "LEO",
         "record": "3-1-2"
       },
-      "startTime": "2026-09-11T03:00Z",
-      "timeET": "11:00 PM ET",
+      "startTime": "2026-09-11T03:05Z",
+      "timeET": "11:05 PM ET",
       "channels": [],
       "status": "upcoming",
       "venue": "Estadio Olímpico Universitario, Mexico City",
       "tournament": "Liga MX"
     }
   ],
-  "lastUpdated": "2026-09-07T03:30:06.946Z"
+  "lastUpdated": "2026-09-10T10:00:05.813Z"
 }
