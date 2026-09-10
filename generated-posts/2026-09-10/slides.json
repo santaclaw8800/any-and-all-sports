@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-10",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "18 events across Golf, International Basketball, MLB, Soccer, College Football, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "DP World Tour at Amgen Irish Open 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "New Zealand Breakers at Melbourne United 4:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Tampa Bay Rays at Atlanta Braves 12:15 PM ET on ESPN Unlmtd / MLB.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "AS Roma at Fenerbahce 12:45 PM ET on CBSSN / Paramount+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Shakhtar Donetsk at PSV Eindhoven 12:45 PM ET on Paramount+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-09-07T03:30:26.148Z"
+}
