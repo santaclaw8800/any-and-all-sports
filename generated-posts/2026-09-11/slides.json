@@ -2,28 +2,24 @@
   "date": "2026-09-11",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "35 events across Golf, F1, Soccer, MLB, College Football."
+      "title": "Friday at a glance",
+      "body": "Golf, F1, soccer, MLB, and college football packed into one day."
     },
     {
-      "title": "Game 1",
-      "body": "DP World Tour at Amgen Irish Open 12:00 AM ET on Check listings"
+      "title": "Golf early",
+      "body": "DP World Tour, LPGA Solheim Cup, and Champions Tour all start at 12:00 AM ET."
     },
     {
-      "title": "Game 2",
-      "body": "Champions Tour at Sanford International 12:00 AM ET on Golf Chnl"
+      "title": "F1 + noon soccer",
+      "body": "F1 at 7:30 AM ET on Apple TV, then European soccer through the afternoon."
     },
     {
-      "title": "Game 3",
-      "body": "Formula 1 at Tag Heuer Spanish Grand Prix 7:30 AM ET on Apple TV"
+      "title": "MLB slate",
+      "body": "Pirates-Cubs, Rockies-Tigers, Angels-Nationals, and Mets-Yankees all on the board."
     },
     {
-      "title": "Game 4",
-      "body": "Willem II at AZ Alkmaar 2:00 PM ET on ESPN+"
-    },
-    {
-      "title": "Game 5",
-      "body": "Pittsburgh Pirates at Chicago Cubs 2:20 PM ET on MLB.TV / Marquee Sports Net"
+      "title": "Night games",
+      "body": "College football and Gotham FC at Racing Louisville close out the night."
     }
   ],
   "pngFiles": [
@@ -35,5 +31,5 @@
     "slide-6.png",
     "slide-7.png"
   ],
-  "generatedAt": "2026-09-07T03:30:28.148Z"
+  "generatedAt": "2026-09-11T10:00:12.634Z"
 }
