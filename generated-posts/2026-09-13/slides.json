@@ -2,28 +2,24 @@
   "date": "2026-09-13",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "60 events across Golf, F1, Soccer, MLB, NFL."
+      "title": "Sunday Schedule",
+      "body": "Golf starts at 12:00 AM ET, then soccer and hoops roll all day."
     },
     {
-      "title": "Game 1",
-      "body": "DP World Tour at Amgen Irish Open 12:00 AM ET on Check listings"
+      "title": "Top Soccer Spots",
+      "body": "Barcelona, Man City-Man United, Bayern, and Napoli headline the board."
     },
     {
-      "title": "Game 2",
-      "body": "Champions Tour at Sanford International 12:00 AM ET on Golf Chnl"
+      "title": "Basketball Spotlight",
+      "body": "Spain vs Germany tips at 10:30 AM ET on TNT, truTV, and Max."
     },
     {
-      "title": "Game 3",
-      "body": "Formula 1 at Tag Heuer Spanish Grand Prix 7:30 AM ET on Apple TV"
+      "title": "Where to Watch",
+      "body": "ESPN+, Peacock, Paramount+, USA, Telemundo, Golf Chnl, TNT/truTV/Max."
     },
     {
-      "title": "Game 4",
-      "body": "FC Utrecht at Excelsior 6:15 AM ET on Check listings"
-    },
-    {
-      "title": "Game 5",
-      "body": "Wolverhampton Wanderers at Sheffield United 7:00 AM ET on Check listings"
+      "title": "Follow the Feed",
+      "body": "Get daily sports schedules from @any_and_all_sports."
     }
   ],
   "pngFiles": [
@@ -40,5 +36,5 @@
     "slide-11.png",
     "slide-12.png"
   ],
-  "generatedAt": "2026-09-07T03:30:37.880Z"
+  "generatedAt": "2026-09-13T10:00:10.386Z"
 }
