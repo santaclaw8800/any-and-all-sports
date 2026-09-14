@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-14",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "20 events across Soccer, MLB, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "Parma at Como 12:30 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 2",
+      "body": "AS Roma at Torino 12:30 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Estrela at Rio Ave 1:45 PM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Udinese at Internazionale 2:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Newcastle United at Leeds United 3:00 PM ET on USA Net"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-09-14T03:30:19.030Z"
+}
