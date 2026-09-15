@@ -247,12 +247,12 @@
       "homeTeam": {
         "name": "Cleveland Guardians",
         "abbreviation": "CLE",
-        "record": "76-74"
+        "record": "76-75"
       },
       "awayTeam": {
         "name": "Chicago White Sox",
         "abbreviation": "CHW",
-        "record": "76-73"
+        "record": "77-73"
       },
       "startTime": "2026-09-15T22:40Z",
       "timeET": "6:40 PM ET",
@@ -272,12 +272,12 @@
       "homeTeam": {
         "name": "Cincinnati Reds",
         "abbreviation": "CIN",
-        "record": "70-79"
+        "record": "70-80"
       },
       "awayTeam": {
         "name": "Los Angeles Dodgers",
         "abbreviation": "LAD",
-        "record": "90-59"
+        "record": "91-59"
       },
       "startTime": "2026-09-15T22:40Z",
       "timeET": "6:40 PM ET",
@@ -363,12 +363,12 @@
       "homeTeam": {
         "name": "Toronto Blue Jays",
         "abbreviation": "TOR",
-        "record": "75-75"
+        "record": "75-76"
       },
       "awayTeam": {
         "name": "Detroit Tigers",
         "abbreviation": "DET",
-        "record": "70-79"
+        "record": "71-79"
       },
       "startTime": "2026-09-15T23:07Z",
       "timeET": "7:07 PM ET",
@@ -387,12 +387,12 @@
       "homeTeam": {
         "name": "New York Mets",
         "abbreviation": "NYM",
-        "record": "69-80"
+        "record": "69-81"
       },
       "awayTeam": {
         "name": "Baltimore Orioles",
         "abbreviation": "BAL",
-        "record": "72-78"
+        "record": "73-78"
       },
       "startTime": "2026-09-15T23:10Z",
       "timeET": "7:10 PM ET",
@@ -411,12 +411,12 @@
       "homeTeam": {
         "name": "Chicago Cubs",
         "abbreviation": "CHC",
-        "record": "83-67"
+        "record": "84-67"
       },
       "awayTeam": {
         "name": "Atlanta Braves",
         "abbreviation": "ATL",
-        "record": "88-62"
+        "record": "88-63"
       },
       "startTime": "2026-09-15T23:40Z",
       "timeET": "7:40 PM ET",
@@ -437,12 +437,12 @@
       "homeTeam": {
         "name": "Minnesota Twins",
         "abbreviation": "MIN",
-        "record": "70-79"
+        "record": "70-80"
       },
       "awayTeam": {
         "name": "New York Yankees",
         "abbreviation": "NYY",
-        "record": "86-63"
+        "record": "87-63"
       },
       "startTime": "2026-09-15T23:40Z",
       "timeET": "7:40 PM ET",
@@ -461,12 +461,12 @@
       "homeTeam": {
         "name": "St. Louis Cardinals",
         "abbreviation": "STL",
-        "record": "74-76"
+        "record": "75-76"
       },
       "awayTeam": {
         "name": "San Francisco Giants",
         "abbreviation": "SF",
-        "record": "62-88"
+        "record": "62-89"
       },
       "startTime": "2026-09-15T23:45Z",
       "timeET": "7:45 PM ET",
@@ -534,12 +534,12 @@
       "homeTeam": {
         "name": "Colorado Rockies",
         "abbreviation": "COL",
-        "record": "55-94"
+        "record": "55-95"
       },
       "awayTeam": {
         "name": "San Diego Padres",
         "abbreviation": "SD",
-        "record": "81-68"
+        "record": "82-68"
       },
       "startTime": "2026-09-16T00:40Z",
       "timeET": "8:40 PM ET",
@@ -578,12 +578,12 @@
       "homeTeam": {
         "name": "Los Angeles Angels",
         "abbreviation": "LAA",
-        "record": "56-93"
+        "record": "57-93"
       },
       "awayTeam": {
         "name": "Seattle Mariners",
         "abbreviation": "SEA",
-        "record": "70-80"
+        "record": "70-81"
       },
       "startTime": "2026-09-16T01:38Z",
       "timeET": "9:38 PM ET",
@@ -602,12 +602,12 @@
       "homeTeam": {
         "name": "Arizona Diamondbacks",
         "abbreviation": "ARI",
-        "record": "79-71"
+        "record": "80-71"
       },
       "awayTeam": {
         "name": "Miami Marlins",
         "abbreviation": "MIA",
-        "record": "74-76"
+        "record": "74-77"
       },
       "startTime": "2026-09-16T01:40Z",
       "timeET": "9:40 PM ET",
@@ -621,5 +621,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-09-14T03:30:04.865Z"
+  "lastUpdated": "2026-09-15T10:00:04.625Z"
 }
