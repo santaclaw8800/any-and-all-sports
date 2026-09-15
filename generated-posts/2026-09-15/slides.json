@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-15",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "27 events across Soccer, MLB, MMA/UFC."
+    },
+    {
+      "title": "Game 1",
+      "body": "Espanyol at Rayo Vallecano 1:00 PM ET on ESPN Deportes / ESPN+"
+    },
+    {
+      "title": "Game 2",
+      "body": "Valencia at Alavés 2:00 PM ET on ESPN+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Willem II at Ajax Amsterdam 2:00 PM ET on ESPN+"
+    },
+    {
+      "title": "Game 4",
+      "body": "Heart of Midlothian at Falkirk 2:45 PM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Kilmarnock at Hibernian 2:45 PM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png"
+  ],
+  "generatedAt": "2026-09-14T03:30:20.607Z"
+}
