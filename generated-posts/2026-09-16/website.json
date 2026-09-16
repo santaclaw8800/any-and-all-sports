@@ -42,6 +42,7 @@
         "startTime": "2026-09-16T16:45Z",
         "timeET": "12:45 PM ET",
         "channels": [
+          "CBSSN",
           "Paramount+"
         ],
         "status": "upcoming",
@@ -55,12 +56,12 @@
         "homeTeam": {
           "name": "Cleveland Guardians",
           "abbreviation": "CLE",
-          "record": "76-74"
+          "record": "77-75"
         },
         "awayTeam": {
           "name": "Chicago White Sox",
           "abbreviation": "CHW",
-          "record": "76-73"
+          "record": "77-74"
         },
         "startTime": "2026-09-16T17:00Z",
         "timeET": "1:00 PM ET",
@@ -125,12 +126,12 @@
         "homeTeam": {
           "name": "St. Louis Cardinals",
           "abbreviation": "STL",
-          "record": "74-76"
+          "record": "75-77"
         },
         "awayTeam": {
           "name": "San Francisco Giants",
           "abbreviation": "SF",
-          "record": "62-88"
+          "record": "63-89"
         },
         "startTime": "2026-09-16T17:15Z",
         "timeET": "1:15 PM ET",
@@ -149,12 +150,12 @@
         "homeTeam": {
           "name": "Minnesota Twins",
           "abbreviation": "MIN",
-          "record": "70-79"
+          "record": "70-81"
         },
         "awayTeam": {
           "name": "New York Yankees",
           "abbreviation": "NYY",
-          "record": "86-63"
+          "record": "88-63"
         },
         "startTime": "2026-09-16T17:40Z",
         "timeET": "1:40 PM ET",
@@ -183,6 +184,7 @@
         "startTime": "2026-09-16T19:00Z",
         "timeET": "3:00 PM ET",
         "channels": [
+          "CBSSN",
           "Paramount+"
         ],
         "status": "upcoming",
@@ -334,12 +336,12 @@
         "homeTeam": {
           "name": "Toronto Blue Jays",
           "abbreviation": "TOR",
-          "record": "75-75"
+          "record": "75-77"
         },
         "awayTeam": {
           "name": "Detroit Tigers",
           "abbreviation": "DET",
-          "record": "70-79"
+          "record": "72-79"
         },
         "startTime": "2026-09-16T19:07Z",
         "timeET": "3:07 PM ET",
@@ -423,12 +425,12 @@
         "homeTeam": {
           "name": "Tampa Bay Rays",
           "abbreviation": "TB",
-          "record": "90-59"
+          "record": "91-59"
         },
         "awayTeam": {
           "name": "Athletics",
           "abbreviation": "ATH",
-          "record": "61-89"
+          "record": "61-90"
         },
         "startTime": "2026-09-16T22:40Z",
         "timeET": "6:40 PM ET",
@@ -447,12 +449,12 @@
         "homeTeam": {
           "name": "Cincinnati Reds",
           "abbreviation": "CIN",
-          "record": "70-79"
+          "record": "70-81"
         },
         "awayTeam": {
           "name": "Los Angeles Dodgers",
           "abbreviation": "LAD",
-          "record": "90-59"
+          "record": "92-59"
         },
         "startTime": "2026-09-16T22:40Z",
         "timeET": "6:40 PM ET",
@@ -471,12 +473,12 @@
         "homeTeam": {
           "name": "Pittsburgh Pirates",
           "abbreviation": "PIT",
-          "record": "75-75"
+          "record": "75-76"
         },
         "awayTeam": {
           "name": "Milwaukee Brewers",
           "abbreviation": "MIL",
-          "record": "93-57"
+          "record": "94-57"
         },
         "startTime": "2026-09-16T22:40Z",
         "timeET": "6:40 PM ET",
@@ -494,12 +496,12 @@
         "homeTeam": {
           "name": "Washington Nationals",
           "abbreviation": "WSH",
-          "record": "70-81"
+          "record": "71-81"
         },
         "awayTeam": {
           "name": "Philadelphia Phillies",
           "abbreviation": "PHI",
-          "record": "83-67"
+          "record": "83-68"
         },
         "startTime": "2026-09-16T22:45Z",
         "timeET": "6:45 PM ET",
@@ -518,12 +520,12 @@
         "homeTeam": {
           "name": "New York Mets",
           "abbreviation": "NYM",
-          "record": "69-80"
+          "record": "69-82"
         },
         "awayTeam": {
           "name": "Baltimore Orioles",
           "abbreviation": "BAL",
-          "record": "72-78"
+          "record": "74-78"
         },
         "startTime": "2026-09-16T23:00Z",
         "timeET": "7:00 PM ET",
@@ -540,12 +542,12 @@
         "homeTeam": {
           "name": "Chicago Cubs",
           "abbreviation": "CHC",
-          "record": "83-67"
+          "record": "84-68"
         },
         "awayTeam": {
           "name": "Atlanta Braves",
           "abbreviation": "ATL",
-          "record": "88-62"
+          "record": "89-63"
         },
         "startTime": "2026-09-16T23:40Z",
         "timeET": "7:40 PM ET",
@@ -564,12 +566,12 @@
         "homeTeam": {
           "name": "Texas Rangers",
           "abbreviation": "TEX",
-          "record": "74-76"
+          "record": "75-76"
         },
         "awayTeam": {
           "name": "Boston Red Sox",
           "abbreviation": "BOS",
-          "record": "82-68"
+          "record": "82-69"
         },
         "startTime": "2026-09-17T00:05Z",
         "timeET": "8:05 PM ET",
@@ -588,12 +590,12 @@
         "homeTeam": {
           "name": "Houston Astros",
           "abbreviation": "HOU",
-          "record": "75-75"
+          "record": "76-75"
         },
         "awayTeam": {
           "name": "Kansas City Royals",
           "abbreviation": "KC",
-          "record": "66-84"
+          "record": "66-85"
         },
         "startTime": "2026-09-17T00:10Z",
         "timeET": "8:10 PM ET",
@@ -631,12 +633,12 @@
         "homeTeam": {
           "name": "Colorado Rockies",
           "abbreviation": "COL",
-          "record": "55-94"
+          "record": "56-95"
         },
         "awayTeam": {
           "name": "San Diego Padres",
           "abbreviation": "SD",
-          "record": "81-68"
+          "record": "82-69"
         },
         "startTime": "2026-09-17T00:40Z",
         "timeET": "8:40 PM ET",
@@ -678,12 +680,12 @@
         "homeTeam": {
           "name": "Los Angeles Angels",
           "abbreviation": "LAA",
-          "record": "56-93"
+          "record": "58-93"
         },
         "awayTeam": {
           "name": "Seattle Mariners",
           "abbreviation": "SEA",
-          "record": "70-80"
+          "record": "70-82"
         },
         "startTime": "2026-09-17T01:38Z",
         "timeET": "9:38 PM ET",
@@ -702,12 +704,12 @@
         "homeTeam": {
           "name": "Arizona Diamondbacks",
           "abbreviation": "ARI",
-          "record": "79-71"
+          "record": "80-72"
         },
         "awayTeam": {
           "name": "Miami Marlins",
           "abbreviation": "MIA",
-          "record": "74-76"
+          "record": "75-77"
         },
         "startTime": "2026-09-17T01:40Z",
         "timeET": "9:40 PM ET",
@@ -745,60 +747,48 @@
         "tournament": "NWSL"
       }
     ],
-    "lastUpdated": "2026-09-14T03:30:05.370Z"
+    "lastUpdated": "2026-09-16T10:00:04.371Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Wednesday, September 16, 2026\n\n⚽ Soccer  ·  ⚾ MLB\n\n32 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Midweek slate: UEFA Europa League, La Liga, Copa Libertadores, and MLB all day. Early kickoffs start at 12:45 PM ET, then a packed 3:00 PM ET soccer window plus four MLB games in the afternoon. Watch on Paramount+, ESPN+, ESPN Deportes, CBSSN, MLB.TV, ESPN, and team/local networks. Follow @any_and_all_sports for daily schedules.",
     "hashtags": [
-      "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
       "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
+      "#AnyAndAllSports",
       "#Soccer",
-      "#Football",
-      "#PremierLeague",
+      "#EuropaLeague",
       "#LaLiga",
-      "#SerieA",
-      "#Bundesliga",
-      "#MLS",
-      "#UCL",
-      "#ChampionsLeague",
+      "#CopaLibertadores",
       "#MLB",
-      "#MLBTonight",
-      "#Baseball",
-      "#MLBonFOX"
+      "#ParamountPlus",
+      "#ESPNPlus",
+      "#ESPNDeportes",
+      "#CBSSN",
+      "#MLBTV"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "32 events across Soccer, MLB."
+        "title": "Today’s schedule",
+        "body": "Soccer and MLB all day, with 32 games on the board."
       },
       {
-        "title": "Game 1",
-        "body": "Sparta Prague at Ararat-Armenia 12:45 PM ET on Paramount+"
+        "title": "Early kicks",
+        "body": "12:45 PM ET: Sparta Prague at Ararat-Armenia; Celta Vigo at Omonia Nicosia."
       },
       {
-        "title": "Game 2",
-        "body": "Celta Vigo at Omonia Nicosia 12:45 PM ET on Paramount+"
+        "title": "Afternoon MLB",
+        "body": "1:00 PM ET: White Sox-Guardians; 1:15 Giants-Cardinals; 1:40 Yankees-Twins."
       },
       {
-        "title": "Game 3",
-        "body": "Chicago White Sox at Cleveland Guardians 1:00 PM ET on ESPN / CHSN"
+        "title": "3 PM soccer block",
+        "body": "Europa League rolls out at 3:00 PM ET with Benfica-Milan and more."
       },
       {
-        "title": "Game 4",
-        "body": "Osasuna at Atlético Madrid 1:00 PM ET on ESPN Deportes / ESPN+"
+        "title": "Watch live",
+        "body": "Stream on Paramount+, ESPN+, MLB.TV, ESPN, CBSSN, and local/team networks."
       },
       {
-        "title": "Game 5",
-        "body": "Sevilla at Deportivo 1:00 PM ET on ESPN+"
+        "title": "Follow along",
+        "body": "Get every daily slate from @any_and_all_sports."
       }
     ],
     "pngFiles": [
@@ -810,5 +800,5 @@
       "slide-6.png"
     ]
   },
-  "lastUpdated": "2026-09-14T03:30:22.105Z"
+  "lastUpdated": "2026-09-16T10:00:12.774Z"
 }
