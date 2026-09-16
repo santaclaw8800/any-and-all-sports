@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-16",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "32 events across Soccer, MLB."
+    },
+    {
+      "title": "Game 1",
+      "body": "Sparta Prague at Ararat-Armenia 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 2",
+      "body": "Celta Vigo at Omonia Nicosia 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Chicago White Sox at Cleveland Guardians 1:00 PM ET on ESPN / CHSN"
+    },
+    {
+      "title": "Game 4",
+      "body": "Osasuna at Atlético Madrid 1:00 PM ET on ESPN Deportes / ESPN+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Sevilla at Deportivo 1:00 PM ET on ESPN+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png"
+  ],
+  "generatedAt": "2026-09-14T03:30:22.105Z"
+}
