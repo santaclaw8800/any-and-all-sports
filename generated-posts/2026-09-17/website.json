@@ -43,12 +43,12 @@
         "homeTeam": {
           "name": "Pittsburgh Pirates",
           "abbreviation": "PIT",
-          "record": "75-75"
+          "record": "75-77"
         },
         "awayTeam": {
           "name": "Milwaukee Brewers",
           "abbreviation": "MIL",
-          "record": "93-57"
+          "record": "95-57"
         },
         "startTime": "2026-09-17T16:35Z",
         "timeET": "12:35 PM ET",
@@ -66,12 +66,12 @@
         "homeTeam": {
           "name": "Cincinnati Reds",
           "abbreviation": "CIN",
-          "record": "70-79"
+          "record": "71-81"
         },
         "awayTeam": {
           "name": "Los Angeles Dodgers",
           "abbreviation": "LAD",
-          "record": "90-59"
+          "record": "92-60"
         },
         "startTime": "2026-09-17T16:40Z",
         "timeET": "12:40 PM ET",
@@ -100,6 +100,7 @@
         "startTime": "2026-09-17T16:45Z",
         "timeET": "12:45 PM ET",
         "channels": [
+          "CBSSN",
           "Paramount+"
         ],
         "status": "upcoming",
@@ -136,7 +137,7 @@
         "homeTeam": {
           "name": "Real Betis",
           "abbreviation": "BET",
-          "record": "3-0-1"
+          "record": "4-0-1"
         },
         "awayTeam": {
           "name": "Getafe",
@@ -160,12 +161,12 @@
         "homeTeam": {
           "name": "Tampa Bay Rays",
           "abbreviation": "TB",
-          "record": "90-59"
+          "record": "92-59"
         },
         "awayTeam": {
           "name": "Athletics",
           "abbreviation": "ATH",
-          "record": "61-89"
+          "record": "61-91"
         },
         "startTime": "2026-09-17T17:10Z",
         "timeET": "1:10 PM ET",
@@ -309,6 +310,7 @@
         "startTime": "2026-09-17T19:00Z",
         "timeET": "3:00 PM ET",
         "channels": [
+          "CBSSN",
           "Paramount+"
         ],
         "status": "upcoming",
@@ -345,12 +347,12 @@
         "homeTeam": {
           "name": "Colorado Rockies",
           "abbreviation": "COL",
-          "record": "55-94"
+          "record": "56-96"
         },
         "awayTeam": {
           "name": "San Diego Padres",
           "abbreviation": "SD",
-          "record": "81-68"
+          "record": "83-69"
         },
         "startTime": "2026-09-17T19:10Z",
         "timeET": "3:10 PM ET",
@@ -375,7 +377,7 @@
         "awayTeam": {
           "name": "Villarreal",
           "abbreviation": "VIL",
-          "record": "0-2-2"
+          "record": "0-2-3"
         },
         "startTime": "2026-09-17T19:30Z",
         "timeET": "3:30 PM ET",
@@ -394,12 +396,12 @@
         "homeTeam": {
           "name": "New York Mets",
           "abbreviation": "NYM",
-          "record": "69-80"
+          "record": "69-83"
         },
         "awayTeam": {
           "name": "Philadelphia Phillies",
           "abbreviation": "PHI",
-          "record": "83-67"
+          "record": "84-68"
         },
         "startTime": "2026-09-17T23:15Z",
         "timeET": "7:15 PM ET",
@@ -417,12 +419,12 @@
         "homeTeam": {
           "name": "Houston Astros",
           "abbreviation": "HOU",
-          "record": "75-75"
+          "record": "76-76"
         },
         "awayTeam": {
           "name": "Kansas City Royals",
           "abbreviation": "KC",
-          "record": "66-84"
+          "record": "67-85"
         },
         "startTime": "2026-09-17T23:15Z",
         "timeET": "7:15 PM ET",
@@ -486,12 +488,12 @@
         "homeTeam": {
           "name": "Chicago White Sox",
           "abbreviation": "CHW",
-          "record": "76-73"
+          "record": "77-75"
         },
         "awayTeam": {
           "name": "Detroit Tigers",
           "abbreviation": "DET",
-          "record": "70-79"
+          "record": "72-80"
         },
         "startTime": "2026-09-17T23:40Z",
         "timeET": "7:40 PM ET",
@@ -557,12 +559,12 @@
         "homeTeam": {
           "name": "Texas Rangers",
           "abbreviation": "TEX",
-          "record": "74-76"
+          "record": "76-76"
         },
         "awayTeam": {
           "name": "Boston Red Sox",
           "abbreviation": "BOS",
-          "record": "82-68"
+          "record": "82-70"
         },
         "startTime": "2026-09-18T00:05Z",
         "timeET": "8:05 PM ET",
@@ -621,12 +623,12 @@
         "homeTeam": {
           "name": "Los Angeles Angels",
           "abbreviation": "LAA",
-          "record": "56-93"
+          "record": "58-94"
         },
         "awayTeam": {
           "name": "Minnesota Twins",
           "abbreviation": "MIN",
-          "record": "70-79"
+          "record": "71-81"
         },
         "startTime": "2026-09-18T01:38Z",
         "timeET": "9:38 PM ET",
@@ -690,60 +692,51 @@
         "isNational": true
       }
     ],
-    "lastUpdated": "2026-09-14T03:30:05.990Z"
+    "lastUpdated": "2026-09-17T10:00:04.500Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Thursday, September 17, 2026\n\n⛳ Golf  ·  ⚾ MLB  ·  ⚽ Soccer  ·  🏀 WNBA  ·  🏈 College Football  ·  🏈 NFL\n\n30 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#WNBA #WNBABasketball #WomensBasketball\n#CollegeFootball #NCAAF #CFB #CFBPlayoff\n#NFL #NFLTonight #Football #NFLSunday #MondayNightFootball #TNF\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Today’s schedule is loaded: golf all day, MLB matinees and a nightcap, plus UEFA Europa League and La Liga on ESPN+, CBSSN, Paramount+, ESPN Deportes, MLB.TV, and Fox. Follow @any_and_all_sports for daily game lists.",
     "hashtags": [
       "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
       "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
+      "#MLB",
       "#Golf",
       "#PGA",
-      "#PGATour",
-      "#LPGA",
-      "#LIVGolf",
-      "#ChampionsTour",
       "#DPWorldTour",
-      "#MLB",
-      "#MLBTonight",
-      "#Baseball",
-      "#MLBonFOX",
-      "#MLBonESPN",
-      "#Soccer"
+      "#Soccer",
+      "#UEL",
+      "#LaLiga",
+      "#MLBTV",
+      "#ESPNPlus",
+      "#ParamountPlus",
+      "#CBSSN",
+      "#FoxSports",
+      "#WNBA"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "30 events across Golf, MLB, Soccer, WNBA, College Football, NFL."
+        "title": "Today’s slate",
+        "body": "30 games across golf, MLB, soccer, and more. Start with the schedule, then pick your watch spots."
       },
       {
-        "title": "Game 1",
-        "body": "PGA Tour at Biltmore Championship Asheville 12:00 AM ET on ESPN+ / Golf Chnl"
+        "title": "Golf all day",
+        "body": "PGA Tour at Biltmore and DP World Tour at BMW PGA Championship. Watch on ESPN+ and Golf Chnl."
       },
       {
-        "title": "Game 2",
-        "body": "DP World Tour at BMW PGA Championship 12:00 AM ET on Check listings"
+        "title": "MLB matinees",
+        "body": "Brewers-Pirates, Dodgers-Reds, A’s-Rays, Padres-Rockies before Phillies-Mets on Fox."
       },
       {
-        "title": "Game 3",
-        "body": "Milwaukee Brewers at Pittsburgh Pirates 12:35 PM ET on MLB.TV / Brewers.TV"
+        "title": "Europa League",
+        "body": "Big soccer window at 3 PM ET. Most matches stream on Paramount+, with select games on CBSSN."
       },
       {
-        "title": "Game 4",
-        "body": "Los Angeles Dodgers at Cincinnati Reds 12:40 PM ET on MLB.TV / SportsNet LA"
+        "title": "La Liga action",
+        "body": "Getafe-Real Betis and Villarreal-Málaga both hit ESPN Deportes and ESPN+."
       },
       {
-        "title": "Game 5",
-        "body": "RB Salzburg at Levski Sofia 12:45 PM ET on Paramount+"
+        "title": "Follow for daily drops",
+        "body": "Stay locked on @any_and_all_sports for tomorrow’s schedule and quick watch guides."
       }
     ],
     "pngFiles": [
@@ -755,5 +748,5 @@
       "slide-6.png"
     ]
   },
-  "lastUpdated": "2026-09-14T03:30:23.555Z"
+  "lastUpdated": "2026-09-17T10:00:21.082Z"
 }
