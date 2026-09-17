@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-17",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "30 events across Golf, MLB, Soccer, WNBA, College Football, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Biltmore Championship Asheville 12:00 AM ET on ESPN+ / Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "DP World Tour at BMW PGA Championship 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Milwaukee Brewers at Pittsburgh Pirates 12:35 PM ET on MLB.TV / Brewers.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Los Angeles Dodgers at Cincinnati Reds 12:40 PM ET on MLB.TV / SportsNet LA"
+    },
+    {
+      "title": "Game 5",
+      "body": "RB Salzburg at Levski Sofia 12:45 PM ET on Paramount+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png"
+  ],
+  "generatedAt": "2026-09-14T03:30:23.555Z"
+}
