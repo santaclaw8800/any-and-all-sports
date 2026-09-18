@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-18",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "35 events across Golf, Soccer, MLB, WNBA, College Football."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Biltmore Championship Asheville 12:00 AM ET on ESPN+ / Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "DP World Tour at BMW PGA Championship 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Champions Tour at PURE Insurance Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 4",
+      "body": "PEC Zwolle at FC Groningen 2:00 PM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "1. FC Union Berlin at Bayern Munich 2:30 PM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png"
+  ],
+  "generatedAt": "2026-09-14T03:30:25.356Z"
+}
