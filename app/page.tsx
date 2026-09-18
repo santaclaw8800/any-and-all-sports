@@ -5,6 +5,8 @@ import PersonalizedSchedule from '@/components/PersonalizedSchedule';
 import Link from 'next/link';
 import { SportsEventsSchema, BreadcrumbSchema } from '@/components/StructuredData';
 import SEOContentBlock from '@/components/SEOContentBlock';
+import UpcomingHorseRaces from '@/components/UpcomingHorseRaces';
+import horseRacingEvents from '@/data/horse-racing-events.json';
 
 export const metadata: Metadata = {
   title: "What Sports Are On Tonight? | Today's Complete TV & Streaming Schedule",
@@ -40,6 +42,7 @@ export default function HomePage() {
             Browse Archive
           </Link>
         </div>
+        <UpcomingHorseRaces events={horseRacingEvents} today={today} />
       </div>
     );
   }
@@ -87,6 +90,7 @@ export default function HomePage() {
 
         {/* Schedule */}
         <PersonalizedSchedule schedule={schedule} />
+        <UpcomingHorseRaces events={horseRacingEvents} today={today} />
       </div>
 
       {/* SEO Content Block */}

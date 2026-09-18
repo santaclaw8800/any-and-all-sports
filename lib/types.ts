@@ -14,6 +14,7 @@ export type SportCategory =
   | 'Boxing'
   | 'WNBA'
   | 'International Basketball'
+  | 'Horse Racing'
   | 'Other';
 
 export type GameStatus = 'upcoming' | 'live' | 'final' | 'delayed' | 'postponed';

@@ -24,6 +24,7 @@ const SPORT_CONFIG = {
   Boxing:              { color: '#ef4444', emoji: '🥊' },
   WNBA:                { color: '#f97316', emoji: '🏀' },
   'International Basketball': { color: '#f97316', emoji: '🏀' },
+  'Horse Racing':        { color: '#a16207', emoji: '🏇' },
   Other:               { color: '#94a3b8', emoji: '🏆' },
 };
 
@@ -71,7 +72,7 @@ function groupBySport(games) {
     groups[key].push(game);
   }
   // Sort sports by priority
-  const priority = ['NBA', 'NHL', 'MLB', 'NFL', 'Soccer', 'College Basketball', 'College Football', 'International Basketball', 'MMA/UFC', 'F1', 'Tennis', 'Golf', 'NASCAR', 'Boxing', 'WNBA', 'Other'];
+  const priority = ['NBA', 'NHL', 'MLB', 'NFL', 'Soccer', 'College Basketball', 'College Football', 'International Basketball', 'MMA/UFC', 'F1', 'Horse Racing', 'Tennis', 'Golf', 'NASCAR', 'Boxing', 'WNBA', 'Other'];
   return Object.entries(groups).sort(([a], [b]) => {
     const ai = priority.indexOf(a);
     const bi = priority.indexOf(b);
@@ -85,6 +86,11 @@ function buildGameCardHTML(game) {
   // Golf/tournament events with midnight timestamps are all-day coverage
   const isAllDay = game.timeET === '12:00 AM ET' && (game.sport === 'Golf' || game.tournament);
   const displayTime = isAllDay ? 'ALL DAY' : game.timeET;
+  const matchup = game.sport === 'Horse Racing'
+    ? `<span style="font-weight: 700;">${escHtml(game.homeTeam.name)}</span>`
+    : `<span style="font-weight: 400;">${escHtml(game.awayTeam.name)}</span>
+          <span style="color: #94a3b8; font-size: 24px; margin: 0 6px;">@</span>
+          <span style="font-weight: 700;">${escHtml(game.homeTeam.name)}</span>`;
   return `
     <div style="
       background: #1a1a2e;
@@ -99,9 +105,7 @@ function buildGameCardHTML(game) {
     ">
       <div style="flex: 1; min-width: 0;">
         <div style="font-size: 32px; color: #ffffff; line-height: 1.2; overflow: hidden; text-overflow: ellipsis;">
-          <span style="font-weight: 400;">${escHtml(game.awayTeam.name)}</span>
-          <span style="color: #94a3b8; font-size: 24px; margin: 0 6px;">@</span>
-          <span style="font-weight: 700;">${escHtml(game.homeTeam.name)}</span>
+          ${matchup}
         </div>
         ${desc ? `<div style="font-size: 18px; color: #64748b; margin-top: 4px;">${escHtml(desc)}</div>` : ''}
       </div>
@@ -411,6 +415,7 @@ export function buildCaption(date, games) {
         NASCAR: '#NASCAR #NASCARCup #NASCARRacing',
         Boxing: '#Boxing #BoxingTonight',
         'International Basketball': '#FIBA #EuroLeague #InternationalBasketball #BasketballWorldCup',
+        'Horse Racing': '#HorseRacing #ThoroughbredRacing #RacingOnTV',
       };
       return tags[s] || '';
     }).filter(Boolean),

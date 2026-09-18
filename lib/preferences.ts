@@ -21,6 +21,7 @@ export const DEFAULT_SPORTS: SportCategory[] = [
   'Tennis',
   'College Basketball',
   'College Football',
+  'Horse Racing',
 ];
 
 // Common teams for each sport - used when no schedule data is available

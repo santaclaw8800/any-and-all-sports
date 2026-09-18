@@ -83,7 +83,11 @@ export default function GameCard({ game }: GameCardProps) {
       {/* Teams */}
       <div className="flex items-center justify-between gap-4 mb-3">
         <div className="flex-1 min-w-0">
-          {isVsFormat ? (
+          {game.sport === 'Horse Racing' ? (
+            <p className="font-bold text-white text-sm leading-tight">
+              {game.homeTeam.name}
+            </p>
+          ) : isVsFormat ? (
             <div className="space-y-1">
               <p className="font-bold text-white text-sm leading-tight truncate">
                 {game.awayTeam.name}

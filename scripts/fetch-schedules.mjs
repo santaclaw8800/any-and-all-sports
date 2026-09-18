@@ -9,13 +9,16 @@
  *   node scripts/fetch-schedules.mjs 2026-03-25   # specific date
  */
 
-import { writeFileSync, mkdirSync } from 'fs';
+import { writeFileSync, mkdirSync, readFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { execFileSync } from 'child_process';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
+const HORSE_RACING_EVENTS = JSON.parse(
+  readFileSync(join(ROOT, 'data', 'horse-racing-events.json'), 'utf8')
+);
 
 if ((process.env.NODE_USE_SYSTEM_CA || process.env.NODE_EXTRA_CA_CERTS) && !process.env.AAS_SAFE_NODE_ENV) {
   const env = { ...process.env, AAS_SAFE_NODE_ENV: '1' };
@@ -245,6 +248,22 @@ function toTimeET(isoString) {
   if (isNaN(d.getTime())) return 'TBD';
   // e.g. "7:30 PM" -> "7:30 PM ET"
   return ET_TIME_FMT.format(d) + ' ET';
+}
+
+function mapHorseRaceToGame(event) {
+  return {
+    id: `hr-${event.id}`,
+    sport: 'Horse Racing',
+    homeTeam: { name: event.name },
+    awayTeam: { name: 'Horse Racing' },
+    startTime: `${event.date}T00:00:00-04:00`,
+    timeET: event.timeEt,
+    channels: event.networks.map(normalizeChannel).filter(Boolean),
+    status: 'upcoming',
+    venue: event.venue,
+    ...(event.grade && { tournament: event.grade }),
+    isNational: true,
+  };
 }
 
 // ── Broadcast / channel extraction ───────────────────────────────────────────
@@ -552,6 +571,12 @@ async function main() {
       console.error(`  [ERROR] ${SPORTS[i].league.toUpperCase()}: ${r.reason?.message}`);
     }
   }
+
+  allGames.push(
+    ...HORSE_RACING_EVENTS
+      .filter(event => event.date === targetDate)
+      .map(mapHorseRaceToGame)
+  );
 
   // Sort chronologically
   allGames.sort((a, b) => a.startTime.localeCompare(b.startTime));

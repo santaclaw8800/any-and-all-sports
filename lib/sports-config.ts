@@ -114,6 +114,13 @@ export const SPORT_CONFIG: Record<SportCategory, SportConfig> = {
     bgColor: 'rgba(0, 131, 143, 0.15)',
     textColor: '#4dd0e1',
   },
+  'Horse Racing': {
+    emoji: '🏇',
+    color: '#a16207',
+    accentColor: 'rgb(161, 98, 7)',
+    bgColor: 'rgba(161, 98, 7, 0.15)',
+    textColor: '#fbbf24',
+  },
   Other: {
     emoji: '🏅',
     color: '#666666',
@@ -139,5 +146,6 @@ export const SPORT_ORDER: SportCategory[] = [
   'Boxing',
   'WNBA',
   'International Basketball',
+  'Horse Racing',
   'Other',
 ];

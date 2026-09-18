@@ -1,0 +1,81 @@
+[
+  {
+    "id": "jcgc-2026",
+    "name": "Jockey Club Gold Cup",
+    "venue": "Belmont Park",
+    "date": "2026-09-18",
+    "timeEt": "4:14 PM ET",
+    "networks": ["FOX"],
+    "grade": "G1",
+    "verified": true
+  },
+  {
+    "id": "breeders-cup-friday-2026",
+    "name": "Breeders' Cup World Championships (Future Stars Friday)",
+    "venue": "Keeneland",
+    "date": "2026-10-30",
+    "timeEt": "TBD",
+    "networks": ["NBC", "Peacock", "USA"],
+    "verified": true
+  },
+  {
+    "id": "breeders-cup-classic-2026",
+    "name": "Breeders' Cup Classic (Saturday)",
+    "venue": "Keeneland",
+    "date": "2026-10-31",
+    "timeEt": "5:40 PM ET",
+    "networks": ["NBC"],
+    "grade": "G1",
+    "verified": true
+  },
+  {
+    "id": "pegasus-world-cup-2027",
+    "name": "Pegasus World Cup",
+    "venue": "Gulfstream Park",
+    "date": "2027-01-30",
+    "timeEt": "TBD",
+    "networks": ["NBC"],
+    "grade": "G1",
+    "verified": false
+  },
+  {
+    "id": "kentucky-derby-2027",
+    "name": "Kentucky Derby",
+    "venue": "Churchill Downs",
+    "date": "2027-05-01",
+    "timeEt": "TBD",
+    "networks": ["NBC"],
+    "grade": "G1",
+    "verified": true
+  },
+  {
+    "id": "preakness-stakes-2027",
+    "name": "Preakness Stakes",
+    "venue": "Pimlico",
+    "date": "2027-05-15",
+    "timeEt": "TBD",
+    "networks": ["NBC"],
+    "grade": "G1",
+    "verified": false
+  },
+  {
+    "id": "belmont-stakes-2027",
+    "name": "Belmont Stakes",
+    "venue": "Belmont Park",
+    "date": "2027-06",
+    "timeEt": "TBD",
+    "networks": ["FOX"],
+    "grade": "G1",
+    "verified": false
+  },
+  {
+    "id": "travers-stakes-2027",
+    "name": "Travers Stakes",
+    "venue": "Saratoga",
+    "date": "2027-08",
+    "timeEt": "TBD",
+    "networks": ["FOX"],
+    "grade": "G1",
+    "verified": false
+  }
+]
