@@ -2,28 +2,24 @@
   "date": "2026-09-20",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "86 events across Golf, International Basketball, Soccer, WNBA, NFL, NHL, MLB."
+      "title": "Sunday Sports Schedule",
+      "body": "Golf, soccer, WNBA, NFL, NHL, and MLB on the board today."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at Biltmore Championship Asheville 12:00 AM ET on ESPN+ / Golf Chnl"
+      "title": "Golf Starts Early",
+      "body": "PGA Tour, DP World Tour, and Champions Tour all begin at 12:00 AM ET."
     },
     {
-      "title": "Game 2",
-      "body": "DP World Tour at BMW PGA Championship 12:00 AM ET on Check listings"
+      "title": "Top Soccer Window",
+      "body": "Liverpool, Man City, Napoli, Celtic, Leverkusen, and more from 6:15-9:30 AM ET."
     },
     {
-      "title": "Game 3",
-      "body": "Champions Tour at PURE Insurance Championship 12:00 AM ET on Golf Chnl"
+      "title": "Where to Watch",
+      "body": "ESPN+, Paramount+, Peacock, USA Network, Telemundo, CBSSN, beIN Sports, ESPN Deportes."
     },
     {
-      "title": "Game 4",
-      "body": "Illawarra Hawks at New Zealand Breakers 1:00 AM ET on Check listings"
-    },
-    {
-      "title": "Game 5",
-      "body": "Cairns Taipans at Sydney Kings 3:00 AM ET on Check listings"
+      "title": "Follow For Daily Posts",
+      "body": "Follow @any_and_all_sports for the full schedule, watch info, and next-day updates."
     }
   ],
   "pngFiles": [
@@ -45,5 +41,5 @@
     "slide-16.png",
     "slide-17.png"
   ],
-  "generatedAt": "2026-09-14T03:30:37.624Z"
+  "generatedAt": "2026-09-20T10:00:13.861Z"
 }
