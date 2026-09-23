@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-23",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "23 events across International Basketball, MLB, NHL, WNBA, Soccer."
+    },
+    {
+      "title": "Game 1",
+      "body": "Tasmania JackJumpers at Cairns Taipans 5:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Washington Nationals at Detroit Tigers 1:10 PM ET on ESPN Unlmtd / MLB.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Minnesota Twins at San Francisco Giants 3:45 PM ET on MLB.TV / Twins.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Toronto Blue Jays at Baltimore Orioles 6:35 PM ET on MLB.TV / MASN"
+    },
+    {
+      "title": "Game 5",
+      "body": "Milwaukee Brewers at Philadelphia Phillies 6:40 PM ET on MLB.TV / Brewers.TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png"
+  ],
+  "generatedAt": "2026-09-21T03:30:14.914Z"
+}
