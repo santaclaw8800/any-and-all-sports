@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-24",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "35 events across Golf, F1, International Basketball, MLB, WNBA, NHL, College Football, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Presidents Cup 12:00 AM ET on NBC / Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "DP World Tour at FedEx Open de France 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Formula 1 at Qatar Airways Azerbaijan Grand Prix 4:30 AM ET on Apple TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Melbourne United at South East Melbourne Phoenix 5:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Adelaide 36ers at Perth Wildcats 7:30 AM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png"
+  ],
+  "generatedAt": "2026-09-21T03:30:17.111Z"
+}
