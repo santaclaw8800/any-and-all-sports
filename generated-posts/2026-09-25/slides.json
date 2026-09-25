@@ -2,28 +2,24 @@
   "date": "2026-09-25",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "34 events across Golf, F1, International Basketball, College Football, Soccer, MLB, NHL."
+      "title": "Top of the Day",
+      "body": "Golf all morning, then a packed afternoon and night across MLB, NHL, football, and soccer."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at Presidents Cup 12:00 AM ET on NBC / Golf Chnl"
+      "title": "Golf on Deck",
+      "body": "Presidents Cup on NBC/Golf Channel/Peacock; LPGA on Golf Channel."
     },
     {
-      "title": "Game 2",
-      "body": "DP World Tour at FedEx Open de France 12:00 AM ET on Check listings"
+      "title": "Afternoon Starts",
+      "body": "Cubs-Red Sox at 1:05 PM ET on MLB.TV and Marquee Sports Net."
     },
     {
-      "title": "Game 3",
-      "body": "Formula 1 at Qatar Airways Azerbaijan Grand Prix 4:30 AM ET on Apple TV"
+      "title": "Prime-Time Watch",
+      "body": "Bruins-Capitals on ESPN+; Orioles-Yankees, Reds-Blue Jays, Braves-Marlins, and more at 7 ET."
     },
     {
-      "title": "Game 4",
-      "body": "LPGA at Walmart NW Arkansas Championship pres. by P&G 12:00 AM ET on Golf Chnl"
-    },
-    {
-      "title": "Game 5",
-      "body": "Illawarra Hawks at Brisbane Bullets 5:30 AM ET on Check listings"
+      "title": "Follow for Daily Schedules",
+      "body": "Get the full watch list every day from @any_and_all_sports."
     }
   ],
   "pngFiles": [
@@ -35,5 +31,5 @@
     "slide-6.png",
     "slide-7.png"
   ],
-  "generatedAt": "2026-09-21T03:30:19.280Z"
+  "generatedAt": "2026-09-25T10:00:12.855Z"
 }

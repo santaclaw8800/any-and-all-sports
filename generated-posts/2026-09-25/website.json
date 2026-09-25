@@ -19,7 +19,7 @@
           "Golf Chnl",
           "Peacock"
         ],
-        "status": "upcoming",
+        "status": "live",
         "isNational": true,
         "tournament": "PGA Tour"
       },
@@ -35,25 +35,8 @@
         "startTime": "2026-09-24T04:00Z",
         "timeET": "12:00 AM ET",
         "channels": [],
-        "status": "upcoming",
+        "status": "live",
         "tournament": "DP World Tour"
-      },
-      {
-        "id": "f1-600057444",
-        "sport": "F1",
-        "homeTeam": {
-          "name": "Qatar Airways Azerbaijan Grand Prix"
-        },
-        "awayTeam": {
-          "name": "Formula 1"
-        },
-        "startTime": "2026-09-24T08:30Z",
-        "timeET": "4:30 AM ET",
-        "channels": [
-          "Apple TV"
-        ],
-        "status": "upcoming",
-        "isNational": true
       },
       {
         "id": "lpga-401835170",
@@ -79,7 +62,7 @@
         "homeTeam": {
           "name": "Brisbane Bullets",
           "abbreviation": "BRI",
-          "record": "0-0"
+          "record": "1-0"
         },
         "awayTeam": {
           "name": "Illawarra Hawks",
@@ -89,7 +72,35 @@
         "startTime": "2026-09-25T09:30Z",
         "timeET": "5:30 AM ET",
         "channels": [],
-        "status": "upcoming"
+        "status": "live",
+        "currentPeriod": "2",
+        "score": {
+          "home": 38,
+          "away": 23
+        }
+      },
+      {
+        "id": "mlb-401817104",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Boston Red Sox",
+          "abbreviation": "BOS",
+          "record": "85-74"
+        },
+        "awayTeam": {
+          "name": "Chicago Cubs",
+          "abbreviation": "CHC",
+          "record": "88-71"
+        },
+        "startTime": "2026-09-25T17:05Z",
+        "timeET": "1:05 PM ET",
+        "channels": [
+          "MLB.TV",
+          "Marquee Sports Net"
+        ],
+        "status": "upcoming",
+        "venue": "Fenway Park, Boston, Massachusetts",
+        "isNational": true
       },
       {
         "id": "cfb-401862779",
@@ -111,6 +122,55 @@
         ],
         "status": "upcoming",
         "venue": "Lincoln Financial Field, Philadelphia, PA",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401817088",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "New York Yankees",
+          "abbreviation": "NYY",
+          "record": "92-67"
+        },
+        "awayTeam": {
+          "name": "Baltimore Orioles",
+          "abbreviation": "BAL",
+          "record": "78-81"
+        },
+        "startTime": "2026-09-25T20:05Z",
+        "timeET": "4:05 PM ET",
+        "channels": [
+          "MLB.TV",
+          "YES",
+          "MASN"
+        ],
+        "status": "upcoming",
+        "venue": "Yankee Stadium, Bronx, New York",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401817074",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Boston Red Sox",
+          "abbreviation": "BOS",
+          "record": "85-74"
+        },
+        "awayTeam": {
+          "name": "Chicago Cubs",
+          "abbreviation": "CHC",
+          "record": "88-71"
+        },
+        "startTime": "2026-09-25T22:00Z",
+        "timeET": "6:00 PM ET",
+        "channels": [
+          "ESPN Unlmtd",
+          "MLB.TV",
+          "Marquee Sports Net",
+          "NESN"
+        ],
+        "status": "upcoming",
+        "venue": "Fenway Park, Boston, Massachusetts",
         "isNational": true
       },
       {
@@ -142,12 +202,12 @@
         "homeTeam": {
           "name": "Detroit Tigers",
           "abbreviation": "DET",
-          "record": "73-83"
+          "record": "74-85"
         },
         "awayTeam": {
           "name": "Pittsburgh Pirates",
           "abbreviation": "PIT",
-          "record": "79-77"
+          "record": "81-78"
         },
         "startTime": "2026-09-25T22:40Z",
         "timeET": "6:40 PM ET",
@@ -165,12 +225,12 @@
         "homeTeam": {
           "name": "Philadelphia Phillies",
           "abbreviation": "PHI",
-          "record": "86-70"
+          "record": "87-72"
         },
         "awayTeam": {
           "name": "Tampa Bay Rays",
           "abbreviation": "TB",
-          "record": "95-60"
+          "record": "96-63"
         },
         "startTime": "2026-09-25T22:40Z",
         "timeET": "6:40 PM ET",
@@ -189,12 +249,12 @@
         "homeTeam": {
           "name": "Washington Nationals",
           "abbreviation": "WSH",
-          "record": "73-83"
+          "record": "75-84"
         },
         "awayTeam": {
           "name": "New York Mets",
           "abbreviation": "NYM",
-          "record": "71-85"
+          "record": "73-86"
         },
         "startTime": "2026-09-25T22:45Z",
         "timeET": "6:45 PM ET",
@@ -257,12 +317,12 @@
         "homeTeam": {
           "name": "Washington Capitals",
           "abbreviation": "WSH",
-          "record": "0-0-1"
+          "record": "1-0-1"
         },
         "awayTeam": {
           "name": "Boston Bruins",
           "abbreviation": "BOS",
-          "record": "1-0-0"
+          "record": "2-1-0"
         },
         "startTime": "2026-09-25T23:00Z",
         "timeET": "7:00 PM ET",
@@ -281,12 +341,12 @@
         "homeTeam": {
           "name": "New York Yankees",
           "abbreviation": "NYY",
-          "record": "89-66"
+          "record": "92-67"
         },
         "awayTeam": {
           "name": "Baltimore Orioles",
           "abbreviation": "BAL",
-          "record": "75-81"
+          "record": "78-81"
         },
         "startTime": "2026-09-25T23:05Z",
         "timeET": "7:05 PM ET",
@@ -305,12 +365,12 @@
         "homeTeam": {
           "name": "Toronto Blue Jays",
           "abbreviation": "TOR",
-          "record": "77-79"
+          "record": "77-82"
         },
         "awayTeam": {
           "name": "Cincinnati Reds",
           "abbreviation": "CIN",
-          "record": "72-84"
+          "record": "74-85"
         },
         "startTime": "2026-09-25T23:07Z",
         "timeET": "7:07 PM ET",
@@ -330,12 +390,12 @@
         "homeTeam": {
           "name": "Miami Marlins",
           "abbreviation": "MIA",
-          "record": "76-80"
+          "record": "78-81"
         },
         "awayTeam": {
           "name": "Atlanta Braves",
           "abbreviation": "ATL",
-          "record": "92-64"
+          "record": "93-66"
         },
         "startTime": "2026-09-25T23:10Z",
         "timeET": "7:10 PM ET",
@@ -349,42 +409,17 @@
         "isNational": true
       },
       {
-        "id": "mlb-401817074",
-        "sport": "MLB",
-        "homeTeam": {
-          "name": "Boston Red Sox",
-          "abbreviation": "BOS",
-          "record": "84-72"
-        },
-        "awayTeam": {
-          "name": "Chicago Cubs",
-          "abbreviation": "CHC",
-          "record": "87-69"
-        },
-        "startTime": "2026-09-25T23:10Z",
-        "timeET": "7:10 PM ET",
-        "channels": [
-          "ESPN Unlmtd",
-          "MLB.TV",
-          "Marquee Sports Net",
-          "NESN"
-        ],
-        "status": "upcoming",
-        "venue": "Fenway Park, Boston, Massachusetts",
-        "isNational": true
-      },
-      {
         "id": "nhl-401879649",
         "sport": "NHL",
         "homeTeam": {
           "name": "New York Islanders",
           "abbreviation": "NYI",
-          "record": "0-1-0"
+          "record": "1-1-0"
         },
         "awayTeam": {
           "name": "New York Rangers",
           "abbreviation": "NYR",
-          "record": "0-0-0"
+          "record": "1-2-0"
         },
         "startTime": "2026-09-25T23:30Z",
         "timeET": "7:30 PM ET",
@@ -403,12 +438,12 @@
         "homeTeam": {
           "name": "Kansas City Royals",
           "abbreviation": "KC",
-          "record": "67-89"
+          "record": "68-91"
         },
         "awayTeam": {
           "name": "Cleveland Guardians",
           "abbreviation": "CLE",
-          "record": "81-75"
+          "record": "83-76"
         },
         "startTime": "2026-09-25T23:40Z",
         "timeET": "7:40 PM ET",
@@ -427,12 +462,12 @@
         "homeTeam": {
           "name": "Chicago White Sox",
           "abbreviation": "CHW",
-          "record": "80-76"
+          "record": "82-77"
         },
         "awayTeam": {
           "name": "Colorado Rockies",
           "abbreviation": "COL",
-          "record": "57-99"
+          "record": "57-102"
         },
         "startTime": "2026-09-25T23:40Z",
         "timeET": "7:40 PM ET",
@@ -451,12 +486,12 @@
         "homeTeam": {
           "name": "Milwaukee Brewers",
           "abbreviation": "MIL",
-          "record": "98-58"
+          "record": "100-59"
         },
         "awayTeam": {
           "name": "St. Louis Cardinals",
           "abbreviation": "STL",
-          "record": "76-80"
+          "record": "77-82"
         },
         "startTime": "2026-09-25T23:40Z",
         "timeET": "7:40 PM ET",
@@ -497,12 +532,12 @@
         "homeTeam": {
           "name": "Minnesota Wild",
           "abbreviation": "MIN",
-          "record": "1-0-0"
+          "record": "1-1-1"
         },
         "awayTeam": {
           "name": "Dallas Stars",
           "abbreviation": "DAL",
-          "record": "1-0-0"
+          "record": "3-0-0"
         },
         "startTime": "2026-09-26T00:00Z",
         "timeET": "8:00 PM ET",
@@ -543,12 +578,12 @@
         "homeTeam": {
           "name": "Minnesota Twins",
           "abbreviation": "MIN",
-          "record": "73-83"
+          "record": "75-84"
         },
         "awayTeam": {
           "name": "Texas Rangers",
           "abbreviation": "TEX",
-          "record": "78-78"
+          "record": "79-80"
         },
         "startTime": "2026-09-26T00:10Z",
         "timeET": "8:10 PM ET",
@@ -568,12 +603,12 @@
         "homeTeam": {
           "name": "Colorado Avalanche",
           "abbreviation": "COL",
-          "record": "1-0-0"
+          "record": "1-1-0"
         },
         "awayTeam": {
           "name": "Winnipeg Jets",
           "abbreviation": "WPG",
-          "record": "0-1-0"
+          "record": "1-1-1"
         },
         "startTime": "2026-09-26T00:30Z",
         "timeET": "8:30 PM ET",
@@ -630,12 +665,12 @@
         "homeTeam": {
           "name": "San Diego Padres",
           "abbreviation": "SD",
-          "record": "87-69"
+          "record": "89-70"
         },
         "awayTeam": {
           "name": "Arizona Diamondbacks",
           "abbreviation": "ARI",
-          "record": "82-74"
+          "record": "85-74"
         },
         "startTime": "2026-09-26T01:40Z",
         "timeET": "9:40 PM ET",
@@ -654,12 +689,12 @@
         "homeTeam": {
           "name": "Athletics",
           "abbreviation": "ATH",
-          "record": "61-95"
+          "record": "63-96"
         },
         "awayTeam": {
           "name": "Houston Astros",
           "abbreviation": "HOU",
-          "record": "77-79"
+          "record": "79-80"
         },
         "startTime": "2026-09-26T01:40Z",
         "timeET": "9:40 PM ET",
@@ -678,12 +713,12 @@
         "homeTeam": {
           "name": "Seattle Mariners",
           "abbreviation": "SEA",
-          "record": "73-83"
+          "record": "74-85"
         },
         "awayTeam": {
           "name": "Los Angeles Angels",
           "abbreviation": "LAA",
-          "record": "60-96"
+          "record": "61-98"
         },
         "startTime": "2026-09-26T02:10Z",
         "timeET": "10:10 PM ET",
@@ -702,12 +737,12 @@
         "homeTeam": {
           "name": "San Francisco Giants",
           "abbreviation": "SF",
-          "record": "64-92"
+          "record": "65-94"
         },
         "awayTeam": {
           "name": "Los Angeles Dodgers",
           "abbreviation": "LAD",
-          "record": "96-60"
+          "record": "97-62"
         },
         "startTime": "2026-09-26T02:15Z",
         "timeET": "10:15 PM ET",
@@ -763,60 +798,46 @@
         "tournament": "Liga MX"
       }
     ],
-    "lastUpdated": "2026-09-21T03:30:05.760Z"
+    "lastUpdated": "2026-09-25T10:00:05.783Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Friday, September 25, 2026\n\n⛳ Golf  ·  🏎️ F1  ·  🏀 International Basketball  ·  🏈 College Football  ·  ⚽ Soccer  ·  ⚾ MLB  ·  🏒 NHL\n\n34 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#F1 #Formula1 #F1Racing #GrandPrix\n#FIBA #EuroLeague #InternationalBasketball #BasketballWorldCup\n#CollegeFootball #NCAAF #CFB #CFBPlayoff\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Friday’s slate is loaded: PGA Tour, DP World Tour, LPGA, MLB, NHL, college football, and NWSL. Catch the action on NBC, Golf Channel, ESPN, MLB.TV, ESPN+, NWSL+, and more. Follow @any_and_all_sports for the daily watch guide.",
     "hashtags": [
       "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
       "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
+      "#NBA",
+      "#NHL",
+      "#MLB",
+      "#MLS",
+      "#WNBA",
+      "#EPL",
+      "#LaLiga",
       "#Golf",
-      "#PGA",
-      "#PGATour",
-      "#LPGA",
-      "#LIVGolf",
-      "#ChampionsTour",
-      "#DPWorldTour",
-      "#F1",
-      "#Formula1",
-      "#F1Racing",
-      "#GrandPrix",
-      "#FIBA",
-      "#EuroLeague"
+      "#CollegeFootball",
+      "#NWSL",
+      "#WatchGuide",
+      "#SportsOnTV"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "34 events across Golf, F1, International Basketball, College Football, Soccer, MLB, NHL."
+        "title": "Top of the Day",
+        "body": "Golf all morning, then a packed afternoon and night across MLB, NHL, football, and soccer."
       },
       {
-        "title": "Game 1",
-        "body": "PGA Tour at Presidents Cup 12:00 AM ET on NBC / Golf Chnl"
+        "title": "Golf on Deck",
+        "body": "Presidents Cup on NBC/Golf Channel/Peacock; LPGA on Golf Channel."
       },
       {
-        "title": "Game 2",
-        "body": "DP World Tour at FedEx Open de France 12:00 AM ET on Check listings"
+        "title": "Afternoon Starts",
+        "body": "Cubs-Red Sox at 1:05 PM ET on MLB.TV and Marquee Sports Net."
       },
       {
-        "title": "Game 3",
-        "body": "Formula 1 at Qatar Airways Azerbaijan Grand Prix 4:30 AM ET on Apple TV"
+        "title": "Prime-Time Watch",
+        "body": "Bruins-Capitals on ESPN+; Orioles-Yankees, Reds-Blue Jays, Braves-Marlins, and more at 7 ET."
       },
       {
-        "title": "Game 4",
-        "body": "LPGA at Walmart NW Arkansas Championship pres. by P&G 12:00 AM ET on Golf Chnl"
-      },
-      {
-        "title": "Game 5",
-        "body": "Illawarra Hawks at Brisbane Bullets 5:30 AM ET on Check listings"
+        "title": "Follow for Daily Schedules",
+        "body": "Get the full watch list every day from @any_and_all_sports."
       }
     ],
     "pngFiles": [
@@ -829,5 +850,5 @@
       "slide-7.png"
     ]
   },
-  "lastUpdated": "2026-09-21T03:30:19.280Z"
+  "lastUpdated": "2026-09-25T10:00:12.855Z"
 }
