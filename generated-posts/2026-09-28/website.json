@@ -1,0 +1,75 @@
+{
+  "date": "2026-09-28",
+  "schedule": {
+    "date": "2026-09-28",
+    "games": [
+      {
+        "id": "nfl-401872963",
+        "sport": "NFL",
+        "homeTeam": {
+          "name": "Chicago Bears",
+          "abbreviation": "CHI",
+          "record": "1-1"
+        },
+        "awayTeam": {
+          "name": "Philadelphia Eagles",
+          "abbreviation": "PHI",
+          "record": "2-0"
+        },
+        "startTime": "2026-09-29T00:15Z",
+        "timeET": "8:15 PM ET",
+        "channels": [
+          "ESPN",
+          "ABC"
+        ],
+        "status": "upcoming",
+        "venue": "Soldier Field, Chicago, IL",
+        "isNational": true
+      }
+    ],
+    "lastUpdated": "2026-09-28T03:30:05.221Z"
+  },
+  "social": {
+    "caption": "🏟️ What's On Tonight — Monday, September 28, 2026\n\n🏈 NFL\n\n1 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#NFL #NFLTonight #Football #NFLSunday #MondayNightFootball #TNF\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "hashtags": [
+      "#AnyAndAllSports",
+      "#WhatsOnTonight",
+      "#SportsTonight",
+      "#SportsSchedule",
+      "#SportsTV",
+      "#SportsTVSchedule",
+      "#WatchSports",
+      "#WhereToWatch",
+      "#GameTonight",
+      "#SportsOnTV",
+      "#LiveSports",
+      "#NFL",
+      "#NFLTonight",
+      "#Football",
+      "#NFLSunday",
+      "#MondayNightFootball",
+      "#TNF",
+      "#NBA",
+      "#MLB",
+      "#NHL",
+      "#Soccer",
+      "#Golf",
+      "#UFC",
+      "#Tennis"
+    ],
+    "slides": [
+      {
+        "title": "What's On Tonight",
+        "body": "1 events across NFL."
+      },
+      {
+        "title": "Game 1",
+        "body": "Philadelphia Eagles at Chicago Bears 8:15 PM ET on ESPN / ABC"
+      }
+    ],
+    "pngFiles": [
+      "slide-1.png"
+    ]
+  },
+  "lastUpdated": "2026-09-28T03:30:17.360Z"
+}

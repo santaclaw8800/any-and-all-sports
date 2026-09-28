@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-28",
+  "games": [
+    {
+      "id": "nfl-401872963",
+      "sport": "NFL",
+      "homeTeam": {
+        "name": "Chicago Bears",
+        "abbreviation": "CHI",
+        "record": "1-1"
+      },
+      "awayTeam": {
+        "name": "Philadelphia Eagles",
+        "abbreviation": "PHI",
+        "record": "2-0"
+      },
+      "startTime": "2026-09-29T00:15Z",
+      "timeET": "8:15 PM ET",
+      "channels": [
+        "ESPN",
+        "ABC"
+      ],
+      "status": "upcoming",
+      "venue": "Soldier Field, Chicago, IL",
+      "isNational": true
+    }
+  ],
+  "lastUpdated": "2026-09-28T03:30:05.221Z"
+}
