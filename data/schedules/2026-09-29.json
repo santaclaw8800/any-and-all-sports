@@ -105,9 +105,12 @@
       },
       "startTime": "2026-09-29T23:00Z",
       "timeET": "7:00 PM ET",
-      "channels": [],
+      "channels": [
+        "ESPN+"
+      ],
       "status": "upcoming",
-      "venue": "Scotiabank Arena, Toronto, ON"
+      "venue": "Scotiabank Arena, Toronto, ON",
+      "isNational": true
     },
     {
       "id": "ufc-600060739",
@@ -234,9 +237,12 @@
       },
       "startTime": "2026-09-30T02:00Z",
       "timeET": "10:00 PM ET",
-      "channels": [],
+      "channels": [
+        "ESPN+"
+      ],
       "status": "upcoming",
-      "venue": "Rogers Place, Edmonton, AB"
+      "venue": "Rogers Place, Edmonton, AB",
+      "isNational": true
     },
     {
       "id": "nhl-401891775",
@@ -261,5 +267,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-09-28T03:30:05.733Z"
+  "lastUpdated": "2026-09-29T10:00:03.625Z"
 }

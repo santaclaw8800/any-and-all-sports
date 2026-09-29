@@ -107,9 +107,12 @@
         },
         "startTime": "2026-09-29T23:00Z",
         "timeET": "7:00 PM ET",
-        "channels": [],
+        "channels": [
+          "ESPN+"
+        ],
         "status": "upcoming",
-        "venue": "Scotiabank Arena, Toronto, ON"
+        "venue": "Scotiabank Arena, Toronto, ON",
+        "isNational": true
       },
       {
         "id": "ufc-600060739",
@@ -236,9 +239,12 @@
         },
         "startTime": "2026-09-30T02:00Z",
         "timeET": "10:00 PM ET",
-        "channels": [],
+        "channels": [
+          "ESPN+"
+        ],
         "status": "upcoming",
-        "venue": "Rogers Place, Edmonton, AB"
+        "venue": "Rogers Place, Edmonton, AB",
+        "isNational": true
       },
       {
         "id": "nhl-401891775",
@@ -263,60 +269,51 @@
         "isNational": true
       }
     ],
-    "lastUpdated": "2026-09-28T03:30:05.733Z"
+    "lastUpdated": "2026-09-29T10:00:03.625Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Tuesday, September 29, 2026\n\n⚾ MLB  ·  🏒 NHL  ·  🏀 WNBA  ·  🥊 MMA/UFC\n\n12 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n#WNBA #WNBABasketball #WomensBasketball\n#UFC #MMA #UFCFightNight #UFCTonight\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Loaded slate today: MLB, NHL, WNBA, and UFC action all day and night. Catch Phillies-Braves and White Sox-Astros on NBC/Peacock, NHL on ESPN/ESPN+, Aces-Fever on Amazon Prime, and more. Follow @any_and_all_sports for daily watch guides.",
     "hashtags": [
-      "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
-      "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
       "#MLB",
-      "#MLBTonight",
-      "#Baseball",
-      "#MLBonFOX",
-      "#MLBonESPN",
       "#NHL",
-      "#NHLTonight",
-      "#Hockey",
-      "#StanleyCup",
-      "#NHLonTNT",
-      "#NHLonESPN",
       "#WNBA",
-      "#WNBABasketball"
+      "#UFC",
+      "#Baseball",
+      "#Hockey",
+      "#Basketball",
+      "#SportsSchedule",
+      "#GameDay",
+      "#WatchLive",
+      "#ESPN",
+      "#Peacock",
+      "#AmazonPrime",
+      "#NBC",
+      "#AnyAndAllSports"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "12 events across MLB, NHL, WNBA, MMA/UFC."
+        "title": "Today’s Full Slate",
+        "body": "12 games across MLB, NHL, WNBA, and UFC. Start early and stay locked in all night."
       },
       {
-        "title": "Game 1",
-        "body": "Philadelphia Phillies at Atlanta Braves 2:00 PM ET on NBC"
+        "title": "Early Window",
+        "body": "Phillies at Braves at 2:00 PM ET on NBC. White Sox at Astros at 5:00 PM ET on Peacock/NBCSN."
       },
       {
-        "title": "Game 2",
-        "body": "Chicago White Sox at Houston Astros 5:00 PM ET on Peacock / NBCSN"
+        "title": "Prime-Time Hockey",
+        "body": "Panthers-Hurricanes on ESPN, Canadiens-Maple Leafs on ESPN+, and Rangers-Bruins on ESPN."
       },
       {
-        "title": "Game 3",
-        "body": "Florida Panthers at Carolina Hurricanes 5:00 PM ET on ESPN"
+        "title": "WNBA Spotlight",
+        "body": "Aces at Fever at 6:30 PM ET on Amazon Prime. Lynx at Liberty at 8:30 PM ET on USA Net/CNBC."
       },
       {
-        "title": "Game 4",
-        "body": "Las Vegas Aces at Indiana Fever 6:30 PM ET on Amazon Prime"
+        "title": "Late Night Ends",
+        "body": "Cubs-Padres on Peacock/NBCSN, Canucks-Oilers on ESPN+, and Blackhawks-Golden Knights on ESPN."
       },
       {
-        "title": "Game 5",
-        "body": "Montreal Canadiens at Toronto Maple Leafs 7:00 PM ET on Check listings"
+        "title": "Follow For Daily Schedules",
+        "body": "Watch the games, then follow @any_and_all_sports for the next day’s slate."
       }
     ],
     "pngFiles": [
@@ -325,5 +322,5 @@
       "slide-3.png"
     ]
   },
-  "lastUpdated": "2026-09-28T03:30:18.397Z"
+  "lastUpdated": "2026-09-29T10:00:10.334Z"
 }
