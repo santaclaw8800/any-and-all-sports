@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-29",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "12 events across MLB, NHL, WNBA, MMA/UFC."
+    },
+    {
+      "title": "Game 1",
+      "body": "Philadelphia Phillies at Atlanta Braves 2:00 PM ET on NBC"
+    },
+    {
+      "title": "Game 2",
+      "body": "Chicago White Sox at Houston Astros 5:00 PM ET on Peacock / NBCSN"
+    },
+    {
+      "title": "Game 3",
+      "body": "Florida Panthers at Carolina Hurricanes 5:00 PM ET on ESPN"
+    },
+    {
+      "title": "Game 4",
+      "body": "Las Vegas Aces at Indiana Fever 6:30 PM ET on Amazon Prime"
+    },
+    {
+      "title": "Game 5",
+      "body": "Montreal Canadiens at Toronto Maple Leafs 7:00 PM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-09-28T03:30:18.397Z"
+}

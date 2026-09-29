@@ -1,0 +1,265 @@
+{
+  "date": "2026-09-29",
+  "games": [
+    {
+      "id": "mlb-401907965",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL",
+        "record": "94-68"
+      },
+      "awayTeam": {
+        "name": "Philadelphia Phillies",
+        "abbreviation": "PHI",
+        "record": "88-74"
+      },
+      "startTime": "2026-09-29T18:00Z",
+      "timeET": "2:00 PM ET",
+      "channels": [
+        "NBC"
+      ],
+      "status": "upcoming",
+      "venue": "Truist Park, Atlanta, Georgia",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401907896",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Houston Astros",
+        "abbreviation": "HOU",
+        "record": "81-81"
+      },
+      "awayTeam": {
+        "name": "Chicago White Sox",
+        "abbreviation": "CHW",
+        "record": "84-78"
+      },
+      "startTime": "2026-09-29T21:00Z",
+      "timeET": "5:00 PM ET",
+      "channels": [
+        "Peacock",
+        "NBCSN"
+      ],
+      "status": "upcoming",
+      "venue": "Daikin Park, Houston, Texas",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401891773",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Carolina Hurricanes",
+        "abbreviation": "CAR",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Florida Panthers",
+        "abbreviation": "FLA",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-09-29T21:00Z",
+      "timeET": "5:00 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "upcoming",
+      "venue": "Lenovo Center, Raleigh, NC",
+      "isNational": true
+    },
+    {
+      "id": "wnba-401918018",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Indiana Fever",
+        "abbreviation": "IND",
+        "record": "28-16"
+      },
+      "awayTeam": {
+        "name": "Las Vegas Aces",
+        "abbreviation": "LV",
+        "record": "31-13"
+      },
+      "startTime": "2026-09-29T22:30Z",
+      "timeET": "6:30 PM ET",
+      "channels": [
+        "Amazon Prime"
+      ],
+      "status": "upcoming",
+      "venue": "Gainbridge Fieldhouse, Indianapolis, IN",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401891827",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Toronto Maple Leafs",
+        "abbreviation": "TOR",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Montreal Canadiens",
+        "abbreviation": "MTL",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-09-29T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Scotiabank Arena, Toronto, ON"
+    },
+    {
+      "id": "ufc-600060739",
+      "sport": "MMA/UFC",
+      "homeTeam": {
+        "name": "TBD",
+        "record": "9-0-0"
+      },
+      "awayTeam": {
+        "name": "TBD",
+        "record": "17-3-0"
+      },
+      "startTime": "2026-09-29T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "Paramount+"
+      ],
+      "status": "upcoming",
+      "venue": "Meta APEX, Las Vegas, NV",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401907924",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "New York Yankees",
+        "abbreviation": "NYY",
+        "record": "93-68"
+      },
+      "awayTeam": {
+        "name": "Boston Red Sox",
+        "abbreviation": "BOS",
+        "record": "87-75"
+      },
+      "startTime": "2026-09-30T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "NBC"
+      ],
+      "status": "upcoming",
+      "venue": "Yankee Stadium, Bronx, New York",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401891774",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Boston Bruins",
+        "abbreviation": "BOS",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "New York Rangers",
+        "abbreviation": "NYR",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-09-30T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "upcoming",
+      "venue": "TD Garden, Boston, MA",
+      "isNational": true
+    },
+    {
+      "id": "wnba-401918017",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "New York Liberty",
+        "abbreviation": "NY",
+        "record": "26-18"
+      },
+      "awayTeam": {
+        "name": "Minnesota Lynx",
+        "abbreviation": "MIN",
+        "record": "33-11"
+      },
+      "startTime": "2026-09-30T00:30Z",
+      "timeET": "8:30 PM ET",
+      "channels": [
+        "USA Net",
+        "CNBC"
+      ],
+      "status": "upcoming",
+      "venue": "Barclays Center, Brooklyn, NY",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401907974",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "San Diego Padres",
+        "abbreviation": "SD",
+        "record": "91-71"
+      },
+      "awayTeam": {
+        "name": "Chicago Cubs",
+        "abbreviation": "CHC",
+        "record": "89-73"
+      },
+      "startTime": "2026-09-30T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "Peacock",
+        "NBCSN"
+      ],
+      "status": "upcoming",
+      "venue": "Petco Park, San Diego, California",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401891804",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Edmonton Oilers",
+        "abbreviation": "EDM",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Vancouver Canucks",
+        "abbreviation": "VAN",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-09-30T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Rogers Place, Edmonton, AB"
+    },
+    {
+      "id": "nhl-401891775",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Vegas Golden Knights",
+        "abbreviation": "VGK",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Chicago Blackhawks",
+        "abbreviation": "CHI",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-09-30T02:30Z",
+      "timeET": "10:30 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "upcoming",
+      "venue": "T-Mobile Arena, Las Vegas, NV",
+      "isNational": true
+    }
+  ],
+  "lastUpdated": "2026-09-28T03:30:05.733Z"
+}
