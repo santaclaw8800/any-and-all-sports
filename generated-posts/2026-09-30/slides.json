@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-30",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "12 events across International Basketball, MLB, WNBA, NHL, Soccer."
+    },
+    {
+      "title": "Game 1",
+      "body": "Cairns Taipans at New Zealand Breakers 3:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Brisbane Bullets at Sydney Kings 5:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Philadelphia Phillies at Atlanta Braves 2:00 PM ET on NBC"
+    },
+    {
+      "title": "Game 4",
+      "body": "Chicago White Sox at Houston Astros 5:00 PM ET on Peacock / NBCSN"
+    },
+    {
+      "title": "Game 5",
+      "body": "Atlanta Dream at Washington Mystics 7:00 PM ET on ESPN"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-09-28T03:30:19.161Z"
+}

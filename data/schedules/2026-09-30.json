@@ -1,0 +1,266 @@
+{
+  "date": "2026-09-30",
+  "games": [
+    {
+      "id": "nbl-401875246",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "New Zealand Breakers",
+        "abbreviation": "NZL",
+        "record": "1-2"
+      },
+      "awayTeam": {
+        "name": "Cairns Taipans",
+        "abbreviation": "CNS",
+        "record": "1-2"
+      },
+      "startTime": "2026-09-30T07:30Z",
+      "timeET": "3:30 AM ET",
+      "channels": [],
+      "status": "upcoming"
+    },
+    {
+      "id": "nbl-401875279",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Sydney Kings",
+        "abbreviation": "SYD",
+        "record": "2-0"
+      },
+      "awayTeam": {
+        "name": "Brisbane Bullets",
+        "abbreviation": "BRI",
+        "record": "2-0"
+      },
+      "startTime": "2026-09-30T09:30Z",
+      "timeET": "5:30 AM ET",
+      "channels": [],
+      "status": "upcoming"
+    },
+    {
+      "id": "mlb-401907972",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Atlanta Braves",
+        "abbreviation": "ATL",
+        "record": "94-68"
+      },
+      "awayTeam": {
+        "name": "Philadelphia Phillies",
+        "abbreviation": "PHI",
+        "record": "88-74"
+      },
+      "startTime": "2026-09-30T18:00Z",
+      "timeET": "2:00 PM ET",
+      "channels": [
+        "NBC"
+      ],
+      "status": "upcoming",
+      "venue": "Truist Park, Atlanta, Georgia",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401907897",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Houston Astros",
+        "abbreviation": "HOU",
+        "record": "81-81"
+      },
+      "awayTeam": {
+        "name": "Chicago White Sox",
+        "abbreviation": "CHW",
+        "record": "84-78"
+      },
+      "startTime": "2026-09-30T21:00Z",
+      "timeET": "5:00 PM ET",
+      "channels": [
+        "Peacock",
+        "NBCSN"
+      ],
+      "status": "upcoming",
+      "venue": "Daikin Park, Houston, Texas",
+      "isNational": true
+    },
+    {
+      "id": "wnba-401918019",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Washington Mystics",
+        "abbreviation": "WSH",
+        "record": "28-16"
+      },
+      "awayTeam": {
+        "name": "Atlanta Dream",
+        "abbreviation": "ATL",
+        "record": "30-14"
+      },
+      "startTime": "2026-09-30T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "upcoming",
+      "venue": "CareFirst Arena, Washington, DC",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401891821",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Philadelphia Flyers",
+        "abbreviation": "PHI",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Pittsburgh Penguins",
+        "abbreviation": "PIT",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-09-30T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "TNT",
+        "truTV"
+      ],
+      "status": "upcoming",
+      "venue": "Xfinity Mobile Arena, Philadelphia, PA",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401892431",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Toronto Maple Leafs",
+        "abbreviation": "TOR",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "New York Islanders",
+        "abbreviation": "NYI",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-09-30T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "MSGSN"
+      ],
+      "status": "upcoming",
+      "venue": "Scotiabank Arena, Toronto, ON"
+    },
+    {
+      "id": "mls-761833",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Red Bull New York",
+        "abbreviation": "RBNY",
+        "record": "9-6-11"
+      },
+      "awayTeam": {
+        "name": "St. Louis CITY SC",
+        "abbreviation": "STL",
+        "record": "12-8-6"
+      },
+      "startTime": "2026-09-30T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "Apple TV"
+      ],
+      "status": "upcoming",
+      "venue": "Red Bull Arena, Harrison, New Jersey",
+      "isNational": true,
+      "tournament": "MLS"
+    },
+    {
+      "id": "mlb-401907963",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "New York Yankees",
+        "abbreviation": "NYY",
+        "record": "93-68"
+      },
+      "awayTeam": {
+        "name": "Boston Red Sox",
+        "abbreviation": "BOS",
+        "record": "87-75"
+      },
+      "startTime": "2026-10-01T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "NBC"
+      ],
+      "status": "upcoming",
+      "venue": "Yankee Stadium, Bronx, New York",
+      "isNational": true
+    },
+    {
+      "id": "wnba-401918020",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Dallas Wings",
+        "abbreviation": "DAL",
+        "record": "27-17"
+      },
+      "awayTeam": {
+        "name": "Golden State Valkyries",
+        "abbreviation": "GS",
+        "record": "32-12"
+      },
+      "startTime": "2026-10-01T01:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "upcoming",
+      "venue": "College Park Center, Arlington, TX",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401907975",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "San Diego Padres",
+        "abbreviation": "SD",
+        "record": "91-71"
+      },
+      "awayTeam": {
+        "name": "Chicago Cubs",
+        "abbreviation": "CHC",
+        "record": "89-73"
+      },
+      "startTime": "2026-10-01T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "Peacock",
+        "NBCSN"
+      ],
+      "status": "upcoming",
+      "venue": "Petco Park, San Diego, California",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401891780",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Colorado Avalanche",
+        "abbreviation": "COL",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Los Angeles Kings",
+        "abbreviation": "LA",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-01T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "TNT",
+        "truTV"
+      ],
+      "status": "upcoming",
+      "venue": "Ball Arena, Denver, CO",
+      "isNational": true
+    }
+  ],
+  "lastUpdated": "2026-09-28T03:30:06.280Z"
+}
