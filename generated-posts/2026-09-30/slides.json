@@ -2,28 +2,28 @@
   "date": "2026-09-30",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "12 events across International Basketball, MLB, WNBA, NHL, Soccer."
+      "title": "Wednesday's Schedule",
+      "body": "A full slate across MLB, WNBA, NHL, MLS, and international hoops."
     },
     {
-      "title": "Game 1",
-      "body": "Cairns Taipans at New Zealand Breakers 3:30 AM ET on Check listings"
+      "title": "Early Start",
+      "body": "Brisbane Bullets at Sydney Kings — 5:30 AM ET."
     },
     {
-      "title": "Game 2",
-      "body": "Brisbane Bullets at Sydney Kings 5:30 AM ET on Check listings"
+      "title": "Afternoon MLB",
+      "body": "Phillies at Braves — 2:00 PM ET on NBC/ERADM. White Sox at Astros — 5:00 PM ET on Peacock/NBCSN/ERADM."
     },
     {
-      "title": "Game 3",
-      "body": "Philadelphia Phillies at Atlanta Braves 2:00 PM ET on NBC"
+      "title": "Primetime Action",
+      "body": "Dream at Mystics on ESPN, Penguins at Flyers on TNT/truTV, and Red Bulls at CITY on Apple TV."
     },
     {
-      "title": "Game 4",
-      "body": "Chicago White Sox at Houston Astros 5:00 PM ET on Peacock / NBCSN"
+      "title": "Late Games",
+      "body": "Red Sox at Yankees, Valkyries at Wings, Cubs at Padres, and Kings at Avalanche."
     },
     {
-      "title": "Game 5",
-      "body": "Atlanta Dream at Washington Mystics 7:00 PM ET on ESPN"
+      "title": "Watch & Follow",
+      "body": "Check the listed channels and follow @any_and_all_sports for daily updates."
     }
   ],
   "pngFiles": [
@@ -31,5 +31,5 @@
     "slide-2.png",
     "slide-3.png"
   ],
-  "generatedAt": "2026-09-28T03:30:19.161Z"
+  "generatedAt": "2026-09-30T10:00:13.078Z"
 }

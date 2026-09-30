@@ -4,24 +4,6 @@
     "date": "2026-09-30",
     "games": [
       {
-        "id": "nbl-401875246",
-        "sport": "International Basketball",
-        "homeTeam": {
-          "name": "New Zealand Breakers",
-          "abbreviation": "NZL",
-          "record": "1-2"
-        },
-        "awayTeam": {
-          "name": "Cairns Taipans",
-          "abbreviation": "CNS",
-          "record": "1-2"
-        },
-        "startTime": "2026-09-30T07:30Z",
-        "timeET": "3:30 AM ET",
-        "channels": [],
-        "status": "upcoming"
-      },
-      {
         "id": "nbl-401875279",
         "sport": "International Basketball",
         "homeTeam": {
@@ -37,7 +19,12 @@
         "startTime": "2026-09-30T09:30Z",
         "timeET": "5:30 AM ET",
         "channels": [],
-        "status": "upcoming"
+        "status": "live",
+        "currentPeriod": "1",
+        "score": {
+          "home": 21,
+          "away": 29
+        }
       },
       {
         "id": "mlb-401907972",
@@ -55,7 +42,8 @@
         "startTime": "2026-09-30T18:00Z",
         "timeET": "2:00 PM ET",
         "channels": [
-          "NBC"
+          "NBC",
+          "ERADM"
         ],
         "status": "upcoming",
         "venue": "Truist Park, Atlanta, Georgia",
@@ -78,7 +66,8 @@
         "timeET": "5:00 PM ET",
         "channels": [
           "Peacock",
-          "NBCSN"
+          "NBCSN",
+          "ERADM"
         ],
         "status": "upcoming",
         "venue": "Daikin Park, Houston, Texas",
@@ -135,7 +124,7 @@
         "homeTeam": {
           "name": "Toronto Maple Leafs",
           "abbreviation": "TOR",
-          "record": "0-0-0"
+          "record": "0-1-0"
         },
         "awayTeam": {
           "name": "New York Islanders",
@@ -145,10 +134,12 @@
         "startTime": "2026-09-30T23:30Z",
         "timeET": "7:30 PM ET",
         "channels": [
+          "ESPN+",
           "MSGSN"
         ],
         "status": "upcoming",
-        "venue": "Scotiabank Arena, Toronto, ON"
+        "venue": "Scotiabank Arena, Toronto, ON",
+        "isNational": true
       },
       {
         "id": "mls-761833",
@@ -169,7 +160,7 @@
           "Apple TV"
         ],
         "status": "upcoming",
-        "venue": "Red Bull Arena, Harrison, New Jersey",
+        "venue": "Sports Illustrated Stadium, Harrison, New Jersey",
         "isNational": true,
         "tournament": "MLS"
       },
@@ -189,7 +180,8 @@
         "startTime": "2026-10-01T00:00Z",
         "timeET": "8:00 PM ET",
         "channels": [
-          "NBC"
+          "NBC",
+          "ERADM"
         ],
         "status": "upcoming",
         "venue": "Yankee Stadium, Bronx, New York",
@@ -234,7 +226,8 @@
         "timeET": "10:00 PM ET",
         "channels": [
           "Peacock",
-          "NBCSN"
+          "NBCSN",
+          "ERADM"
         ],
         "status": "upcoming",
         "venue": "Petco Park, San Diego, California",
@@ -264,60 +257,51 @@
         "isNational": true
       }
     ],
-    "lastUpdated": "2026-09-28T03:30:06.280Z"
+    "lastUpdated": "2026-09-30T10:00:04.716Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Wednesday, September 30, 2026\n\n🏀 International Basketball  ·  ⚾ MLB  ·  🏀 WNBA  ·  🏒 NHL  ·  ⚽ Soccer\n\n12 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#FIBA #EuroLeague #InternationalBasketball #BasketballWorldCup\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#WNBA #WNBABasketball #WomensBasketball\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Wednesday is packed: MLB, WNBA, NHL, and MLS all day long. Start with Phillies-Braves and White Sox-Astros, then roll into Dream-Mystics, Penguins-Flyers, Red Bulls-CITY, Red Sox-Yankees, and late-night Cubs-Padres and Kings-Avalanche. Watch on NBC, ESPN, TNT, Peacock, Apple TV, and ESPN+. Follow @any_and_all_sports for the daily schedule.",
     "hashtags": [
       "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
       "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
-      "#FIBA",
-      "#EuroLeague",
-      "#InternationalBasketball",
-      "#BasketballWorldCup",
       "#MLB",
-      "#MLBTonight",
-      "#Baseball",
-      "#MLBonFOX",
-      "#MLBonESPN",
       "#WNBA",
-      "#WNBABasketball",
-      "#WomensBasketball",
-      "#NHL"
+      "#NHL",
+      "#MLS",
+      "#Baseball",
+      "#Basketball",
+      "#Hockey",
+      "#Soccer",
+      "#NBC",
+      "#ESPN",
+      "#TNT",
+      "#Peacock",
+      "#AppleTV"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "12 events across International Basketball, MLB, WNBA, NHL, Soccer."
+        "title": "Wednesday's Schedule",
+        "body": "A full slate across MLB, WNBA, NHL, MLS, and international hoops."
       },
       {
-        "title": "Game 1",
-        "body": "Cairns Taipans at New Zealand Breakers 3:30 AM ET on Check listings"
+        "title": "Early Start",
+        "body": "Brisbane Bullets at Sydney Kings — 5:30 AM ET."
       },
       {
-        "title": "Game 2",
-        "body": "Brisbane Bullets at Sydney Kings 5:30 AM ET on Check listings"
+        "title": "Afternoon MLB",
+        "body": "Phillies at Braves — 2:00 PM ET on NBC/ERADM. White Sox at Astros — 5:00 PM ET on Peacock/NBCSN/ERADM."
       },
       {
-        "title": "Game 3",
-        "body": "Philadelphia Phillies at Atlanta Braves 2:00 PM ET on NBC"
+        "title": "Primetime Action",
+        "body": "Dream at Mystics on ESPN, Penguins at Flyers on TNT/truTV, and Red Bulls at CITY on Apple TV."
       },
       {
-        "title": "Game 4",
-        "body": "Chicago White Sox at Houston Astros 5:00 PM ET on Peacock / NBCSN"
+        "title": "Late Games",
+        "body": "Red Sox at Yankees, Valkyries at Wings, Cubs at Padres, and Kings at Avalanche."
       },
       {
-        "title": "Game 5",
-        "body": "Atlanta Dream at Washington Mystics 7:00 PM ET on ESPN"
+        "title": "Watch & Follow",
+        "body": "Check the listed channels and follow @any_and_all_sports for daily updates."
       }
     ],
     "pngFiles": [
@@ -326,5 +310,5 @@
       "slide-3.png"
     ]
   },
-  "lastUpdated": "2026-09-28T03:30:19.161Z"
+  "lastUpdated": "2026-09-30T10:00:13.078Z"
 }
