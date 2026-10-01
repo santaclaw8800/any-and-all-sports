@@ -4,44 +4,6 @@
     "date": "2026-10-01",
     "games": [
       {
-        "id": "wnba-401918021",
-        "sport": "WNBA",
-        "homeTeam": {
-          "name": "Minnesota Lynx",
-          "abbreviation": "MIN",
-          "record": "33-11"
-        },
-        "awayTeam": {
-          "name": "New York Liberty",
-          "abbreviation": "NY",
-          "record": "26-18"
-        },
-        "startTime": "2026-10-01T04:00Z",
-        "timeET": "12:00 AM ET",
-        "channels": [],
-        "status": "upcoming",
-        "venue": "Target Center, Minneapolis, MN"
-      },
-      {
-        "id": "wnba-401918022",
-        "sport": "WNBA",
-        "homeTeam": {
-          "name": "Las Vegas Aces",
-          "abbreviation": "LV",
-          "record": "31-13"
-        },
-        "awayTeam": {
-          "name": "Indiana Fever",
-          "abbreviation": "IND",
-          "record": "28-16"
-        },
-        "startTime": "2026-10-01T04:00Z",
-        "timeET": "12:00 AM ET",
-        "channels": [],
-        "status": "upcoming",
-        "venue": "Michelob ULTRA Arena, Las Vegas, NV"
-      },
-      {
         "id": "pga-401850915",
         "sport": "Golf",
         "homeTeam": {
@@ -109,52 +71,12 @@
         "startTime": "2026-10-01T09:30Z",
         "timeET": "5:30 AM ET",
         "channels": [],
-        "status": "upcoming"
-      },
-      {
-        "id": "mlb-401907973",
-        "sport": "MLB",
-        "homeTeam": {
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL",
-          "record": "94-68"
-        },
-        "awayTeam": {
-          "name": "Philadelphia Phillies",
-          "abbreviation": "PHI",
-          "record": "88-74"
-        },
-        "startTime": "2026-10-01T18:00Z",
-        "timeET": "2:00 PM ET",
-        "channels": [
-          "NBC"
-        ],
-        "status": "upcoming",
-        "venue": "Truist Park, Atlanta, Georgia",
-        "isNational": true
-      },
-      {
-        "id": "mlb-401907898",
-        "sport": "MLB",
-        "homeTeam": {
-          "name": "Houston Astros",
-          "abbreviation": "HOU",
-          "record": "81-81"
-        },
-        "awayTeam": {
-          "name": "Chicago White Sox",
-          "abbreviation": "CHW",
-          "record": "84-78"
-        },
-        "startTime": "2026-10-01T21:00Z",
-        "timeET": "5:00 PM ET",
-        "channels": [
-          "Peacock",
-          "NBCSN"
-        ],
-        "status": "upcoming",
-        "venue": "Daikin Park, Houston, Texas",
-        "isNational": true
+        "status": "live",
+        "currentPeriod": "1",
+        "score": {
+          "home": 18,
+          "away": 12
+        }
       },
       {
         "id": "nhl-401891781",
@@ -191,7 +113,7 @@
         "awayTeam": {
           "name": "Philadelphia Flyers",
           "abbreviation": "PHI",
-          "record": "0-0-0"
+          "record": "0-1-0"
         },
         "startTime": "2026-10-01T23:00Z",
         "timeET": "7:00 PM ET",
@@ -210,7 +132,7 @@
         "homeTeam": {
           "name": "New York Rangers",
           "abbreviation": "NYR",
-          "record": "0-0-0"
+          "record": "0-1-0"
         },
         "awayTeam": {
           "name": "Tampa Bay Lightning",
@@ -251,25 +173,27 @@
         "isNational": true
       },
       {
-        "id": "mlb-401907964",
+        "id": "mlb-401907973",
         "sport": "MLB",
         "homeTeam": {
-          "name": "New York Yankees",
-          "abbreviation": "NYY",
-          "record": "93-68"
+          "name": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "record": "94-68"
         },
         "awayTeam": {
-          "name": "Boston Red Sox",
-          "abbreviation": "BOS",
-          "record": "87-75"
+          "name": "Philadelphia Phillies",
+          "abbreviation": "PHI",
+          "record": "88-74"
         },
         "startTime": "2026-10-02T00:00Z",
         "timeET": "8:00 PM ET",
         "channels": [
-          "NBC"
+          "NBC",
+          "Peacock",
+          "ERADM"
         ],
         "status": "upcoming",
-        "venue": "Yankee Stadium, Bronx, New York",
+        "venue": "Truist Park, Atlanta, Georgia",
         "isNational": true
       },
       {
@@ -319,6 +243,29 @@
         "isNational": true
       },
       {
+        "id": "wnba-401918022",
+        "sport": "WNBA",
+        "homeTeam": {
+          "name": "Las Vegas Aces",
+          "abbreviation": "LV",
+          "record": "31-13"
+        },
+        "awayTeam": {
+          "name": "Indiana Fever",
+          "abbreviation": "IND",
+          "record": "28-16"
+        },
+        "startTime": "2026-10-02T01:00Z",
+        "timeET": "9:00 PM ET",
+        "channels": [
+          "USA Net",
+          "CNBC"
+        ],
+        "status": "upcoming",
+        "venue": "Michelob ULTRA Arena, Las Vegas, NV",
+        "isNational": true
+      },
+      {
         "id": "cfb-401862786",
         "sport": "College Football",
         "homeTeam": {
@@ -358,7 +305,8 @@
         "channels": [
           "ESPN+",
           "KONG",
-          "KHN"
+          "KHN",
+          "Prime Video (Local)"
         ],
         "status": "upcoming",
         "venue": "Scotiabank Saddledome, Calgary, AB",
@@ -375,7 +323,7 @@
         "awayTeam": {
           "name": "Chicago Blackhawks",
           "abbreviation": "CHI",
-          "record": "0-0-0"
+          "record": "0-1-0"
         },
         "startTime": "2026-10-02T01:30Z",
         "timeET": "9:30 PM ET",
@@ -412,29 +360,6 @@
         "tournament": "MLS"
       },
       {
-        "id": "mlb-401907976",
-        "sport": "MLB",
-        "homeTeam": {
-          "name": "San Diego Padres",
-          "abbreviation": "SD",
-          "record": "91-71"
-        },
-        "awayTeam": {
-          "name": "Chicago Cubs",
-          "abbreviation": "CHC",
-          "record": "89-73"
-        },
-        "startTime": "2026-10-02T02:00Z",
-        "timeET": "10:00 PM ET",
-        "channels": [
-          "Peacock",
-          "NBCSN"
-        ],
-        "status": "upcoming",
-        "venue": "Petco Park, San Diego, California",
-        "isNational": true
-      },
-      {
         "id": "nhl-401891823",
         "sport": "NHL",
         "homeTeam": {
@@ -445,7 +370,7 @@
         "awayTeam": {
           "name": "Florida Panthers",
           "abbreviation": "FLA",
-          "record": "0-0-0"
+          "record": "1-0-0"
         },
         "startTime": "2026-10-02T02:00Z",
         "timeET": "10:00 PM ET",
@@ -464,12 +389,12 @@
         "homeTeam": {
           "name": "Vancouver Canucks",
           "abbreviation": "VAN",
-          "record": "0-0-0"
+          "record": "1-0-0"
         },
         "awayTeam": {
           "name": "Edmonton Oilers",
           "abbreviation": "EDM",
-          "record": "0-0-0"
+          "record": "0-0-1"
         },
         "startTime": "2026-10-02T02:00Z",
         "timeET": "10:00 PM ET",
@@ -481,60 +406,46 @@
         "isNational": true
       }
     ],
-    "lastUpdated": "2026-09-28T03:30:06.773Z"
+    "lastUpdated": "2026-10-01T10:00:05.222Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Thursday, October 1, 2026\n\n🏀 WNBA  ·  ⛳ Golf  ·  🏀 International Basketball  ·  ⚾ MLB  ·  🏒 NHL  ·  🏈 College Football  ·  🏈 NFL  ·  ⚽ Soccer\n\n22 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#WNBA #WNBABasketball #WomensBasketball\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#FIBA #EuroLeague #InternationalBasketball #BasketballWorldCup\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n#CollegeFootball #NCAAF #CFB #CFBPlayoff\n#NFL #NFLTonight #Football #NFLSunday #MondayNightFootball #TNF\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Thursday delivers golf all day and a packed night slate: NHL, MLB, WNBA, NFL, college football, MLS, and more. Watch on ESPN+, Disney+/Hulu, NBC, Peacock, Amazon Prime, USA Network, ESPN, CBSSN, Apple TV, and Golf Channel. Follow @any_and_all_sports for daily schedules.",
     "hashtags": [
-      "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
       "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
+      "#NBA",
+      "#NHL",
+      "#MLB",
+      "#MLS",
       "#WNBA",
-      "#WNBABasketball",
-      "#WomensBasketball",
       "#Golf",
-      "#PGA",
-      "#PGATour",
-      "#LPGA",
-      "#LIVGolf",
-      "#ChampionsTour",
-      "#DPWorldTour",
-      "#FIBA",
-      "#EuroLeague",
-      "#InternationalBasketball"
+      "#NFL",
+      "#CollegeFootball",
+      "#ESPN+",
+      "#AmazonPrime",
+      "#Peacock",
+      "#AppleTV",
+      "#AnyAndAllSports"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "22 events across WNBA, Golf, International Basketball, MLB, NHL, College Football, NFL, Soccer."
+        "title": "Golf Starts Early",
+        "body": "Bank of Utah, LOTTE, and Dunhill Links all tee off at 12:00 AM ET."
       },
       {
-        "title": "Game 1",
-        "body": "New York Liberty at Minnesota Lynx 12:00 AM ET on Check listings"
+        "title": "NHL Night Slate",
+        "body": "Seven NHL games start at 7:00 PM ET, with ESPN+, Disney+, Hulu, and regional channels."
       },
       {
-        "title": "Game 2",
-        "body": "Indiana Fever at Las Vegas Aces 12:00 AM ET on Check listings"
+        "title": "MLB, NFL, WNBA",
+        "body": "Phillies-Braves at 8 PM ET, Steelers-Browns at 8:15 PM ET, Fever-Aces at 9 PM ET."
       },
       {
-        "title": "Game 3",
-        "body": "PGA Tour at Bank of Utah Championship 12:00 AM ET on ESPN+ / Golf Chnl"
+        "title": "Soccer + College FB",
+        "body": "SKC at Sounders on Apple TV at 9:30 PM ET. WKU-NMSU and North Texas-Tulsa also on."
       },
       {
-        "title": "Game 4",
-        "body": "LPGA at LOTTE Championship pres. by Hoakalei 12:00 AM ET on Golf Chnl"
-      },
-      {
-        "title": "Game 5",
-        "body": "DP World Tour at Alfred Dunhill Links Championship 12:00 AM ET on Check listings"
+        "title": "Follow for Daily Schedules",
+        "body": "Get every day’s games, start times, and watch info from @any_and_all_sports."
       }
     ],
     "pngFiles": [
@@ -544,5 +455,5 @@
       "slide-4.png"
     ]
   },
-  "lastUpdated": "2026-09-28T03:30:20.344Z"
+  "lastUpdated": "2026-10-01T10:00:12.328Z"
 }
