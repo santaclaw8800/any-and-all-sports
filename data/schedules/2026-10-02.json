@@ -16,7 +16,7 @@
         "ESPN+",
         "Golf Chnl"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "PGA Tour"
     },
@@ -34,7 +34,7 @@
       "channels": [
         "Golf Chnl"
       ],
-      "status": "upcoming",
+      "status": "live",
       "isNational": true,
       "tournament": "LPGA"
     },
@@ -50,46 +50,8 @@
       "startTime": "2026-10-01T04:00Z",
       "timeET": "12:00 AM ET",
       "channels": [],
-      "status": "upcoming",
+      "status": "live",
       "tournament": "DP World Tour"
-    },
-    {
-      "id": "wnba-401918293",
-      "sport": "WNBA",
-      "homeTeam": {
-        "name": "Atlanta Dream",
-        "abbreviation": "ATL",
-        "record": "30-14"
-      },
-      "awayTeam": {
-        "name": "Washington Mystics",
-        "abbreviation": "WSH",
-        "record": "28-16"
-      },
-      "startTime": "2026-10-02T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [],
-      "status": "upcoming",
-      "venue": "State Farm Arena, Atlanta, GA"
-    },
-    {
-      "id": "wnba-401918294",
-      "sport": "WNBA",
-      "homeTeam": {
-        "name": "Golden State Valkyries",
-        "abbreviation": "GS",
-        "record": "32-12"
-      },
-      "awayTeam": {
-        "name": "Dallas Wings",
-        "abbreviation": "DAL",
-        "record": "27-17"
-      },
-      "startTime": "2026-10-02T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [],
-      "status": "upcoming",
-      "venue": "Chase Center, San Francisco, CA"
     },
     {
       "id": "champs-401832077",
@@ -110,23 +72,6 @@
       "tournament": "Champions Tour"
     },
     {
-      "id": "f1-600060990",
-      "sport": "F1",
-      "homeTeam": {
-        "name": "Gulf Air Bahrain Grand Prix in Malaysia"
-      },
-      "awayTeam": {
-        "name": "Formula 1"
-      },
-      "startTime": "2026-10-02T04:30Z",
-      "timeET": "12:30 AM ET",
-      "channels": [
-        "Apple TV"
-      ],
-      "status": "upcoming",
-      "isNational": true
-    },
-    {
       "id": "nbl-401875256",
       "sport": "International Basketball",
       "homeTeam": {
@@ -142,7 +87,12 @@
       "startTime": "2026-10-02T09:30Z",
       "timeET": "5:30 AM ET",
       "channels": [],
-      "status": "upcoming"
+      "status": "live",
+      "currentPeriod": "2",
+      "score": {
+        "home": 44,
+        "away": 24
+      }
     },
     {
       "id": "nbl-401875287",
@@ -173,7 +123,7 @@
       "awayTeam": {
         "name": "New York Rangers",
         "abbreviation": "NYR",
-        "record": "0-0-0"
+        "record": "1-1-0"
       },
       "startTime": "2026-10-02T22:30Z",
       "timeET": "6:30 PM ET",
@@ -235,7 +185,7 @@
       "homeTeam": {
         "name": "Carolina Hurricanes",
         "abbreviation": "CAR",
-        "record": "0-0-0"
+        "record": "0-0-1"
       },
       "awayTeam": {
         "name": "Washington Capitals",
@@ -286,7 +236,7 @@
       "awayTeam": {
         "name": "Boston Bruins",
         "abbreviation": "BOS",
-        "record": "0-0-0"
+        "record": "1-0-0"
       },
       "startTime": "2026-10-03T00:00Z",
       "timeET": "8:00 PM ET",
@@ -322,6 +272,28 @@
       "tournament": "NWSL"
     },
     {
+      "id": "wnba-401918294",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Golden State Valkyries",
+        "abbreviation": "GS",
+        "record": "32-12"
+      },
+      "awayTeam": {
+        "name": "Dallas Wings",
+        "abbreviation": "DAL",
+        "record": "27-17"
+      },
+      "startTime": "2026-10-03T01:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "ESPN2"
+      ],
+      "status": "upcoming",
+      "venue": "Chase Center, San Francisco, CA",
+      "isNational": true
+    },
+    {
       "id": "nhl-401891782",
       "sport": "NHL",
       "homeTeam": {
@@ -350,7 +322,7 @@
       "homeTeam": {
         "name": "Vegas Golden Knights",
         "abbreviation": "VGK",
-        "record": "0-0-0"
+        "record": "1-0-0"
       },
       "awayTeam": {
         "name": "Anaheim Ducks",
@@ -360,9 +332,10 @@
       "startTime": "2026-10-03T02:00Z",
       "timeET": "10:00 PM ET",
       "channels": [
-        "Amazon Prime",
+        "ESPN+",
         "Scripps Sports",
-        "KCOP"
+        "KCOP",
+        "Prime Video (Local)"
       ],
       "status": "upcoming",
       "venue": "T-Mobile Arena, Las Vegas, NV",
@@ -384,6 +357,7 @@
       "startTime": "2026-10-03T02:00Z",
       "timeET": "10:00 PM ET",
       "channels": [
+        "ESPNU",
         "NWSL+"
       ],
       "status": "upcoming",
@@ -392,5 +366,5 @@
       "tournament": "NWSL"
     }
   ],
-  "lastUpdated": "2026-09-28T03:30:07.327Z"
+  "lastUpdated": "2026-10-02T10:00:06.187Z"
 }
