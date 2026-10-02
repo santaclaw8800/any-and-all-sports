@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-02",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "19 events across Golf, WNBA, F1, International Basketball, NHL, College Football, Soccer."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Bank of Utah Championship 12:00 AM ET on ESPN+ / Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at LOTTE Championship pres. by Hoakalei 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "DP World Tour at Alfred Dunhill Links Championship 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Washington Mystics at Atlanta Dream 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Dallas Wings at Golden State Valkyries 12:00 AM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-09-28T03:30:21.560Z"
+}

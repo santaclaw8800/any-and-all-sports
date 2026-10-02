@@ -1,0 +1,396 @@
+{
+  "date": "2026-10-02",
+  "games": [
+    {
+      "id": "pga-401850915",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "Bank of Utah Championship"
+      },
+      "awayTeam": {
+        "name": "PGA Tour"
+      },
+      "startTime": "2026-10-01T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "ESPN+",
+        "Golf Chnl"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "PGA Tour"
+    },
+    {
+      "id": "lpga-401835171",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "LOTTE Championship pres. by Hoakalei"
+      },
+      "awayTeam": {
+        "name": "LPGA"
+      },
+      "startTime": "2026-10-01T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "Golf Chnl"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "LPGA"
+    },
+    {
+      "id": "dpwt-401822704",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "Alfred Dunhill Links Championship"
+      },
+      "awayTeam": {
+        "name": "DP World Tour"
+      },
+      "startTime": "2026-10-01T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [],
+      "status": "upcoming",
+      "tournament": "DP World Tour"
+    },
+    {
+      "id": "wnba-401918293",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Atlanta Dream",
+        "abbreviation": "ATL",
+        "record": "30-14"
+      },
+      "awayTeam": {
+        "name": "Washington Mystics",
+        "abbreviation": "WSH",
+        "record": "28-16"
+      },
+      "startTime": "2026-10-02T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "State Farm Arena, Atlanta, GA"
+    },
+    {
+      "id": "wnba-401918294",
+      "sport": "WNBA",
+      "homeTeam": {
+        "name": "Golden State Valkyries",
+        "abbreviation": "GS",
+        "record": "32-12"
+      },
+      "awayTeam": {
+        "name": "Dallas Wings",
+        "abbreviation": "DAL",
+        "record": "27-17"
+      },
+      "startTime": "2026-10-02T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Chase Center, San Francisco, CA"
+    },
+    {
+      "id": "champs-401832077",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "Jefferson Lehigh Valley Classic"
+      },
+      "awayTeam": {
+        "name": "Champions Tour"
+      },
+      "startTime": "2026-10-02T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "Golf Chnl"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "Champions Tour"
+    },
+    {
+      "id": "f1-600060990",
+      "sport": "F1",
+      "homeTeam": {
+        "name": "Gulf Air Bahrain Grand Prix in Malaysia"
+      },
+      "awayTeam": {
+        "name": "Formula 1"
+      },
+      "startTime": "2026-10-02T04:30Z",
+      "timeET": "12:30 AM ET",
+      "channels": [
+        "Apple TV"
+      ],
+      "status": "upcoming",
+      "isNational": true
+    },
+    {
+      "id": "nbl-401875256",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Illawarra Hawks",
+        "abbreviation": "HWK",
+        "record": "0-3"
+      },
+      "awayTeam": {
+        "name": "Adelaide 36ers",
+        "abbreviation": "ADL",
+        "record": "2-1"
+      },
+      "startTime": "2026-10-02T09:30Z",
+      "timeET": "5:30 AM ET",
+      "channels": [],
+      "status": "upcoming"
+    },
+    {
+      "id": "nbl-401875287",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Perth Wildcats",
+        "abbreviation": "PER",
+        "record": "2-1"
+      },
+      "awayTeam": {
+        "name": "South East Melbourne Phoenix",
+        "abbreviation": "PNX",
+        "record": "1-2"
+      },
+      "startTime": "2026-10-02T11:30Z",
+      "timeET": "7:30 AM ET",
+      "channels": [],
+      "status": "upcoming"
+    },
+    {
+      "id": "nhl-401891803",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Detroit Red Wings",
+        "abbreviation": "DET",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "New York Rangers",
+        "abbreviation": "NYR",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-02T22:30Z",
+      "timeET": "6:30 PM ET",
+      "channels": [
+        "TNT",
+        "truTV"
+      ],
+      "status": "upcoming",
+      "venue": "Little Caesars Arena, Detroit, MI",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858245",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Virginia Tech Hokies",
+        "abbreviation": "VT",
+        "record": "4-0"
+      },
+      "awayTeam": {
+        "name": "Pittsburgh Panthers",
+        "abbreviation": "PITT",
+        "record": "4-0"
+      },
+      "startTime": "2026-10-02T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "upcoming",
+      "venue": "Lane Stadium, Blacksburg, VA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401871050",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Delaware Blue Hens",
+        "abbreviation": "DEL",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Liberty Flames",
+        "abbreviation": "LIB",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-02T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "CBSSN"
+      ],
+      "status": "upcoming",
+      "venue": "Delaware Stadium, Newark, DE",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401892432",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Carolina Hurricanes",
+        "abbreviation": "CAR",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Washington Capitals",
+        "abbreviation": "WSH",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-02T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "MNMT",
+        "CARNHL"
+      ],
+      "status": "upcoming",
+      "venue": "Lenovo Center, Raleigh, NC",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858476",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Northwestern Wildcats",
+        "abbreviation": "NU",
+        "record": "2-1"
+      },
+      "awayTeam": {
+        "name": "Penn State Nittany Lions",
+        "abbreviation": "PSU",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "Fox"
+      ],
+      "status": "upcoming",
+      "venue": "Ryan Field, Evanston, IL",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401891831",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Winnipeg Jets",
+        "abbreviation": "WPG",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Boston Bruins",
+        "abbreviation": "BOS",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-03T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "NESN"
+      ],
+      "status": "upcoming",
+      "venue": "Canada Life Centre, Winnipeg, MB",
+      "isNational": true
+    },
+    {
+      "id": "nwsl-401854015",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Orlando Pride",
+        "abbreviation": "ORL",
+        "record": "10-3-13"
+      },
+      "awayTeam": {
+        "name": "San Diego Wave FC",
+        "abbreviation": "SD",
+        "record": "15-3-8"
+      },
+      "startTime": "2026-10-03T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "Amazon Prime"
+      ],
+      "status": "upcoming",
+      "venue": "Inter&Co Stadium, Orlando, Florida",
+      "isNational": true,
+      "tournament": "NWSL"
+    },
+    {
+      "id": "nhl-401891782",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Dallas Stars",
+        "abbreviation": "DAL",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "St. Louis Blues",
+        "abbreviation": "STL",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-03T01:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "TNT",
+        "truTV"
+      ],
+      "status": "upcoming",
+      "venue": "American Airlines Center, Dallas, TX",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401892433",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Vegas Golden Knights",
+        "abbreviation": "VGK",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Anaheim Ducks",
+        "abbreviation": "ANA",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-03T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "Amazon Prime",
+        "Scripps Sports",
+        "KCOP"
+      ],
+      "status": "upcoming",
+      "venue": "T-Mobile Arena, Las Vegas, NV",
+      "isNational": true
+    },
+    {
+      "id": "nwsl-401854016",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Seattle Reign FC",
+        "abbreviation": "SEA",
+        "record": "12-4-10"
+      },
+      "awayTeam": {
+        "name": "North Carolina Courage",
+        "abbreviation": "NC",
+        "record": "12-3-11"
+      },
+      "startTime": "2026-10-03T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "NWSL+"
+      ],
+      "status": "upcoming",
+      "venue": "Lumen Field, Seattle, Washington",
+      "isNational": true,
+      "tournament": "NWSL"
+    }
+  ],
+  "lastUpdated": "2026-09-28T03:30:07.327Z"
+}
