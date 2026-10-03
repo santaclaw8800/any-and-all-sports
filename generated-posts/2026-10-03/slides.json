@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-03",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "83 events across Golf, F1, MLB, International Basketball, College Football, Soccer, MMA/UFC, NBA, NHL."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at Bank of Utah Championship 12:00 AM ET on ESPN+ / Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "LPGA at LOTTE Championship pres. by Hoakalei 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "DP World Tour at Alfred Dunhill Links Championship 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Champions Tour at Jefferson Lehigh Valley Classic 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 5",
+      "body": "Formula 1 at Gulf Air Bahrain Grand Prix in Malaysia 12:30 AM ET on Apple TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png",
+    "slide-10.png",
+    "slide-11.png",
+    "slide-12.png",
+    "slide-13.png",
+    "slide-14.png",
+    "slide-15.png",
+    "slide-16.png"
+  ],
+  "generatedAt": "2026-09-28T03:30:25.814Z"
+}

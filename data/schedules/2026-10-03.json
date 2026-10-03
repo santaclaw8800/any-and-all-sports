@@ -1,0 +1,1815 @@
+{
+  "date": "2026-10-03",
+  "games": [
+    {
+      "id": "pga-401850915",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "Bank of Utah Championship"
+      },
+      "awayTeam": {
+        "name": "PGA Tour"
+      },
+      "startTime": "2026-10-01T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "ESPN+",
+        "Golf Chnl"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "PGA Tour"
+    },
+    {
+      "id": "lpga-401835171",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "LOTTE Championship pres. by Hoakalei"
+      },
+      "awayTeam": {
+        "name": "LPGA"
+      },
+      "startTime": "2026-10-01T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "Golf Chnl"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "LPGA"
+    },
+    {
+      "id": "dpwt-401822704",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "Alfred Dunhill Links Championship"
+      },
+      "awayTeam": {
+        "name": "DP World Tour"
+      },
+      "startTime": "2026-10-01T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [],
+      "status": "upcoming",
+      "tournament": "DP World Tour"
+    },
+    {
+      "id": "champs-401832077",
+      "sport": "Golf",
+      "homeTeam": {
+        "name": "Jefferson Lehigh Valley Classic"
+      },
+      "awayTeam": {
+        "name": "Champions Tour"
+      },
+      "startTime": "2026-10-02T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "Golf Chnl"
+      ],
+      "status": "upcoming",
+      "isNational": true,
+      "tournament": "Champions Tour"
+    },
+    {
+      "id": "f1-600060990",
+      "sport": "F1",
+      "homeTeam": {
+        "name": "Gulf Air Bahrain Grand Prix in Malaysia"
+      },
+      "awayTeam": {
+        "name": "Formula 1"
+      },
+      "startTime": "2026-10-02T04:30Z",
+      "timeET": "12:30 AM ET",
+      "channels": [
+        "Apple TV"
+      ],
+      "status": "upcoming",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401907985",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB",
+        "record": "98-64"
+      },
+      "awayTeam": {
+        "name": "Yankees/Red Sox",
+        "abbreviation": "Yankees/Red Sox"
+      },
+      "startTime": "2026-10-03T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "TBS",
+        "truTV"
+      ],
+      "status": "upcoming",
+      "venue": "Charlotte Sports Park, Port Charlotte, Florida",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401907990",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE",
+        "record": "85-77"
+      },
+      "awayTeam": {
+        "name": "White Sox/Astros",
+        "abbreviation": "White Sox/Astros"
+      },
+      "startTime": "2026-10-03T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "TBS",
+        "truTV"
+      ],
+      "status": "upcoming",
+      "venue": "Progressive Field, Cleveland, Ohio",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401908002",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL",
+        "record": "103-59"
+      },
+      "awayTeam": {
+        "name": "Padres/Cubs",
+        "abbreviation": "Padres/Cubs"
+      },
+      "startTime": "2026-10-03T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "Fox",
+        "FS1"
+      ],
+      "status": "upcoming",
+      "venue": "American Family Field, Milwaukee, Wisconsin",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401908007",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD",
+        "record": "100-62"
+      },
+      "awayTeam": {
+        "name": "Phillies/Braves",
+        "abbreviation": "Phillies/Braves"
+      },
+      "startTime": "2026-10-03T04:00Z",
+      "timeET": "12:00 AM ET",
+      "channels": [
+        "Fox",
+        "FS1"
+      ],
+      "status": "upcoming",
+      "venue": "Dodger Stadium, Los Angeles, California",
+      "isNational": true
+    },
+    {
+      "id": "nbl-401875250",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Brisbane Bullets",
+        "abbreviation": "BRI",
+        "record": "2-0"
+      },
+      "awayTeam": {
+        "name": "Tasmania JackJumpers",
+        "abbreviation": "TAS",
+        "record": "1-1"
+      },
+      "startTime": "2026-10-03T07:30Z",
+      "timeET": "3:30 AM ET",
+      "channels": [],
+      "status": "upcoming"
+    },
+    {
+      "id": "nbl-401875260",
+      "sport": "International Basketball",
+      "homeTeam": {
+        "name": "Melbourne United",
+        "abbreviation": "MEL",
+        "record": "1-1"
+      },
+      "awayTeam": {
+        "name": "Cairns Taipans",
+        "abbreviation": "CNS",
+        "record": "1-2"
+      },
+      "startTime": "2026-10-03T09:30Z",
+      "timeET": "5:30 AM ET",
+      "channels": [],
+      "status": "upcoming"
+    },
+    {
+      "id": "cfb-401858250",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "North Carolina Tar Heels",
+        "abbreviation": "UNC",
+        "record": "2-1"
+      },
+      "awayTeam": {
+        "name": "Notre Dame Fighting Irish",
+        "abbreviation": "ND",
+        "record": "4-0"
+      },
+      "startTime": "2026-10-03T16:00Z",
+      "timeET": "12:00 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "upcoming",
+      "venue": "Kenan Stadium, Chapel Hill, NC",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856707",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Mississippi State Bulldogs",
+        "abbreviation": "MSST",
+        "record": "4-0"
+      },
+      "awayTeam": {
+        "name": "Alabama Crimson Tide",
+        "abbreviation": "ALA",
+        "record": "4-0"
+      },
+      "startTime": "2026-10-03T16:00Z",
+      "timeET": "12:00 PM ET",
+      "channels": [
+        "ABC"
+      ],
+      "status": "upcoming",
+      "venue": "Davis Wade Stadium, Starkville, MS",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856819",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Houston Cougars",
+        "abbreviation": "HOU",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "UCF Knights",
+        "abbreviation": "UCF",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T16:00Z",
+      "timeET": "12:00 PM ET",
+      "channels": [
+        "ESPN2"
+      ],
+      "status": "upcoming",
+      "venue": "TDECU Stadium, Houston, TX",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858246",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "SMU Mustangs",
+        "abbreviation": "SMU",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Boston College Eagles",
+        "abbreviation": "BC",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-03T16:00Z",
+      "timeET": "12:00 PM ET",
+      "channels": [
+        "CW"
+      ],
+      "status": "upcoming",
+      "venue": "Gerald J. Ford Stadium, Dallas, TX",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856807",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Kansas Jayhawks",
+        "abbreviation": "KU",
+        "record": "1-2"
+      },
+      "awayTeam": {
+        "name": "Middle Tennessee Blue Raiders",
+        "abbreviation": "MTSU",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-03T16:00Z",
+      "timeET": "12:00 PM ET",
+      "channels": [
+        "ESPNU"
+      ],
+      "status": "upcoming",
+      "venue": "David Booth Kansas Memorial Stadium, Lawrence, KS",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856822",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Iowa State Cyclones",
+        "abbreviation": "ISU",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "West Virginia Mountaineers",
+        "abbreviation": "WVU",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T16:00Z",
+      "timeET": "12:00 PM ET",
+      "channels": [
+        "TNT"
+      ],
+      "status": "upcoming",
+      "venue": "Jack Trice Stadium, Ames, IA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858251",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Wake Forest Demon Deacons",
+        "abbreviation": "WAKE",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Stanford Cardinal",
+        "abbreviation": "STAN",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-03T16:00Z",
+      "timeET": "12:00 PM ET",
+      "channels": [
+        "ACC Network"
+      ],
+      "status": "upcoming",
+      "venue": "Allegacy Federal Credit Union Stadium, Winston-Salem, NC",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858252",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "UConn Huskies",
+        "abbreviation": "CONN",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Syracuse Orange",
+        "abbreviation": "SYR",
+        "record": "1-2"
+      },
+      "startTime": "2026-10-03T16:00Z",
+      "timeET": "12:00 PM ET",
+      "channels": [
+        "CBSSN"
+      ],
+      "status": "upcoming",
+      "venue": "Pratt & Whitney Stadium, East Hartford, CT",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858474",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Minnesota Golden Gophers",
+        "abbreviation": "MINN",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Michigan Wolverines",
+        "abbreviation": "MICH",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T16:00Z",
+      "timeET": "12:00 PM ET",
+      "channels": [
+        "Fox"
+      ],
+      "status": "upcoming",
+      "venue": "Huntington Bank Stadium, Minneapolis, MN",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401862791",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Air Force Falcons",
+        "abbreviation": "AFA",
+        "record": "2-1"
+      },
+      "awayTeam": {
+        "name": "Navy Midshipmen",
+        "abbreviation": "NAVY",
+        "record": "1-2"
+      },
+      "startTime": "2026-10-03T16:00Z",
+      "timeET": "12:00 PM ET",
+      "channels": [
+        "CBS"
+      ],
+      "status": "upcoming",
+      "venue": "Falcon Stadium, USAF Academy, CO",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858479",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Wisconsin Badgers",
+        "abbreviation": "WIS",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Michigan State Spartans",
+        "abbreviation": "MSU",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-03T16:30Z",
+      "timeET": "12:30 PM ET",
+      "channels": [
+        "BTN"
+      ],
+      "status": "upcoming",
+      "venue": "Camp Randall Stadium, Madison, WI",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856705",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Georgia Bulldogs",
+        "abbreviation": "UGA",
+        "record": "4-0"
+      },
+      "awayTeam": {
+        "name": "Vanderbilt Commodores",
+        "abbreviation": "VAN",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T16:45Z",
+      "timeET": "12:45 PM ET",
+      "channels": [
+        "SEC Network"
+      ],
+      "status": "upcoming",
+      "venue": "Sanford Stadium, Athens, GA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401866432",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Buffalo Bulls",
+        "abbreviation": "BUFF",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Western Michigan Broncos",
+        "abbreviation": "WMU",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-03T17:00Z",
+      "timeET": "1:00 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Broadview Stadium, Buffalo, NY",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401866431",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Ball State Cardinals",
+        "abbreviation": "BALL",
+        "record": "1-3"
+      },
+      "awayTeam": {
+        "name": "Toledo Rockets",
+        "abbreviation": "TOL",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T18:00Z",
+      "timeET": "2:00 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Scheumann Stadium, Muncie, IN",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858473",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Iowa Hawkeyes",
+        "abbreviation": "IOWA",
+        "record": "4-0"
+      },
+      "awayTeam": {
+        "name": "Ohio State Buckeyes",
+        "abbreviation": "OSU",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "CBS"
+      ],
+      "status": "upcoming",
+      "venue": "Kinnick Stadium, Iowa City, IA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856708",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Missouri Tigers",
+        "abbreviation": "MIZ",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Florida Gators",
+        "abbreviation": "FLA",
+        "record": "4-0"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "ABC"
+      ],
+      "status": "upcoming",
+      "venue": "Memorial Stadium, Columbia, MO",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856710",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Tennessee Volunteers",
+        "abbreviation": "TENN",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Auburn Tigers",
+        "abbreviation": "AUB",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Neyland Stadium, Knoxville, TN"
+    },
+    {
+      "id": "cfb-401858247",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "UNLV Rebels",
+        "abbreviation": "UNLV",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "California Golden Bears",
+        "abbreviation": "CAL",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "CBSSN"
+      ],
+      "status": "upcoming",
+      "venue": "Allegiant Stadium, Las Vegas, NV",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858248",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "NC State Wolfpack",
+        "abbreviation": "NCSU",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Louisville Cardinals",
+        "abbreviation": "LOU",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "ACC Network"
+      ],
+      "status": "upcoming",
+      "venue": "Carter-Finley Stadium, Raleigh, NC",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858253",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Florida State Seminoles",
+        "abbreviation": "FSU",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Virginia Cavaliers",
+        "abbreviation": "UVA",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "ESPN2"
+      ],
+      "status": "upcoming",
+      "venue": "Doak Campbell Stadium, Tallahassee, FL",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401862787",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Charlotte 49ers",
+        "abbreviation": "CLT",
+        "record": "0-4"
+      },
+      "awayTeam": {
+        "name": "Memphis Tigers",
+        "abbreviation": "MEM",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Jerry Richardson Stadium, Charlotte, NC",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401862793",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "UAB Blazers",
+        "abbreviation": "UAB",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Samford Bulldogs",
+        "abbreviation": "SAM",
+        "record": "1-3"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Protective Stadium, Birmingham, AL",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401864515",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "North Dakota State Bison",
+        "abbreviation": "NDSU",
+        "record": "4-0"
+      },
+      "awayTeam": {
+        "name": "Wyoming Cowboys",
+        "abbreviation": "WYO",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "CW"
+      ],
+      "status": "upcoming",
+      "venue": "Fargodome, Fargo, ND",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401866430",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Central Michigan Chippewas",
+        "abbreviation": "CMU",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Akron Zips",
+        "abbreviation": "AKR",
+        "record": "1-3"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Kelly/Shorts Stadium, Mount Pleasant, MI",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401866433",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Massachusetts Minutemen",
+        "abbreviation": "MASS",
+        "record": "4-0"
+      },
+      "awayTeam": {
+        "name": "Eastern Michigan Eagles",
+        "abbreviation": "EMU",
+        "record": "2-3"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Warren McGuirk Alumni Stadium, Amherst, MA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401866434",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Kent State Golden Flashes",
+        "abbreviation": "KENT",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Ohio Bobcats",
+        "abbreviation": "OHIO",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Zoeller Field at Dix Stadium, Kent, OH",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401866477",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Miami (OH) RedHawks",
+        "abbreviation": "M-OH",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Bowling Green Falcons",
+        "abbreviation": "BGSU",
+        "record": "0-4"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Yager Stadium, Oxford, OH",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401869956",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Georgia State Panthers",
+        "abbreviation": "GAST",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Old Dominion Monarchs",
+        "abbreviation": "ODU",
+        "record": "1-3"
+      },
+      "startTime": "2026-10-03T19:30Z",
+      "timeET": "3:30 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Center Parc Stadium, Atlanta, GA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401869962",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "James Madison Dukes",
+        "abbreviation": "JMU",
+        "record": "4-0"
+      },
+      "awayTeam": {
+        "name": "Marshall Thundering Herd",
+        "abbreviation": "MRSH",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T19:45Z",
+      "timeET": "3:45 PM ET",
+      "channels": [
+        "ESPNU"
+      ],
+      "status": "upcoming",
+      "venue": "Bridgeforth Stadium, Harrisonburg, VA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858475",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Nebraska Cornhuskers",
+        "abbreviation": "NEB",
+        "record": "4-0"
+      },
+      "awayTeam": {
+        "name": "Maryland Terrapins",
+        "abbreviation": "MD",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-03T20:00Z",
+      "timeET": "4:00 PM ET",
+      "channels": [
+        "FS1"
+      ],
+      "status": "upcoming",
+      "venue": "Memorial Stadium (Lincoln, NE), Lincoln, NE",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401864514",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "New Mexico Lobos",
+        "abbreviation": "UNM",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "UTEP Miners",
+        "abbreviation": "UTEP",
+        "record": "1-3"
+      },
+      "startTime": "2026-10-03T20:00Z",
+      "timeET": "4:00 PM ET",
+      "channels": [
+        "MW+"
+      ],
+      "status": "upcoming",
+      "venue": "University Stadium (NM), Albuquerque, NM",
+      "isNational": true
+    },
+    {
+      "id": "nwsl-401854017",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Racing Louisville FC",
+        "abbreviation": "LOU",
+        "record": "7-2-17"
+      },
+      "awayTeam": {
+        "name": "Utah Royals",
+        "abbreviation": "UTA",
+        "record": "14-3-9"
+      },
+      "startTime": "2026-10-03T20:00Z",
+      "timeET": "4:00 PM ET",
+      "channels": [
+        "ION"
+      ],
+      "status": "upcoming",
+      "venue": "Lynn Family Stadium, Louisville, Kentucky",
+      "isNational": true,
+      "tournament": "NWSL"
+    },
+    {
+      "id": "ufc-600061182",
+      "sport": "MMA/UFC",
+      "homeTeam": {
+        "name": "TBD",
+        "record": "23-14-0"
+      },
+      "awayTeam": {
+        "name": "TBD",
+        "record": "8-5-0"
+      },
+      "startTime": "2026-10-03T20:00Z",
+      "timeET": "4:00 PM ET",
+      "channels": [
+        "Paramount+"
+      ],
+      "status": "upcoming",
+      "venue": "Delta Center, Salt Lake City, UT",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856709",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "South Carolina Gamecocks",
+        "abbreviation": "SC",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Kentucky Wildcats",
+        "abbreviation": "UK",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T20:15Z",
+      "timeET": "4:15 PM ET",
+      "channels": [
+        "SEC Network"
+      ],
+      "status": "upcoming",
+      "venue": "Williams-Brice Stadium, Columbia, SC",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858472",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Illinois Fighting Illini",
+        "abbreviation": "ILL",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Purdue Boilermakers",
+        "abbreviation": "PUR",
+        "record": "1-3"
+      },
+      "startTime": "2026-10-03T20:15Z",
+      "timeET": "4:15 PM ET",
+      "channels": [
+        "BTN"
+      ],
+      "status": "upcoming",
+      "venue": "Gies Memorial Stadium, Champaign, IL",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401860899",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Colorado State Rams",
+        "abbreviation": "CSU",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Oregon State Beavers",
+        "abbreviation": "ORST",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-03T22:00Z",
+      "timeET": "6:00 PM ET",
+      "channels": [
+        "USA Net"
+      ],
+      "status": "upcoming",
+      "venue": "Canvas Stadium, Fort Collins, CO",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401862790",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Florida Atlantic Owls",
+        "abbreviation": "FAU",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Texas Southern Tigers",
+        "abbreviation": "TXSO",
+        "record": "1-3"
+      },
+      "startTime": "2026-10-03T22:00Z",
+      "timeET": "6:00 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Flagler Credit Union Stadium, Boca Raton, FL",
+      "isNational": true
+    },
+    {
+      "id": "nwsl-401854018",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Kansas City Current",
+        "abbreviation": "KC",
+        "record": "12-5-9"
+      },
+      "awayTeam": {
+        "name": "Bay FC",
+        "abbreviation": "BAY",
+        "record": "7-5-14"
+      },
+      "startTime": "2026-10-03T22:30Z",
+      "timeET": "6:30 PM ET",
+      "channels": [
+        "ION"
+      ],
+      "status": "upcoming",
+      "venue": "CPKC Stadium, Kansas City, Missouri",
+      "isNational": true,
+      "tournament": "NWSL"
+    },
+    {
+      "id": "nba-401902644",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Toronto Raptors",
+        "abbreviation": "TOR",
+        "record": "0-0"
+      },
+      "awayTeam": {
+        "name": "Miami Heat",
+        "abbreviation": "MIA",
+        "record": "0-0"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Videotron Centre, Quebec City, PQ"
+    },
+    {
+      "id": "cfb-401856818",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "TCU Horned Frogs",
+        "abbreviation": "TCU",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "BYU Cougars",
+        "abbreviation": "BYU",
+        "record": "3-0"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "upcoming",
+      "venue": "Amon G. Carter Stadium, Fort Worth, TX",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856711",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Texas A&M Aggies",
+        "abbreviation": "TA&M",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Arkansas Razorbacks",
+        "abbreviation": "ARK",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN2"
+      ],
+      "status": "upcoming",
+      "venue": "Kyle Field, College Station, TX",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401862788",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Rice Owls",
+        "abbreviation": "RICE",
+        "record": "1-3"
+      },
+      "awayTeam": {
+        "name": "UTSA Roadrunners",
+        "abbreviation": "UTSA",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Rice Stadium, Houston, TX",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401869942",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Coastal Carolina Chanticleers",
+        "abbreviation": "CCU",
+        "record": "1-3"
+      },
+      "awayTeam": {
+        "name": "Georgia Southern Eagles",
+        "abbreviation": "GASO",
+        "record": "1-3"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Brooks Stadium (SC), Conway, SC",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401871089",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "South Alabama Jaguars",
+        "abbreviation": "USA",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "UL Monroe Warhawks",
+        "abbreviation": "ULM",
+        "record": "0-4"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Hancock Whitney Stadium, Mobile, AL",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401891776",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Buffalo Sabres",
+        "abbreviation": "BUF",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Chicago Blackhawks",
+        "abbreviation": "CHI",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "CHSN",
+        "MSGB"
+      ],
+      "status": "upcoming",
+      "venue": "KeyBank Center, Buffalo, NY",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401891822",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Pittsburgh Penguins",
+        "abbreviation": "PIT",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Montreal Canadiens",
+        "abbreviation": "MTL",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "PPG Paints Arena, Pittsburgh, PA",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401891826",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Tampa Bay Lightning",
+        "abbreviation": "TB",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Washington Capitals",
+        "abbreviation": "WSH",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "MNMT",
+        "The Spot - MTN"
+      ],
+      "status": "upcoming",
+      "venue": "Benchmark International Arena, Tampa, FL",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401892434",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Toronto Maple Leafs",
+        "abbreviation": "TOR",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Ottawa Senators",
+        "abbreviation": "OTT",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Scotiabank Arena, Toronto, ON",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401892435",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Philadelphia Flyers",
+        "abbreviation": "PHI",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Carolina Hurricanes",
+        "abbreviation": "CAR",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "NBC Sports",
+        "CARNHL"
+      ],
+      "status": "upcoming",
+      "venue": "Xfinity Mobile Arena, Philadelphia, PA",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401892436",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Columbus Blue Jackets",
+        "abbreviation": "CBJ",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Utah Mammoth",
+        "abbreviation": "UTA",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "Utah 16",
+        "CBJNHL"
+      ],
+      "status": "upcoming",
+      "venue": "Nationwide Arena, Columbus, OH",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401892437",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Edmonton Oilers",
+        "abbreviation": "EDM",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Seattle Kraken",
+        "abbreviation": "SEA",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-03T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "NHL Net",
+        "KONG",
+        "KHN"
+      ],
+      "status": "upcoming",
+      "venue": "Rogers Place, Edmonton, AB",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858249",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Clemson Tigers",
+        "abbreviation": "CLEM",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Miami Hurricanes",
+        "abbreviation": "MIA",
+        "record": "4-0"
+      },
+      "startTime": "2026-10-03T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "ABC"
+      ],
+      "status": "upcoming",
+      "venue": "Memorial Stadium (Clemson, SC), Clemson, SC",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856821",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Colorado Buffaloes",
+        "abbreviation": "COLO",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Texas Tech Red Raiders",
+        "abbreviation": "TTU",
+        "record": "4-0"
+      },
+      "startTime": "2026-10-03T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "Fox"
+      ],
+      "status": "upcoming",
+      "venue": "Folsom Field, Boulder, CO",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858478",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "USC Trojans",
+        "abbreviation": "USC",
+        "record": "4-1"
+      },
+      "awayTeam": {
+        "name": "Washington Huskies",
+        "abbreviation": "WASH",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-03T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "NBC"
+      ],
+      "status": "upcoming",
+      "venue": "Los Angeles Memorial Coliseum, Los Angeles, CA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401860898",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Boise State Broncos",
+        "abbreviation": "BOIS",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Utah State Aggies",
+        "abbreviation": "USU",
+        "record": "1-3"
+      },
+      "startTime": "2026-10-03T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "CBSSN"
+      ],
+      "status": "upcoming",
+      "venue": "Albertsons Stadium, Boise, ID",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401862792",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "South Florida Bulls",
+        "abbreviation": "USF",
+        "record": "4-0"
+      },
+      "awayTeam": {
+        "name": "Temple Owls",
+        "abbreviation": "TEM",
+        "record": "1-3"
+      },
+      "startTime": "2026-10-03T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "ESPNU"
+      ],
+      "status": "upcoming",
+      "venue": "Raymond James Stadium, Tampa, FL",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401869842",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Louisiana Tech Bulldogs",
+        "abbreviation": "LT",
+        "record": "1-2"
+      },
+      "awayTeam": {
+        "name": "Army Black Knights",
+        "abbreviation": "ARMY",
+        "record": "2-1"
+      },
+      "startTime": "2026-10-03T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Joe Aillet Stadium, Ruston, LA",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401891818",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "New York Islanders",
+        "abbreviation": "NYI",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "New Jersey Devils",
+        "abbreviation": "NJ",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-03T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "ESPN+",
+        "MSG",
+        "MSGSN"
+      ],
+      "status": "upcoming",
+      "venue": "UBS Arena, Elmont, NY",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856706",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "LSU Tigers",
+        "abbreviation": "LSU",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "McNeese Cowboys",
+        "abbreviation": "MCN",
+        "record": "2-3"
+      },
+      "startTime": "2026-10-03T23:45Z",
+      "timeET": "7:45 PM ET",
+      "channels": [
+        "SEC Network"
+      ],
+      "status": "upcoming",
+      "venue": "Tiger Stadium (LA), Baton Rouge, LA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401858477",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Rutgers Scarlet Knights",
+        "abbreviation": "RUTG",
+        "record": "1-3"
+      },
+      "awayTeam": {
+        "name": "Indiana Hoosiers",
+        "abbreviation": "IU",
+        "record": "4-0"
+      },
+      "startTime": "2026-10-04T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "BTN"
+      ],
+      "status": "upcoming",
+      "venue": "SHI Stadium, Piscataway, NJ",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401869932",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Louisiana Ragin' Cajuns",
+        "abbreviation": "UL",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Arkansas State Red Wolves",
+        "abbreviation": "ARST",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-04T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Our Lady of Lourdes Stadium, Lafayette, LA",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401891814",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Minnesota Wild",
+        "abbreviation": "MIN",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Boston Bruins",
+        "abbreviation": "BOS",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-04T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "MINNHL",
+        "NESN"
+      ],
+      "status": "upcoming",
+      "venue": "Grand Casino Arena, Saint Paul, MN",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401892438",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Nashville Predators",
+        "abbreviation": "NSH",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Dallas Stars",
+        "abbreviation": "DAL",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-04T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "Scripps Sports"
+      ],
+      "status": "upcoming",
+      "venue": "Bridgestone Arena, Nashville, TN",
+      "isNational": true
+    },
+    {
+      "id": "nwsl-401854089",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Portland Thorns FC",
+        "abbreviation": "POR",
+        "record": "12-7-7"
+      },
+      "awayTeam": {
+        "name": "Boston Legacy FC",
+        "abbreviation": "BOS",
+        "record": "7-5-14"
+      },
+      "startTime": "2026-10-04T00:45Z",
+      "timeET": "8:45 PM ET",
+      "channels": [
+        "ION"
+      ],
+      "status": "upcoming",
+      "venue": "Providence Park, Portland, Oregon",
+      "isNational": true,
+      "tournament": "NWSL"
+    },
+    {
+      "id": "nhl-401892439",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Colorado Avalanche",
+        "abbreviation": "COL",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "St. Louis Blues",
+        "abbreviation": "STL",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-04T01:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "Blues App",
+        "Altitude Sports"
+      ],
+      "status": "upcoming",
+      "venue": "Ball Arena, Denver, CO",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401860921",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Washington State Cougars",
+        "abbreviation": "WSU",
+        "record": "1-3"
+      },
+      "awayTeam": {
+        "name": "Fresno State Bulldogs",
+        "abbreviation": "FRES",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-04T01:30Z",
+      "timeET": "9:30 PM ET",
+      "channels": [
+        "USA Net"
+      ],
+      "status": "upcoming",
+      "venue": "Martin Stadium, Pullman, WA",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401892440",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Vancouver Canucks",
+        "abbreviation": "VAN",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Calgary Flames",
+        "abbreviation": "CGY",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-04T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Rogers Arena, Vancouver, BC",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401892441",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "San Jose Sharks",
+        "abbreviation": "SJ",
+        "record": "0-0-0"
+      },
+      "awayTeam": {
+        "name": "Los Angeles Kings",
+        "abbreviation": "LA",
+        "record": "0-0-0"
+      },
+      "startTime": "2026-10-04T02:00Z",
+      "timeET": "10:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "NBC Sports",
+        "ABTV"
+      ],
+      "status": "upcoming",
+      "venue": "SAP Center at San Jose, San Jose, CA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856817",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Arizona State Sun Devils",
+        "abbreviation": "ASU",
+        "record": "2-1"
+      },
+      "awayTeam": {
+        "name": "Baylor Bears",
+        "abbreviation": "BAY",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-04T02:30Z",
+      "timeET": "10:30 PM ET",
+      "channels": [
+        "ESPN"
+      ],
+      "status": "upcoming",
+      "venue": "Mountain America Stadium, Tempe, AZ",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401860900",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "San Diego State Aztecs",
+        "abbreviation": "SDSU",
+        "record": "1-3"
+      },
+      "awayTeam": {
+        "name": "Texas State Bobcats",
+        "abbreviation": "TXST",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-04T02:30Z",
+      "timeET": "10:30 PM ET",
+      "channels": [
+        "CW"
+      ],
+      "status": "upcoming",
+      "venue": "Snapdragon Stadium, San Diego, CA",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401856820",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Arizona Wildcats",
+        "abbreviation": "ARIZ",
+        "record": "3-1"
+      },
+      "awayTeam": {
+        "name": "Cincinnati Bearcats",
+        "abbreviation": "CIN",
+        "record": "4-0"
+      },
+      "startTime": "2026-10-04T03:00Z",
+      "timeET": "11:00 PM ET",
+      "channels": [
+        "Fox"
+      ],
+      "status": "upcoming",
+      "venue": "Casino Del Sol Stadium, Tucson, AZ",
+      "isNational": true
+    },
+    {
+      "id": "cfb-401864513",
+      "sport": "College Football",
+      "homeTeam": {
+        "name": "Hawai'i Rainbow Warriors",
+        "abbreviation": "HAW",
+        "record": "1-3"
+      },
+      "awayTeam": {
+        "name": "San José State Spartans",
+        "abbreviation": "SJSU",
+        "record": "2-2"
+      },
+      "startTime": "2026-10-04T03:59Z",
+      "timeET": "11:59 PM ET",
+      "channels": [
+        "MW+"
+      ],
+      "status": "upcoming",
+      "venue": "Clarence T.C. Ching Athletics Complex, Honolulu, HI",
+      "isNational": true
+    }
+  ],
+  "lastUpdated": "2026-09-28T03:30:07.853Z"
+}
