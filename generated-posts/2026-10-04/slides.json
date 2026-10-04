@@ -2,28 +2,24 @@
   "date": "2026-10-04",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "35 events across Golf, F1, WNBA, MLB, International Basketball, NFL, NHL, Soccer, NBA."
+      "title": "Sunday Sports Schedule",
+      "body": "NFL, NHL, WNBA, MLB, golf, and soccer all on the board today."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at Bank of Utah Championship 12:00 AM ET on ESPN+ / Golf Chnl"
+      "title": "NFL Kickoff Early",
+      "body": "Colts at Commanders starts 9:30 AM ET on NFL Net."
     },
     {
-      "title": "Game 2",
-      "body": "LPGA at LOTTE Championship pres. by Hoakalei 12:00 AM ET on Golf Chnl"
+      "title": "NFL Afternoon Window",
+      "body": "Patriots-Bills, Jets-Bears, Jags-Bengals, more at 1 PM ET on CBS/Fox."
     },
     {
-      "title": "Game 3",
-      "body": "DP World Tour at Alfred Dunhill Links Championship 12:00 AM ET on Check listings"
+      "title": "Hoops, Pucks, and Soccer",
+      "body": "Jets at Red Wings, Liberty at Dream, Aces at Valkyries, Angel City at Gotham."
     },
     {
-      "title": "Game 4",
-      "body": "Champions Tour at Jefferson Lehigh Valley Classic 12:00 AM ET on Golf Chnl"
-    },
-    {
-      "title": "Game 5",
-      "body": "Formula 1 at Gulf Air Bahrain Grand Prix in Malaysia 12:30 AM ET on Apple TV"
+      "title": "Where to Watch",
+      "body": "Watch on NFL Net, CBS, Fox, ESPN, ABC, NBC/Peacock, FS1, ESPN+, and Golf Channel."
     }
   ],
   "pngFiles": [
@@ -33,8 +29,7 @@
     "slide-4.png",
     "slide-5.png",
     "slide-6.png",
-    "slide-7.png",
-    "slide-8.png"
+    "slide-7.png"
   ],
-  "generatedAt": "2026-09-28T03:30:27.841Z"
+  "generatedAt": "2026-10-04T10:00:10.905Z"
 }
