@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-05",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "13 events across Golf, MLB, NBA, NHL, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "LPGA at LOTTE Championship pres. by Hoakalei 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "Chicago White Sox at Cleveland Guardians 5:00 PM ET on TBS / truTV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Memphis Grizzlies at Atlanta Hawks 7:00 PM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Phoenix Suns at Detroit Pistons 7:00 PM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "New York Knicks at Philadelphia 76ers 7:00 PM ET on NBA TV"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-10-05T03:30:18.622Z"
+}
