@@ -4,24 +4,6 @@
     "date": "2026-10-05",
     "games": [
       {
-        "id": "lpga-401835171",
-        "sport": "Golf",
-        "homeTeam": {
-          "name": "LOTTE Championship pres. by Hoakalei"
-        },
-        "awayTeam": {
-          "name": "LPGA"
-        },
-        "startTime": "2026-10-01T04:00Z",
-        "timeET": "12:00 AM ET",
-        "channels": [
-          "Golf Chnl"
-        ],
-        "status": "live",
-        "isNational": true,
-        "tournament": "LPGA"
-      },
-      {
         "id": "mlb-401907991",
         "sport": "MLB",
         "homeTeam": {
@@ -286,60 +268,47 @@
         "isNational": true
       }
     ],
-    "lastUpdated": "2026-10-05T03:30:06.458Z"
+    "lastUpdated": "2026-10-05T10:00:06.119Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Monday, October 5, 2026\n\n⛳ Golf  ·  ⚾ MLB  ·  🏀 NBA  ·  🏒 NHL  ·  🏈 NFL\n\n13 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#NBA #NBATonight #NBABasketball #NBAonESPN #NBAonTNT\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n#NFL #NFLTonight #Football #NFLSunday #MondayNightFootball #TNF\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Monday’s slate is packed: MLB, NBA, NHL and NFL all in play. Start with White Sox-Guardians on TBS/truTV, then roll into NBA and NHL action all night, capped by Falcons-Saints on ESPN. Check local listings, stream where available, and follow @any_and_all_sports for daily schedule drops.",
     "hashtags": [
-      "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
-      "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
-      "#Golf",
-      "#PGA",
-      "#PGATour",
-      "#LPGA",
-      "#LIVGolf",
-      "#ChampionsTour",
-      "#DPWorldTour",
+      "#NBA",
+      "#NHL",
       "#MLB",
-      "#MLBTonight",
+      "#NFL",
+      "#SportsSchedule",
+      "#GameDay",
+      "#TonightOnTV",
+      "#WatchLive",
+      "#Basketball",
+      "#Hockey",
       "#Baseball",
-      "#MLBonFOX",
-      "#MLBonESPN",
-      "#NBA"
+      "#Football",
+      "#ESPN",
+      "#TBS",
+      "#NBA TV"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "13 events across Golf, MLB, NBA, NHL, NFL."
+        "title": "Monday Sports Schedule",
+        "body": "MLB, NBA, NHL and NFL all on the board tonight."
       },
       {
-        "title": "Game 1",
-        "body": "LPGA at LOTTE Championship pres. by Hoakalei 12:00 AM ET on Golf Chnl"
+        "title": "Early Game",
+        "body": "White Sox at Guardians at 5 PM ET on TBS, truTV and ERADM."
       },
       {
-        "title": "Game 2",
-        "body": "Chicago White Sox at Cleveland Guardians 5:00 PM ET on TBS / truTV"
+        "title": "NBA + NHL Wave",
+        "body": "Multiple tipoffs and puck drops at 7 PM ET and 7:30 PM ET."
       },
       {
-        "title": "Game 3",
-        "body": "Memphis Grizzlies at Atlanta Hawks 7:00 PM ET on Check listings"
+        "title": "Late Slate",
+        "body": "Yankees-Rays, Sharks-Stars and Falcons-Saints all follow later."
       },
       {
-        "title": "Game 4",
-        "body": "Phoenix Suns at Detroit Pistons 7:00 PM ET on Check listings"
-      },
-      {
-        "title": "Game 5",
-        "body": "New York Knicks at Philadelphia 76ers 7:00 PM ET on NBA TV"
+        "title": "Watch + Follow",
+        "body": "Check local listings, stream where available, and follow @any_and_all_sports."
       }
     ],
     "pngFiles": [
@@ -348,5 +317,5 @@
       "slide-3.png"
     ]
   },
-  "lastUpdated": "2026-10-05T03:30:18.622Z"
+  "lastUpdated": "2026-10-05T10:00:14.366Z"
 }

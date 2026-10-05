@@ -2,24 +2,6 @@
   "date": "2026-10-05",
   "games": [
     {
-      "id": "lpga-401835171",
-      "sport": "Golf",
-      "homeTeam": {
-        "name": "LOTTE Championship pres. by Hoakalei"
-      },
-      "awayTeam": {
-        "name": "LPGA"
-      },
-      "startTime": "2026-10-01T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [
-        "Golf Chnl"
-      ],
-      "status": "live",
-      "isNational": true,
-      "tournament": "LPGA"
-    },
-    {
       "id": "mlb-401907991",
       "sport": "MLB",
       "homeTeam": {
@@ -284,5 +266,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-10-05T03:30:06.458Z"
+  "lastUpdated": "2026-10-05T10:00:06.119Z"
 }
