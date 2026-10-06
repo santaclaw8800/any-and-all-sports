@@ -102,7 +102,7 @@
       "awayTeam": {
         "name": "Ottawa Senators",
         "abbreviation": "OTT",
-        "record": "1-0-0"
+        "record": "2-0-0"
       },
       "startTime": "2026-10-06T23:00Z",
       "timeET": "7:00 PM ET",
@@ -166,10 +166,12 @@
       "id": "ufc-600060740",
       "sport": "MMA/UFC",
       "homeTeam": {
-        "name": "TBD"
+        "name": "TBD",
+        "record": "6-1-0"
       },
       "awayTeam": {
-        "name": "TBD"
+        "name": "TBD",
+        "record": "6-0-0"
       },
       "startTime": "2026-10-06T23:00Z",
       "timeET": "7:00 PM ET",
@@ -321,7 +323,7 @@
       "awayTeam": {
         "name": "Vegas Golden Knights",
         "abbreviation": "VGK",
-        "record": "1-1-0"
+        "record": "2-1-0"
       },
       "startTime": "2026-10-07T01:00Z",
       "timeET": "9:00 PM ET",
@@ -370,7 +372,7 @@
       "awayTeam": {
         "name": "Los Angeles Lakers",
         "abbreviation": "LAL",
-        "record": "0-0"
+        "record": "1-0"
       },
       "startTime": "2026-10-07T02:00Z",
       "timeET": "10:00 PM ET",
@@ -404,5 +406,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-10-05T03:30:06.987Z"
+  "lastUpdated": "2026-10-06T10:00:06.124Z"
 }
