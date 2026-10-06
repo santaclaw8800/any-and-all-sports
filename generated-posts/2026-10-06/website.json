@@ -1,0 +1,473 @@
+{
+  "date": "2026-10-06",
+  "schedule": {
+    "date": "2026-10-06",
+    "games": [
+      {
+        "id": "mlb-401908015",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Atlanta Braves",
+          "abbreviation": "ATL",
+          "record": "94-68"
+        },
+        "awayTeam": {
+          "name": "Los Angeles Dodgers",
+          "abbreviation": "LAD",
+          "record": "100-62"
+        },
+        "startTime": "2026-10-06T22:00Z",
+        "timeET": "6:00 PM ET",
+        "channels": [
+          "FS1"
+        ],
+        "status": "upcoming",
+        "venue": "Truist Park, Atlanta, Georgia",
+        "isNational": true
+      },
+      {
+        "id": "nba-401901820",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Charlotte Hornets",
+          "abbreviation": "CHA",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Brooklyn Nets",
+          "abbreviation": "BKN",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-06T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "NBA TV"
+        ],
+        "status": "upcoming",
+        "venue": "Spectrum Center, Charlotte, NC",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401891815",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Montreal Canadiens",
+          "abbreviation": "MTL",
+          "record": "1-0-1"
+        },
+        "awayTeam": {
+          "name": "Carolina Hurricanes",
+          "abbreviation": "CAR",
+          "record": "1-1-1"
+        },
+        "startTime": "2026-10-06T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "CARNHL"
+        ],
+        "status": "upcoming",
+        "venue": "Bell Centre, Montreal, QC",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892449",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Toronto Maple Leafs",
+          "abbreviation": "TOR",
+          "record": "1-2-0"
+        },
+        "awayTeam": {
+          "name": "Nashville Predators",
+          "abbreviation": "NSH",
+          "record": "1-1-0"
+        },
+        "startTime": "2026-10-06T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "Scripps Sports"
+        ],
+        "status": "upcoming",
+        "venue": "Scotiabank Arena, Toronto, ON",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892450",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Detroit Red Wings",
+          "abbreviation": "DET",
+          "record": "0-2-0"
+        },
+        "awayTeam": {
+          "name": "Ottawa Senators",
+          "abbreviation": "OTT",
+          "record": "1-0-0"
+        },
+        "startTime": "2026-10-06T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "DSN"
+        ],
+        "status": "upcoming",
+        "venue": "Little Caesars Arena, Detroit, MI",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892451",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "New Jersey Devils",
+          "abbreviation": "NJ",
+          "record": "1-1-0"
+        },
+        "awayTeam": {
+          "name": "Utah Mammoth",
+          "abbreviation": "UTA",
+          "record": "2-1-0"
+        },
+        "startTime": "2026-10-06T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "MSGSN",
+          "Utah 16"
+        ],
+        "status": "upcoming",
+        "venue": "Prudential Center, Newark, NJ",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892453",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Buffalo Sabres",
+          "abbreviation": "BUF",
+          "record": "1-1-0"
+        },
+        "awayTeam": {
+          "name": "Minnesota Wild",
+          "abbreviation": "MIN",
+          "record": "2-0-0"
+        },
+        "startTime": "2026-10-06T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "MSGB",
+          "MINNHL"
+        ],
+        "status": "upcoming",
+        "venue": "KeyBank Center, Buffalo, NY",
+        "isNational": true
+      },
+      {
+        "id": "ufc-600060740",
+        "sport": "MMA/UFC",
+        "homeTeam": {
+          "name": "TBD"
+        },
+        "awayTeam": {
+          "name": "TBD"
+        },
+        "startTime": "2026-10-06T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "Paramount+"
+        ],
+        "status": "upcoming",
+        "venue": "Meta APEX, Las Vegas, NV",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892452",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "New York Rangers",
+          "abbreviation": "NYR",
+          "record": "3-1-0"
+        },
+        "awayTeam": {
+          "name": "New York Islanders",
+          "abbreviation": "NYI",
+          "record": "1-1-0"
+        },
+        "startTime": "2026-10-06T23:30Z",
+        "timeET": "7:30 PM ET",
+        "channels": [
+          "ESPN"
+        ],
+        "status": "upcoming",
+        "venue": "Madison Square Garden, New York, NY",
+        "isNational": true
+      },
+      {
+        "id": "nba-401898389",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Oklahoma City Thunder",
+          "abbreviation": "OKC",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "New Orleans Pelicans",
+          "abbreviation": "NO",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-07T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "BOK Center, Tulsa, OK"
+      },
+      {
+        "id": "cfb-401871090",
+        "sport": "College Football",
+        "homeTeam": {
+          "name": "Troy Trojans",
+          "abbreviation": "TROY",
+          "record": "2-2"
+        },
+        "awayTeam": {
+          "name": "Southern Miss Golden Eagles",
+          "abbreviation": "USM",
+          "record": "1-3"
+        },
+        "startTime": "2026-10-07T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "ESPN2"
+        ],
+        "status": "upcoming",
+        "venue": "Veterans Memorial Stadium (AL), Troy, AL",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401891779",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Chicago Blackhawks",
+          "abbreviation": "CHI",
+          "record": "0-3-0"
+        },
+        "awayTeam": {
+          "name": "St. Louis Blues",
+          "abbreviation": "STL",
+          "record": "1-1-0"
+        },
+        "startTime": "2026-10-07T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "CHSN",
+          "Blues App",
+          "BN+"
+        ],
+        "status": "upcoming",
+        "venue": "United Center, Chicago, IL",
+        "isNational": true
+      },
+      {
+        "id": "mls-761660",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Chicago Fire FC",
+          "abbreviation": "CHI",
+          "record": "12-6-8"
+        },
+        "awayTeam": {
+          "name": "Vancouver Whitecaps",
+          "abbreviation": "VAN",
+          "record": "15-5-6"
+        },
+        "startTime": "2026-10-07T00:30Z",
+        "timeET": "8:30 PM ET",
+        "channels": [
+          "Apple TV"
+        ],
+        "status": "upcoming",
+        "venue": "Soldier Field, Chicago, Illinois",
+        "isNational": true,
+        "tournament": "MLS"
+      },
+      {
+        "id": "nba-401914128",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Utah Jazz",
+          "abbreviation": "UTAH",
+          "record": "1-0"
+        },
+        "awayTeam": {
+          "name": "Denver Nuggets",
+          "abbreviation": "DEN",
+          "record": "0-1"
+        },
+        "startTime": "2026-10-07T01:00Z",
+        "timeET": "9:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Delta Center, Salt Lake City, UT"
+      },
+      {
+        "id": "nhl-401892454",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Seattle Kraken",
+          "abbreviation": "SEA",
+          "record": "2-1-0"
+        },
+        "awayTeam": {
+          "name": "Vegas Golden Knights",
+          "abbreviation": "VGK",
+          "record": "1-1-0"
+        },
+        "startTime": "2026-10-07T01:00Z",
+        "timeET": "9:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "Scripps Sports",
+          "KONG",
+          "KING 5",
+          "KHN",
+          "Prime Video (Local)"
+        ],
+        "status": "upcoming",
+        "venue": "Climate Pledge Arena, Seattle, WA",
+        "isNational": true
+      },
+      {
+        "id": "mlb-401908004",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "San Diego Padres",
+          "abbreviation": "SD",
+          "record": "91-71"
+        },
+        "awayTeam": {
+          "name": "Milwaukee Brewers",
+          "abbreviation": "MIL",
+          "record": "103-59"
+        },
+        "startTime": "2026-10-07T01:30Z",
+        "timeET": "9:30 PM ET",
+        "channels": [
+          "FS1"
+        ],
+        "status": "upcoming",
+        "venue": "Petco Park, San Diego, California",
+        "isNational": true
+      },
+      {
+        "id": "nba-401898390",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Golden State Warriors",
+          "abbreviation": "GS",
+          "record": "0-1"
+        },
+        "awayTeam": {
+          "name": "Los Angeles Lakers",
+          "abbreviation": "LAL",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-07T02:00Z",
+        "timeET": "10:00 PM ET",
+        "channels": [
+          "NBA TV"
+        ],
+        "status": "upcoming",
+        "venue": "Chase Center, San Francisco, CA",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401891806",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Los Angeles Kings",
+          "abbreviation": "LA",
+          "record": "0-1-1"
+        },
+        "awayTeam": {
+          "name": "Florida Panthers",
+          "abbreviation": "FLA",
+          "record": "1-0-2"
+        },
+        "startTime": "2026-10-07T02:00Z",
+        "timeET": "10:00 PM ET",
+        "channels": [
+          "ESPN"
+        ],
+        "status": "upcoming",
+        "venue": "crypto.com Arena, Los Angeles, CA",
+        "isNational": true
+      }
+    ],
+    "lastUpdated": "2026-10-05T03:30:06.987Z"
+  },
+  "social": {
+    "caption": "🏟️ What's On Tonight — Tuesday, October 6, 2026\n\n⚾ MLB  ·  🏀 NBA  ·  🏒 NHL  ·  🥊 MMA/UFC  ·  🏈 College Football  ·  ⚽ Soccer\n\n18 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#NBA #NBATonight #NBABasketball #NBAonESPN #NBAonTNT\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n#UFC #MMA #UFCFightNight #UFCTonight\n#CollegeFootball #NCAAF #CFB #CFBPlayoff\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "hashtags": [
+      "#AnyAndAllSports",
+      "#WhatsOnTonight",
+      "#SportsTonight",
+      "#SportsSchedule",
+      "#SportsTV",
+      "#SportsTVSchedule",
+      "#WatchSports",
+      "#WhereToWatch",
+      "#GameTonight",
+      "#SportsOnTV",
+      "#LiveSports",
+      "#MLB",
+      "#MLBTonight",
+      "#Baseball",
+      "#MLBonFOX",
+      "#MLBonESPN",
+      "#NBA",
+      "#NBATonight",
+      "#NBABasketball",
+      "#NBAonESPN",
+      "#NBAonTNT",
+      "#NHL",
+      "#NHLTonight",
+      "#Hockey"
+    ],
+    "slides": [
+      {
+        "title": "What's On Tonight",
+        "body": "18 events across MLB, NBA, NHL, MMA/UFC, College Football, Soccer."
+      },
+      {
+        "title": "Game 1",
+        "body": "Los Angeles Dodgers at Atlanta Braves 6:00 PM ET on FS1"
+      },
+      {
+        "title": "Game 2",
+        "body": "Brooklyn Nets at Charlotte Hornets 7:00 PM ET on NBA TV"
+      },
+      {
+        "title": "Game 3",
+        "body": "Carolina Hurricanes at Montreal Canadiens 7:00 PM ET on ESPN+ / CARNHL"
+      },
+      {
+        "title": "Game 4",
+        "body": "Nashville Predators at Toronto Maple Leafs 7:00 PM ET on ESPN+ / Scripps Sports"
+      },
+      {
+        "title": "Game 5",
+        "body": "Ottawa Senators at Detroit Red Wings 7:00 PM ET on ESPN+ / DSN"
+      }
+    ],
+    "pngFiles": [
+      "slide-1.png",
+      "slide-2.png",
+      "slide-3.png",
+      "slide-4.png"
+    ]
+  },
+  "lastUpdated": "2026-10-05T03:30:20.332Z"
+}

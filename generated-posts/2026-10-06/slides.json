@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-06",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "18 events across MLB, NBA, NHL, MMA/UFC, College Football, Soccer."
+    },
+    {
+      "title": "Game 1",
+      "body": "Los Angeles Dodgers at Atlanta Braves 6:00 PM ET on FS1"
+    },
+    {
+      "title": "Game 2",
+      "body": "Brooklyn Nets at Charlotte Hornets 7:00 PM ET on NBA TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Carolina Hurricanes at Montreal Canadiens 7:00 PM ET on ESPN+ / CARNHL"
+    },
+    {
+      "title": "Game 4",
+      "body": "Nashville Predators at Toronto Maple Leafs 7:00 PM ET on ESPN+ / Scripps Sports"
+    },
+    {
+      "title": "Game 5",
+      "body": "Ottawa Senators at Detroit Red Wings 7:00 PM ET on ESPN+ / DSN"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-10-05T03:30:20.332Z"
+}
