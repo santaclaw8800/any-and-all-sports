@@ -17,7 +17,12 @@
       "startTime": "2026-10-07T08:30Z",
       "timeET": "4:30 AM ET",
       "channels": [],
-      "status": "upcoming"
+      "status": "live",
+      "currentPeriod": "4",
+      "score": {
+        "home": 64,
+        "away": 80
+      }
     },
     {
       "id": "mlb-401907992",
@@ -36,7 +41,8 @@
       "timeET": "4:00 PM ET",
       "channels": [
         "TBS",
-        "truTV"
+        "truTV",
+        "ERADM"
       ],
       "status": "upcoming",
       "venue": "Rate Field, Chicago, Illinois",
@@ -75,7 +81,7 @@
       "awayTeam": {
         "name": "Minnesota Timberwolves",
         "abbreviation": "MIN",
-        "record": "0-0"
+        "record": "1-0"
       },
       "startTime": "2026-10-07T23:00Z",
       "timeET": "7:00 PM ET",
@@ -163,7 +169,7 @@
       "awayTeam": {
         "name": "Pittsburgh Penguins",
         "abbreviation": "PIT",
-        "record": "2-0-0"
+        "record": "2-1-0"
       },
       "startTime": "2026-10-07T23:30Z",
       "timeET": "7:30 PM ET",
@@ -180,7 +186,7 @@
       "homeTeam": {
         "name": "Winnipeg Jets",
         "abbreviation": "WPG",
-        "record": "1-0-1"
+        "record": "2-0-1"
       },
       "awayTeam": {
         "name": "Colorado Avalanche",
@@ -203,7 +209,7 @@
       "homeTeam": {
         "name": "Memphis Grizzlies",
         "abbreviation": "MEM",
-        "record": "0-0"
+        "record": "1-0"
       },
       "awayTeam": {
         "name": "Orlando Magic",
@@ -222,12 +228,12 @@
       "homeTeam": {
         "name": "Oklahoma City Thunder",
         "abbreviation": "OKC",
-        "record": "0-0"
+        "record": "0-1"
       },
       "awayTeam": {
         "name": "Milwaukee Bucks",
         "abbreviation": "MIL",
-        "record": "0-0"
+        "record": "0-1"
       },
       "startTime": "2026-10-08T00:00Z",
       "timeET": "8:00 PM ET",
@@ -246,7 +252,7 @@
       "awayTeam": {
         "name": "Phoenix Suns",
         "abbreviation": "PHX",
-        "record": "0-0"
+        "record": "0-1"
       },
       "startTime": "2026-10-08T00:00Z",
       "timeET": "8:00 PM ET",
@@ -271,7 +277,8 @@
       "timeET": "8:00 PM ET",
       "channels": [
         "TBS",
-        "truTV"
+        "truTV",
+        "ERADM"
       ],
       "status": "upcoming",
       "venue": "Yankee Stadium, Bronx, New York",
@@ -311,7 +318,7 @@
       "awayTeam": {
         "name": "Golden State Warriors",
         "abbreviation": "GS",
-        "record": "0-1"
+        "record": "1-1"
       },
       "startTime": "2026-10-08T02:00Z",
       "timeET": "10:00 PM ET",
@@ -369,5 +376,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-10-05T03:30:07.640Z"
+  "lastUpdated": "2026-10-07T10:00:01.683Z"
 }
