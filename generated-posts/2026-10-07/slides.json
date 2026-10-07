@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-07",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "17 events across International Basketball, MLB, NBA, College Football, WNBA, NHL."
+    },
+    {
+      "title": "Game 1",
+      "body": "Melbourne United at Adelaide 36ers 4:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Cleveland Guardians at Chicago White Sox 4:00 PM ET on TBS / truTV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Los Angeles Dodgers at Atlanta Braves 6:00 PM ET on FS1"
+    },
+    {
+      "title": "Game 4",
+      "body": "Minnesota Timberwolves at Indiana Pacers 7:00 PM ET on NBA TV"
+    },
+    {
+      "title": "Game 5",
+      "body": "Jacksonville State Gamecocks at Kennesaw State Owls 7:00 PM ET on CBSSN"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png"
+  ],
+  "generatedAt": "2026-10-05T03:30:21.816Z"
+}
