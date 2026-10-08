@@ -1,0 +1,636 @@
+{
+  "date": "2026-10-08",
+  "schedule": {
+    "date": "2026-10-08",
+    "games": [
+      {
+        "id": "pga-401850916",
+        "sport": "Golf",
+        "homeTeam": {
+          "name": "Baycurrent Classic"
+        },
+        "awayTeam": {
+          "name": "PGA Tour"
+        },
+        "startTime": "2026-10-08T04:00Z",
+        "timeET": "12:00 AM ET",
+        "channels": [
+          "Golf Chnl"
+        ],
+        "status": "upcoming",
+        "isNational": true,
+        "tournament": "PGA Tour"
+      },
+      {
+        "id": "dpwt-401822705",
+        "sport": "Golf",
+        "homeTeam": {
+          "name": "Open de España pres. by Madrid"
+        },
+        "awayTeam": {
+          "name": "DP World Tour"
+        },
+        "startTime": "2026-10-08T04:00Z",
+        "timeET": "12:00 AM ET",
+        "channels": [],
+        "status": "upcoming",
+        "tournament": "DP World Tour"
+      },
+      {
+        "id": "nbl-401875265",
+        "sport": "International Basketball",
+        "homeTeam": {
+          "name": "Cairns Taipans",
+          "abbreviation": "CNS",
+          "record": "2-3"
+        },
+        "awayTeam": {
+          "name": "Brisbane Bullets",
+          "abbreviation": "BRI",
+          "record": "2-2"
+        },
+        "startTime": "2026-10-08T08:30Z",
+        "timeET": "4:30 AM ET",
+        "channels": [],
+        "status": "upcoming"
+      },
+      {
+        "id": "mlb-401907993",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "Chicago White Sox",
+          "abbreviation": "CHW",
+          "record": "84-78"
+        },
+        "awayTeam": {
+          "name": "Cleveland Guardians",
+          "abbreviation": "CLE",
+          "record": "85-77"
+        },
+        "startTime": "2026-10-08T21:00Z",
+        "timeET": "5:00 PM ET",
+        "channels": [
+          "TBS",
+          "truTV"
+        ],
+        "status": "upcoming",
+        "venue": "Rate Field, Chicago, Illinois",
+        "isNational": true
+      },
+      {
+        "id": "nba-401898392",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Cleveland Cavaliers",
+          "abbreviation": "CLE",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Boston Celtics",
+          "abbreviation": "BOS",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-08T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Rocket Arena, Cleveland, OH"
+      },
+      {
+        "id": "cfb-401870766",
+        "sport": "College Football",
+        "homeTeam": {
+          "name": "Liberty Flames",
+          "abbreviation": "LIB",
+          "record": "4-1"
+        },
+        "awayTeam": {
+          "name": "Sam Houston Bearkats",
+          "abbreviation": "SHSU",
+          "record": "1-3"
+        },
+        "startTime": "2026-10-08T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPNU"
+        ],
+        "status": "upcoming",
+        "venue": "Williams Stadium (VA), Lynchburg, VA",
+        "isNational": true
+      },
+      {
+        "id": "cfb-401871052",
+        "sport": "College Football",
+        "homeTeam": {
+          "name": "Western Kentucky Hilltoppers",
+          "abbreviation": "WKU",
+          "record": "1-4"
+        },
+        "awayTeam": {
+          "name": "Missouri State Bears",
+          "abbreviation": "MOST",
+          "record": "1-3"
+        },
+        "startTime": "2026-10-08T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "CBSSN"
+        ],
+        "status": "upcoming",
+        "venue": "Houchens Industries-L.T. Smith Stadium, Bowling Green, KY",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401891820",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Ottawa Senators",
+          "abbreviation": "OTT",
+          "record": "1-0-0"
+        },
+        "awayTeam": {
+          "name": "Philadelphia Flyers",
+          "abbreviation": "PHI",
+          "record": "0-1-2"
+        },
+        "startTime": "2026-10-08T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "NBC Sports"
+        ],
+        "status": "upcoming",
+        "venue": "Canadian Tire Centre, Ottawa, ON",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892457",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Boston Bruins",
+          "abbreviation": "BOS",
+          "record": "2-1-0"
+        },
+        "awayTeam": {
+          "name": "Utah Mammoth",
+          "abbreviation": "UTA",
+          "record": "2-1-0"
+        },
+        "startTime": "2026-10-08T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "Utah 16",
+          "NESN"
+        ],
+        "status": "upcoming",
+        "venue": "TD Garden, Boston, MA",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892458",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Buffalo Sabres",
+          "abbreviation": "BUF",
+          "record": "1-1-0"
+        },
+        "awayTeam": {
+          "name": "Dallas Stars",
+          "abbreviation": "DAL",
+          "record": "0-2-0"
+        },
+        "startTime": "2026-10-08T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "MSGB",
+          "Prime Video (Local)"
+        ],
+        "status": "upcoming",
+        "venue": "KeyBank Center, Buffalo, NY",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892459",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Montreal Canadiens",
+          "abbreviation": "MTL",
+          "record": "1-0-1"
+        },
+        "awayTeam": {
+          "name": "Nashville Predators",
+          "abbreviation": "NSH",
+          "record": "1-1-0"
+        },
+        "startTime": "2026-10-08T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "Scripps Sports"
+        ],
+        "status": "upcoming",
+        "venue": "Bell Centre, Montreal, QC",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892460",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Tampa Bay Lightning",
+          "abbreviation": "TB",
+          "record": "1-1-0"
+        },
+        "awayTeam": {
+          "name": "Minnesota Wild",
+          "abbreviation": "MIN",
+          "record": "2-0-0"
+        },
+        "startTime": "2026-10-08T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "MINNHL",
+          "The Spot - MTN"
+        ],
+        "status": "upcoming",
+        "venue": "Benchmark International Arena, Tampa, FL",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892461",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Carolina Hurricanes",
+          "abbreviation": "CAR",
+          "record": "1-1-1"
+        },
+        "awayTeam": {
+          "name": "Vancouver Canucks",
+          "abbreviation": "VAN",
+          "record": "2-1-0"
+        },
+        "startTime": "2026-10-08T23:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "CARNHL"
+        ],
+        "status": "upcoming",
+        "venue": "Lenovo Center, Raleigh, NC",
+        "isNational": true
+      },
+      {
+        "id": "nba-401898393",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Miami Heat",
+          "abbreviation": "MIA",
+          "record": "1-0"
+        },
+        "awayTeam": {
+          "name": "New Orleans Pelicans",
+          "abbreviation": "NO",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-08T23:30Z",
+        "timeET": "7:30 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Kaseya Center, Miami, FL"
+      },
+      {
+        "id": "nba-401901823",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Brooklyn Nets",
+          "abbreviation": "BKN",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Philadelphia 76ers",
+          "abbreviation": "PHI",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-08T23:30Z",
+        "timeET": "7:30 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Barclays Center, Brooklyn, NY"
+      },
+      {
+        "id": "nba-401906508",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "New York Knicks",
+          "abbreviation": "NY",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Washington Wizards",
+          "abbreviation": "WSH",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-08T23:30Z",
+        "timeET": "7:30 PM ET",
+        "channels": [
+          "NBA TV",
+          "MNMT"
+        ],
+        "status": "upcoming",
+        "venue": "Madison Square Garden, New York, NY",
+        "isNational": true
+      },
+      {
+        "id": "cfb-401862794",
+        "sport": "College Football",
+        "homeTeam": {
+          "name": "UTSA Roadrunners",
+          "abbreviation": "UTSA",
+          "record": "4-1"
+        },
+        "awayTeam": {
+          "name": "South Florida Bulls",
+          "abbreviation": "USF",
+          "record": "4-1"
+        },
+        "startTime": "2026-10-08T23:30Z",
+        "timeET": "7:30 PM ET",
+        "channels": [
+          "ESPN"
+        ],
+        "status": "upcoming",
+        "venue": "Alamodome, San Antonio, TX",
+        "isNational": true
+      },
+      {
+        "id": "cfb-401869933",
+        "sport": "College Football",
+        "homeTeam": {
+          "name": "Arkansas State Red Wolves",
+          "abbreviation": "ARST",
+          "record": "2-3"
+        },
+        "awayTeam": {
+          "name": "South Alabama Jaguars",
+          "abbreviation": "USA",
+          "record": "3-2"
+        },
+        "startTime": "2026-10-08T23:30Z",
+        "timeET": "7:30 PM ET",
+        "channels": [
+          "ESPN2"
+        ],
+        "status": "upcoming",
+        "venue": "Centennial Bank Stadium, Jonesboro, AR",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892462",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "New York Islanders",
+          "abbreviation": "NYI",
+          "record": "1-1-0"
+        },
+        "awayTeam": {
+          "name": "Chicago Blackhawks",
+          "abbreviation": "CHI",
+          "record": "0-3-0"
+        },
+        "startTime": "2026-10-08T23:30Z",
+        "timeET": "7:30 PM ET",
+        "channels": [
+          "ESPN+",
+          "CHSN",
+          "MSGSN"
+        ],
+        "status": "upcoming",
+        "venue": "UBS Arena, Elmont, NY",
+        "isNational": true
+      },
+      {
+        "id": "nba-401898394",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "San Antonio Spurs",
+          "abbreviation": "SA",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Atlanta Hawks",
+          "abbreviation": "ATL",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-09T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Frost Bank Center, San Antonio, TX"
+      },
+      {
+        "id": "mlb-401907988",
+        "sport": "MLB",
+        "homeTeam": {
+          "name": "New York Yankees",
+          "abbreviation": "NYY",
+          "record": "93-68"
+        },
+        "awayTeam": {
+          "name": "Tampa Bay Rays",
+          "abbreviation": "TB",
+          "record": "98-64"
+        },
+        "startTime": "2026-10-09T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "TBS",
+          "truTV"
+        ],
+        "status": "upcoming",
+        "venue": "Yankee Stadium, Bronx, New York",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401891825",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "St. Louis Blues",
+          "abbreviation": "STL",
+          "record": "1-1-0"
+        },
+        "awayTeam": {
+          "name": "San Jose Sharks",
+          "abbreviation": "SJ",
+          "record": "2-0-0"
+        },
+        "startTime": "2026-10-09T00:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [
+          "Disney+",
+          "ESPN+",
+          "Hulu"
+        ],
+        "status": "upcoming",
+        "venue": "Enterprise Center, St. Louis, MO",
+        "isNational": true
+      },
+      {
+        "id": "nfl-401872980",
+        "sport": "NFL",
+        "homeTeam": {
+          "name": "Dallas Cowboys",
+          "abbreviation": "DAL",
+          "record": "2-2"
+        },
+        "awayTeam": {
+          "name": "Tampa Bay Buccaneers",
+          "abbreviation": "TB",
+          "record": "0-4"
+        },
+        "startTime": "2026-10-09T00:15Z",
+        "timeET": "8:15 PM ET",
+        "channels": [
+          "Amazon Prime"
+        ],
+        "status": "upcoming",
+        "venue": "AT&T Stadium, Arlington, TX",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892463",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Calgary Flames",
+          "abbreviation": "CGY",
+          "record": "0-3-0"
+        },
+        "awayTeam": {
+          "name": "Colorado Avalanche",
+          "abbreviation": "COL",
+          "record": "2-0-0"
+        },
+        "startTime": "2026-10-09T01:00Z",
+        "timeET": "9:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "Altitude Sports",
+          "KTVD-TV (My20)"
+        ],
+        "status": "upcoming",
+        "venue": "Scotiabank Saddledome, Calgary, AB",
+        "isNational": true
+      },
+      {
+        "id": "nhl-401892464",
+        "sport": "NHL",
+        "homeTeam": {
+          "name": "Vegas Golden Knights",
+          "abbreviation": "VGK",
+          "record": "1-1-0"
+        },
+        "awayTeam": {
+          "name": "Toronto Maple Leafs",
+          "abbreviation": "TOR",
+          "record": "1-2-0"
+        },
+        "startTime": "2026-10-09T02:00Z",
+        "timeET": "10:00 PM ET",
+        "channels": [
+          "ESPN+",
+          "Scripps Sports"
+        ],
+        "status": "upcoming",
+        "venue": "T-Mobile Arena, Las Vegas, NV",
+        "isNational": true
+      },
+      {
+        "id": "nba-401898717",
+        "sport": "NBA",
+        "homeTeam": {
+          "name": "Los Angeles Lakers",
+          "abbreviation": "LAL",
+          "record": "0-0"
+        },
+        "awayTeam": {
+          "name": "Sacramento Kings",
+          "abbreviation": "SAC",
+          "record": "0-0"
+        },
+        "startTime": "2026-10-09T02:30Z",
+        "timeET": "10:30 PM ET",
+        "channels": [
+          "ESPN2"
+        ],
+        "status": "upcoming",
+        "venue": "crypto.com Arena, Los Angeles, CA",
+        "isNational": true
+      }
+    ],
+    "lastUpdated": "2026-10-05T03:30:08.186Z"
+  },
+  "social": {
+    "caption": "🏟️ What's On Tonight — Thursday, October 8, 2026\n\n⛳ Golf  ·  🏀 International Basketball  ·  ⚾ MLB  ·  🏀 NBA  ·  🏈 College Football  ·  🏒 NHL  ·  🏈 NFL\n\n26 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#FIBA #EuroLeague #InternationalBasketball #BasketballWorldCup\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#NBA #NBATonight #NBABasketball #NBAonESPN #NBAonTNT\n#CollegeFootball #NCAAF #CFB #CFBPlayoff\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n#NFL #NFLTonight #Football #NFLSunday #MondayNightFootball #TNF\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "hashtags": [
+      "#AnyAndAllSports",
+      "#WhatsOnTonight",
+      "#SportsTonight",
+      "#SportsSchedule",
+      "#SportsTV",
+      "#SportsTVSchedule",
+      "#WatchSports",
+      "#WhereToWatch",
+      "#GameTonight",
+      "#SportsOnTV",
+      "#LiveSports",
+      "#Golf",
+      "#PGA",
+      "#PGATour",
+      "#LPGA",
+      "#LIVGolf",
+      "#ChampionsTour",
+      "#DPWorldTour",
+      "#FIBA",
+      "#EuroLeague",
+      "#InternationalBasketball",
+      "#BasketballWorldCup",
+      "#MLB",
+      "#MLBTonight"
+    ],
+    "slides": [
+      {
+        "title": "What's On Tonight",
+        "body": "26 events across Golf, International Basketball, MLB, NBA, College Football, NHL, NFL."
+      },
+      {
+        "title": "Game 1",
+        "body": "PGA Tour at Baycurrent Classic 12:00 AM ET on Golf Chnl"
+      },
+      {
+        "title": "Game 2",
+        "body": "DP World Tour at Open de España pres. by Madrid 12:00 AM ET on Check listings"
+      },
+      {
+        "title": "Game 3",
+        "body": "Brisbane Bullets at Cairns Taipans 4:30 AM ET on Check listings"
+      },
+      {
+        "title": "Game 4",
+        "body": "Cleveland Guardians at Chicago White Sox 5:00 PM ET on TBS / truTV"
+      },
+      {
+        "title": "Game 5",
+        "body": "Boston Celtics at Cleveland Cavaliers 7:00 PM ET on Check listings"
+      }
+    ],
+    "pngFiles": [
+      "slide-1.png",
+      "slide-2.png",
+      "slide-3.png",
+      "slide-4.png",
+      "slide-5.png"
+    ]
+  },
+  "lastUpdated": "2026-10-05T03:30:23.417Z"
+}
