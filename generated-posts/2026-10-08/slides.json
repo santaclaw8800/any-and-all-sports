@@ -2,28 +2,24 @@
   "date": "2026-10-08",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "26 events across Golf, International Basketball, MLB, NBA, College Football, NHL, NFL."
+      "title": "Thursday at a glance",
+      "body": "25 events across golf, NBA, NHL, college football, international hoops, and NFL."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at Baycurrent Classic 12:00 AM ET on Golf Chnl"
+      "title": "Top NBA games",
+      "body": "Celtics at Cavaliers, Pelicans at Heat, 76ers at Nets, Wizards at Knicks."
     },
     {
-      "title": "Game 2",
-      "body": "DP World Tour at Open de España pres. by Madrid 12:00 AM ET on Check listings"
+      "title": "Packed NHL slate",
+      "body": "Six 7 PM ET starts, plus Blackhawks at Islanders at 7:30 PM ET."
     },
     {
-      "title": "Game 3",
-      "body": "Brisbane Bullets at Cairns Taipans 4:30 AM ET on Check listings"
+      "title": "College football on TV",
+      "body": "ESPN, ESPN2, ESPNU, and CBSSN carry key FBS matchups tonight."
     },
     {
-      "title": "Game 4",
-      "body": "Cleveland Guardians at Chicago White Sox 5:00 PM ET on TBS / truTV"
-    },
-    {
-      "title": "Game 5",
-      "body": "Boston Celtics at Cleveland Cavaliers 7:00 PM ET on Check listings"
+      "title": "Golf and more early",
+      "body": "PGA Tour and DP World Tour tee off at 12:00 AM ET to start the day."
     }
   ],
   "pngFiles": [
@@ -33,5 +29,5 @@
     "slide-4.png",
     "slide-5.png"
   ],
-  "generatedAt": "2026-10-05T03:30:23.417Z"
+  "generatedAt": "2026-10-08T10:00:13.460Z"
 }
