@@ -17,7 +17,7 @@
         "channels": [
           "Golf Chnl"
         ],
-        "status": "upcoming",
+        "status": "live",
         "isNational": true,
         "tournament": "PGA Tour"
       },
@@ -33,7 +33,7 @@
         "startTime": "2026-10-08T04:00Z",
         "timeET": "12:00 AM ET",
         "channels": [],
-        "status": "upcoming",
+        "status": "live",
         "tournament": "DP World Tour"
       },
       {
@@ -87,7 +87,12 @@
         "startTime": "2026-10-09T08:30Z",
         "timeET": "4:30 AM ET",
         "channels": [],
-        "status": "upcoming"
+        "status": "live",
+        "currentPeriod": "4",
+        "score": {
+          "home": 75,
+          "away": 93
+        }
       },
       {
         "id": "nba-401898395",
@@ -169,9 +174,12 @@
         },
         "startTime": "2026-10-09T18:30Z",
         "timeET": "2:30 PM ET",
-        "channels": [],
+        "channels": [
+          "Fandango"
+        ],
         "status": "upcoming",
         "venue": "Signal Iduna Park, Aue",
+        "isNational": true,
         "tournament": "Bundesliga"
       },
       {
@@ -210,6 +218,7 @@
         "startTime": "2026-10-09T19:00Z",
         "timeET": "3:00 PM ET",
         "channels": [
+          "ESPN Deportes",
           "ESPN+"
         ],
         "status": "upcoming",
@@ -232,9 +241,13 @@
         },
         "startTime": "2026-10-09T19:00Z",
         "timeET": "3:00 PM ET",
-        "channels": [],
+        "channels": [
+          "CBSSN",
+          "Paramount+"
+        ],
         "status": "upcoming",
         "venue": "London Stadium, London",
+        "isNational": true,
         "tournament": "EFL Championship"
       },
       {
@@ -256,28 +269,6 @@
         "status": "upcoming",
         "venue": "Estádio Municipal de Braga, Braga",
         "tournament": "Primeira Liga"
-      },
-      {
-        "id": "mlb-401908006",
-        "sport": "MLB",
-        "homeTeam": {
-          "name": "Milwaukee Brewers",
-          "abbreviation": "MIL",
-          "record": "103-59"
-        },
-        "awayTeam": {
-          "name": "San Diego Padres",
-          "abbreviation": "SD",
-          "record": "91-71"
-        },
-        "startTime": "2026-10-09T20:30Z",
-        "timeET": "4:30 PM ET",
-        "channels": [
-          "FS1"
-        ],
-        "status": "upcoming",
-        "venue": "American Family Field, Milwaukee, Wisconsin",
-        "isNational": true
       },
       {
         "id": "cfb-401858254",
@@ -307,12 +298,12 @@
         "homeTeam": {
           "name": "Detroit Red Wings",
           "abbreviation": "DET",
-          "record": "0-2-0"
+          "record": "1-2-0"
         },
         "awayTeam": {
           "name": "Seattle Kraken",
           "abbreviation": "SEA",
-          "record": "2-1-0"
+          "record": "2-2-0"
         },
         "startTime": "2026-10-09T23:00Z",
         "timeET": "7:00 PM ET",
@@ -334,12 +325,12 @@
         "homeTeam": {
           "name": "Washington Capitals",
           "abbreviation": "WSH",
-          "record": "1-1-0"
+          "record": "2-1-0"
         },
         "awayTeam": {
           "name": "New York Rangers",
           "abbreviation": "NYR",
-          "record": "3-1-0"
+          "record": "4-1-0"
         },
         "startTime": "2026-10-09T23:00Z",
         "timeET": "7:00 PM ET",
@@ -363,7 +354,7 @@
         "awayTeam": {
           "name": "Pittsburgh Penguins",
           "abbreviation": "PIT",
-          "record": "2-0-0"
+          "record": "2-2-0"
         },
         "startTime": "2026-10-09T23:00Z",
         "timeET": "7:00 PM ET",
@@ -403,12 +394,12 @@
         "homeTeam": {
           "name": "Chicago Bulls",
           "abbreviation": "CHI",
-          "record": "0-0"
+          "record": "1-0"
         },
         "awayTeam": {
           "name": "Memphis Grizzlies",
           "abbreviation": "MEM",
-          "record": "0-0"
+          "record": "1-1"
         },
         "startTime": "2026-10-10T00:00Z",
         "timeET": "8:00 PM ET",
@@ -420,39 +411,17 @@
         "isNational": true
       },
       {
-        "id": "mlb-401908017",
-        "sport": "MLB",
-        "homeTeam": {
-          "name": "Los Angeles Dodgers",
-          "abbreviation": "LAD",
-          "record": "100-62"
-        },
-        "awayTeam": {
-          "name": "Atlanta Braves",
-          "abbreviation": "ATL",
-          "record": "94-68"
-        },
-        "startTime": "2026-10-10T00:00Z",
-        "timeET": "8:00 PM ET",
-        "channels": [
-          "Fox"
-        ],
-        "status": "upcoming",
-        "venue": "Dodger Stadium, Los Angeles, California",
-        "isNational": true
-      },
-      {
         "id": "nhl-401892468",
         "sport": "NHL",
         "homeTeam": {
           "name": "Winnipeg Jets",
           "abbreviation": "WPG",
-          "record": "1-0-1"
+          "record": "3-0-1"
         },
         "awayTeam": {
           "name": "Anaheim Ducks",
           "abbreviation": "ANA",
-          "record": "2-0-0"
+          "record": "2-1-0"
         },
         "startTime": "2026-10-10T00:00Z",
         "timeET": "8:00 PM ET",
@@ -614,60 +583,47 @@
         "tournament": "Liga MX"
       }
     ],
-    "lastUpdated": "2026-10-05T03:30:08.840Z"
+    "lastUpdated": "2026-10-09T10:00:05.773Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Friday, October 9, 2026\n\n⛳ Golf  ·  🏎️ F1  ·  🏀 International Basketball  ·  🏀 NBA  ·  ⚽ Soccer  ·  ⚾ MLB  ·  🏈 College Football  ·  🏒 NHL  ·  🏀 WNBA\n\n29 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#F1 #Formula1 #F1Racing #GrandPrix\n#FIBA #EuroLeague #InternationalBasketball #BasketballWorldCup\n#NBA #NBATonight #NBABasketball #NBAonESPN #NBAonTNT\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n#CollegeFootball #NCAAF #CFB #CFBPlayoff\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n#WNBA #WNBABasketball #WomensBasketball\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Big Friday slate: PGA Tour, F1, NBA, soccer, college football, NHL, and WNBA. Watch on Golf Channel, Apple TV, NBA TV, ESPN, ESPN+, ESPN2, NHL Network, and local/league partners. Follow @any_and_all_sports for daily schedule drops.",
     "hashtags": [
-      "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
-      "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
+      "#NBA",
+      "#NHL",
+      "#WNBA",
       "#Golf",
-      "#PGA",
-      "#PGATour",
-      "#LPGA",
-      "#LIVGolf",
-      "#ChampionsTour",
-      "#DPWorldTour",
       "#F1",
-      "#Formula1",
-      "#F1Racing",
-      "#GrandPrix",
-      "#FIBA",
-      "#EuroLeague"
+      "#Soccer",
+      "#CollegeFootball",
+      "#ESPN",
+      "#ESPNPlus",
+      "#NBATV",
+      "#AppleTV",
+      "#GolfChannel",
+      "#NHLNetwork",
+      "#PrimeiraLiga",
+      "#LaLiga"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "29 events across Golf, F1, International Basketball, NBA, Soccer, MLB, College Football, NHL, WNBA."
+        "title": "Friday's Full Slate",
+        "body": "27 games across golf, F1, hoops, soccer, football, and hockey."
       },
       {
-        "title": "Game 1",
-        "body": "PGA Tour at Baycurrent Classic 12:00 AM ET on Golf Chnl"
+        "title": "Top Morning Watch",
+        "body": "PGA Tour, DP World Tour, Champions Tour, and F1 early on TV."
       },
       {
-        "title": "Game 2",
-        "body": "DP World Tour at Open de España pres. by Madrid 12:00 AM ET on Check listings"
+        "title": "Prime Time Hoops",
+        "body": "Rockets at Mavericks on NBA TV; Dream at Liberty on ESPN2."
       },
       {
-        "title": "Game 3",
-        "body": "Champions Tour at Constellation FURYK & FRIENDS 12:00 AM ET on Golf Chnl"
+        "title": "NHL Night",
+        "body": "Kraken-Red Wings, Rangers-Capitals, and Penguins-Blue Jackets."
       },
       {
-        "title": "Game 4",
-        "body": "Formula 1 at Singapore Airlines Singapore Grand Prix 4:30 AM ET on Apple TV"
-      },
-      {
-        "title": "Game 5",
-        "body": "Tasmania JackJumpers at Illawarra Hawks 4:30 AM ET on Check listings"
+        "title": "Where to Tune In",
+        "body": "Watch on ESPN, ESPN+, Golf Channel, Apple TV, NHL Network, and more."
       }
     ],
     "pngFiles": [
@@ -675,9 +631,8 @@
       "slide-2.png",
       "slide-3.png",
       "slide-4.png",
-      "slide-5.png",
-      "slide-6.png"
+      "slide-5.png"
     ]
   },
-  "lastUpdated": "2026-10-05T03:30:25.365Z"
+  "lastUpdated": "2026-10-09T10:00:12.619Z"
 }

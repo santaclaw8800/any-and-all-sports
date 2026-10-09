@@ -2,28 +2,24 @@
   "date": "2026-10-09",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "29 events across Golf, F1, International Basketball, NBA, Soccer, MLB, College Football, NHL, WNBA."
+      "title": "Friday's Full Slate",
+      "body": "27 games across golf, F1, hoops, soccer, football, and hockey."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at Baycurrent Classic 12:00 AM ET on Golf Chnl"
+      "title": "Top Morning Watch",
+      "body": "PGA Tour, DP World Tour, Champions Tour, and F1 early on TV."
     },
     {
-      "title": "Game 2",
-      "body": "DP World Tour at Open de España pres. by Madrid 12:00 AM ET on Check listings"
+      "title": "Prime Time Hoops",
+      "body": "Rockets at Mavericks on NBA TV; Dream at Liberty on ESPN2."
     },
     {
-      "title": "Game 3",
-      "body": "Champions Tour at Constellation FURYK & FRIENDS 12:00 AM ET on Golf Chnl"
+      "title": "NHL Night",
+      "body": "Kraken-Red Wings, Rangers-Capitals, and Penguins-Blue Jackets."
     },
     {
-      "title": "Game 4",
-      "body": "Formula 1 at Singapore Airlines Singapore Grand Prix 4:30 AM ET on Apple TV"
-    },
-    {
-      "title": "Game 5",
-      "body": "Tasmania JackJumpers at Illawarra Hawks 4:30 AM ET on Check listings"
+      "title": "Where to Tune In",
+      "body": "Watch on ESPN, ESPN+, Golf Channel, Apple TV, NHL Network, and more."
     }
   ],
   "pngFiles": [
@@ -31,8 +27,7 @@
     "slide-2.png",
     "slide-3.png",
     "slide-4.png",
-    "slide-5.png",
-    "slide-6.png"
+    "slide-5.png"
   ],
-  "generatedAt": "2026-10-05T03:30:25.365Z"
+  "generatedAt": "2026-10-09T10:00:12.619Z"
 }
