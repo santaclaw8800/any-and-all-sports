@@ -2,28 +2,24 @@
   "date": "2026-10-10",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "139 events across Golf, F1, International Basketball, Soccer, College Football, NHL, MLB, MMA/UFC, NBA."
+      "title": "Saturday Sports Schedule",
+      "body": "Golf, soccer, NBA, NHL, MLB and college football on deck all day."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at Baycurrent Classic 12:00 AM ET on Golf Chnl"
+      "title": "Morning Golf",
+      "body": "PGA Tour, DP World Tour and Champions Tour tee off at 12:00 AM ET."
     },
     {
-      "title": "Game 2",
-      "body": "DP World Tour at Open de España pres. by Madrid 12:00 AM ET on Check listings"
+      "title": "Top Soccer Window",
+      "body": "Arsenal, Chelsea, Aston Villa and Athletic Club all kick early."
     },
     {
-      "title": "Game 3",
-      "body": "Champions Tour at Constellation FURYK & FRIENDS 12:00 AM ET on Golf Chnl"
+      "title": "Where to Watch",
+      "body": "Golf Channel, USA, Universo, ESPN+, Peacock, Paramount+ and CBSSN."
     },
     {
-      "title": "Game 4",
-      "body": "Formula 1 at Singapore Airlines Singapore Grand Prix 4:30 AM ET on Apple TV"
-    },
-    {
-      "title": "Game 5",
-      "body": "Melbourne United at South East Melbourne Phoenix 4:30 AM ET on Check listings"
+      "title": "Follow the Feed",
+      "body": "Get daily schedule posts from @any_and_all_sports."
     }
   ],
   "pngFiles": [
@@ -53,5 +49,5 @@
     "slide-24.png",
     "slide-25.png"
   ],
-  "generatedAt": "2026-10-05T03:30:32.183Z"
+  "generatedAt": "2026-10-10T10:00:18.161Z"
 }
