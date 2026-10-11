@@ -2,28 +2,24 @@
   "date": "2026-10-11",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "60 events across Golf, F1, WNBA, MLB, International Basketball, NBA, Soccer, NFL, NHL."
+      "title": "Today's schedule",
+      "body": "55 games across golf, NBA, NFL, NHL, MLB, and soccer."
     },
     {
-      "title": "Game 1",
-      "body": "PGA Tour at Baycurrent Classic 12:00 AM ET on Golf Chnl"
+      "title": "Early golf",
+      "body": "PGA Tour, DP World Tour, and Champions Tour all start at 12:00 AM ET."
     },
     {
-      "title": "Game 2",
-      "body": "DP World Tour at Open de España pres. by Madrid 12:00 AM ET on Check listings"
+      "title": "NBA on TV",
+      "body": "Mavericks at Rockets at 6:00 AM ET on NBA TV."
     },
     {
-      "title": "Game 3",
-      "body": "Champions Tour at Constellation FURYK & FRIENDS 12:00 AM ET on Golf Chnl"
+      "title": "Soccer all morning",
+      "body": "EPL, Serie A, La Liga, Ligue 1, and more on ESPN+, Peacock, Paramount+, USA, CBSSN, and beIN."
     },
     {
-      "title": "Game 4",
-      "body": "Formula 1 at Singapore Airlines Singapore Grand Prix 4:30 AM ET on Apple TV"
-    },
-    {
-      "title": "Game 5",
-      "body": "Atlanta Dream at New York Liberty 12:00 AM ET on ABC"
+      "title": "NFL feature game",
+      "body": "Eagles at Jaguars at 9:30 AM ET on NFL Net."
     }
   ],
   "pngFiles": [
@@ -37,8 +33,7 @@
     "slide-8.png",
     "slide-9.png",
     "slide-10.png",
-    "slide-11.png",
-    "slide-12.png"
+    "slide-11.png"
   ],
-  "generatedAt": "2026-10-05T03:30:35.483Z"
+  "generatedAt": "2026-10-11T10:00:07.682Z"
 }
