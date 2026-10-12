@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-12",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "16 events across Soccer, NHL, NBA, MLB, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "Venezia at Atalanta 12:30 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 2",
+      "body": "Florida Panthers at Buffalo Sabres 1:00 PM ET on ESPN+ / Scripps Sports"
+    },
+    {
+      "title": "Game 3",
+      "body": "Udinese at Torino 2:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 4",
+      "body": "Newcastle United at Coventry City 3:00 PM ET on USA Net"
+    },
+    {
+      "title": "Game 5",
+      "body": "Sevilla at Levante 3:00 PM ET on ESPN Deportes / ESPN+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-10-12T03:30:14.684Z"
+}

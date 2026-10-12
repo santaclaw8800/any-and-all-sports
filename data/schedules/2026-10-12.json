@@ -1,0 +1,360 @@
+{
+  "date": "2026-10-12",
+  "games": [
+    {
+      "id": "seriea-401875005",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Atalanta",
+        "abbreviation": "ATA",
+        "record": "2-0-3"
+      },
+      "awayTeam": {
+        "name": "Venezia",
+        "abbreviation": "VEN",
+        "record": "0-0-5"
+      },
+      "startTime": "2026-10-12T16:30Z",
+      "timeET": "12:30 PM ET",
+      "channels": [
+        "Paramount+"
+      ],
+      "status": "upcoming",
+      "venue": "New Balance Arena, Bergamo",
+      "isNational": true,
+      "tournament": "Serie A"
+    },
+    {
+      "id": "nhl-401892485",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Buffalo Sabres",
+        "abbreviation": "BUF",
+        "record": "2-3-0"
+      },
+      "awayTeam": {
+        "name": "Florida Panthers",
+        "abbreviation": "FLA",
+        "record": "2-1-2"
+      },
+      "startTime": "2026-10-12T17:00Z",
+      "timeET": "1:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "Scripps Sports",
+        "MSGB"
+      ],
+      "status": "upcoming",
+      "venue": "KeyBank Center, Buffalo, NY",
+      "isNational": true
+    },
+    {
+      "id": "seriea-401874763",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Torino",
+        "abbreviation": "TOR",
+        "record": "1-1-3"
+      },
+      "awayTeam": {
+        "name": "Udinese",
+        "abbreviation": "UDI",
+        "record": "1-1-3"
+      },
+      "startTime": "2026-10-12T18:45Z",
+      "timeET": "2:45 PM ET",
+      "channels": [
+        "Paramount+"
+      ],
+      "status": "upcoming",
+      "venue": "Stadio Olimpico Grande Torino, Torino",
+      "isNational": true,
+      "tournament": "Serie A"
+    },
+    {
+      "id": "epl-401879267",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Coventry City",
+        "abbreviation": "COV",
+        "record": "1-0-4"
+      },
+      "awayTeam": {
+        "name": "Newcastle United",
+        "abbreviation": "NEW",
+        "record": "2-2-1"
+      },
+      "startTime": "2026-10-12T19:00Z",
+      "timeET": "3:00 PM ET",
+      "channels": [
+        "USA Net"
+      ],
+      "status": "upcoming",
+      "venue": "Coventry Building Society Arena, Coventry",
+      "isNational": true,
+      "tournament": "Premier League"
+    },
+    {
+      "id": "laliga-401882852",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "Levante",
+        "abbreviation": "LEV",
+        "record": "1-2-3"
+      },
+      "awayTeam": {
+        "name": "Sevilla",
+        "abbreviation": "SEV",
+        "record": "4-1-2"
+      },
+      "startTime": "2026-10-12T19:00Z",
+      "timeET": "3:00 PM ET",
+      "channels": [
+        "ESPN Deportes",
+        "ESPN+"
+      ],
+      "status": "upcoming",
+      "venue": "Estadi Ciutat de València, Manises",
+      "isNational": true,
+      "tournament": "La Liga"
+    },
+    {
+      "id": "primeiraliga-401885425",
+      "sport": "Soccer",
+      "homeTeam": {
+        "name": "FC Famalicao",
+        "abbreviation": "FCF",
+        "record": "1-4-2"
+      },
+      "awayTeam": {
+        "name": "Alverca",
+        "abbreviation": "ALV",
+        "record": "2-2-3"
+      },
+      "startTime": "2026-10-12T19:15Z",
+      "timeET": "3:15 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Estádio Municipal 22 de Junho, Vila Nova de Famalicão",
+      "tournament": "Primeira Liga"
+    },
+    {
+      "id": "nba-401914130",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Portland Trail Blazers",
+        "abbreviation": "POR",
+        "record": "1-0"
+      },
+      "awayTeam": {
+        "name": "London Lions",
+        "abbreviation": "LON"
+      },
+      "startTime": "2026-10-12T20:00Z",
+      "timeET": "4:00 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Moda Center, Portland, OR"
+    },
+    {
+      "id": "mlb-401908031",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Milwaukee Brewers",
+        "abbreviation": "MIL",
+        "record": "103-59"
+      },
+      "awayTeam": {
+        "name": "Los Angeles Dodgers",
+        "abbreviation": "LAD",
+        "record": "100-62"
+      },
+      "startTime": "2026-10-12T21:00Z",
+      "timeET": "5:00 PM ET",
+      "channels": [
+        "Fox",
+        "FS1",
+        "ERADM"
+      ],
+      "status": "upcoming",
+      "venue": "American Family Field, Milwaukee, Wisconsin",
+      "isNational": true
+    },
+    {
+      "id": "nba-401898402",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Atlanta Hawks",
+        "abbreviation": "ATL",
+        "record": "2-1"
+      },
+      "awayTeam": {
+        "name": "Oklahoma City Thunder",
+        "abbreviation": "OKC",
+        "record": "0-2"
+      },
+      "startTime": "2026-10-12T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "State Farm Arena, Atlanta, GA"
+    },
+    {
+      "id": "nba-401901824",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Washington Wizards",
+        "abbreviation": "WSH",
+        "record": "2-0"
+      },
+      "awayTeam": {
+        "name": "Brooklyn Nets",
+        "abbreviation": "BKN",
+        "record": "2-0"
+      },
+      "startTime": "2026-10-12T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "MNMT"
+      ],
+      "status": "upcoming",
+      "venue": "Capital One Arena, Washington, DC"
+    },
+    {
+      "id": "nhl-401892486",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "New Jersey Devils",
+        "abbreviation": "NJ",
+        "record": "2-2-0"
+      },
+      "awayTeam": {
+        "name": "Ottawa Senators",
+        "abbreviation": "OTT",
+        "record": "4-1-0"
+      },
+      "startTime": "2026-10-12T23:00Z",
+      "timeET": "7:00 PM ET",
+      "channels": [
+        "NHL Net",
+        "MSGSN"
+      ],
+      "status": "upcoming",
+      "venue": "Prudential Center, Newark, NJ",
+      "isNational": true
+    },
+    {
+      "id": "nba-401914124",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "New York Knicks",
+        "abbreviation": "NY",
+        "record": "0-2"
+      },
+      "awayTeam": {
+        "name": "Minnesota Timberwolves",
+        "abbreviation": "MIN",
+        "record": "2-1"
+      },
+      "startTime": "2026-10-12T23:30Z",
+      "timeET": "7:30 PM ET",
+      "channels": [
+        "NBA TV"
+      ],
+      "status": "upcoming",
+      "venue": "Madison Square Garden, New York, NY",
+      "isNational": true
+    },
+    {
+      "id": "mlb-401908023",
+      "sport": "MLB",
+      "homeTeam": {
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB",
+        "record": "98-64"
+      },
+      "awayTeam": {
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE",
+        "record": "85-77"
+      },
+      "startTime": "2026-10-13T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "TBS",
+        "truTV",
+        "ERADM"
+      ],
+      "status": "upcoming",
+      "venue": "Tropicana Field, St. Petersburg, Florida",
+      "isNational": true
+    },
+    {
+      "id": "nhl-401892487",
+      "sport": "NHL",
+      "homeTeam": {
+        "name": "Minnesota Wild",
+        "abbreviation": "MIN",
+        "record": "3-1-1"
+      },
+      "awayTeam": {
+        "name": "Vegas Golden Knights",
+        "abbreviation": "VGK",
+        "record": "5-1-0"
+      },
+      "startTime": "2026-10-13T00:00Z",
+      "timeET": "8:00 PM ET",
+      "channels": [
+        "ESPN+",
+        "Scripps Sports",
+        "MINNHL"
+      ],
+      "status": "upcoming",
+      "venue": "Grand Casino Arena, Saint Paul, MN",
+      "isNational": true
+    },
+    {
+      "id": "nfl-401872994",
+      "sport": "NFL",
+      "homeTeam": {
+        "name": "Los Angeles Rams",
+        "abbreviation": "LAR",
+        "record": "2-2"
+      },
+      "awayTeam": {
+        "name": "Buffalo Bills",
+        "abbreviation": "BUF",
+        "record": "3-1"
+      },
+      "startTime": "2026-10-13T00:15Z",
+      "timeET": "8:15 PM ET",
+      "channels": [
+        "ESPN",
+        "ABC"
+      ],
+      "status": "upcoming",
+      "venue": "SoFi Stadium, Inglewood, CA",
+      "isNational": true
+    },
+    {
+      "id": "nba-401898721",
+      "sport": "NBA",
+      "homeTeam": {
+        "name": "Utah Jazz",
+        "abbreviation": "UTAH",
+        "record": "1-1"
+      },
+      "awayTeam": {
+        "name": "San Antonio Spurs",
+        "abbreviation": "SA",
+        "record": "0-2"
+      },
+      "startTime": "2026-10-13T01:00Z",
+      "timeET": "9:00 PM ET",
+      "channels": [],
+      "status": "upcoming",
+      "venue": "Delta Center, Salt Lake City, UT"
+    }
+  ],
+  "lastUpdated": "2026-10-12T03:30:02.938Z"
+}
