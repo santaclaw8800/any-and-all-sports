@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-13",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "42 events across Soccer, NHL, NBA, College Football, MMA/UFC, MLB."
+    },
+    {
+      "title": "Game 1",
+      "body": "Sporting CP at Lens 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 2",
+      "body": "Slavia Prague at Sabah FK 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Blackburn Rovers at Bristol City 2:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 4",
+      "body": "Charlton Athletic at Burnley 2:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Watford at Cardiff City 2:45 PM ET on Paramount+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png"
+  ],
+  "generatedAt": "2026-10-12T03:30:15.668Z"
+}
