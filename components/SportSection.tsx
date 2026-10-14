@@ -1,13 +1,16 @@
 import { Game, SportCategory } from '@/lib/types';
 import { SPORT_CONFIG } from '@/lib/sports-config';
+import { generateGameAnchorId } from '@/lib/game-share';
 import GameCard from './GameCard';
 
 interface SportSectionProps {
   sport: SportCategory;
   games: Game[];
+  date: string;
+  highlightedGameId?: string | null;
 }
 
-export default function SportSection({ sport, games }: SportSectionProps) {
+export default function SportSection({ sport, games, date, highlightedGameId }: SportSectionProps) {
   const config = SPORT_CONFIG[sport];
   const liveCount = games.filter((g) => g.status === 'live').length;
 
@@ -40,7 +43,12 @@ export default function SportSection({ sport, games }: SportSectionProps) {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-3">
         {games.map((game) => (
-          <GameCard key={game.id} game={game} />
+          <GameCard
+            key={game.id}
+            game={game}
+            date={date}
+            isHighlighted={highlightedGameId === generateGameAnchorId(game)}
+          />
         ))}
       </div>
     </section>

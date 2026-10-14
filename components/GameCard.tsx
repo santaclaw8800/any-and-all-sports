@@ -1,17 +1,31 @@
 'use client';
 
+import { useState, useCallback } from 'react';
 import { Game } from '@/lib/types';
 import { SPORT_CONFIG } from '@/lib/sports-config';
 import { getAffiliateConfig } from '@/lib/affiliates';
+import { generateGameAnchorId, shareGame } from '@/lib/game-share';
 import AffiliateButton from './AffiliateButton';
 import WatchDropdown from './WatchDropdown';
+import Toast from './Toast';
 
 interface GameCardProps {
   game: Game;
+  date: string;
+  isHighlighted?: boolean;
 }
 
-export default function GameCard({ game }: GameCardProps) {
+export default function GameCard({ game, date, isHighlighted }: GameCardProps) {
   const config = SPORT_CONFIG[game.sport];
+  const anchorId = generateGameAnchorId(game);
+  const [toastVisible, setToastVisible] = useState(false);
+
+  const handleShare = useCallback(async () => {
+    const result = await shareGame(game, date);
+    if (result === 'copied') {
+      setToastVisible(true);
+    }
+  }, [game, date]);
 
   const statusBadge = () => {
     switch (game.status) {
@@ -58,7 +72,10 @@ export default function GameCard({ game }: GameCardProps) {
 
   return (
     <div
-      className="relative rounded-xl border border-zinc-800 bg-zinc-900 p-4 hover:border-zinc-700 transition-all duration-200 hover:bg-zinc-800/80"
+      id={anchorId}
+      className={`group relative rounded-xl border border-zinc-800 bg-zinc-900 p-4 hover:border-zinc-700 transition-all duration-200 hover:bg-zinc-800/80 ${
+        isHighlighted ? 'ring-2 ring-emerald-500 animate-highlight' : ''
+      }`}
       style={{ borderLeftColor: config.color, borderLeftWidth: 3 }}
     >
       {/* Tournament/Description badge */}
@@ -196,6 +213,36 @@ export default function GameCard({ game }: GameCardProps) {
           title="National broadcast"
         />
       )}
+
+      {/* Share button */}
+      <button
+        onClick={handleShare}
+        className="absolute top-3 right-8 p-1 rounded-md text-zinc-600 hover:text-zinc-300 hover:bg-zinc-800 transition-all opacity-0 group-hover:opacity-100 focus:opacity-100"
+        title="Share this game"
+        aria-label="Share this game"
+      >
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          width="14"
+          height="14"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="2"
+          strokeLinecap="round"
+          strokeLinejoin="round"
+        >
+          <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" />
+          <polyline points="16 6 12 2 8 6" />
+          <line x1="12" y1="2" x2="12" y2="15" />
+        </svg>
+      </button>
+
+      <Toast
+        message="Link copied!"
+        visible={toastVisible}
+        onClose={() => setToastVisible(false)}
+      />
     </div>
   );
 }

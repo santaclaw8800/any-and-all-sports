@@ -3,6 +3,7 @@
 import { useCallback, useMemo, useState } from 'react';
 import { DaySchedule, Game, SportCategory } from '@/lib/types';
 import { groupGamesBySport, getSportOrder, getLiveGames } from '@/lib/schedule-utils';
+import { useGameAnchor } from '@/hooks/useGameAnchor';
 import LiveNowSection from './LiveNowSection';
 import SportSection from './SportSection';
 import SportFilter from './SportFilter';
@@ -14,6 +15,7 @@ interface ScheduleViewProps {
 export default function ScheduleView({ schedule }: ScheduleViewProps) {
   const [activeSport, setActiveSport] = useState<SportCategory | null>(null);
   const [searchQuery, setSearchQuery] = useState('');
+  const { highlightedId } = useGameAnchor();
 
   const handleFilter = useCallback((sport: SportCategory | null) => {
     setActiveSport(sport);
@@ -57,9 +59,19 @@ export default function ScheduleView({ schedule }: ScheduleViewProps) {
       <SportFilter sports={allSports} onFilter={handleFilter} onSearch={handleSearch} />
 
       {/* Live now */}
-      {!searchQuery && !activeSport && <LiveNowSection games={liveGames} />}
+      {!searchQuery && !activeSport && (
+        <LiveNowSection
+          games={liveGames}
+          date={schedule.date}
+          highlightedGameId={highlightedId}
+        />
+      )}
       {(searchQuery || activeSport) && liveGames.length > 0 && (
-        <LiveNowSection games={liveGames} />
+        <LiveNowSection
+          games={liveGames}
+          date={schedule.date}
+          highlightedGameId={highlightedId}
+        />
       )}
 
       {/* No results */}
@@ -74,7 +86,13 @@ export default function ScheduleView({ schedule }: ScheduleViewProps) {
       {/* Sport sections */}
       <div className="space-y-10">
         {sportOrder.map((sport) => (
-          <SportSection key={sport} sport={sport} games={grouped[sport] || []} />
+          <SportSection
+            key={sport}
+            sport={sport}
+            games={grouped[sport] || []}
+            date={schedule.date}
+            highlightedGameId={highlightedId}
+          />
         ))}
       </div>
 

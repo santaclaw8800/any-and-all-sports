@@ -1,11 +1,27 @@
+'use client';
+
+import { useState, useCallback } from 'react';
 import { Game } from '@/lib/types';
 import { SPORT_CONFIG } from '@/lib/sports-config';
+import { generateGameAnchorId, shareGame } from '@/lib/game-share';
+import Toast from './Toast';
 
 interface LiveNowSectionProps {
   games: Game[];
+  date: string;
+  highlightedGameId?: string | null;
 }
 
-export default function LiveNowSection({ games }: LiveNowSectionProps) {
+export default function LiveNowSection({ games, date, highlightedGameId }: LiveNowSectionProps) {
+  const [toastVisible, setToastVisible] = useState(false);
+
+  const handleShare = useCallback(async (game: Game) => {
+    const result = await shareGame(game, date);
+    if (result === 'copied') {
+      setToastVisible(true);
+    }
+  }, [date]);
+
   if (games.length === 0) return null;
 
   return (
@@ -21,10 +37,15 @@ export default function LiveNowSection({ games }: LiveNowSectionProps) {
       <div className="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-3">
         {games.map((game) => {
           const config = SPORT_CONFIG[game.sport];
+          const anchorId = generateGameAnchorId(game);
+          const isHighlighted = highlightedGameId === anchorId;
           return (
             <div
               key={game.id}
-              className="relative rounded-xl p-4 border border-red-600/30 bg-red-950/20 hover:bg-red-950/30 transition-all"
+              id={anchorId}
+              className={`group relative rounded-xl p-4 border border-red-600/30 bg-red-950/20 hover:bg-red-950/30 transition-all ${
+                isHighlighted ? 'ring-2 ring-emerald-500 animate-highlight' : ''
+              }`}
               style={{ borderLeftColor: config.color, borderLeftWidth: 3 }}
             >
               {/* Sport tag */}
@@ -95,10 +116,40 @@ export default function LiveNowSection({ games }: LiveNowSectionProps) {
                   </span>
                 ))}
               </div>
+
+              {/* Share button */}
+              <button
+                onClick={() => handleShare(game)}
+                className="absolute top-3 right-3 p-1 rounded-md text-zinc-600 hover:text-zinc-300 hover:bg-zinc-800/50 transition-all opacity-0 group-hover:opacity-100 focus:opacity-100"
+                title="Share this game"
+                aria-label="Share this game"
+              >
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="14"
+                  height="14"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8" />
+                  <polyline points="16 6 12 2 8 6" />
+                  <line x1="12" y1="2" x2="12" y2="15" />
+                </svg>
+              </button>
             </div>
           );
         })}
       </div>
+
+      <Toast
+        message="Link copied!"
+        visible={toastVisible}
+        onClose={() => setToastVisible(false)}
+      />
     </section>
   );
 }
