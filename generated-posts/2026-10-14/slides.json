@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-14",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "42 events across International Basketball, Soccer, NBA, College Football, NHL, MLB."
+    },
+    {
+      "title": "Game 1",
+      "body": "New Zealand Breakers at Sydney Kings 4:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Como at Feyenoord Rotterdam 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Liverpool at LASK Linz 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 4",
+      "body": "Southampton at Norwich City 2:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Sheffield United at Portsmouth 2:45 PM ET on Paramount+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png"
+  ],
+  "generatedAt": "2026-10-12T03:30:16.597Z"
+}
