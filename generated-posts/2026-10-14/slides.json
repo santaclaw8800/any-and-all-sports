@@ -2,28 +2,24 @@
   "date": "2026-10-14",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "42 events across International Basketball, Soccer, NBA, College Football, NHL, MLB."
+      "title": "Morning Start",
+      "body": "4:30 AM ET: New Zealand Breakers at Sydney Kings."
     },
     {
-      "title": "Game 1",
-      "body": "New Zealand Breakers at Sydney Kings 4:30 AM ET on Check listings"
+      "title": "UCL + EFL Noon",
+      "body": "12:45 PM ET: Como at Feyenoord Rotterdam, Liverpool at LASK Linz."
     },
     {
-      "title": "Game 2",
-      "body": "Como at Feyenoord Rotterdam 12:45 PM ET on Paramount+"
+      "title": "Afternoon Soccer",
+      "body": "3:00 PM ET: Real Madrid at AS Roma, PSG at Manchester City, plus more on Paramount+."
     },
     {
-      "title": "Game 3",
-      "body": "Liverpool at LASK Linz 12:45 PM ET on Paramount+"
+      "title": "Tonight on TV",
+      "body": "7:30 PM ET: Nets at Heat, Hornets at Celtics, and Canadiens at Capitals."
     },
     {
-      "title": "Game 4",
-      "body": "Southampton at Norwich City 2:45 PM ET on Paramount+"
-    },
-    {
-      "title": "Game 5",
-      "body": "Sheffield United at Portsmouth 2:45 PM ET on Paramount+"
+      "title": "Watch & Follow",
+      "body": "Streams on Paramount+, ESPN+, and CBSSN. Follow @any_and_all_sports for the daily board."
     }
   ],
   "pngFiles": [
@@ -36,5 +32,5 @@
     "slide-7.png",
     "slide-8.png"
   ],
-  "generatedAt": "2026-10-12T03:30:16.597Z"
+  "generatedAt": "2026-10-14T10:00:10.793Z"
 }

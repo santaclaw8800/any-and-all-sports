@@ -17,7 +17,12 @@
       "startTime": "2026-10-14T08:30Z",
       "timeET": "4:30 AM ET",
       "channels": [],
-      "status": "upcoming"
+      "status": "live",
+      "currentPeriod": "4",
+      "score": {
+        "home": 73,
+        "away": 75
+      }
     },
     {
       "id": "ucl-401915416",
@@ -35,6 +40,7 @@
       "startTime": "2026-10-14T16:45Z",
       "timeET": "12:45 PM ET",
       "channels": [
+        "CBSSN",
         "Paramount+"
       ],
       "status": "upcoming",
@@ -126,12 +132,9 @@
       },
       "startTime": "2026-10-14T18:45Z",
       "timeET": "2:45 PM ET",
-      "channels": [
-        "Paramount+"
-      ],
+      "channels": [],
       "status": "upcoming",
       "venue": "MATRADE Loftus Road, London",
-      "isNational": true,
       "tournament": "EFL Championship"
     },
     {
@@ -196,6 +199,7 @@
       "startTime": "2026-10-14T19:00Z",
       "timeET": "3:00 PM ET",
       "channels": [
+        "CBSSN",
         "Paramount+"
       ],
       "status": "upcoming",
@@ -329,7 +333,7 @@
       "awayTeam": {
         "name": "Brooklyn Nets",
         "abbreviation": "BKN",
-        "record": "2-0"
+        "record": "3-0"
       },
       "startTime": "2026-10-14T23:30Z",
       "timeET": "7:30 PM ET",
@@ -384,12 +388,12 @@
       "homeTeam": {
         "name": "Washington Capitals",
         "abbreviation": "WSH",
-        "record": "3-2-0"
+        "record": "3-3-0"
       },
       "awayTeam": {
         "name": "Montreal Canadiens",
         "abbreviation": "MTL",
-        "record": "2-2-1"
+        "record": "3-2-1"
       },
       "startTime": "2026-10-14T23:30Z",
       "timeET": "7:30 PM ET",
@@ -545,7 +549,7 @@
       "homeTeam": {
         "name": "San Antonio Spurs",
         "abbreviation": "SA",
-        "record": "0-2"
+        "record": "0-3"
       },
       "awayTeam": {
         "name": "Phoenix Suns",
@@ -591,7 +595,7 @@
       "awayTeam": {
         "name": "Chicago Bulls",
         "abbreviation": "CHI",
-        "record": "1-1"
+        "record": "1-2"
       },
       "startTime": "2026-10-15T00:00Z",
       "timeET": "8:00 PM ET",
@@ -605,7 +609,7 @@
       "homeTeam": {
         "name": "Minnesota Timberwolves",
         "abbreviation": "MIN",
-        "record": "2-1"
+        "record": "3-1"
       },
       "awayTeam": {
         "name": "Detroit Pistons",
@@ -668,12 +672,12 @@
       "homeTeam": {
         "name": "Colorado Avalanche",
         "abbreviation": "COL",
-        "record": "3-2-0"
+        "record": "4-2-0"
       },
       "awayTeam": {
         "name": "Dallas Stars",
         "abbreviation": "DAL",
-        "record": "2-2-1"
+        "record": "2-3-1"
       },
       "startTime": "2026-10-15T00:30Z",
       "timeET": "8:30 PM ET",
@@ -852,7 +856,7 @@
       "awayTeam": {
         "name": "Denver Nuggets",
         "abbreviation": "DEN",
-        "record": "1-1"
+        "record": "2-1"
       },
       "startTime": "2026-10-15T02:30Z",
       "timeET": "10:30 PM ET",
@@ -933,5 +937,5 @@
       "tournament": "MLS"
     }
   ],
-  "lastUpdated": "2026-10-12T03:30:04.046Z"
+  "lastUpdated": "2026-10-14T10:00:04.984Z"
 }

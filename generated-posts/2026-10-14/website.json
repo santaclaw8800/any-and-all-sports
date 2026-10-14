@@ -19,7 +19,12 @@
         "startTime": "2026-10-14T08:30Z",
         "timeET": "4:30 AM ET",
         "channels": [],
-        "status": "upcoming"
+        "status": "live",
+        "currentPeriod": "4",
+        "score": {
+          "home": 73,
+          "away": 75
+        }
       },
       {
         "id": "ucl-401915416",
@@ -37,6 +42,7 @@
         "startTime": "2026-10-14T16:45Z",
         "timeET": "12:45 PM ET",
         "channels": [
+          "CBSSN",
           "Paramount+"
         ],
         "status": "upcoming",
@@ -128,12 +134,9 @@
         },
         "startTime": "2026-10-14T18:45Z",
         "timeET": "2:45 PM ET",
-        "channels": [
-          "Paramount+"
-        ],
+        "channels": [],
         "status": "upcoming",
         "venue": "MATRADE Loftus Road, London",
-        "isNational": true,
         "tournament": "EFL Championship"
       },
       {
@@ -198,6 +201,7 @@
         "startTime": "2026-10-14T19:00Z",
         "timeET": "3:00 PM ET",
         "channels": [
+          "CBSSN",
           "Paramount+"
         ],
         "status": "upcoming",
@@ -331,7 +335,7 @@
         "awayTeam": {
           "name": "Brooklyn Nets",
           "abbreviation": "BKN",
-          "record": "2-0"
+          "record": "3-0"
         },
         "startTime": "2026-10-14T23:30Z",
         "timeET": "7:30 PM ET",
@@ -386,12 +390,12 @@
         "homeTeam": {
           "name": "Washington Capitals",
           "abbreviation": "WSH",
-          "record": "3-2-0"
+          "record": "3-3-0"
         },
         "awayTeam": {
           "name": "Montreal Canadiens",
           "abbreviation": "MTL",
-          "record": "2-2-1"
+          "record": "3-2-1"
         },
         "startTime": "2026-10-14T23:30Z",
         "timeET": "7:30 PM ET",
@@ -547,7 +551,7 @@
         "homeTeam": {
           "name": "San Antonio Spurs",
           "abbreviation": "SA",
-          "record": "0-2"
+          "record": "0-3"
         },
         "awayTeam": {
           "name": "Phoenix Suns",
@@ -593,7 +597,7 @@
         "awayTeam": {
           "name": "Chicago Bulls",
           "abbreviation": "CHI",
-          "record": "1-1"
+          "record": "1-2"
         },
         "startTime": "2026-10-15T00:00Z",
         "timeET": "8:00 PM ET",
@@ -607,7 +611,7 @@
         "homeTeam": {
           "name": "Minnesota Timberwolves",
           "abbreviation": "MIN",
-          "record": "2-1"
+          "record": "3-1"
         },
         "awayTeam": {
           "name": "Detroit Pistons",
@@ -670,12 +674,12 @@
         "homeTeam": {
           "name": "Colorado Avalanche",
           "abbreviation": "COL",
-          "record": "3-2-0"
+          "record": "4-2-0"
         },
         "awayTeam": {
           "name": "Dallas Stars",
           "abbreviation": "DAL",
-          "record": "2-2-1"
+          "record": "2-3-1"
         },
         "startTime": "2026-10-15T00:30Z",
         "timeET": "8:30 PM ET",
@@ -854,7 +858,7 @@
         "awayTeam": {
           "name": "Denver Nuggets",
           "abbreviation": "DEN",
-          "record": "1-1"
+          "record": "2-1"
         },
         "startTime": "2026-10-15T02:30Z",
         "timeET": "10:30 PM ET",
@@ -935,60 +939,46 @@
         "tournament": "MLS"
       }
     ],
-    "lastUpdated": "2026-10-12T03:30:04.046Z"
+    "lastUpdated": "2026-10-14T10:00:04.984Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Wednesday, October 14, 2026\n\n🏀 International Basketball  ·  ⚽ Soccer  ·  🏀 NBA  ·  🏈 College Football  ·  🏒 NHL  ·  ⚾ MLB\n\n42 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#FIBA #EuroLeague #InternationalBasketball #BasketballWorldCup\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#NBA #NBATonight #NBABasketball #NBAonESPN #NBAonTNT\n#CollegeFootball #NCAAF #CFB #CFBPlayoff\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Loaded schedule today: Champions League and EFL action in the afternoon, then NBA and NHL tonight. Watch on Paramount+, CBSSN, ESPN+, and MNMT. Follow @any_and_all_sports for daily sports schedules.",
     "hashtags": [
-      "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
-      "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
-      "#FIBA",
-      "#EuroLeague",
-      "#InternationalBasketball",
-      "#BasketballWorldCup",
-      "#Soccer",
-      "#Football",
-      "#PremierLeague",
-      "#LaLiga",
-      "#SerieA",
-      "#Bundesliga",
+      "#NBA",
+      "#NHL",
       "#MLS",
-      "#UCL",
-      "#ChampionsLeague"
+      "#MLB",
+      "#WNBA",
+      "#EPL",
+      "#LaLiga",
+      "#ChampionsLeague",
+      "#Soccer",
+      "#CollegeFootball",
+      "#ParamountPlus",
+      "#CBSSN",
+      "#ESPNPlus",
+      "#MNMT"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "42 events across International Basketball, Soccer, NBA, College Football, NHL, MLB."
+        "title": "Morning Start",
+        "body": "4:30 AM ET: New Zealand Breakers at Sydney Kings."
       },
       {
-        "title": "Game 1",
-        "body": "New Zealand Breakers at Sydney Kings 4:30 AM ET on Check listings"
+        "title": "UCL + EFL Noon",
+        "body": "12:45 PM ET: Como at Feyenoord Rotterdam, Liverpool at LASK Linz."
       },
       {
-        "title": "Game 2",
-        "body": "Como at Feyenoord Rotterdam 12:45 PM ET on Paramount+"
+        "title": "Afternoon Soccer",
+        "body": "3:00 PM ET: Real Madrid at AS Roma, PSG at Manchester City, plus more on Paramount+."
       },
       {
-        "title": "Game 3",
-        "body": "Liverpool at LASK Linz 12:45 PM ET on Paramount+"
+        "title": "Tonight on TV",
+        "body": "7:30 PM ET: Nets at Heat, Hornets at Celtics, and Canadiens at Capitals."
       },
       {
-        "title": "Game 4",
-        "body": "Southampton at Norwich City 2:45 PM ET on Paramount+"
-      },
-      {
-        "title": "Game 5",
-        "body": "Sheffield United at Portsmouth 2:45 PM ET on Paramount+"
+        "title": "Watch & Follow",
+        "body": "Streams on Paramount+, ESPN+, and CBSSN. Follow @any_and_all_sports for the daily board."
       }
     ],
     "pngFiles": [
@@ -1002,5 +992,5 @@
       "slide-8.png"
     ]
   },
-  "lastUpdated": "2026-10-12T03:30:16.597Z"
+  "lastUpdated": "2026-10-14T10:00:10.793Z"
 }
