@@ -120,14 +120,14 @@ export default function LiveNowSection({ games, date, highlightedGameId }: LiveN
               {/* Share button */}
               <button
                 onClick={() => handleShare(game)}
-                className="absolute top-3 right-3 p-1 rounded-md text-zinc-600 hover:text-zinc-300 hover:bg-zinc-800/50 transition-all opacity-0 group-hover:opacity-100 focus:opacity-100"
+                className="absolute top-3 right-3 p-1.5 rounded-md text-zinc-500 hover:text-zinc-200 hover:bg-zinc-800/50 transition-all"
                 title="Share this game"
                 aria-label="Share this game"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
-                  width="14"
-                  height="14"
+                  width="16"
+                  height="16"
                   viewBox="0 0 24 24"
                   fill="none"
                   stroke="currentColor"
