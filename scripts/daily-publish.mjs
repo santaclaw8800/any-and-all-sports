@@ -3,7 +3,7 @@
  * Publish today's pre-generated package without calling OpenAI.
  */
 
-import { execFileSync } from 'child_process';
+import { execFileSync, spawnSync } from 'child_process';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'fs';
 import { dirname, join } from 'path';
 import { fileURLToPath } from 'url';
@@ -109,6 +109,16 @@ async function main() {
 
   const deployOk = tryCommand('Vercel deploy', 'vercel', ['--prod', '--yes'], { timeout: 180_000 });
   await sendTelegram(`${telegram.text}\nDeploy: ${deployOk ? 'ok' : 'failed'}\nGit staged: ${gitOk ? 'ok' : 'failed'}`);
+
+  const igResult = spawnSync(process.execPath, [join(ROOT, 'scripts', 'ig-publish.mjs'), date], {
+    cwd: ROOT,
+    stdio: 'inherit',
+    timeout: 300_000,
+    env: safeEnv(),
+  });
+  const igCode = igResult.status ?? 1;
+  const igStatus = igCode === 0 ? 'ok' : igCode === 2 ? 'skipped' : 'failed';
+  logLine(`IG publish: ${igStatus}${igCode === 0 ? '' : ` (code ${igCode})`}`);
 
   logLine(`Daily publish complete for ${date}`);
 }

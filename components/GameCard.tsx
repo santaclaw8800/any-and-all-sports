@@ -217,7 +217,7 @@ export default function GameCard({ game, date, isHighlighted }: GameCardProps) {
       {/* Share button */}
       <button
         onClick={handleShare}
-        className="absolute top-3 right-8 p-1.5 rounded-md text-zinc-500 hover:text-zinc-200 hover:bg-zinc-800 transition-all"
+        className="absolute top-2.5 right-8 p-2.5 rounded-md text-zinc-500 hover:text-zinc-200 hover:bg-zinc-800 transition-all"
         title="Share this game"
         aria-label="Share this game"
       >

@@ -4813,3 +4813,904 @@ Deploy: ok
 Git staged: ok
 [2026-08-01T05:00:54.429Z] Daily publish complete for 2026-08-01
 [Sat Aug  1 01:00:54 EDT 2026] Done!
+[Sun Aug  2 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-08-02T05:00:02.442Z] Daily publish started for 2026-08-02
+[2026-08-02T05:00:02.458Z] Git add generated package succeeded
+[2026-08-02T05:00:02.484Z] Git commit generated package failed: Command failed: git commit -m chore: publish pre-generated sports package 2026-08-02
+[2026-08-02T05:00:58.213Z] Vercel deploy succeeded: https://any-and-all-sports-8l085cx0x-brucect20-6059s-projects.vercel.app
+[2026-08-02T05:00:58.214Z] Telegram skipped: Sports package ready for 2026-08-02: 29 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-02
+Deploy: ok
+Git staged: ok
+[2026-08-02T05:00:58.214Z] Daily publish complete for 2026-08-02
+[Sun Aug  2 01:00:58 EDT 2026] Done!
+[Mon Aug  3 01:00:05 EDT 2026] Starting daily pre-generated publish...
+[2026-08-03T05:00:05.965Z] Daily publish started for 2026-08-03
+[2026-08-03T05:00:06.066Z] Git add generated package succeeded
+[2026-08-03T05:00:06.142Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-03/slides.json |  create mode 100644 generated-posts/2026-08-03/telegram.json |  create mode 100644 generated-posts/2026-08-03/website.json
+[2026-08-03T05:01:13.917Z] Vercel deploy succeeded: https://any-and-all-sports-kd48gijzc-brucect20-6059s-projects.vercel.app
+[2026-08-03T05:01:13.917Z] Telegram skipped: Sports package ready for 2026-08-03: 12 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-03
+Deploy: ok
+Git staged: ok
+[2026-08-03T05:01:13.917Z] Daily publish complete for 2026-08-03
+[Mon Aug  3 01:01:13 EDT 2026] Done!
+[Tue Aug  4 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-08-04T05:00:04.348Z] Daily publish started for 2026-08-04
+[2026-08-04T05:00:04.424Z] Git add generated package succeeded
+[2026-08-04T05:00:04.478Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-04/slides.json |  create mode 100644 generated-posts/2026-08-04/telegram.json |  create mode 100644 generated-posts/2026-08-04/website.json
+[2026-08-04T05:01:02.207Z] Vercel deploy succeeded: https://any-and-all-sports-5nf9r81s9-brucect20-6059s-projects.vercel.app
+[2026-08-04T05:01:02.208Z] Telegram skipped: Sports package ready for 2026-08-04: 16 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-04
+Deploy: ok
+Git staged: ok
+[2026-08-04T05:01:02.208Z] Daily publish complete for 2026-08-04
+[Tue Aug  4 01:01:02 EDT 2026] Done!
+[Wed Aug  5 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-08-05T05:00:02.716Z] Daily publish started for 2026-08-05
+[2026-08-05T05:00:02.797Z] Git add generated package succeeded
+[2026-08-05T05:00:02.841Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-05/slides.json |  create mode 100644 generated-posts/2026-08-05/telegram.json |  create mode 100644 generated-posts/2026-08-05/website.json
+[2026-08-05T05:00:57.888Z] Vercel deploy succeeded: https://any-and-all-sports-5w0if6sz7-brucect20-6059s-projects.vercel.app
+[2026-08-05T05:00:57.889Z] Telegram skipped: Sports package ready for 2026-08-05: 20 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-05
+Deploy: ok
+Git staged: ok
+[2026-08-05T05:00:57.889Z] Daily publish complete for 2026-08-05
+[Wed Aug  5 01:00:57 EDT 2026] Done!
+[Thu Aug  6 01:00:01 EDT 2026] Starting daily pre-generated publish...
+[2026-08-06T05:00:02.768Z] Daily publish started for 2026-08-06
+[2026-08-06T05:00:02.822Z] Git add generated package succeeded
+[2026-08-06T05:00:02.876Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-06/slides.json |  create mode 100644 generated-posts/2026-08-06/telegram.json |  create mode 100644 generated-posts/2026-08-06/website.json
+[2026-08-06T05:00:59.239Z] Vercel deploy succeeded: https://any-and-all-sports-2dr3wwnpk-brucect20-6059s-projects.vercel.app
+[2026-08-06T05:00:59.240Z] Telegram skipped: Sports package ready for 2026-08-06: 17 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-06
+Deploy: ok
+Git staged: ok
+[2026-08-06T05:00:59.240Z] Daily publish complete for 2026-08-06
+[Thu Aug  6 01:00:59 EDT 2026] Done!
+[Sat Aug  8 01:00:01 EDT 2026] Starting daily pre-generated publish...
+[2026-08-08T05:00:01.731Z] Daily publish started for 2026-08-08
+[2026-08-08T05:00:01.809Z] Git add generated package succeeded
+[2026-08-08T05:00:01.887Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-08/slides.json |  create mode 100644 generated-posts/2026-08-08/telegram.json |  create mode 100644 generated-posts/2026-08-08/website.json
+[2026-08-08T05:00:57.991Z] Vercel deploy succeeded: https://any-and-all-sports-2aed2p46k-brucect20-6059s-projects.vercel.app
+[2026-08-08T05:00:57.991Z] Telegram skipped: Sports package ready for 2026-08-08: 34 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-08
+Deploy: ok
+Git staged: ok
+[2026-08-08T05:00:57.992Z] Daily publish complete for 2026-08-08
+[Sat Aug  8 01:00:57 EDT 2026] Done!
+[Sun Aug  9 01:00:01 EDT 2026] Starting daily pre-generated publish...
+[2026-08-09T05:00:01.192Z] Daily publish started for 2026-08-09
+[2026-08-09T05:00:01.246Z] Git add generated package succeeded
+[2026-08-09T05:00:01.309Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-09/slides.json |  create mode 100644 generated-posts/2026-08-09/telegram.json |  create mode 100644 generated-posts/2026-08-09/website.json
+[2026-08-09T05:00:54.373Z] Vercel deploy succeeded: https://any-and-all-sports-ntxyiart7-brucect20-6059s-projects.vercel.app
+[2026-08-09T05:00:54.374Z] Telegram skipped: Sports package ready for 2026-08-09: 36 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-09
+Deploy: ok
+Git staged: ok
+[2026-08-09T05:00:54.374Z] Daily publish complete for 2026-08-09
+[Sun Aug  9 01:00:54 EDT 2026] Done!
+[Mon Aug 10 01:00:03 EDT 2026] Starting daily pre-generated publish...
+[2026-08-10T05:00:03.408Z] Daily publish started for 2026-08-10
+[2026-08-10T05:00:03.445Z] Git add generated package succeeded
+[2026-08-10T05:00:03.478Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-10/slides.json |  create mode 100644 generated-posts/2026-08-10/telegram.json |  create mode 100644 generated-posts/2026-08-10/website.json
+[2026-08-10T05:01:16.206Z] Vercel deploy succeeded: https://any-and-all-sports-68uouj0ou-brucect20-6059s-projects.vercel.app
+[2026-08-10T05:01:16.206Z] Telegram skipped: Sports package ready for 2026-08-10: 13 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-10
+Deploy: ok
+Git staged: ok
+[2026-08-10T05:01:16.206Z] Daily publish complete for 2026-08-10
+[Mon Aug 10 01:01:16 EDT 2026] Done!
+[Tue Aug 11 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-08-11T05:00:02.978Z] Daily publish started for 2026-08-11
+[2026-08-11T05:00:03.018Z] Git add generated package succeeded
+[2026-08-11T05:00:03.050Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-11/slides.json |  create mode 100644 generated-posts/2026-08-11/telegram.json |  create mode 100644 generated-posts/2026-08-11/website.json
+[2026-08-11T05:01:01.980Z] Vercel deploy succeeded: https://any-and-all-sports-dasvlv295-brucect20-6059s-projects.vercel.app
+[2026-08-11T05:01:01.981Z] Telegram skipped: Sports package ready for 2026-08-11: 22 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-11
+Deploy: ok
+Git staged: ok
+[2026-08-11T05:01:01.981Z] Daily publish complete for 2026-08-11
+[Tue Aug 11 01:01:01 EDT 2026] Done!
+[Wed Aug 12 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-08-12T05:00:04.901Z] Daily publish started for 2026-08-12
+[2026-08-12T05:00:04.944Z] Git add generated package succeeded
+[2026-08-12T05:00:05.014Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-12/slides.json |  create mode 100644 generated-posts/2026-08-12/telegram.json |  create mode 100644 generated-posts/2026-08-12/website.json
+[2026-08-12T05:01:02.207Z] Vercel deploy succeeded: https://any-and-all-sports-6t2kbzo7r-brucect20-6059s-projects.vercel.app
+[2026-08-12T05:01:02.208Z] Telegram skipped: Sports package ready for 2026-08-12: 21 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-12
+Deploy: ok
+Git staged: ok
+[2026-08-12T05:01:02.208Z] Daily publish complete for 2026-08-12
+[Wed Aug 12 01:01:02 EDT 2026] Done!
+[Thu Aug 13 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-08-13T05:00:02.597Z] Daily publish started for 2026-08-13
+[2026-08-13T05:00:02.657Z] Git add generated package succeeded
+[2026-08-13T05:00:02.694Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-13/slides.json |  create mode 100644 generated-posts/2026-08-13/telegram.json |  create mode 100644 generated-posts/2026-08-13/website.json
+[2026-08-13T05:00:54.769Z] Vercel deploy succeeded: https://any-and-all-sports-1hok7t0y3-brucect20-6059s-projects.vercel.app
+[2026-08-13T05:00:54.770Z] Telegram skipped: Sports package ready for 2026-08-13: 23 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-13
+Deploy: ok
+Git staged: ok
+[2026-08-13T05:00:54.770Z] Daily publish complete for 2026-08-13
+[Thu Aug 13 01:00:54 EDT 2026] Done!
+[Fri Aug 14 01:00:03 EDT 2026] Starting daily pre-generated publish...
+[2026-08-14T05:00:03.685Z] Daily publish started for 2026-08-14
+[2026-08-14T05:00:03.749Z] Git add generated package succeeded
+[2026-08-14T05:00:03.814Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-14/slides.json |  create mode 100644 generated-posts/2026-08-14/telegram.json |  create mode 100644 generated-posts/2026-08-14/website.json
+[2026-08-14T05:00:59.223Z] Vercel deploy succeeded: https://any-and-all-sports-4nugr9q2b-brucect20-6059s-projects.vercel.app
+[2026-08-14T05:00:59.223Z] Telegram skipped: Sports package ready for 2026-08-14: 30 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-14
+Deploy: ok
+Git staged: ok
+[2026-08-14T05:00:59.224Z] Daily publish complete for 2026-08-14
+[Fri Aug 14 01:00:59 EDT 2026] Done!
+[Sat Aug 15 01:00:03 EDT 2026] Starting daily pre-generated publish...
+[2026-08-15T05:00:03.519Z] Daily publish started for 2026-08-15
+[2026-08-15T05:00:03.609Z] Git add generated package succeeded
+[2026-08-15T05:00:03.703Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-15/slides.json |  create mode 100644 generated-posts/2026-08-15/telegram.json |  create mode 100644 generated-posts/2026-08-15/website.json
+[2026-08-15T05:01:14.610Z] Vercel deploy succeeded: https://any-and-all-sports-p5ndjeeyo-brucect20-6059s-projects.vercel.app
+[2026-08-15T05:01:14.610Z] Telegram skipped: Sports package ready for 2026-08-15: 63 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-15
+Deploy: ok
+Git staged: ok
+[2026-08-15T05:01:14.610Z] Daily publish complete for 2026-08-15
+[Sat Aug 15 01:01:14 EDT 2026] Done!
+[Sun Aug 16 01:00:05 EDT 2026] Starting daily pre-generated publish...
+[2026-08-16T05:00:05.325Z] Daily publish started for 2026-08-16
+[2026-08-16T05:00:05.412Z] Git add generated package succeeded
+[2026-08-16T05:00:05.493Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-16/slides.json |  create mode 100644 generated-posts/2026-08-16/telegram.json |  create mode 100644 generated-posts/2026-08-16/website.json
+[2026-08-16T05:01:16.009Z] Vercel deploy succeeded: https://any-and-all-sports-gf82dnega-brucect20-6059s-projects.vercel.app
+[2026-08-16T05:01:16.009Z] Telegram skipped: Sports package ready for 2026-08-16: 45 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-16
+Deploy: ok
+Git staged: ok
+[2026-08-16T05:01:16.009Z] Daily publish complete for 2026-08-16
+[Sun Aug 16 01:01:16 EDT 2026] Done!
+[Mon Aug 17 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-08-17T05:00:02.314Z] Daily publish started for 2026-08-17
+[2026-08-17T05:00:02.374Z] Git add generated package succeeded
+[2026-08-17T05:00:02.437Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-17/slides.json |  create mode 100644 generated-posts/2026-08-17/telegram.json |  create mode 100644 generated-posts/2026-08-17/website.json
+[2026-08-17T05:01:09.800Z] Vercel deploy succeeded: https://any-and-all-sports-9wt380sjj-brucect20-6059s-projects.vercel.app
+[2026-08-17T05:01:09.800Z] Telegram skipped: Sports package ready for 2026-08-17: 17 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-17
+Deploy: ok
+Git staged: ok
+[2026-08-17T05:01:09.800Z] Daily publish complete for 2026-08-17
+[Mon Aug 17 01:01:09 EDT 2026] Done!
+[Tue Aug 18 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-08-18T05:00:02.157Z] Daily publish started for 2026-08-18
+[2026-08-18T05:00:02.208Z] Git add generated package succeeded
+[2026-08-18T05:00:02.244Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-18/slides.json |  create mode 100644 generated-posts/2026-08-18/telegram.json |  create mode 100644 generated-posts/2026-08-18/website.json
+[2026-08-18T05:01:00.283Z] Vercel deploy succeeded: https://any-and-all-sports-3muvgl7gc-brucect20-6059s-projects.vercel.app
+[2026-08-18T05:01:00.284Z] Telegram skipped: Sports package ready for 2026-08-18: 23 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-18
+Deploy: ok
+Git staged: ok
+[2026-08-18T05:01:00.284Z] Daily publish complete for 2026-08-18
+[Tue Aug 18 01:01:00 EDT 2026] Done!
+[Wed Aug 19 01:00:05 EDT 2026] Starting daily pre-generated publish...
+[2026-08-19T05:00:05.497Z] Daily publish started for 2026-08-19
+[2026-08-19T05:00:05.569Z] Git add generated package succeeded
+[2026-08-19T05:00:05.635Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-19/slides.json |  create mode 100644 generated-posts/2026-08-19/telegram.json |  create mode 100644 generated-posts/2026-08-19/website.json
+[2026-08-19T05:01:05.494Z] Vercel deploy succeeded: https://any-and-all-sports-jcxjad1xi-brucect20-6059s-projects.vercel.app
+[2026-08-19T05:01:05.494Z] Telegram skipped: Sports package ready for 2026-08-19: 38 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-19
+Deploy: ok
+Git staged: ok
+[2026-08-19T05:01:05.494Z] Daily publish complete for 2026-08-19
+[Wed Aug 19 01:01:05 EDT 2026] Done!
+[Thu Aug 20 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-08-20T05:00:02.774Z] Daily publish started for 2026-08-20
+[2026-08-20T05:00:02.826Z] Git add generated package succeeded
+[2026-08-20T05:00:02.909Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-20/slides.json |  create mode 100644 generated-posts/2026-08-20/telegram.json |  create mode 100644 generated-posts/2026-08-20/website.json
+[2026-08-20T05:00:56.562Z] Vercel deploy succeeded: https://any-and-all-sports-8xfy6j8pr-brucect20-6059s-projects.vercel.app
+[2026-08-20T05:00:56.563Z] Telegram skipped: Sports package ready for 2026-08-20: 21 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-20
+Deploy: ok
+Git staged: ok
+[2026-08-20T05:00:56.563Z] Daily publish complete for 2026-08-20
+[Thu Aug 20 01:00:56 EDT 2026] Done!
+[Fri Aug 21 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-08-21T05:00:02.577Z] Daily publish started for 2026-08-21
+[2026-08-21T05:00:02.646Z] Git add generated package succeeded
+[2026-08-21T05:00:02.716Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-21/slides.json |  create mode 100644 generated-posts/2026-08-21/telegram.json |  create mode 100644 generated-posts/2026-08-21/website.json
+[2026-08-21T05:00:46.928Z] Vercel deploy succeeded: https://any-and-all-sports-9ste1uqeh-brucect20-6059s-projects.vercel.app
+[2026-08-21T05:00:46.929Z] Telegram skipped: Sports package ready for 2026-08-21: 33 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-21
+Deploy: ok
+Git staged: ok
+[2026-08-21T05:00:46.929Z] Daily publish complete for 2026-08-21
+[Fri Aug 21 01:00:46 EDT 2026] Done!
+[Sat Aug 22 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-08-22T05:00:04.421Z] Daily publish started for 2026-08-22
+[2026-08-22T05:00:04.542Z] Git add generated package succeeded
+[2026-08-22T05:00:04.619Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-22/slides.json |  create mode 100644 generated-posts/2026-08-22/telegram.json |  create mode 100644 generated-posts/2026-08-22/website.json
+[2026-08-22T05:00:56.779Z] Vercel deploy succeeded: https://any-and-all-sports-f8cuwgdm2-brucect20-6059s-projects.vercel.app
+[2026-08-22T05:00:56.780Z] Telegram skipped: Sports package ready for 2026-08-22: 99 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-22
+Deploy: ok
+Git staged: ok
+[2026-08-22T05:00:56.780Z] Daily publish complete for 2026-08-22
+[Sat Aug 22 01:00:56 EDT 2026] Done!
+[Sun Aug 23 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-08-23T05:00:02.319Z] Daily publish started for 2026-08-23
+[2026-08-23T05:00:02.408Z] Git add generated package succeeded
+[2026-08-23T05:00:02.458Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-23/slides.json |  create mode 100644 generated-posts/2026-08-23/telegram.json |  create mode 100644 generated-posts/2026-08-23/website.json
+[2026-08-23T05:00:50.987Z] Vercel deploy succeeded: https://any-and-all-sports-7odfess33-brucect20-6059s-projects.vercel.app
+[2026-08-23T05:00:50.988Z] Telegram skipped: Sports package ready for 2026-08-23: 54 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-23
+Deploy: ok
+Git staged: ok
+[2026-08-23T05:00:50.988Z] Daily publish complete for 2026-08-23
+[Sun Aug 23 01:00:50 EDT 2026] Done!
+[Mon Aug 24 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-08-24T05:00:02.421Z] Daily publish started for 2026-08-24
+[2026-08-24T05:00:02.479Z] Git add generated package succeeded
+[2026-08-24T05:00:02.517Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-24/slides.json |  create mode 100644 generated-posts/2026-08-24/telegram.json |  create mode 100644 generated-posts/2026-08-24/website.json
+[2026-08-24T05:01:08.289Z] Vercel deploy succeeded: https://any-and-all-sports-js4i5xwzs-brucect20-6059s-projects.vercel.app
+[2026-08-24T05:01:08.289Z] Telegram skipped: Sports package ready for 2026-08-24: 18 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-24
+Deploy: ok
+Git staged: ok
+[2026-08-24T05:01:08.290Z] Daily publish complete for 2026-08-24
+[Mon Aug 24 01:01:08 EDT 2026] Done!
+[Tue Aug 25 01:00:01 EDT 2026] Starting daily pre-generated publish...
+[2026-08-25T05:00:01.178Z] Daily publish started for 2026-08-25
+[2026-08-25T05:00:01.239Z] Git add generated package succeeded
+[2026-08-25T05:00:01.308Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-25/slides.json |  create mode 100644 generated-posts/2026-08-25/telegram.json |  create mode 100644 generated-posts/2026-08-25/website.json
+[2026-08-25T05:00:50.129Z] Vercel deploy succeeded: https://any-and-all-sports-aw9sjloa0-brucect20-6059s-projects.vercel.app
+[2026-08-25T05:00:50.129Z] Telegram skipped: Sports package ready for 2026-08-25: 22 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-25
+Deploy: ok
+Git staged: ok
+[2026-08-25T05:00:50.129Z] Daily publish complete for 2026-08-25
+[Tue Aug 25 01:00:50 EDT 2026] Done!
+[Wed Aug 26 01:00:01 EDT 2026] Starting daily pre-generated publish...
+[2026-08-26T05:00:02.025Z] Daily publish started for 2026-08-26
+[2026-08-26T05:00:02.084Z] Git add generated package succeeded
+[2026-08-26T05:00:02.153Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-26/slides.json |  create mode 100644 generated-posts/2026-08-26/telegram.json |  create mode 100644 generated-posts/2026-08-26/website.json
+[2026-08-26T05:01:01.252Z] Vercel deploy succeeded: https://any-and-all-sports-8clumeldn-brucect20-6059s-projects.vercel.app
+[2026-08-26T05:01:01.252Z] Telegram skipped: Sports package ready for 2026-08-26: 19 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-26
+Deploy: ok
+Git staged: ok
+[2026-08-26T05:01:01.252Z] Daily publish complete for 2026-08-26
+[Wed Aug 26 01:01:01 EDT 2026] Done!
+[Thu Aug 27 01:00:01 EDT 2026] Starting daily pre-generated publish...
+[2026-08-27T05:00:02.485Z] Daily publish started for 2026-08-27
+[2026-08-27T05:00:02.552Z] Git add generated package succeeded
+[2026-08-27T05:00:02.612Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-27/slides.json |  create mode 100644 generated-posts/2026-08-27/telegram.json |  create mode 100644 generated-posts/2026-08-27/website.json
+[2026-08-27T05:01:02.071Z] Vercel deploy succeeded: https://any-and-all-sports-hizqvcae3-brucect20-6059s-projects.vercel.app
+[2026-08-27T05:01:02.071Z] Telegram skipped: Sports package ready for 2026-08-27: 19 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-27
+Deploy: ok
+Git staged: ok
+[2026-08-27T05:01:02.071Z] Daily publish complete for 2026-08-27
+[Thu Aug 27 01:01:02 EDT 2026] Done!
+[Fri Aug 28 01:00:01 EDT 2026] Starting daily pre-generated publish...
+[2026-08-28T05:00:01.394Z] Daily publish started for 2026-08-28
+[2026-08-28T05:00:01.476Z] Git add generated package succeeded
+[2026-08-28T05:00:01.515Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-28/slides.json |  create mode 100644 generated-posts/2026-08-28/telegram.json |  create mode 100644 generated-posts/2026-08-28/website.json
+[2026-08-28T05:01:00.188Z] Vercel deploy succeeded: https://any-and-all-sports-nhksmyl5g-brucect20-6059s-projects.vercel.app
+[2026-08-28T05:01:00.188Z] Telegram skipped: Sports package ready for 2026-08-28: 47 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-28
+Deploy: ok
+Git staged: ok
+[2026-08-28T05:01:00.189Z] Daily publish complete for 2026-08-28
+[Fri Aug 28 01:01:00 EDT 2026] Done!
+[Sat Aug 29 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-08-29T05:00:02.785Z] Daily publish started for 2026-08-29
+[2026-08-29T05:00:02.924Z] Git add generated package succeeded
+[2026-08-29T05:00:02.972Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-29/slides.json |  create mode 100644 generated-posts/2026-08-29/telegram.json |  create mode 100644 generated-posts/2026-08-29/website.json
+[2026-08-29T05:01:07.836Z] Vercel deploy succeeded: https://any-and-all-sports-4n3i9beb7-brucect20-6059s-projects.vercel.app
+[2026-08-29T05:01:07.836Z] Telegram skipped: Sports package ready for 2026-08-29: 98 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-29
+Deploy: ok
+Git staged: ok
+[2026-08-29T05:01:07.836Z] Daily publish complete for 2026-08-29
+[Sat Aug 29 01:01:07 EDT 2026] Done!
+[Sun Aug 30 01:00:03 EDT 2026] Starting daily pre-generated publish...
+[2026-08-30T05:00:03.773Z] Daily publish started for 2026-08-30
+[2026-08-30T05:00:03.855Z] Git add generated package succeeded
+[2026-08-30T05:00:03.925Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-30/slides.json |  create mode 100644 generated-posts/2026-08-30/telegram.json |  create mode 100644 generated-posts/2026-08-30/website.json
+[2026-08-30T05:01:07.570Z] Vercel deploy succeeded: https://any-and-all-sports-2wreqhl8z-brucect20-6059s-projects.vercel.app
+[2026-08-30T05:01:07.571Z] Telegram skipped: Sports package ready for 2026-08-30: 54 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-30
+Deploy: ok
+Git staged: ok
+[2026-08-30T05:01:07.571Z] Daily publish complete for 2026-08-30
+[Sun Aug 30 01:01:07 EDT 2026] Done!
+[Mon Aug 31 01:00:00 EDT 2026] Starting daily pre-generated publish...
+[2026-08-31T05:00:00.090Z] Daily publish started for 2026-08-31
+[2026-08-31T05:00:00.153Z] Git add generated package succeeded
+[2026-08-31T05:00:00.226Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-08-31/slides.json |  create mode 100644 generated-posts/2026-08-31/telegram.json |  create mode 100644 generated-posts/2026-08-31/website.json
+[2026-08-31T05:01:23.278Z] Vercel deploy succeeded: https://any-and-all-sports-8uji7gepk-brucect20-6059s-projects.vercel.app
+[2026-08-31T05:01:23.278Z] Telegram skipped: Sports package ready for 2026-08-31: 21 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-08-31
+Deploy: ok
+Git staged: ok
+[2026-08-31T05:01:23.278Z] Daily publish complete for 2026-08-31
+[Mon Aug 31 01:01:23 EDT 2026] Done!
+[Tue Sep  1 01:00:00 EDT 2026] Starting daily pre-generated publish...
+[2026-09-01T05:00:00.166Z] Daily publish started for 2026-09-01
+[2026-09-01T05:00:00.241Z] Git add generated package succeeded
+[2026-09-01T05:00:00.305Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-01/slides.json |  create mode 100644 generated-posts/2026-09-01/telegram.json |  create mode 100644 generated-posts/2026-09-01/website.json
+[2026-09-01T05:01:05.185Z] Vercel deploy succeeded: https://any-and-all-sports-muh8eae4h-brucect20-6059s-projects.vercel.app
+[2026-09-01T05:01:05.185Z] Telegram skipped: Sports package ready for 2026-09-01: 24 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-01
+Deploy: ok
+Git staged: ok
+[2026-09-01T05:01:05.185Z] Daily publish complete for 2026-09-01
+[Tue Sep  1 01:01:05 EDT 2026] Done!
+[Wed Sep  2 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-09-02T05:00:02.261Z] Daily publish started for 2026-09-02
+[2026-09-02T05:00:02.313Z] Git add generated package succeeded
+[2026-09-02T05:00:02.395Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-02/slides.json |  create mode 100644 generated-posts/2026-09-02/telegram.json |  create mode 100644 generated-posts/2026-09-02/website.json
+[2026-09-02T05:01:07.899Z] Vercel deploy succeeded: https://any-and-all-sports-9xelwl2vn-brucect20-6059s-projects.vercel.app
+[2026-09-02T05:01:07.899Z] Telegram skipped: Sports package ready for 2026-09-02: 26 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-02
+Deploy: ok
+Git staged: ok
+[2026-09-02T05:01:07.900Z] Daily publish complete for 2026-09-02
+[Wed Sep  2 01:01:07 EDT 2026] Done!
+[Thu Sep  3 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-09-03T05:00:04.713Z] Daily publish started for 2026-09-03
+[2026-09-03T05:00:04.776Z] Git add generated package succeeded
+[2026-09-03T05:00:04.845Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-03/slides.json |  create mode 100644 generated-posts/2026-09-03/telegram.json |  create mode 100644 generated-posts/2026-09-03/website.json
+[2026-09-03T05:00:06.201Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-03T05:00:06.201Z] Telegram skipped: Sports package ready for 2026-09-03: 26 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-03
+Deploy: failed
+Git staged: ok
+[2026-09-03T05:00:06.202Z] Daily publish complete for 2026-09-03
+[Thu Sep  3 01:00:06 EDT 2026] Done!
+[Fri Sep  4 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-09-04T05:00:04.279Z] Daily publish started for 2026-09-04
+[2026-09-04T05:00:04.357Z] Git add generated package succeeded
+[2026-09-04T05:00:04.395Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-04/slides.json |  create mode 100644 generated-posts/2026-09-04/telegram.json |  create mode 100644 generated-posts/2026-09-04/website.json
+[2026-09-04T05:01:13.297Z] Vercel deploy succeeded: https://any-and-all-sports-qblqof6mz-brucect20-6059s-projects.vercel.app
+[2026-09-04T05:01:13.298Z] Telegram skipped: Sports package ready for 2026-09-04: 49 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-04
+Deploy: ok
+Git staged: ok
+[2026-09-04T05:01:13.298Z] Daily publish complete for 2026-09-04
+[Fri Sep  4 01:01:13 EDT 2026] Done!
+[Sat Sep  5 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-09-05T05:00:04.587Z] Daily publish started for 2026-09-05
+[2026-09-05T05:00:04.754Z] Git add generated package succeeded
+[2026-09-05T05:00:04.793Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-05/slides.json |  create mode 100644 generated-posts/2026-09-05/telegram.json |  create mode 100644 generated-posts/2026-09-05/website.json
+[2026-09-05T05:00:06.385Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-05T05:00:06.385Z] Telegram skipped: Sports package ready for 2026-09-05: 157 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-05
+Deploy: failed
+Git staged: ok
+[2026-09-05T05:00:06.385Z] Daily publish complete for 2026-09-05
+[Sat Sep  5 01:00:06 EDT 2026] Done!
+[Sun Sep  6 01:00:03 EDT 2026] Starting daily pre-generated publish...
+[2026-09-06T05:00:04.048Z] Daily publish started for 2026-09-06
+[2026-09-06T05:00:04.126Z] Git add generated package succeeded
+[2026-09-06T05:00:04.163Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-06/slides.json |  create mode 100644 generated-posts/2026-09-06/telegram.json |  create mode 100644 generated-posts/2026-09-06/website.json
+[2026-09-06T05:00:05.693Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-06T05:00:05.694Z] Telegram skipped: Sports package ready for 2026-09-06: 58 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-06
+Deploy: failed
+Git staged: ok
+[2026-09-06T05:00:05.694Z] Daily publish complete for 2026-09-06
+[Sun Sep  6 01:00:05 EDT 2026] Done!
+[Mon Sep  7 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-09-07T05:00:04.385Z] Daily publish started for 2026-09-07
+[2026-09-07T05:00:04.437Z] Git add generated package succeeded
+[2026-09-07T05:00:04.474Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-07/slides.json |  create mode 100644 generated-posts/2026-09-07/telegram.json |  create mode 100644 generated-posts/2026-09-07/website.json
+[2026-09-07T05:00:06.005Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-07T05:00:06.005Z] Telegram skipped: Sports package ready for 2026-09-07: 25 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-07
+Deploy: failed
+Git staged: ok
+[2026-09-07T05:00:06.006Z] Daily publish complete for 2026-09-07
+[Mon Sep  7 01:00:06 EDT 2026] Done!
+[Tue Sep  8 01:00:03 EDT 2026] Starting daily pre-generated publish...
+[2026-09-08T05:00:03.869Z] Daily publish started for 2026-09-08
+[2026-09-08T05:00:03.924Z] Git add generated package succeeded
+[2026-09-08T05:00:03.986Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-08/slides.json |  create mode 100644 generated-posts/2026-09-08/telegram.json |  create mode 100644 generated-posts/2026-09-08/website.json
+[2026-09-08T05:01:06.003Z] Vercel deploy succeeded: https://any-and-all-sports-muofh9b77-brucect20-6059s-projects.vercel.app
+[2026-09-08T05:01:06.004Z] Telegram skipped: Sports package ready for 2026-09-08: 32 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-08
+Deploy: ok
+Git staged: ok
+[2026-09-08T05:01:06.004Z] Daily publish complete for 2026-09-08
+[Tue Sep  8 01:01:06 EDT 2026] Done!
+[Wed Sep  9 01:00:05 EDT 2026] Starting daily pre-generated publish...
+[2026-09-09T05:00:05.213Z] Daily publish started for 2026-09-09
+[2026-09-09T05:00:05.286Z] Git add generated package succeeded
+[2026-09-09T05:00:05.328Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-09/slides.json |  create mode 100644 generated-posts/2026-09-09/telegram.json |  create mode 100644 generated-posts/2026-09-09/website.json
+[2026-09-09T05:00:06.974Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-09T05:00:06.974Z] Telegram skipped: Sports package ready for 2026-09-09: 45 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-09
+Deploy: failed
+Git staged: ok
+[2026-09-09T05:00:06.974Z] Daily publish complete for 2026-09-09
+[Wed Sep  9 01:00:06 EDT 2026] Done!
+[Thu Sep 10 01:00:03 EDT 2026] Starting daily pre-generated publish...
+[2026-09-10T05:00:03.624Z] Daily publish started for 2026-09-10
+[2026-09-10T05:00:03.677Z] Git add generated package succeeded
+[2026-09-10T05:00:03.715Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-10/slides.json |  create mode 100644 generated-posts/2026-09-10/telegram.json |  create mode 100644 generated-posts/2026-09-10/website.json
+[2026-09-10T05:00:59.637Z] Vercel deploy succeeded: https://any-and-all-sports-ixzqd9yj1-brucect20-6059s-projects.vercel.app
+[2026-09-10T05:00:59.638Z] Telegram skipped: Sports package ready for 2026-09-10: 18 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-10
+Deploy: ok
+Git staged: ok
+[2026-09-10T05:00:59.638Z] Daily publish complete for 2026-09-10
+[Thu Sep 10 01:00:59 EDT 2026] Done!
+[Fri Sep 11 01:00:01 EDT 2026] Starting daily pre-generated publish...
+[2026-09-11T05:00:02.077Z] Daily publish started for 2026-09-11
+[2026-09-11T05:00:02.146Z] Git add generated package succeeded
+[2026-09-11T05:00:02.185Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-11/slides.json |  create mode 100644 generated-posts/2026-09-11/telegram.json |  create mode 100644 generated-posts/2026-09-11/website.json
+[2026-09-11T05:00:03.691Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-11T05:00:03.691Z] Telegram skipped: Sports package ready for 2026-09-11: 35 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-11
+Deploy: failed
+Git staged: ok
+[2026-09-11T05:00:03.691Z] Daily publish complete for 2026-09-11
+[Fri Sep 11 01:00:03 EDT 2026] Done!
+[Sat Sep 12 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-09-12T05:00:02.585Z] Daily publish started for 2026-09-12
+[2026-09-12T05:00:02.749Z] Git add generated package succeeded
+[2026-09-12T05:00:02.789Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-12/slides.json |  create mode 100644 generated-posts/2026-09-12/telegram.json |  create mode 100644 generated-posts/2026-09-12/website.json
+[2026-09-12T05:00:04.418Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-12T05:00:04.418Z] Telegram skipped: Sports package ready for 2026-09-12: 161 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-12
+Deploy: failed
+Git staged: ok
+[2026-09-12T05:00:04.418Z] Daily publish complete for 2026-09-12
+[Sat Sep 12 01:00:04 EDT 2026] Done!
+[Sun Sep 13 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-09-13T05:00:02.991Z] Daily publish started for 2026-09-13
+[2026-09-13T05:00:03.071Z] Git add generated package succeeded
+[2026-09-13T05:00:03.105Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-13/slides.json |  create mode 100644 generated-posts/2026-09-13/telegram.json |  create mode 100644 generated-posts/2026-09-13/website.json
+[2026-09-13T05:00:04.681Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-13T05:00:04.682Z] Telegram skipped: Sports package ready for 2026-09-13: 60 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-13
+Deploy: failed
+Git staged: ok
+[2026-09-13T05:00:04.682Z] Daily publish complete for 2026-09-13
+[Sun Sep 13 01:00:04 EDT 2026] Done!
+[Mon Sep 14 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-09-14T05:00:02.179Z] Daily publish started for 2026-09-14
+[2026-09-14T05:00:02.236Z] Git add generated package succeeded
+[2026-09-14T05:00:02.322Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-14/slides.json |  create mode 100644 generated-posts/2026-09-14/telegram.json |  create mode 100644 generated-posts/2026-09-14/website.json
+[2026-09-14T05:00:03.854Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-14T05:00:03.854Z] Telegram skipped: Sports package ready for 2026-09-14: 20 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-14
+Deploy: failed
+Git staged: ok
+[2026-09-14T05:00:03.854Z] Daily publish complete for 2026-09-14
+[Mon Sep 14 01:00:03 EDT 2026] Done!
+[Tue Sep 15 01:00:00 EDT 2026] Starting daily pre-generated publish...
+[2026-09-15T05:00:00.827Z] Daily publish started for 2026-09-15
+[2026-09-15T05:00:00.883Z] Git add generated package succeeded
+[2026-09-15T05:00:00.930Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-15/slides.json |  create mode 100644 generated-posts/2026-09-15/telegram.json |  create mode 100644 generated-posts/2026-09-15/website.json
+[2026-09-15T05:00:02.432Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-15T05:00:02.432Z] Telegram skipped: Sports package ready for 2026-09-15: 27 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-15
+Deploy: failed
+Git staged: ok
+[2026-09-15T05:00:02.432Z] Daily publish complete for 2026-09-15
+[Tue Sep 15 01:00:02 EDT 2026] Done!
+[Wed Sep 16 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-09-16T05:00:04.234Z] Daily publish started for 2026-09-16
+[2026-09-16T05:00:04.294Z] Git add generated package succeeded
+[2026-09-16T05:00:04.385Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-16/slides.json |  create mode 100644 generated-posts/2026-09-16/telegram.json |  create mode 100644 generated-posts/2026-09-16/website.json
+[2026-09-16T05:00:05.833Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-16T05:00:05.834Z] Telegram skipped: Sports package ready for 2026-09-16: 32 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-16
+Deploy: failed
+Git staged: ok
+[2026-09-16T05:00:05.834Z] Daily publish complete for 2026-09-16
+[Wed Sep 16 01:00:05 EDT 2026] Done!
+[Thu Sep 17 01:00:03 EDT 2026] Starting daily pre-generated publish...
+[2026-09-17T05:00:03.424Z] Daily publish started for 2026-09-17
+[2026-09-17T05:00:03.476Z] Git add generated package succeeded
+[2026-09-17T05:00:03.554Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-17/slides.json |  create mode 100644 generated-posts/2026-09-17/telegram.json |  create mode 100644 generated-posts/2026-09-17/website.json
+[2026-09-17T05:00:49.985Z] Vercel deploy succeeded: https://any-and-all-sports-cawwx2dew-brucect20-6059s-projects.vercel.app
+[2026-09-17T05:00:49.986Z] Telegram skipped: Sports package ready for 2026-09-17: 30 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-17
+Deploy: ok
+Git staged: ok
+[2026-09-17T05:00:49.986Z] Daily publish complete for 2026-09-17
+[Thu Sep 17 01:00:49 EDT 2026] Done!
+[Fri Sep 18 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-09-18T05:00:04.536Z] Daily publish started for 2026-09-18
+[2026-09-18T05:00:04.592Z] Git add generated package succeeded
+[2026-09-18T05:00:04.667Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-18/slides.json |  create mode 100644 generated-posts/2026-09-18/telegram.json |  create mode 100644 generated-posts/2026-09-18/website.json
+[2026-09-18T05:00:53.940Z] Vercel deploy succeeded: https://any-and-all-sports-knr2feq9t-brucect20-6059s-projects.vercel.app
+[2026-09-18T05:00:53.940Z] Telegram skipped: Sports package ready for 2026-09-18: 35 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-18
+Deploy: ok
+Git staged: ok
+[2026-09-18T05:00:53.940Z] Daily publish complete for 2026-09-18
+[Fri Sep 18 01:00:53 EDT 2026] Done!
+[Sat Sep 19 01:00:01 EDT 2026] Starting daily pre-generated publish...
+[2026-09-19T05:00:01.353Z] Daily publish started for 2026-09-19
+[2026-09-19T05:00:01.524Z] Git add generated package succeeded
+[2026-09-19T05:00:01.601Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-19/slides.json |  create mode 100644 generated-posts/2026-09-19/telegram.json |  create mode 100644 generated-posts/2026-09-19/website.json
+[2026-09-19T05:00:03.141Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-19T05:00:03.141Z] Telegram skipped: Sports package ready for 2026-09-19: 167 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-19
+Deploy: failed
+Git staged: ok
+[2026-09-19T05:00:03.141Z] Daily publish complete for 2026-09-19
+[Sat Sep 19 01:00:03 EDT 2026] Done!
+[Sun Sep 20 01:00:05 EDT 2026] Starting daily pre-generated publish...
+[2026-09-20T05:00:05.928Z] Daily publish started for 2026-09-20
+[2026-09-20T05:00:06.039Z] Git add generated package succeeded
+[2026-09-20T05:00:06.095Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-20/slides.json |  create mode 100644 generated-posts/2026-09-20/telegram.json |  create mode 100644 generated-posts/2026-09-20/website.json
+[2026-09-20T05:00:07.524Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-20T05:00:07.524Z] Telegram skipped: Sports package ready for 2026-09-20: 86 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-20
+Deploy: failed
+Git staged: ok
+[2026-09-20T05:00:07.525Z] Daily publish complete for 2026-09-20
+[Sun Sep 20 01:00:07 EDT 2026] Done!
+[Tue Sep 22 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-09-22T05:00:02.327Z] Daily publish started for 2026-09-22
+[2026-09-22T05:00:02.398Z] Git add generated package succeeded
+[2026-09-22T05:00:02.506Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-22/slides.json |  create mode 100644 generated-posts/2026-09-22/telegram.json |  create mode 100644 generated-posts/2026-09-22/website.json
+[2026-09-22T05:00:04.037Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-22T05:00:04.037Z] Telegram skipped: Sports package ready for 2026-09-22: 33 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-22
+Deploy: failed
+Git staged: ok
+[2026-09-22T05:00:04.037Z] Daily publish complete for 2026-09-22
+[Tue Sep 22 01:00:04 EDT 2026] Done!
+[Wed Sep 23 01:00:00 EDT 2026] Starting daily pre-generated publish...
+[2026-09-23T05:00:00.323Z] Daily publish started for 2026-09-23
+[2026-09-23T05:00:00.379Z] Git add generated package succeeded
+[2026-09-23T05:00:00.420Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-23/slides.json |  create mode 100644 generated-posts/2026-09-23/telegram.json |  create mode 100644 generated-posts/2026-09-23/website.json
+[2026-09-23T05:00:01.868Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-23T05:00:01.868Z] Telegram skipped: Sports package ready for 2026-09-23: 23 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-23
+Deploy: failed
+Git staged: ok
+[2026-09-23T05:00:01.868Z] Daily publish complete for 2026-09-23
+[Wed Sep 23 01:00:01 EDT 2026] Done!
+[Thu Sep 24 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-09-24T05:00:04.393Z] Daily publish started for 2026-09-24
+[2026-09-24T05:00:04.446Z] Git add generated package succeeded
+[2026-09-24T05:00:04.483Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-24/slides.json |  create mode 100644 generated-posts/2026-09-24/telegram.json |  create mode 100644 generated-posts/2026-09-24/website.json
+[2026-09-24T05:00:05.971Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-24T05:00:05.971Z] Telegram skipped: Sports package ready for 2026-09-24: 35 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-24
+Deploy: failed
+Git staged: ok
+[2026-09-24T05:00:06.015Z] IG publish: skipped (code 2)
+[2026-09-24T05:00:06.015Z] Daily publish complete for 2026-09-24
+[Thu Sep 24 01:00:06 EDT 2026] Done!
+[Fri Sep 25 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-09-25T05:00:02.667Z] Daily publish started for 2026-09-25
+[2026-09-25T05:00:02.725Z] Git add generated package succeeded
+[2026-09-25T05:00:02.817Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-25/slides.json |  create mode 100644 generated-posts/2026-09-25/telegram.json |  create mode 100644 generated-posts/2026-09-25/website.json
+[2026-09-25T05:00:04.236Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-25T05:00:04.237Z] Telegram skipped: Sports package ready for 2026-09-25: 34 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-25
+Deploy: failed
+Git staged: ok
+[2026-09-25T05:00:04.282Z] IG publish: skipped (code 2)
+[2026-09-25T05:00:04.282Z] Daily publish complete for 2026-09-25
+[Fri Sep 25 01:00:04 EDT 2026] Done!
+[Sat Sep 26 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-09-26T05:00:04.161Z] Daily publish started for 2026-09-26
+[2026-09-26T05:00:04.292Z] Git add generated package succeeded
+[2026-09-26T05:00:04.382Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-26/slides.json |  create mode 100644 generated-posts/2026-09-26/telegram.json |  create mode 100644 generated-posts/2026-09-26/website.json
+[2026-09-26T05:00:05.804Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-26T05:00:05.805Z] Telegram skipped: Sports package ready for 2026-09-26: 121 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-26
+Deploy: failed
+Git staged: ok
+[2026-09-26T05:00:05.847Z] IG publish: skipped (code 2)
+[2026-09-26T05:00:05.847Z] Daily publish complete for 2026-09-26
+[Sat Sep 26 01:00:05 EDT 2026] Done!
+[Sun Sep 27 01:00:03 EDT 2026] Starting daily pre-generated publish...
+[2026-09-27T05:00:03.692Z] Daily publish started for 2026-09-27
+[2026-09-27T05:00:03.770Z] Git add generated package succeeded
+[2026-09-27T05:00:03.837Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-27/slides.json |  create mode 100644 generated-posts/2026-09-27/telegram.json |  create mode 100644 generated-posts/2026-09-27/website.json
+[2026-09-27T05:00:05.166Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-27T05:00:05.166Z] Telegram skipped: Sports package ready for 2026-09-27: 44 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-27
+Deploy: failed
+Git staged: ok
+[2026-09-27T05:00:05.212Z] IG publish: skipped (code 2)
+[2026-09-27T05:00:05.212Z] Daily publish complete for 2026-09-27
+[Sun Sep 27 01:00:05 EDT 2026] Done!
+[Mon Sep 28 01:00:00 EDT 2026] Starting daily pre-generated publish...
+[2026-09-28T05:00:00.127Z] Daily publish started for 2026-09-28
+[2026-09-28T05:00:00.171Z] Git add generated package succeeded
+[2026-09-28T05:00:00.239Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-28/slides.json |  create mode 100644 generated-posts/2026-09-28/telegram.json |  create mode 100644 generated-posts/2026-09-28/website.json
+[2026-09-28T05:00:01.858Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-28T05:00:01.858Z] Telegram skipped: Sports package ready for 2026-09-28: 1 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-28
+Deploy: failed
+Git staged: ok
+[2026-09-28T05:00:01.900Z] IG publish: skipped (code 2)
+[2026-09-28T05:00:01.900Z] Daily publish complete for 2026-09-28
+[Mon Sep 28 01:00:01 EDT 2026] Done!
+[Tue Sep 29 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-09-29T05:00:04.708Z] Daily publish started for 2026-09-29
+[2026-09-29T05:00:04.786Z] Git add generated package succeeded
+[2026-09-29T05:00:04.893Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-29/slides.json |  create mode 100644 generated-posts/2026-09-29/telegram.json |  create mode 100644 generated-posts/2026-09-29/website.json
+[2026-09-29T05:00:06.496Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-29T05:00:06.497Z] Telegram skipped: Sports package ready for 2026-09-29: 12 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-29
+Deploy: failed
+Git staged: ok
+[2026-09-29T05:00:06.538Z] IG publish: skipped (code 2)
+[2026-09-29T05:00:06.538Z] Daily publish complete for 2026-09-29
+[Tue Sep 29 01:00:06 EDT 2026] Done!
+[Wed Sep 30 01:00:01 EDT 2026] Starting daily pre-generated publish...
+[2026-09-30T05:00:01.432Z] Daily publish started for 2026-09-30
+[2026-09-30T05:00:01.510Z] Git add generated package succeeded
+[2026-09-30T05:00:01.613Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-09-30/slides.json |  create mode 100644 generated-posts/2026-09-30/telegram.json |  create mode 100644 generated-posts/2026-09-30/website.json
+[2026-09-30T05:00:03.189Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-09-30T05:00:03.189Z] Telegram skipped: Sports package ready for 2026-09-30: 12 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-09-30
+Deploy: failed
+Git staged: ok
+[2026-09-30T05:00:03.232Z] IG publish: skipped (code 2)
+[2026-09-30T05:00:03.232Z] Daily publish complete for 2026-09-30
+[Wed Sep 30 01:00:03 EDT 2026] Done!
+[Thu Oct  1 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-10-01T05:00:04.393Z] Daily publish started for 2026-10-01
+[2026-10-01T05:00:04.483Z] Git add generated package succeeded
+[2026-10-01T05:00:04.598Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-01/slides.json |  create mode 100644 generated-posts/2026-10-01/telegram.json |  create mode 100644 generated-posts/2026-10-01/website.json
+[2026-10-01T05:00:06.166Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-10-01T05:00:06.166Z] Telegram skipped: Sports package ready for 2026-10-01: 22 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-01
+Deploy: failed
+Git staged: ok
+[2026-10-01T05:00:06.209Z] IG publish: skipped (code 2)
+[2026-10-01T05:00:06.209Z] Daily publish complete for 2026-10-01
+[Thu Oct  1 01:00:06 EDT 2026] Done!
+[Fri Oct  2 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-10-02T05:00:02.713Z] Daily publish started for 2026-10-02
+[2026-10-02T05:00:02.769Z] Git add generated package succeeded
+[2026-10-02T05:00:02.812Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-02/slides.json |  create mode 100644 generated-posts/2026-10-02/telegram.json |  create mode 100644 generated-posts/2026-10-02/website.json
+[2026-10-02T05:01:02.722Z] Vercel deploy succeeded: https://any-and-all-sports-evw99c0tq-brucect20-6059s-projects.vercel.app
+[2026-10-02T05:01:02.724Z] Telegram skipped: Sports package ready for 2026-10-02: 19 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-02
+Deploy: ok
+Git staged: ok
+[2026-10-02T05:01:02.777Z] IG publish: skipped (code 2)
+[2026-10-02T05:01:02.777Z] Daily publish complete for 2026-10-02
+[Fri Oct  2 01:01:02 EDT 2026] Done!
+[Sat Oct  3 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-10-03T05:00:04.274Z] Daily publish started for 2026-10-03
+[2026-10-03T05:00:04.447Z] Git add generated package succeeded
+[2026-10-03T05:00:04.563Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-03/slides.json |  create mode 100644 generated-posts/2026-10-03/telegram.json |  create mode 100644 generated-posts/2026-10-03/website.json
+[2026-10-03T05:00:06.226Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-10-03T05:00:06.226Z] Telegram skipped: Sports package ready for 2026-10-03: 83 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-03
+Deploy: failed
+Git staged: ok
+[2026-10-03T05:00:06.271Z] IG publish: skipped (code 2)
+[2026-10-03T05:00:06.272Z] Daily publish complete for 2026-10-03
+[Sat Oct  3 01:00:06 EDT 2026] Done!
+[Sun Oct  4 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-10-04T05:00:04.518Z] Daily publish started for 2026-10-04
+[2026-10-04T05:00:04.611Z] Git add generated package succeeded
+[2026-10-04T05:00:04.689Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-04/slides.json |  create mode 100644 generated-posts/2026-10-04/telegram.json |  create mode 100644 generated-posts/2026-10-04/website.json
+[2026-10-04T05:00:06.313Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-10-04T05:00:06.313Z] Telegram skipped: Sports package ready for 2026-10-04: 35 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-04
+Deploy: failed
+Git staged: ok
+[2026-10-04T05:00:06.355Z] IG publish: skipped (code 2)
+[2026-10-04T05:00:06.355Z] Daily publish complete for 2026-10-04
+[Sun Oct  4 01:00:06 EDT 2026] Done!
+[Mon Oct  5 01:00:03 EDT 2026] Starting daily pre-generated publish...
+[2026-10-05T05:00:03.994Z] Daily publish started for 2026-10-05
+[2026-10-05T05:00:04.059Z] Git add generated package succeeded
+[2026-10-05T05:00:04.146Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-05/slides.json |  create mode 100644 generated-posts/2026-10-05/telegram.json |  create mode 100644 generated-posts/2026-10-05/website.json
+[2026-10-05T05:01:41.762Z] Vercel deploy succeeded: https://any-and-all-sports-f6iu33frl-brucect20-6059s-projects.vercel.app
+[2026-10-05T05:01:41.764Z] Telegram skipped: Sports package ready for 2026-10-05: 13 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-05
+Deploy: ok
+Git staged: ok
+[2026-10-05T05:01:41.815Z] IG publish: skipped (code 2)
+[2026-10-05T05:01:41.815Z] Daily publish complete for 2026-10-05
+[Mon Oct  5 01:01:41 EDT 2026] Done!
+[Tue Oct  6 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-10-06T05:00:02.510Z] Daily publish started for 2026-10-06
+[2026-10-06T05:00:02.588Z] Git add generated package succeeded
+[2026-10-06T05:00:02.633Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-06/slides.json |  create mode 100644 generated-posts/2026-10-06/telegram.json |  create mode 100644 generated-posts/2026-10-06/website.json
+[2026-10-06T05:00:04.543Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-10-06T05:00:04.544Z] Telegram skipped: Sports package ready for 2026-10-06: 18 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-06
+Deploy: failed
+Git staged: ok
+[2026-10-06T05:00:04.595Z] IG publish: skipped (code 2)
+[2026-10-06T05:00:04.596Z] Daily publish complete for 2026-10-06
+[Tue Oct  6 01:00:04 EDT 2026] Done!
+[Wed Oct  7 01:00:03 EDT 2026] Starting daily pre-generated publish...
+[2026-10-07T05:00:03.557Z] Daily publish started for 2026-10-07
+[2026-10-07T05:00:03.640Z] Git add generated package succeeded
+[2026-10-07T05:00:03.762Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-07/slides.json |  create mode 100644 generated-posts/2026-10-07/telegram.json |  create mode 100644 generated-posts/2026-10-07/website.json
+[2026-10-07T05:00:50.576Z] Vercel deploy succeeded: https://any-and-all-sports-ma7e5sbtu-brucect20-6059s-projects.vercel.app
+[2026-10-07T05:00:50.577Z] Telegram skipped: Sports package ready for 2026-10-07: 17 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-07
+Deploy: ok
+Git staged: ok
+[2026-10-07T05:00:50.634Z] IG publish: skipped (code 2)
+[2026-10-07T05:00:50.634Z] Daily publish complete for 2026-10-07
+[Wed Oct  7 01:00:50 EDT 2026] Done!
+[Thu Oct  8 01:00:04 EDT 2026] Starting daily pre-generated publish...
+[2026-10-08T05:00:04.412Z] Daily publish started for 2026-10-08
+[2026-10-08T05:00:04.506Z] Git add generated package succeeded
+[2026-10-08T05:00:04.651Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-08/slides.json |  create mode 100644 generated-posts/2026-10-08/telegram.json |  create mode 100644 generated-posts/2026-10-08/website.json
+[2026-10-08T05:00:59.515Z] Vercel deploy succeeded: https://any-and-all-sports-1oajiahva-brucect20-6059s-projects.vercel.app
+[2026-10-08T05:00:59.517Z] Telegram skipped: Sports package ready for 2026-10-08: 26 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-08
+Deploy: ok
+Git staged: ok
+[2026-10-08T05:00:59.568Z] IG publish: skipped (code 2)
+[2026-10-08T05:00:59.569Z] Daily publish complete for 2026-10-08
+[Thu Oct  8 01:00:59 EDT 2026] Done!
+[Fri Oct  9 01:00:05 EDT 2026] Starting daily pre-generated publish...
+[2026-10-09T05:00:05.225Z] Daily publish started for 2026-10-09
+[2026-10-09T05:00:05.309Z] Git add generated package succeeded
+[2026-10-09T05:00:05.433Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-09/slides.json |  create mode 100644 generated-posts/2026-10-09/telegram.json |  create mode 100644 generated-posts/2026-10-09/website.json
+[2026-10-09T05:00:07.046Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-10-09T05:00:07.049Z] Telegram skipped: Sports package ready for 2026-10-09: 29 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-09
+Deploy: failed
+Git staged: ok
+[2026-10-09T05:00:07.094Z] IG publish: skipped (code 2)
+[2026-10-09T05:00:07.094Z] Daily publish complete for 2026-10-09
+[Fri Oct  9 01:00:07 EDT 2026] Done!
+[Sat Oct 10 01:00:05 EDT 2026] Starting daily pre-generated publish...
+[2026-10-10T05:00:06.029Z] Daily publish started for 2026-10-10
+[2026-10-10T05:00:06.168Z] Git add generated package succeeded
+[2026-10-10T05:00:06.207Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-10/slides.json |  create mode 100644 generated-posts/2026-10-10/telegram.json |  create mode 100644 generated-posts/2026-10-10/website.json
+[2026-10-10T05:00:08.093Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-10-10T05:00:08.093Z] Telegram skipped: Sports package ready for 2026-10-10: 139 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-10
+Deploy: failed
+Git staged: ok
+[2026-10-10T05:00:08.135Z] IG publish: skipped (code 2)
+[2026-10-10T05:00:08.135Z] Daily publish complete for 2026-10-10
+[Sat Oct 10 01:00:08 EDT 2026] Done!
+[Sun Oct 11 01:00:01 EDT 2026] Starting daily pre-generated publish...
+[2026-10-11T05:00:01.556Z] Daily publish started for 2026-10-11
+[2026-10-11T05:00:01.651Z] Git add generated package succeeded
+[2026-10-11T05:00:01.747Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-11/slides.json |  create mode 100644 generated-posts/2026-10-11/telegram.json |  create mode 100644 generated-posts/2026-10-11/website.json
+[2026-10-11T05:00:03.347Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-10-11T05:00:03.347Z] Telegram skipped: Sports package ready for 2026-10-11: 60 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-11
+Deploy: failed
+Git staged: ok
+[2026-10-11T05:00:03.390Z] IG publish: skipped (code 2)
+[2026-10-11T05:00:03.390Z] Daily publish complete for 2026-10-11
+[Sun Oct 11 01:00:03 EDT 2026] Done!
+[Mon Oct 12 01:00:01 EDT 2026] Starting daily pre-generated publish...
+[2026-10-12T05:00:01.989Z] Daily publish started for 2026-10-12
+[2026-10-12T05:00:02.050Z] Git add generated package succeeded
+[2026-10-12T05:00:02.096Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-12/slides.json |  create mode 100644 generated-posts/2026-10-12/telegram.json |  create mode 100644 generated-posts/2026-10-12/website.json
+[2026-10-12T05:00:03.736Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-10-12T05:00:03.736Z] Telegram skipped: Sports package ready for 2026-10-12: 16 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-12
+Deploy: failed
+Git staged: ok
+[2026-10-12T05:00:03.778Z] IG publish: skipped (code 2)
+[2026-10-12T05:00:03.778Z] Daily publish complete for 2026-10-12
+[Mon Oct 12 01:00:03 EDT 2026] Done!
+[Tue Oct 13 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-10-13T05:00:02.633Z] Daily publish started for 2026-10-13
+[2026-10-13T05:00:02.728Z] Git add generated package succeeded
+[2026-10-13T05:00:02.772Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-13/slides.json |  create mode 100644 generated-posts/2026-10-13/telegram.json |  create mode 100644 generated-posts/2026-10-13/website.json
+[2026-10-13T05:00:04.475Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-10-13T05:00:04.476Z] Telegram skipped: Sports package ready for 2026-10-13: 42 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-13
+Deploy: failed
+Git staged: ok
+[2026-10-13T05:00:04.517Z] IG publish: skipped (code 2)
+[2026-10-13T05:00:04.517Z] Daily publish complete for 2026-10-13
+[Tue Oct 13 01:00:04 EDT 2026] Done!
+[Wed Oct 14 01:00:02 EDT 2026] Starting daily pre-generated publish...
+[2026-10-14T05:00:02.908Z] Daily publish started for 2026-10-14
+[2026-10-14T05:00:02.981Z] Git add generated package succeeded
+[2026-10-14T05:00:03.026Z] Git commit generated package succeeded:  create mode 100644 generated-posts/2026-10-14/slides.json |  create mode 100644 generated-posts/2026-10-14/telegram.json |  create mode 100644 generated-posts/2026-10-14/website.json
+[2026-10-14T05:00:04.509Z] Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
+[2026-10-14T05:00:04.509Z] Telegram skipped: Sports package ready for 2026-10-14: 42 events. Open /Users/brucetaylor/Projects/any-and-all-sports/generated-posts/2026-10-14
+Deploy: failed
+Git staged: ok
+[2026-10-14T05:00:04.555Z] IG publish: skipped (code 2)
+[2026-10-14T05:00:04.555Z] Daily publish complete for 2026-10-14
+[Wed Oct 14 01:00:04 EDT 2026] Done!

@@ -120,7 +120,7 @@ export default function LiveNowSection({ games, date, highlightedGameId }: LiveN
               {/* Share button */}
               <button
                 onClick={() => handleShare(game)}
-                className="absolute top-3 right-3 p-1.5 rounded-md text-zinc-500 hover:text-zinc-200 hover:bg-zinc-800/50 transition-all"
+                className="absolute top-2.5 right-3 p-2.5 rounded-md text-zinc-500 hover:text-zinc-200 hover:bg-zinc-800/50 transition-all"
                 title="Share this game"
                 aria-label="Share this game"
               >

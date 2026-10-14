@@ -1,0 +1,6 @@
+Vercel deploy failed: Command failed: vercel --prod --yes
+Vercel CLI 59.11.2 (Node.js 22.22.0)
+Deploying any-and-all-sports
+Error: Not authorized
+Contact Support: https://vercel.link/help
+
