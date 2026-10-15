@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { SportsEventsSchema, BreadcrumbSchema } from '@/components/StructuredData';
 import SEOContentBlock from '@/components/SEOContentBlock';
 import UpcomingHorseRaces from '@/components/UpcomingHorseRaces';
+import PartiesStrip from '@/components/parties/PartiesStrip';
 import horseRacingEvents from '@/data/horse-racing-events.json';
 
 export const metadata: Metadata = {
@@ -90,6 +91,10 @@ export default function HomePage() {
 
         {/* Schedule */}
         <PersonalizedSchedule schedule={schedule} />
+
+        {/* Parties strip */}
+        <PartiesStrip />
+
         <UpcomingHorseRaces events={horseRacingEvents} today={today} />
       </div>
 

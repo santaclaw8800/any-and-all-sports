@@ -37,6 +37,12 @@ export default function Header() {
               My Sports
             </Link>
             <Link
+              href="/parties"
+              className="px-3 py-1.5 rounded-lg text-sm font-semibold text-orange-400 hover:text-orange-300 hover:bg-orange-950/50 transition-all"
+            >
+              Parties
+            </Link>
+            <Link
               href="/archive"
               className="px-3 py-1.5 rounded-lg text-sm font-semibold text-zinc-400 hover:text-white hover:bg-zinc-800 transition-all"
             >

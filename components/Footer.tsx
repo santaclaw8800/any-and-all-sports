@@ -55,6 +55,16 @@ export default function Footer() {
                   About Us
                 </Link>
               </li>
+              <li>
+                <Link href="/parties" className="text-zinc-400 hover:text-white transition-colors" title="Find viewing parties">
+                  Viewing Parties
+                </Link>
+              </li>
+              <li>
+                <Link href="/sponsor" className="text-orange-400 hover:text-orange-300 transition-colors" title="Sponsorship opportunities">
+                  For Sponsors
+                </Link>
+              </li>
             </ul>
           </div>
 
