@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-18",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "50 events across Golf, International Basketball, Soccer, NFL, NHL, MLB."
+    },
+    {
+      "title": "Game 1",
+      "body": "LPGA at Buick LPGA Shanghai 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "DP World Tour at DP World India Championship 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "Champions Tour at SAS Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 4",
+      "body": "New Zealand Breakers at Tasmania JackJumpers 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 5",
+      "body": "Illawarra Hawks at Melbourne United 2:00 AM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png"
+  ],
+  "generatedAt": "2026-10-12T03:30:21.681Z"
+}

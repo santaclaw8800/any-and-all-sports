@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-15",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "59 events across Golf, International Basketball, Soccer, MLB, NHL, NBA, College Football, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "LPGA at Buick LPGA Shanghai 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "DP World Tour at DP World India Championship 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 3",
+      "body": "South East Melbourne Phoenix at Brisbane Bullets 4:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Hapoel Be'er at AZ Alkmaar 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Bayer Leverkusen at Lech Poznan 12:45 PM ET on Paramount+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png",
+    "slide-10.png",
+    "slide-11.png",
+    "slide-12.png"
+  ],
+  "generatedAt": "2026-10-12T03:30:17.864Z"
+}

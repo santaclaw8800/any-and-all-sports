@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-21",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "15 events across International Basketball, MLB, NHL, WNBA, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "South East Melbourne Phoenix at Tasmania JackJumpers 5:30 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Toronto Blue Jays at Baltimore Orioles 6:35 PM ET on ESPN Unlmtd / MLB.TV"
+    },
+    {
+      "title": "Game 3",
+      "body": "Washington Nationals at Detroit Tigers 6:40 PM ET on MLB.TV / Tigers.TV"
+    },
+    {
+      "title": "Game 4",
+      "body": "Philadelphia Flyers at Washington Capitals 7:00 PM ET on ESPN+ / MNMT"
+    },
+    {
+      "title": "Game 5",
+      "body": "Detroit Red Wings at Columbus Blue Jackets 7:00 PM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png"
+  ],
+  "generatedAt": "2026-09-21T03:30:12.034Z"
+}

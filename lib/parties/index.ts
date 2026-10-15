@@ -8,7 +8,10 @@ let storeInstance: PartyStore | null = null;
 export function getPartyStore(): PartyStore {
   if (storeInstance) return storeInstance;
 
-  if (process.env.SUPABASE_URL && (process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.SUPABASE_ANON_KEY)) {
+  if (process.env.GITHUB_DATA_TOKEN && process.env.GITHUB_DATA_REPO) {
+    const { GitHubStore } = require('./github-store');
+    storeInstance = new GitHubStore();
+  } else if (process.env.SUPABASE_URL && (process.env.SUPABASE_SERVICE_ROLE_KEY || process.env.SUPABASE_ANON_KEY)) {
     const { SupabaseStore } = require('./supabase-store');
     storeInstance = new SupabaseStore();
   } else {
