@@ -2,28 +2,24 @@
   "date": "2026-10-16",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "33 events across Golf, International Basketball, Soccer, MLB, NBA, College Football, NHL."
+      "title": "Today’s Schedule",
+      "body": "32 games across golf, soccer, NBA, and college football. Start early and finish with a heavy night slate."
     },
     {
-      "title": "Game 1",
-      "body": "LPGA at Buick LPGA Shanghai 12:00 AM ET on Golf Chnl"
+      "title": "Golf Early",
+      "body": "LPGA Buick LPGA Shanghai, DP World India Championship, and SAS Championship all tee off at 12:00 AM ET on Golf Chnl."
     },
     {
-      "title": "Game 2",
-      "body": "DP World Tour at DP World India Championship 12:00 AM ET on Check listings"
+      "title": "Soccer Midday",
+      "body": "Bundesliga, Serie A, Ligue 1, La Liga, and more hit the afternoon. Watch on Peacock, CBSSN, ESPN+, beIN, and Paramount+."
     },
     {
-      "title": "Game 3",
-      "body": "Champions Tour at SAS Championship 12:00 AM ET on Golf Chnl"
+      "title": "NBA at 7 PM ET",
+      "body": "Heat-Magic, Celtics-76ers on NBA TV, Raptors-Pistons, and Bucks-Pacers lead the early NBA window."
     },
     {
-      "title": "Game 4",
-      "body": "Adelaide 36ers at Tasmania JackJumpers 4:30 AM ET on Check listings"
-    },
-    {
-      "title": "Game 5",
-      "body": "Excelsior at Heerenveen 2:00 PM ET on Check listings"
+      "title": "Late Night Finish",
+      "body": "Hawks-Mavs, Kings-Spurs, and Hornets-Grizzlies close the night. Follow @any_and_all_sports for daily watch guides."
     }
   ],
   "pngFiles": [
@@ -35,5 +31,5 @@
     "slide-6.png",
     "slide-7.png"
   ],
-  "generatedAt": "2026-10-12T03:30:18.696Z"
+  "generatedAt": "2026-10-16T10:00:13.502Z"
 }
