@@ -180,14 +180,15 @@ async function main() {
     return;
   }
 
+  // Always sync assets to the app's data repo, even when Instagram creds are missing.
+  syncAssets(date, packageDir);
+
   const userId = process.env.IG_USER_ID;
   if (!userId || !process.env.IG_ACCESS_TOKEN) {
     console.error('Missing IG_USER_ID or IG_ACCESS_TOKEN; Instagram publish skipped.');
     process.exitCode = 2;
     return;
   }
-
-  syncAssets(date, packageDir);
 
   const creationIds = [];
   for (const imageUrl of urls) {
