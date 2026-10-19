@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-19",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "12 events across Soccer, NHL, WNBA, MLB, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "Cagliari at Monza 12:30 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 2",
+      "body": "Torino at Parma 2:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Coventry City at Tottenham Hotspur 3:00 PM ET on USA Net / Universo"
+    },
+    {
+      "title": "Game 4",
+      "body": "Rayo Vallecano at Getafe 3:00 PM ET on ESPN Deportes / ESPN+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Gil Vicente at Braga 3:15 PM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png"
+  ],
+  "generatedAt": "2026-10-19T03:33:18.482Z"
+}

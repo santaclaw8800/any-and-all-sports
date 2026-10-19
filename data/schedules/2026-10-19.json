@@ -2,68 +2,17 @@
   "date": "2026-10-19",
   "games": [
     {
-      "id": "lpga-401835172",
-      "sport": "Golf",
-      "homeTeam": {
-        "name": "Buick LPGA Shanghai"
-      },
-      "awayTeam": {
-        "name": "LPGA"
-      },
-      "startTime": "2026-10-15T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [
-        "Golf Chnl"
-      ],
-      "status": "upcoming",
-      "isNational": true,
-      "tournament": "LPGA"
-    },
-    {
-      "id": "dpwt-401822706",
-      "sport": "Golf",
-      "homeTeam": {
-        "name": "DP World India Championship"
-      },
-      "awayTeam": {
-        "name": "DP World Tour"
-      },
-      "startTime": "2026-10-15T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [],
-      "status": "upcoming",
-      "tournament": "DP World Tour"
-    },
-    {
-      "id": "champs-401832053",
-      "sport": "Golf",
-      "homeTeam": {
-        "name": "SAS Championship"
-      },
-      "awayTeam": {
-        "name": "Champions Tour"
-      },
-      "startTime": "2026-10-16T04:00Z",
-      "timeET": "12:00 AM ET",
-      "channels": [
-        "Golf Chnl"
-      ],
-      "status": "upcoming",
-      "isNational": true,
-      "tournament": "Champions Tour"
-    },
-    {
       "id": "seriea-401874762",
       "sport": "Soccer",
       "homeTeam": {
         "name": "Monza",
         "abbreviation": "MON",
-        "record": "1-1-3"
+        "record": "1-1-4"
       },
       "awayTeam": {
         "name": "Cagliari",
         "abbreviation": "CAG",
-        "record": "4-0-1"
+        "record": "4-1-1"
       },
       "startTime": "2026-10-19T16:30Z",
       "timeET": "12:30 PM ET",
@@ -86,7 +35,7 @@
       "awayTeam": {
         "name": "Torino",
         "abbreviation": "TOR",
-        "record": "1-1-3"
+        "record": "2-1-3"
       },
       "startTime": "2026-10-19T18:45Z",
       "timeET": "2:45 PM ET",
@@ -109,13 +58,17 @@
       "awayTeam": {
         "name": "Coventry City",
         "abbreviation": "COV",
-        "record": "1-0-4"
+        "record": "2-0-4"
       },
       "startTime": "2026-10-19T19:00Z",
       "timeET": "3:00 PM ET",
-      "channels": [],
+      "channels": [
+        "USA Net",
+        "Universo"
+      ],
       "status": "upcoming",
       "venue": "Tottenham Hotspur Stadium, London",
+      "isNational": true,
       "tournament": "Premier League"
     },
     {
@@ -163,40 +116,17 @@
       "tournament": "Primeira Liga"
     },
     {
-      "id": "mlb-401908028",
-      "sport": "MLB",
-      "homeTeam": {
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB",
-        "record": "98-64"
-      },
-      "awayTeam": {
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE",
-        "record": "85-77"
-      },
-      "startTime": "2026-10-19T21:00Z",
-      "timeET": "5:00 PM ET",
-      "channels": [
-        "TBS",
-        "truTV"
-      ],
-      "status": "upcoming",
-      "venue": "Tropicana Field, St. Petersburg, Florida",
-      "isNational": true
-    },
-    {
       "id": "nhl-401892535",
       "sport": "NHL",
       "homeTeam": {
         "name": "New York Rangers",
         "abbreviation": "NYR",
-        "record": "4-2-0"
+        "record": "6-3-1"
       },
       "awayTeam": {
         "name": "Anaheim Ducks",
         "abbreviation": "ANA",
-        "record": "4-1-0"
+        "record": "4-3-0"
       },
       "startTime": "2026-10-19T23:00Z",
       "timeET": "7:00 PM ET",
@@ -216,12 +146,12 @@
       "homeTeam": {
         "name": "Philadelphia Flyers",
         "abbreviation": "PHI",
-        "record": "0-4-2"
+        "record": "1-6-3"
       },
       "awayTeam": {
         "name": "Colorado Avalanche",
         "abbreviation": "COL",
-        "record": "3-2-0"
+        "record": "5-2-1"
       },
       "startTime": "2026-10-19T23:00Z",
       "timeET": "7:00 PM ET",
@@ -240,12 +170,12 @@
       "homeTeam": {
         "name": "Toronto Maple Leafs",
         "abbreviation": "TOR",
-        "record": "3-2-1"
+        "record": "3-4-2"
       },
       "awayTeam": {
         "name": "San Jose Sharks",
         "abbreviation": "SJ",
-        "record": "3-2-0"
+        "record": "4-3-1"
       },
       "startTime": "2026-10-19T23:30Z",
       "timeET": "7:30 PM ET",
@@ -275,33 +205,35 @@
       "channels": [
         "USA Net",
         "CNBC",
-        "Peacock"
+        "Peacock",
+        "E!"
       ],
       "status": "upcoming",
       "venue": "Chase Center, San Francisco, CA",
       "isNational": true
     },
     {
-      "id": "mlb-401908036",
+      "id": "mlb-401908028",
       "sport": "MLB",
       "homeTeam": {
-        "name": "Milwaukee Brewers",
-        "abbreviation": "MIL",
-        "record": "103-59"
+        "name": "Tampa Bay Rays",
+        "abbreviation": "TB",
+        "record": "98-64"
       },
       "awayTeam": {
-        "name": "Los Angeles Dodgers",
-        "abbreviation": "LAD",
-        "record": "100-62"
+        "name": "Cleveland Guardians",
+        "abbreviation": "CLE",
+        "record": "85-77"
       },
       "startTime": "2026-10-20T00:00Z",
       "timeET": "8:00 PM ET",
       "channels": [
-        "Fox",
-        "FS1"
+        "TBS",
+        "truTV",
+        "ERADM"
       ],
       "status": "upcoming",
-      "venue": "American Family Field, Milwaukee, Wisconsin",
+      "venue": "Tropicana Field, St. Petersburg, Florida",
       "isNational": true
     },
     {
@@ -310,12 +242,12 @@
       "homeTeam": {
         "name": "San Francisco 49ers",
         "abbreviation": "SF",
-        "record": "4-0"
+        "record": "5-0"
       },
       "awayTeam": {
         "name": "Washington Commanders",
         "abbreviation": "WSH",
-        "record": "1-3"
+        "record": "1-3-1"
       },
       "startTime": "2026-10-20T00:15Z",
       "timeET": "8:15 PM ET",
@@ -333,12 +265,12 @@
       "homeTeam": {
         "name": "Utah Mammoth",
         "abbreviation": "UTA",
-        "record": "4-2-0"
+        "record": "6-3-0"
       },
       "awayTeam": {
         "name": "Pittsburgh Penguins",
         "abbreviation": "PIT",
-        "record": "3-2-1"
+        "record": "3-5-1"
       },
       "startTime": "2026-10-20T01:00Z",
       "timeET": "9:00 PM ET",
@@ -351,5 +283,5 @@
       "isNational": true
     }
   ],
-  "lastUpdated": "2026-10-11T10:00:10.923Z"
+  "lastUpdated": "2026-10-19T03:30:05.816Z"
 }
