@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-20",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "32 events across Soccer, NBA, College Football, NHL, MLB."
+    },
+    {
+      "title": "Game 1",
+      "body": "Slavia Prague at Fenerbahce 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 2",
+      "body": "Borussia Dortmund at Sabah FK 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 3",
+      "body": "Portsmouth at Wolverhampton Wanderers 2:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 4",
+      "body": "Boston Celtics at Detroit Pistons 3:00 PM ET on NBC"
+    },
+    {
+      "title": "Game 5",
+      "body": "Slovan Bratislava at AS Roma 3:00 PM ET on Paramount+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png"
+  ],
+  "generatedAt": "2026-10-19T03:36:18.995Z"
+}
