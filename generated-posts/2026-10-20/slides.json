@@ -2,28 +2,24 @@
   "date": "2026-10-20",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "32 events across Soccer, NBA, College Football, NHL, MLB."
+      "title": "Early Soccer Starts",
+      "body": "12:45 PM ET: Slavia Prague vs Fenerbahce and Dortmund vs Sabah FK on Paramount+."
     },
     {
-      "title": "Game 1",
-      "body": "Slavia Prague at Fenerbahce 12:45 PM ET on Paramount+"
+      "title": "Midday UCL Block",
+      "body": "3:00 PM ET: Roma, Porto, Liverpool, Man City, Napoli, PSG and more on Paramount+."
     },
     {
-      "title": "Game 2",
-      "body": "Borussia Dortmund at Sabah FK 12:45 PM ET on Paramount+"
+      "title": "NBA at 3 PM ET",
+      "body": "Celtics at Pistons on NBC. Followed by 76ers at Knicks at 7 PM ET on NBC/ERADM."
     },
     {
-      "title": "Game 3",
-      "body": "Portsmouth at Wolverhampton Wanderers 2:45 PM ET on Paramount+"
+      "title": "NHL Puck Drop 7 PM",
+      "body": "Sharks-Canadiens, Avs-Devils, Ducks-Islanders and Kings-Capitals all on ESPN+."
     },
     {
-      "title": "Game 4",
-      "body": "Boston Celtics at Detroit Pistons 3:00 PM ET on NBC"
-    },
-    {
-      "title": "Game 5",
-      "body": "Slovan Bratislava at AS Roma 3:00 PM ET on Paramount+"
+      "title": "College Football Late",
+      "body": "FIU vs Middle Tennessee on CBSSN. Missouri State vs Delaware on ESPNU."
     }
   ],
   "pngFiles": [
@@ -34,5 +30,5 @@
     "slide-5.png",
     "slide-6.png"
   ],
-  "generatedAt": "2026-10-19T03:36:18.995Z"
+  "generatedAt": "2026-10-20T10:03:13.926Z"
 }

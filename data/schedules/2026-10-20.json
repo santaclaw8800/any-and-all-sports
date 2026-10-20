@@ -332,7 +332,7 @@
       "awayTeam": {
         "name": "San Jose Sharks",
         "abbreviation": "SJ",
-        "record": "4-3-1"
+        "record": "4-4-1"
       },
       "startTime": "2026-10-20T23:00Z",
       "timeET": "7:00 PM ET",
@@ -355,7 +355,7 @@
       "awayTeam": {
         "name": "Colorado Avalanche",
         "abbreviation": "COL",
-        "record": "5-2-1"
+        "record": "5-3-1"
       },
       "startTime": "2026-10-20T23:00Z",
       "timeET": "7:00 PM ET",
@@ -381,7 +381,7 @@
       "awayTeam": {
         "name": "Anaheim Ducks",
         "abbreviation": "ANA",
-        "record": "4-3-0"
+        "record": "4-4-0"
       },
       "startTime": "2026-10-20T23:00Z",
       "timeET": "7:00 PM ET",
@@ -430,7 +430,7 @@
       "awayTeam": {
         "name": "Toronto Maple Leafs",
         "abbreviation": "TOR",
-        "record": "3-4-2"
+        "record": "4-4-2"
       },
       "startTime": "2026-10-20T23:00Z",
       "timeET": "7:00 PM ET",
@@ -462,29 +462,6 @@
       ],
       "status": "upcoming",
       "venue": "Joan C. Edwards Stadium, Huntington, WV",
-      "isNational": true
-    },
-    {
-      "id": "mlb-401908029",
-      "sport": "MLB",
-      "homeTeam": {
-        "name": "Tampa Bay Rays",
-        "abbreviation": "TB",
-        "record": "98-64"
-      },
-      "awayTeam": {
-        "name": "Cleveland Guardians",
-        "abbreviation": "CLE",
-        "record": "85-77"
-      },
-      "startTime": "2026-10-21T00:00Z",
-      "timeET": "8:00 PM ET",
-      "channels": [
-        "TBS",
-        "truTV"
-      ],
-      "status": "upcoming",
-      "venue": "Tropicana Field, St. Petersburg, Florida",
       "isNational": true
     },
     {
@@ -730,5 +707,5 @@
       "tournament": "Liga MX"
     }
   ],
-  "lastUpdated": "2026-10-19T03:30:06.471Z"
+  "lastUpdated": "2026-10-20T10:00:06.529Z"
 }

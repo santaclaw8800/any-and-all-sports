@@ -334,7 +334,7 @@
         "awayTeam": {
           "name": "San Jose Sharks",
           "abbreviation": "SJ",
-          "record": "4-3-1"
+          "record": "4-4-1"
         },
         "startTime": "2026-10-20T23:00Z",
         "timeET": "7:00 PM ET",
@@ -357,7 +357,7 @@
         "awayTeam": {
           "name": "Colorado Avalanche",
           "abbreviation": "COL",
-          "record": "5-2-1"
+          "record": "5-3-1"
         },
         "startTime": "2026-10-20T23:00Z",
         "timeET": "7:00 PM ET",
@@ -383,7 +383,7 @@
         "awayTeam": {
           "name": "Anaheim Ducks",
           "abbreviation": "ANA",
-          "record": "4-3-0"
+          "record": "4-4-0"
         },
         "startTime": "2026-10-20T23:00Z",
         "timeET": "7:00 PM ET",
@@ -432,7 +432,7 @@
         "awayTeam": {
           "name": "Toronto Maple Leafs",
           "abbreviation": "TOR",
-          "record": "3-4-2"
+          "record": "4-4-2"
         },
         "startTime": "2026-10-20T23:00Z",
         "timeET": "7:00 PM ET",
@@ -464,29 +464,6 @@
         ],
         "status": "upcoming",
         "venue": "Joan C. Edwards Stadium, Huntington, WV",
-        "isNational": true
-      },
-      {
-        "id": "mlb-401908029",
-        "sport": "MLB",
-        "homeTeam": {
-          "name": "Tampa Bay Rays",
-          "abbreviation": "TB",
-          "record": "98-64"
-        },
-        "awayTeam": {
-          "name": "Cleveland Guardians",
-          "abbreviation": "CLE",
-          "record": "85-77"
-        },
-        "startTime": "2026-10-21T00:00Z",
-        "timeET": "8:00 PM ET",
-        "channels": [
-          "TBS",
-          "truTV"
-        ],
-        "status": "upcoming",
-        "venue": "Tropicana Field, St. Petersburg, Florida",
         "isNational": true
       },
       {
@@ -732,60 +709,47 @@
         "tournament": "Liga MX"
       }
     ],
-    "lastUpdated": "2026-10-19T03:30:06.471Z"
+    "lastUpdated": "2026-10-20T10:00:06.529Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Tuesday, October 20, 2026\n\n⚽ Soccer  ·  🏀 NBA  ·  🏈 College Football  ·  🏒 NHL  ·  ⚾ MLB\n\n32 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#NBA #NBATonight #NBABasketball #NBAonESPN #NBAonTNT\n#CollegeFootball #NCAAF #CFB #CFBPlayoff\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n#MLB #MLBTonight #Baseball #MLBonFOX #MLBonESPN\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Big Tuesday slate: UEFA Champions League, NBA, NHL and college football all day. Catch every matchup on Paramount+, NBC, ESPN+, CBSSN, ESPNU and more. Follow @any_and_all_sports for the full daily watch guide.",
     "hashtags": [
-      "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
-      "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
-      "#Soccer",
-      "#Football",
-      "#PremierLeague",
-      "#LaLiga",
-      "#SerieA",
-      "#Bundesliga",
-      "#MLS",
+      "#NBA",
+      "#NHL",
+      "#CollegeFootball",
       "#UCL",
       "#ChampionsLeague",
-      "#NBA",
-      "#NBATonight",
-      "#NBABasketball",
-      "#NBAonESPN"
+      "#PremierLeague",
+      "#Soccer",
+      "#Basketball",
+      "#Hockey",
+      "#ParamountPlus",
+      "#NBC",
+      "#ESPNPlus",
+      "#CBSSN",
+      "#ESPNU",
+      "#SportsSchedule"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "32 events across Soccer, NBA, College Football, NHL, MLB."
+        "title": "Early Soccer Starts",
+        "body": "12:45 PM ET: Slavia Prague vs Fenerbahce and Dortmund vs Sabah FK on Paramount+."
       },
       {
-        "title": "Game 1",
-        "body": "Slavia Prague at Fenerbahce 12:45 PM ET on Paramount+"
+        "title": "Midday UCL Block",
+        "body": "3:00 PM ET: Roma, Porto, Liverpool, Man City, Napoli, PSG and more on Paramount+."
       },
       {
-        "title": "Game 2",
-        "body": "Borussia Dortmund at Sabah FK 12:45 PM ET on Paramount+"
+        "title": "NBA at 3 PM ET",
+        "body": "Celtics at Pistons on NBC. Followed by 76ers at Knicks at 7 PM ET on NBC/ERADM."
       },
       {
-        "title": "Game 3",
-        "body": "Portsmouth at Wolverhampton Wanderers 2:45 PM ET on Paramount+"
+        "title": "NHL Puck Drop 7 PM",
+        "body": "Sharks-Canadiens, Avs-Devils, Ducks-Islanders and Kings-Capitals all on ESPN+."
       },
       {
-        "title": "Game 4",
-        "body": "Boston Celtics at Detroit Pistons 3:00 PM ET on NBC"
-      },
-      {
-        "title": "Game 5",
-        "body": "Slovan Bratislava at AS Roma 3:00 PM ET on Paramount+"
+        "title": "College Football Late",
+        "body": "FIU vs Middle Tennessee on CBSSN. Missouri State vs Delaware on ESPNU."
       }
     ],
     "pngFiles": [
@@ -797,5 +761,5 @@
       "slide-6.png"
     ]
   },
-  "lastUpdated": "2026-10-19T03:36:18.995Z"
+  "lastUpdated": "2026-10-20T10:03:13.926Z"
 }
